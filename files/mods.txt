@@ -1,4 +1,17 @@
 #id-string:enabled-bool:file-string:display-string:description-string:caution-bool:warning-string:hidden-bool:dispersed-bool:dependency-string:config-bool
+#
+#id-string: -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
+#enabled-bool:  -   - If mod is enabled by default, true/false
+#file-string:   -   - File name
+#display-string:    - What it shows in the program for the mod
+#description-string:  Short description of the mod
+#caution-bool:  -   - true if something could cause issues when installing the mod
+#warning-string:    - the warning message that appears when you enable caution
+#hidden-bool:   -   - does not show in the program if true
+#dispersed-bool:    - uses libraries
+#dependency-string: - library
+#config-bool:   -   - keep this false please, backend
+#  
 optifine:true:preview_OptiFine_1.8.9_HD_U_L6_pre1.jar:Optifine L6:Essential for every game:false:None:false:false:None:false
 patcher:true:Patcher-1.4.1 (1.8.9).jar:Patcher:Provides a massive FPS boost:false:None:false:false:None:false
 sba:true:SkyblockAddons-1.5.4-for-MC-1.8.9.jar:SkyblockAddons:Essential for Skyblock:false:None:false:false:None:false
