@@ -13,7 +13,7 @@
 #config-bool:   -   - keep this false please, backend
 #  
 optifine:true:preview_OptiFine_1.8.9_HD_U_L6_pre1.jar:Optifine L6:Essential for every game:false:None:false:false:None:false
-patcher:true:Patcher-1.4.1 (1.8.9).jar:Patcher:Provides a massive FPS boost:false:None:false:false:None:false
+patcher:true:Patcher-1.4.1 (1.8.9).jar:Patcher:Provides a massive FPS boost, and has some other nice features:false:None:false:false:None:false
 sba:true:SkyblockAddons-1.5.4-for-MC-1.8.9.jar:SkyblockAddons:Essential for Skyblock:false:None:false:false:None:false
 neu:true:NotEnoughUpdates-1.6.3-ALPHA.jar:Not Enough Updates:Provides a full list of every Skyblock item and much more:false:None:false:false:None:false
 scrollabletooltips:true:Scrollable Tooltips-1.3 (1.8.9).jar:Scrollable Tooltips:Lets you scroll on tooltips that are larger than your screen:false:None:false:false:None:false
@@ -27,6 +27,6 @@ oldanim:false:Sk1er_Old_Animations-1.0_-_beta_5.jar:Old Animations:Better than O
 potionhud:false:[1.8.9] Powns PotionEffect HUD - 1.0.jar:Powns Potion hud:A mod that shows your active potion effects without you having to open your inventory:false:None:false:false:None:false
 autogg:false:AutoGG-4.0.3 (1.8.9).jar:AutoGG:Says "gg" for you after each game so you can gain free Karma:false:None:false:false:None:false
 discordrp:false:DiscordRP-1.2.4.jar:Discord Rich Pressence:Minecraft to Discord Rich Pressence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP:false:None:false:false:None:false
-sbcustommobtex:false:SBCustomMobTex-1.4.jar:SBCustomMobTex:Allows Texturepacks to View the NBT data of Mobs:true:This Mod will cause serious performance issues inside of dungeons:false:false:None:false
+sbcustommobtex:false:SBCustomMobTex-1.4.jar:SBCustomMobTex:Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them:true:This Mod will cause serious performance issues inside of dungeons:false:false:None:false
 playerapi:false:PlayerAPI-1.12.1-1.0.jar:PlayerAPI:A mod that makes other mods work, you probably need this:false:None:true:false:None:false
-itlt:true:itlt-1.8.9-0.0.9.jar:It's the little things:Useful for pack creators:false:None:true:false:None:true
+itlt:true:itlt-1.8.9-0.0.9.jar:It's the little things:Useful for modpack creators:false:None:true:false:None:true
