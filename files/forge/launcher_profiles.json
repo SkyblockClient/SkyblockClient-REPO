@@ -1,0 +1,43 @@
+{
+	"profiles": {
+		"3fa8285878d5a3dd5a7d844832bd3208": {
+			"created": "1970-01-02T00:00:00.000Z",
+			"icon": "Grass",
+			"lastUsed": "1970-01-02T00:00:00.000Z",
+			"lastVersionId": "latest-release",
+			"name": "",
+			"type": "latest-release"
+		},
+		"42cfa4f7f3a9ee1b69ba1c026dc979a1": {
+			"created": "1970-01-01T00:00:00.000Z",
+			"icon": "Crafting_Table",
+			"lastUsed": "1970-01-01T00:00:00.000Z",
+			"lastVersionId": "latest-snapshot",
+			"name": "",
+			"type": "latest-snapshot"
+		},
+		"forge": {
+			"name": "forge",
+			"lastVersionId": "1.8.9-forge1.8.9-11.15.1.2318-1.8.9"
+		}
+	},
+	"settings": {
+		"crashAssistance": true,
+		"enableAdvanced": false,
+		"enableAnalytics": true,
+		"enableHistorical": false,
+		"enableReleases": true,
+		"enableSnapshots": false,
+		"keepLauncherOpen": false,
+		"profileSorting": "ByLastPlayed",
+		"showGameLog": false,
+		"showMenu": false,
+		"soundOn": false
+	},
+	"launcherVersion": {
+		"format": 21,
+		"name": "",
+		"profilesFormat": 2
+	},
+	"clientToken": ""
+}
