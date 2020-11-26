@@ -4,7 +4,7 @@
 
         "menu":
         {
-            "image" : "mainmenu:bg_menu.png",
+            "image" : "mainmenu:cmmbg_menu.png",
             "posX" : 25,
             "posY" : -80,
             "width" : 150,
@@ -14,7 +14,7 @@
 
         "logo":
         {
-           "image" : "mainmenu:skyclient.png",
+           "image" : "mainmenu:cmmskyclient.png",
             "posX" : 77,
             "posY" : 15,
             "width" : 40,
@@ -38,9 +38,9 @@
     "buttons":
     {
        
-        "play":
+        "singleplayer":
         {
-            "text" : "Play",
+            "text" : "Singleplayer",
             "posX" : 50,
             "posY" : 65,
             "width" : 100,
@@ -49,31 +49,44 @@
             "action" : 
             {
                 "type" : "openGui",
-                "gui" : "custom.play"
+                "gui" : "singleplayer"
             }
         },
 
-
-
-        "settings":
+        "servers":
         {
-            "text" : "Settings",
+            "text" : "Server List",
             "posX" : 50,
-            "posY" : -100,
+            "posY" : 90,
             "width" : 100,
             "height" : 20,
-            "alignment": "bottom_left",
+            "alignment": "top_left",
             "action" : 
             {
                 "type" : "openGui",
-                "gui" : "options"
+                "gui" : "multiplayer"
             }
         },
 
 
-        "quit":
+        "hypixel":
         {
-            "text" : "Quit Game",
+            "text" : "Join Hypixel",
+            "posX" : 50,
+            "posY" : 115,
+            "width" : 100,
+            "height" : 20,
+            "alignment": "top_left",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "mc.hypixel.net"
+            }
+        },
+
+        "back":
+        {
+            "text" : "Go Back",
             "posX" : 50,
             "posY" : -75,
             "width" : 100,
@@ -81,26 +94,13 @@
             "alignment": "bottom_left",
             "action" : 
             {
-                "type" : "quit"
-            }
-        },
-
-
-
-        "changelog":
-        {
-            "text" : "Changelog",
-            "posX" : 50,
-            "posY" : -125,
-            "width": 100,
-            "height": 20,
-            "alignment" : "bottom_left",
-            "action" : 
-            {
-                "type" : "openLink",
-                "link" : "https://github.com/nacrt/SkyblockClient-REPO/blob/main/info.txt"
+                "type" : "openGui",
+                "gui" : "custom.mainmenu"
             }
         }
+
+
+
         
     },
     
@@ -119,7 +119,7 @@
         {
             "text" : "#username#",
             "posX" : 77,
-            "posY" : -30,
+            "posY" : -25,
             "color" : -1,
             "alignment" : "bottom_left"
         },
@@ -149,7 +149,7 @@
 			"image": "",
 			"slideshow": {
 				"images": [
-					"mainmenu:background.png"
+					"mainmenu:cmmbackground.png"
 					
 				],
 				"displayDuration": 50,

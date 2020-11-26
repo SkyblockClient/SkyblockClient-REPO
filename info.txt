@@ -1,1 +1,6 @@
-Test!
+SkyClient v0.8 Changelog
+- Added Custom Main Menu
+- Added Resource Loader
+
+Other News
+- Got permission to include some mods in the public release
