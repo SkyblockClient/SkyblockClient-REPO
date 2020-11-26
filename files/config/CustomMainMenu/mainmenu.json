@@ -14,7 +14,7 @@
 
         "logo":
         {
-           "image" : "mainmenu:skyclient3.png",
+           "image" : "mainmenu:skyclient.png",
             "posX" : 77,
             "posY" : 15,
             "width" : 40,
@@ -98,7 +98,7 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "http://localhost/info.txt"
+                "link" : "https://github.com/nacrt/SkyblockClient-REPO/blob/main/info.txt"
             }
         }
         
