@@ -30,5 +30,5 @@ discordrp:false:DiscordRP-1.2.4.jar:Discord Rich Pressence:Minecraft to Discord 
 sbcustommobtex:false:SBCustomMobTex-1.4.jar:SBCustomMobTex:Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them:true:This Mod will cause serious performance issues inside of dungeons:false:false:None:false
 playerapi:false:PlayerAPI-1.12.1-1.0.jar:PlayerAPI:A mod that makes other mods work, you probably need this:false:None:true:false:None:false
 itlt:true:itlt-1.8.9-0.0.9.jar:It's the little things:Useful for modpack creators:false:None:true:false:None:true
-resourceloader:true:ResourceLoader-MC1.8.8-1.4.jar:Resource Loader:Loads Resources for Custom Main Menu:false:None:true:false:None:false
+resourceloader:false:ResourceLoader-MC1.8.8-1.4.jar:Resource Loader:Loads Resources for Custom Main Menu:false:None:true:false:None:false
 cmm:true:CustomMainMenu-MC1.8.9-2.0.jar:Custom Main Menu:Adds a custom main menu to SkyClient:false:None:true:true:resourceloader:true
