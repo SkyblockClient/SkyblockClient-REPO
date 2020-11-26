@@ -1,0 +1,161 @@
+{
+    "images":
+    {
+
+        "menu":
+        {
+            "image" : "mainmenu:bg_menu.png",
+            "posX" : 25,
+            "posY" : -80,
+            "width" : 150,
+            "height" : 1500,
+            "alignment" : "top_left"
+        },
+
+        "logo":
+        {
+           "image" : "mainmenu:skyclient3.png",
+            "posX" : 77,
+            "posY" : 15,
+            "width" : 40,
+            "height" : 40,
+            "imageWidth" : 40,
+            "imageHeight" : 40,
+            "alignment" : "top_left"
+        },
+
+        "profile": 
+        {
+            "image" : "web:https://minotar.net/armor/bust/#username#/100.png",
+            "posX" : 48,
+            "posY" : -40,
+            "width" : 25,
+            "height" : 25,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "buttons":
+    {
+       
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+            "posX" : 50,
+            "posY" : 65,
+            "width" : 100,
+            "height" : 20,
+            "alignment": "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "servers":
+        {
+            "text" : "Server List",
+            "posX" : 50,
+            "posY" : 90,
+            "width" : 100,
+            "height" : 20,
+            "alignment": "top_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+
+        "hypixel":
+        {
+            "text" : "Join Hypixel",
+            "posX" : 50,
+            "posY" : 115,
+            "width" : 100,
+            "height" : 20,
+            "alignment": "top_left",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "mc.hypixel.net"
+            }
+        },
+
+        "back":
+        {
+            "text" : "Go Back",
+            "posX" : 50,
+            "posY" : -75,
+            "width" : 100,
+            "height" : 20,
+            "alignment": "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.mainmenu"
+            }
+        }
+
+
+
+        
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -198,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+        "profile": 
+        {
+            "text" : "#username#",
+            "posX" : 77,
+            "posY" : -25,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "changelogtext":
+        {
+            "text" : "SkyClient vZORDTEST Released!",
+            "posX" : 250,
+            "posY" : -100,
+            "fontSize": 1.5,
+            "color" : -1,
+            "alignment" : "left_center"
+        },
+
+        "changelog": { 
+            "text": "Click \"Changelog\" to learn more!",
+            "posX": 250,
+            "posY": -75,
+            "color": -1,
+            "alignment": "left_center" 
+        }
+
+    },
+    
+    "other": {
+        "background": {
+			"image": "",
+			"slideshow": {
+				"images": [
+					"mainmenu:background.png"
+					
+				],
+				"displayDuration": 50,
+				"fadeDuration": 100,
+				"mode":"fill"
+			}
+		}
+    }
+}
