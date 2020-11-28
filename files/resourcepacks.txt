@@ -2,5 +2,6 @@
 vtay:false:false:[Full] v6.6 vTays Skyblock Smoothie.zip:vTay's Skyblock Smoothie 16x:vTays mix of different skyblock packs\nIn vTays' terms "A refreshing taste of skyblock texture packs"
 hq32f:false:true:v12 F 16x Skyblock Pack.zip:Packs HQ v12 Full 16x:Packs HQ Skyblock Pack 16x. Standalone
 hq32f:false:false:v12 F 32x Skyblock Pack.zip:Packs HQ v12 Full 32x:Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful
-faitful:false:false:Faithful 1.14 in 1.8.zip:Faithful 32x:Faithful 1.14 port by 8KCoffeeWizard
+faithfuldark:false:false:Faithful_1.14_in_1.8[v3] - Dark Mode.zip:Faithful 32x [Dark Mode]:Faithful 1.14 port by 8KCoffeeWizard - Dark mode version
+faithful:false:false:Faithful_1.14_in_1.8[v3].zip:Faithful 32x:Faithful 1.14 port by 8KCoffeeWizard
 dungeontexturepack:false:false:DUNGEONS_TEXTURE_PACK_V1.2:Dungeons Texturepack:Dungeons Texturepack by gratenes and Havenz
