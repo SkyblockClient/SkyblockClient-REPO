@@ -1,5 +1,15 @@
 #id-string;hidden-bool;enabled-bool;file-string;dislay-string;description-string
+#
+#id-string: -   -   -   - Identification for resource pack, backend, just use Pack's name with only letters in lowercase
+#hidden-bool:   -   -   - Does not show in the program if true
+#enabled-bool:  -   -   - If Pack is enabled by default, true/false
+#file-string:   -   -   - File name
+#dislay-string: -   -   - What it shows in the program for the Pack
+#description-string:    - Short description of the Pack
+#
+mobpacket;false;true;Mob Packet 1.8.9.zip;Mob Packet;The Resource Pack that (almost) adds textures to the custom skyblock mobs!\byByMira_23 and Viska
 dungeontexturepack;false;false;DUNGEONS_TEXTURE_PACK_V1.2.zip;Dungeons Texturepack;Dungeons Texturepack by gratenes and Havenz
+skymobs;false;false;SkyMobs.zip;SkyMobs;Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry
 vtay;false;false;[Full] v6.8 vTays Skyblock Smoothie.zip;vTay's Skyblock Smoothie 16x;vTays mix of different skyblock packs\nIn vTays' terms "A refreshing taste of skyblock texture packs"
 hq32f;false;true;v12 F 16x Skyblock Pack.zip;Packs HQ v12 Full 16x;Packs HQ Skyblock Pack 16x. Standalone
 hq32f;false;false;v12 F 32x Skyblock Pack.zip;Packs HQ v12 Full 32x;Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful
