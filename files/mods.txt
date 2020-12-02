@@ -1,4 +1,4 @@
-#id-string;enabled-bool;file-string;display-string;description-string;caution-bool;warning-string;hidden-bool;dispersed-bool;dependency-string;autoconfig-bool
+#id-string;enabled-bool;file-string;display-string;description-string;caution-bool;warning-string;hidden-bool;dispersed-bool;dependency-string;autoconfig-bool;remote-bool;remote-string
 #
 #id-string: -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
 #enabled-bool:  -   - If mod is enabled by default, true/false
@@ -11,7 +11,7 @@
 #dispersed-bool:    - uses libraries
 #dependency-string: - library
 #autoconfig-bool:   - keep this false please, backend
-#remote-bool: -   - uses an external download link
+#remote-bool:   -   - uses an external download link
 #url-string:    -   - the external download link
 #
 optifine;true;preview_OptiFine_1.8.9_HD_U_L6_pre1.jar;Optifine L6;Essential for every game;false;None;false;false;None;false;true;https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=7ff0aed0ebcc0a041e7a9d2fd4b4fab1
