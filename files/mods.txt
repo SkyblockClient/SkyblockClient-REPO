@@ -10,7 +10,7 @@
 #hidden-bool:   -   - does not show in the program if true
 #dispersed-bool:    - uses libraries
 #dependency-string: - library
-#autoconfig-bool:   -   - keep this false please, backend
+#autoconfig-bool:   - keep this false please, backend
 #remote-bool: -   - uses an external download link
 #url-string:    -   - the external download link
 #
