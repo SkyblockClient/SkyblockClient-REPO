@@ -1,4 +1,4 @@
-#id-string;enabled-bool;file-string;display-string;description-string;caution-bool;warning-string;hidden-bool;dispersed-bool;dependency-string;config-bool
+#id-string;enabled-bool;file-string;display-string;description-string;caution-bool;warning-string;hidden-bool;dispersed-bool;dependency-string;autoconfig-bool
 #
 #id-string: -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
 #enabled-bool:  -   - If mod is enabled by default, true/false
@@ -10,7 +10,7 @@
 #hidden-bool:   -   - does not show in the program if true
 #dispersed-bool:    - uses libraries
 #dependency-string: - library
-#config-bool:   -   - keep this false please, backend
+#autoconfig-bool:   -   - keep this false please, backend
 #remote-bool: -   - uses an external download link
 #url-string:    -   - the external download link
 #
