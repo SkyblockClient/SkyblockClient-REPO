@@ -1,6 +1,13 @@
-SkyClient v0.8 Changelog
-- Added Custom Main Menu
-- Added Resource Loader
+SkyClient v0.8.3 Changelog
+- Added a custom mobs pack, don't use it in singleplayer it'll probably break lol
+
+SkyClient v0.8.2 and v0.8.1
+- Nacrt, update this changelog aaaaaaaaa
+- v0.8.1 changed internal stuff
+- v0.8.2 added a detailed log to the forge installation in case anything goes wrong
+
+SkyClient v0.8 Actual Changelog
+- Added a forge installer, by default installs to a seperate game directory
 
 Other News
-- Got permission to include some mods in the public release
+- Only missing permission for a few mods in the public release.
