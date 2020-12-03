@@ -7,7 +7,7 @@
 #dislay-string: -   -   - What it shows in the program for the Pack
 #description-string:    - Short description of the Pack
 #
-mobpacket;false;true;Mob Packet 1.8.9.zip;Mob Packet;The Resource Pack that (almost) adds textures to the custom skyblock mobs!\byByMira_23 and Viska
+mobpacket;false;true;Mob Packet 1.8.9.zip;Mob Packet;The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska
 dungeontexturepack;false;false;DUNGEONS_TEXTURE_PACK_V1.2.zip;Dungeons Texturepack;Dungeons Texturepack by gratenes and Havenz
 skymobs;false;false;SkyMobs.zip;SkyMobs;Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry
 vtay;false;false;[Full] v6.8 vTays Skyblock Smoothie.zip;vTay's Skyblock Smoothie 16x;vTays mix of different skyblock packs\nIn vTays' terms "A refreshing taste of skyblock texture packs"
