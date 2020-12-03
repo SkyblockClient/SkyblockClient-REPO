@@ -23,7 +23,7 @@ sidebarmod;true;1.8.9_Sidebar_Mod_Revamp.jar;Sidebar Mod;Lets you fully customis
 rpo;true;ResourcePackOrganizer_MC-1.8.9_v1.0.3.jar;Resource Pack Organizer;Revamps your resource pack GUI, making it a lot better;false;None;false;false;None;false;false;None
 hytilities;true;Hytilities-1.0_-_beta_4.jar;Hytilities;A bunch of useful features for Hypixel;false;None;false;false;None;true;false;None
 cowlection;false;Cowlection-1.8.9-0.11.0.jar;Cowlection;A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use;false;None;false;false;None;false;false;None
-dankers;false;1.8.9.Danker.s.Skyblock.Mod.-.1.8.3.jar;Danker's Skyblock mod;Provides dungeon utilities like puzzle solvers and such;false;None;false;None;false;false;false
+dankers;false;1.8.9.Danker.s.Skyblock.Mod.-.1.8.3.jar;Danker's Skyblock mod;Provides dungeon utilities like puzzle solvers and such;false;None;false;false;None;false;false;None
 togglesneak;false;[1.8.9] Powns ToggleSneak - 3.0.jar;Pown's Toggle Sneak;Lets you sprint without having to press Control;false;None;false;true;playerapi;false;false;None
 oldanim;false;Sk1er_Old_Animations-1.0_-_beta_5.jar;Old Animations;Better than Oranges!;false;None;false;false;None;false;false;None
 potionhud;false;[1.8.9] Powns PotionEffect HUD - 1.0.jar;Powns Potion hud;A mod that shows your active potion effects without you having to open your inventory;false;None;false;false;None;false;false;None
