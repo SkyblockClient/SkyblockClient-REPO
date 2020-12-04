@@ -1,3 +1,6 @@
+SkyClient v0.8.5 Changelog
+- The gui looks better now (thanks jani270)
+
 SkyClient v0.8.4 Changelog
 - I finally got around to adding a scrollbar for the mods list, although the gui looks worse now
 
