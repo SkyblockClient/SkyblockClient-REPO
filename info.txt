@@ -1,3 +1,6 @@
+SkyClient v0.8.4 Changelog
+- I finally got around to adding a scrollbar for the mods list, although the gui looks worse now
+
 SkyClient v0.8.3 Changelog
 - Added a custom mobs pack, don't use it in singleplayer it'll probably break lol
 
