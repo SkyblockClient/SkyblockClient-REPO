@@ -14,7 +14,7 @@
 #remote-bool:   -   - uses an external download link
 #url-string:    -   - the external download link
 #
-optifine;true;preview_OptiFine_1.8.9_HD_U_L6_pre1.jar;Optifine L6;Essential for every game;false;None;false;false;None;false;true;https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=1c752a5825ff136cff71a755f7eae30c
+optifine;true;preview_OptiFine_1.8.9_HD_U_L6_pre1.jar;Optifine L6;Essential for every game;false;None;false;false;None;false;true;https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=e116a305db777ad2754446b9847a3e7d
 patcher;true;Patcher-1.4.1 (1.8.9).jar;Patcher;Provides a massive FPS boost, and has some other nice features;false;None;false;false;None;false;false;None
 sba;true;SkyblockAddons-1.5.4-for-MC-1.8.9.jar;SkyblockAddons;Essential for Skyblock;false;None;false;false;None;false;false;None
 neu;true;NotEnoughUpdates-1.7.2-REL.jar;Not Enough Updates;Provides a full list of every Skyblock item and much more;false;None;false;false;None;false;false;None
