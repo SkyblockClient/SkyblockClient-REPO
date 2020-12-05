@@ -1,3 +1,6 @@
+SkyClient v0.8.7 Changelog
+- Added guides. You can now see and enjoy them when Zordlan makes them
+
 SkyClient v0.8.5 Changelog
 - The gui looks better now (thanks jani270)
 
