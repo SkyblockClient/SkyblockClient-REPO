@@ -1,0 +1,20 @@
+/* please note that this is an example and will not be used in production. it is merely used to showcase how the final file might look like */
+/* this also might not be final */
+{
+    "mods" : [
+        {
+            "id": "optifine",
+            "file" : "preview_OptiFine_1.8.9_HD_U_L6_pre1.jar"
+        },
+        {
+            "id" : "sba",
+            "file" : "SkyblockAddons-1.5.4-for-MC-1.8.9.jar"
+        }
+    ],
+    "packs": [
+        {
+            "id": "defaultpackport",
+            "file" : "Faithful_1.14_in_1.8+[v3].zip"
+        }
+    ]
+}
