@@ -23,7 +23,7 @@ scrollabletooltips;true;Scrollable Tooltips-1.3 (1.8.9).jar;Scrollable Tooltips;
 sidebarmod;true;1.8.9_Sidebar_Mod_Revamp.jar;Sidebar Mod;Lets you fully customise your sidebar, including removing those red numbers;false;None;true;false;None;true;false;None;false
 hytilities;true;Hytilities-1.0_-_beta_4.jar;Hytilities;A bunch of useful features for Hypixel;false;None;false;false;None;true;false;None;false
 cowlection;false;Cowlection-1.8.9-0.11.0.jar;Cowlection;A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use;false;None;false;false;None;false;false;None;false
-dankers;false;Dankers 1.8.3 - beta 2020-12-06.jar;Danker's Skyblock mod;Provides dungeon utilities like puzzle solvers and such;false;None;false;false;None;false;false;None;false
+dankers;false;Dankers 1.8.3 - beta 2020-12-07.jar;Danker's Skyblock mod;Provides dungeon utilities like puzzle solvers and such;false;None;false;false;None;false;false;None;false
 togglesneak;false;[1.8.9] Powns ToggleSneak - 3.0.jar;Pown's Toggle Sneak;Lets you sprint without having to press Control;false;None;false;true;playerapi;false;false;None;false
 oldanim;false;Sk1er_Old_Animations-1.0_-_beta_5.jar;Old Animations;Better than Oranges!;false;None;false;false;None;false;false;None;false
 potionhud;false;[1.8.9] Powns PotionEffect HUD - 1.0.jar;Powns Potion hud;A mod that shows your active potion effects without you having to open your inventory;false;None;false;false;None;false;false;None;false
