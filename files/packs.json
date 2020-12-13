@@ -1,0 +1,71 @@
+/*
+required arguments:
+id-string: -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
+file-string:   -   - File name
+display-string:    - What it shows in the program for the mod
+description-string:  Short description of the mod
+
+optional arguments:
+enabled-bool:  -   - If mod is enabled by default, default false
+hidden-bool:   -   - does not show in the program if true, default false
+guide-bool:    -   - the mod has a guide, default false
+*/
+[
+  {
+    "id": "mobpacket",
+    "enabled": true,
+    "file": "Mob Packet 1.8.9.zip",
+    "display": "Mob Packet",
+    "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska"
+  },
+  {
+    "id": "dungeontexturepack",
+    "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
+    "display": "Dungeons Texturepack",
+    "description": "Dungeons Texturepack by gratenes and Havenz"
+  },
+  {
+    "id": "skymobs",
+    "file": "SkyMobs.zip",
+    "display": "SkyMobs",
+    "description": "Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry"
+  },
+  {
+    "id": "vtay",
+    "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
+    "display": "vTay's Skyblock Smoothie 16x",
+    "description": "vTays mix of different skyblock packs\nIn vTays' terms \"A refreshing taste of skyblock texture packs\""
+  },
+  {
+    "id": "hq32f",
+    "enabled": true,
+    "file": "v12 F 16x Skyblock Pack.zip",
+    "display": "Packs HQ v12 Full 16x",
+    "description": "Packs HQ Skyblock Pack 16x. Standalone"
+  },
+  {
+    "id": "hq32f",
+    "file": "v12 F 32x Skyblock Pack.zip",
+    "display": "Packs HQ v12 Full 32x",
+    "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful"
+  },
+  {
+    "id": "faithfuldark",
+    "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
+    "display": "Faithful 32x [Dark Mode]",
+    "description": "Faithful 1.14 port by 8KCoffeeWizard - Dark mode version"
+  },
+  {
+    "id": "defaultpackport",
+    "enabled": true,
+    "file": "Faithful_1.14_in_1.8+[v3].zip",
+    "display": "1.14 Default 16x",
+    "description": "Default 1.14 port\nby Qwuiblington"
+  },
+  {
+    "id": "faithful",
+    "file": "1.14 Packport.zip",
+    "display": "1.14 Faithful 32x",
+    "description": "Faithful 1.14 port\nby 8KCoffeeWizard"
+  }
+]

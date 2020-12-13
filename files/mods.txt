@@ -15,24 +15,24 @@
 #url-string:    -   - the external download link
 #guide-bool:    -   - the mod has a guide
 #
-optifine;true;preview_OptiFine_1.8.9_HD_U_L6_pre1.jar;Optifine L6;Essential for every game;false;None;false;false;None;false;false;https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=2f56f3f1f8e2cfab22c5db06b4967cc1;false
-patcher;true;Patcher-1.4.1 (1.8.9).jar;Patcher;Provides a massive FPS boost, and has some other nice features;false;None;false;false;None;false;false;None;false
-sba;true;SkyblockAddons-1.5.4-for-MC-1.8.9.jar;SkyblockAddons;Essential for Skyblock;false;None;false;false;None;false;false;None;false
-neu;true;NotEnoughUpdates-1.7.2-REL.jar;Not Enough Updates;Provides a full list of every Skyblock item and much more;false;None;false;false;None;true;false;None;false
-scrollabletooltips;true;Scrollable Tooltips-1.3 (1.8.9).jar;Scrollable Tooltips;Lets you scroll on tooltips that are larger than your screen;false;None;true;false;None;false;false;None;false
-sidebarmod;true;1.8.9_Sidebar_Mod_Revamp.jar;Sidebar Mod;Lets you fully customise your sidebar, including removing those red numbers;false;None;true;false;None;true;false;None;false
-hytilities;true;Hytilities-1.0_-_beta_4.jar;Hytilities;A bunch of useful features for Hypixel;false;None;false;false;None;true;false;None;false
-cowlection;false;Cowlection-1.8.9-0.11.0.jar;Cowlection;A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use;false;None;false;false;None;false;false;None;false
-dankers;false;1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar;Danker's Skyblock mod;Provides dungeon utilities like puzzle solvers and such;false;None;false;false;None;false;false;None;false
-togglesneak;false;[1.8.9] Powns ToggleSneak - 3.0.jar;Pown's Toggle Sneak;Lets you sprint without having to press Control;false;None;false;true;playerapi;false;false;None;false
-oldanim;false;Sk1er_Old_Animations-1.0_-_beta_5.jar;Old Animations;Better than Oranges!;false;None;false;false;None;false;false;None;false
-potionhud;false;[1.8.9] Powns PotionEffect HUD - 1.0.jar;Powns Potion hud;A mod that shows your active potion effects without you having to open your inventory;false;None;false;false;None;false;false;None;false
-autogg;false;AutoGG-4.0.3 (1.8.9).jar;AutoGG;Says "gg" for you after each game so you can gain free Karma;false;None;false;false;None;false;false;None;false
-discordrp;false;DiscordRP-1.2.4.jar;Discord Rich Pressence;Minecraft to Discord Rich Pressence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP;true;A similar feature already exists in SkyblockAddons\nIf you don't intent to play anything but Skyblock, don't enable this mod;false;false;None;false;false;None;false
-ctjs;false;ctjs-1.3.0-1.8.9.jar;Chat Triggers;Requirement for DungeonUtilies and SoopyAddons;false;None;false;false;None;false;false;None;false
-sbcustommobtex;false;SBCustomMobTex-1.4.jar;SBCustomMobTex;Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them;true;This Mod REQUIRES the SkyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.;false;false;None;false;false;None;false
-playerapi;false;PlayerAPI-1.12.1-1.0.jar;PlayerAPI;A mod that makes other mods work, you probably need this;false;None;true;false;None;false;false;None;false
-itlt;true;itlt-1.8.9-0.0.9.jar;It's the little things;Useful for modpack creators;false;None;true;false;None;true;false;None;false
-resourceloader;false;ResourceLoader-MC1.8.8-1.4.jar;Resource Loader;Loads Resources for Custom Main Menu;false;None;true;false;None;false;false;None;false
-cmm;true;CustomMainMenu-MC1.8.9-2.0.jar;Custom Main Menu;Adds a custom main menu to SkyClient;false;None;true;false;None;true;false;None;false
-rpm;true;Resource_Pack_Manager_1.2.jar;Resource Pack Manager;Revamps your texurepack GUI, making it a lot better. Allows organising packs in folders;false;None;true;false;None;false;false;None;false
+optifine;true;preview_OptiFine_1.8.9_HD_U_L6_pre1.jar;Optifine L6;Essential for every game;false;;false;false;;false;false;https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=2f56f3f1f8e2cfab22c5db06b4967cc1;false
+patcher;true;Patcher-1.4.1 (1.8.9).jar;Patcher;Provides a massive FPS boost, and has some other nice features;false;;false;false;;false;false;;false
+sba;true;SkyblockAddons-1.5.4-for-MC-1.8.9.jar;SkyblockAddons;Essential for Skyblock;false;;false;false;;false;false;;false
+neu;true;NotEnoughUpdates-1.7.2-REL.jar;Not Enough Updates;Provides a full list of every Skyblock item and much more;false;;false;false;;true;false;;false
+scrollabletooltips;true;Scrollable Tooltips-1.3 (1.8.9).jar;Scrollable Tooltips;Lets you scroll on tooltips that are larger than your screen;false;;true;false;;false;false;;false
+sidebarmod;true;1.8.9_Sidebar_Mod_Revamp.jar;Sidebar Mod;Lets you fully customise your sidebar, including removing those red numbers;false;;true;false;;true;false;;false
+hytilities;true;Hytilities-1.0_-_beta_4.jar;Hytilities;A bunch of useful features for Hypixel;false;;false;false;;true;false;;false
+cowlection;false;Cowlection-1.8.9-0.11.0.jar;Cowlection;A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use;false;;false;false;;false;false;;false
+dankers;false;1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar;Danker's Skyblock mod;Provides dungeon utilities like puzzle solvers and such;false;;false;false;;false;false;;false
+togglesneak;false;[1.8.9] Powns ToggleSneak - 3.0.jar;Pown's Toggle Sneak;Lets you sprint without having to press Control;false;;false;true;playerapi;false;false;;false
+oldanim;false;Sk1er_Old_Animations-1.0_-_beta_5.jar;Old Animations;Better than Oranges!;false;;false;false;;false;false;;false
+potionhud;false;[1.8.9] Powns PotionEffect HUD - 1.0.jar;Powns Potion hud;A mod that shows your active potion effects without you having to open your inventory;false;;false;false;;false;false;;false
+autogg;false;AutoGG-4.0.3 (1.8.9).jar;AutoGG;Says "gg" for you after each game so you can gain free Karma;false;;false;false;;false;false;;false
+discordrp;false;DiscordRP-1.2.4.jar;Discord Rich Pressence;Minecraft to Discord Rich Pressence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP;true;A similar feature already exists in SkyblockAddons\nIf you don't intent to play anything but Skyblock, don't enable this mod;false;false;;false;false;;false
+ctjs;false;ctjs-1.3.0-1.8.9.jar;Chat Triggers;Requirement for DungeonUtilies and SoopyAddons;false;;false;false;;false;false;;false
+sbcustommobtex;false;SBCustomMobTex-1.4.jar;SBCustomMobTex;Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them;true;This Mod REQUIRES the SkyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.;false;false;;false;false;;false
+playerapi;false;PlayerAPI-1.12.1-1.0.jar;PlayerAPI;A mod that makes other mods work, you probably need this;false;;true;false;;false;false;;false
+itlt;true;itlt-1.8.9-0.0.9.jar;It's the little things;Useful for modpack creators;false;;true;false;;true;false;;false
+resourceloader;false;ResourceLoader-MC1.8.8-1.4.jar;Resource Loader;Loads Resources for Custom Main Menu;false;;true;false;;false;false;;false
+cmm;true;CustomMainMenu-MC1.8.9-2.0.jar;Custom Main Menu;Adds a custom main menu to SkyClient;false;;true;false;;true;false;;false
+rpm;true;Resource_Pack_Manager_1.2.jar;Resource Pack Manager;Revamps your texurepack GUI, making it a lot better. Allows organising packs in folders;false;;true;false;;false;false;;false

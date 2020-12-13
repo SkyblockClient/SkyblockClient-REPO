@@ -1,0 +1,170 @@
+/*
+required arguments:
+id-string: -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
+file-string:   -   - File name
+display-string:    - What it shows in the program for the mod
+description-string:  Short description of the mod
+
+optional arguments:
+enabled-bool:  -   - If mod is enabled by default, default false
+warning-string:    - a warning message that will appear if you toggle the mod to be enabled
+hidden-bool:   -   - does not show in the program if true, default false
+dependency-string: - library
+autoconfig-bool:   - will automatically configurate itself uppon install, requires backend, default false
+url-string:    -   - external download link - must be a full link
+guide-bool:    -   - the mod has a guide, default false
+*/
+[
+  {
+    "id": "optifine",
+    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=2f56f3f1f8e2cfab22c5db06b4967cc1",
+    "enabled": true,
+    "file": "preview_OptiFine_1.8.9_HD_U_L6_pre1.jar",
+    "display": "Optifine L6",
+    "description": "Essential for every game"
+  },
+  {
+    "id": "patcher",
+    "enabled": true,
+    "file": "Patcher-1.4.1 (1.8.9).jar",
+    "display": "Patcher",
+    "description": "Provides a massive FPS boost, and has some other nice features"
+  },
+  {
+    "id": "sba",
+    "enabled": true,
+    "file": "SkyblockAddons-1.5.4-for-MC-1.8.9.jar",
+    "display": "SkyblockAddons",
+    "description": "Essential for Skyblock"
+  },
+  {
+    "id": "neu",
+    "config": true,
+    "enabled": true,
+    "file": "NotEnoughUpdates-1.7.2-REL.jar",
+    "display": "Not Enough Updates",
+    "description": "Provides a full list of every Skyblock item and much more"
+  },
+  {
+    "id": "scrollabletooltips",
+    "enabled": true,
+    "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
+    "display": "Scrollable Tooltips",
+    "description": "Lets you scroll on tooltips that are larger than your screen",
+    "hidden": true
+  },
+  {
+    "id": "sidebarmod",
+    "config": true,
+    "enabled": true,
+    "file": "1.8.9_Sidebar_Mod_Revamp.jar",
+    "display": "Sidebar Mod",
+    "description": "Lets you fully customise your sidebar, including removing those red numbers",
+    "hidden": true
+  },
+  {
+    "id": "hytilities",
+    "config": true,
+    "enabled": true,
+    "file": "Hytilities-1.0_-_beta_4.jar",
+    "display": "Hytilities",
+    "description": "A bunch of useful features for Hypixel"
+  },
+  {
+    "id": "cowlection",
+    "file": "Cowlection-1.8.9-0.11.0.jar",
+    "display": "Cowlection",
+    "description": "A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use"
+  },
+  {
+    "id": "dankers",
+    "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
+    "display": "Danker's Skyblock mod",
+    "description": "Provides dungeon utilities like puzzle solvers and such"
+  },
+  {
+    "id": "togglesneak",
+    "dependency": "playerapi",
+    "file": "[1.8.9] Powns ToggleSneak - 3.0.jar",
+    "display": "Pown's Toggle Sneak",
+    "description": "Lets you sprint without having to press Control"
+  },
+  {
+    "id": "oldanim",
+    "file": "Sk1er_Old_Animations-1.0_-_beta_5.jar",
+    "display": "Old Animations",
+    "description": "Better than Oranges!"
+  },
+  {
+    "id": "potionhud",
+    "file": "[1.8.9] Powns PotionEffect HUD - 1.0.jar",
+    "display": "Powns Potion hud",
+    "description": "A mod that shows your active potion effects without you having to open your inventory"
+  },
+  {
+    "id": "autogg",
+    "file": "AutoGG-4.0.3 (1.8.9).jar",
+    "display": "AutoGG",
+    "description": "Says \"gg\" for you after each game so you can gain free Karma"
+  },
+  {
+    "id": "discordrp",
+    "warning": "A similar feature already exists in SkyblockAddons\nIf you don't intent to play anything but Skyblock, don't enable this mod",
+    "file": "DiscordRP-1.2.4.jar",
+    "display": "Discord Rich Pressence",
+    "description": "Minecraft to Discord Rich Pressence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP"
+  },
+  {
+    "id": "ctjs",
+    "file": "ctjs-1.3.0-1.8.9.jar",
+    "display": "Chat Triggers",
+    "description": "Requirement for DungeonUtilies and SoopyAddons"
+  },
+  {
+    "id": "sbcustommobtex",
+    "warning": "This Mod REQUIRES the SkyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
+    "file": "SBCustomMobTex-1.4.jar",
+    "display": "SBCustomMobTex",
+    "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them"
+  },
+  {
+    "id": "playerapi",
+    "file": "PlayerAPI-1.12.1-1.0.jar",
+    "display": "PlayerAPI",
+    "description": "A mod that makes other mods work, you probably need this",
+    "hidden": true
+  },
+  {
+    "id": "itlt",
+    "config": true,
+    "enabled": true,
+    "file": "itlt-1.8.9-0.0.9.jar",
+    "display": "It's the little things",
+    "description": "Useful for modpack creators",
+    "hidden": true
+  },
+  {
+    "id": "resourceloader",
+    "file": "ResourceLoader-MC1.8.8-1.4.jar",
+    "display": "Resource Loader",
+    "description": "Loads Resources for Custom Main Menu",
+    "hidden": true
+  },
+  {
+    "id": "cmm",
+    "config": true,
+    "enabled": true,
+    "file": "CustomMainMenu-MC1.8.9-2.0.jar",
+    "display": "Custom Main Menu",
+    "description": "Adds a custom main menu to SkyClient",
+    "hidden": true
+  },
+  {
+    "id": "rpm",
+    "enabled": true,
+    "file": "Resource_Pack_Manager_1.2.jar",
+    "display": "Resource Pack Manager",
+    "description": "Revamps your texurepack GUI, making it a lot better. Allows organising packs in folders",
+    "hidden": true
+  }
+]
