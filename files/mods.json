@@ -17,7 +17,6 @@ guide-bool:    -   - the mod has a guide, default false
 [
   {
     "id": "optifine",
-    "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar&x=2f56f3f1f8e2cfab22c5db06b4967cc1",
     "enabled": true,
     "file": "preview_OptiFine_1.8.9_HD_U_L6_pre1.jar",
     "display": "Optifine L6",
