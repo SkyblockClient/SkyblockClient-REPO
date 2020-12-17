@@ -37,6 +37,13 @@ guide-bool:    -   - the mod has a guide, default false
     "description": "vTays mix of different skyblock packs\nIn vTays' terms \"A refreshing taste of skyblock texture packs\""
   },
   {
+    "id": "hqdark",
+    "enabled": true,
+    "file": "Dark_Skyblock_UI.zip",
+    "display": "PacksHQ dark UI addon",
+    "description": "Packs HQ Skyblock Pack dark UI"
+  },
+  {
     "id": "hq32f",
     "enabled": true,
     "file": "v13 F 16x Skyblock Pack.zip",
