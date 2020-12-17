@@ -44,15 +44,15 @@ guide-bool:    -   - the mod has a guide, default false
     "description": "Packs HQ Skyblock Pack dark UI"
   },
   {
-    "id": "hq32f",
+    "id": "hq16f",
     "enabled": true,
-    "file": "v13 F 16x Skyblock Pack.zip",
+    "file": "v13 16x Skyblock Pack.zip",
     "display": "Packs HQ v12 Full 16x",
     "description": "Packs HQ Skyblock Pack 16x. Standalone"
   },
   {
     "id": "hq32f",
-    "file": "v13 F 32x Skyblock Pack.zip",
+    "file": "v13 32x Skyblock Pack.zip",
     "display": "Packs HQ v12 Full 32x",
     "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful"
   },
