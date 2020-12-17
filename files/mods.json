@@ -27,7 +27,8 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "Patcher-1.4.1 (1.8.9).jar",
     "display": "Patcher",
-    "description": "Provides a massive FPS boost, and has some other nice features"
+    "description": "Provides a massive FPS boost, and has some other nice features",
+    "guide": true
   },
   {
     "id": "sba",
