@@ -119,7 +119,7 @@ guide-bool:    -   - the mod has a guide, default false
     "file": "ctjs-1.3.0-1.8.9.jar",
     "display": "Chat Triggers",
     "description": "Requirement for DungeonUtilies and SoopyAddons",
-    "warning" : "A better alternative to this mod would be Cowlection and Dankers.\nThis mod, doesn't ship with modules.\n The recommended is:\n/ct import DungeonUtilities\nYou can import the module by typing the command in-game. No restart required"
+    "warning" : "A better alternative to this mod would be Cowlection and Dankers.\nThis mod doesn't ship with modules.\n The recommended module is:\n\t/ct import DungeonUtilities\nYou can import the module by typing the command in-game. No restart required"
   },
   {
     "id": "sbcustommobtex",
