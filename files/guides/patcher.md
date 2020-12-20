@@ -1,3 +1,9 @@
+# Credits
+#### Source
+https://sk1er.club/mods/patcher
+#### Beta programm
+https://sk1er.club/beta
+
 # Patcher - How do i use it?
 
 The mod is very simple to use. The only command that you need is 
