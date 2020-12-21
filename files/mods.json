@@ -27,7 +27,7 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "Patcher-1.4.1 (1.8.9).jar",
     "display": "Patcher",
-    "description": "Provides a massive FPS boost, along with some nice quality of life features and bug fixes.",
+    "description": "Provides a massive FPS boost, along with some nice QOL features and bug fixes.",
     "guide": true
   },
   {
@@ -59,7 +59,7 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "1.8.9_Sidebar_Mod_Revamp.jar",
     "display": "Sidebar Mod",
-    "description": "Lets you fully customise your sidebar, including removing those red numbers",
+    "description": "The ability to customize the sidebar",
     "hidden": true
   },
   {
@@ -68,7 +68,7 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "Hytilities-1.0_-_beta_4.jar",
     "display": "Hytilities",
-    "description": "A bunch of useful features for Hypixel"
+    "description": "Provides a ton of QOL features specifically for Hypixel"
   },
   {
     "id": "cowlection",
@@ -86,20 +86,20 @@ guide-bool:    -   - the mod has a guide, default false
     "id": "togglesneak",
     "dependency": "playerapi",
     "file": "[1.8.9] Powns ToggleSneak - 3.0.jar",
-    "display": "Pown's Toggle Sneak",
-    "description": "Lets you sprint without having to press Control"
+    "display": "Powns' Toggle Sneak",
+    "description": "The ability to press one button to toggle sprinting/sneaking without holding sprint/sneaking button"
   },
   {
     "id": "oldanim",
     "file": "Sk1er_Old_Animations-1.0_-_beta_5.jar",
     "display": "Old Animations",
-    "description": "Better than Oranges!"
+    "description": "Sk1er's own old animations mod, brings back the old 1.7 animations to 1.8 from a client side perspective"
   },
   {
     "id": "potionhud",
     "file": "[1.8.9] Powns PotionEffect HUD - 1.0.jar",
     "display": "Powns Potion hud",
-    "description": "A mod that shows your active potion effects without you having to open your inventory"
+    "description": "Shows active potion status without having to open your inventory"
   },
   {
     "id": "autogg",
@@ -111,14 +111,14 @@ guide-bool:    -   - the mod has a guide, default false
     "id": "discordrp",
     "warning": "A similar feature already exists in SkyblockAddons\nIf you don't intent to play anything but Skyblock, don't enable this mod",
     "file": "DiscordRP-1.2.4.jar",
-    "display": "Discord Rich Pressence",
-    "description": "Minecraft to Discord Rich Pressence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP"
+    "display": "Discord Rich Presence",
+    "description": "Minecraft to Discord Rich Presence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP"
   },
   {
     "id": "ctjs",
     "file": "ctjs-1.3.0-1.8.9.jar",
     "display": "Chat Triggers",
-    "description": "Requirement for DungeonUtilies and SoopyAddons",
+    "description": "Requirement for DungeonUtilties and SoopyAddons",
     "warning" : "A better alternative to this mod would be Cowlection and Dankers.\nThis mod doesn't ship with modules.\n The recommended module is:\n\t/ct import DungeonUtilities\nYou can import the module by typing the command in-game. No restart required"
   },
   {
@@ -132,7 +132,7 @@ guide-bool:    -   - the mod has a guide, default false
     "id": "playerapi",
     "file": "PlayerAPI-1.12.1-1.0.jar",
     "display": "PlayerAPI",
-    "description": "A mod that makes other mods work, you probably need this",
+    "description": "A dependency for some pepega mods, you probably don't need this",
     "hidden": true
   },
   {
@@ -165,7 +165,7 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "Resource_Pack_Manager_1.2.jar",
     "display": "Resource Pack Manager",
-    "description": "Revamps your texurepack GUI, making it a lot better. Allows organising packs in folders",
+    "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the rp menu",
     "hidden": true
   }
 ]
