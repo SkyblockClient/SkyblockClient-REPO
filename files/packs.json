@@ -65,13 +65,13 @@ guide-bool:    -   - the mod has a guide, default false
   {
     "id": "defaultpackport",
     "enabled": true,
-    "file": "Faithful_1.14_in_1.8+[v3].zip",
+    "file": "1.14 Packport.zip",
     "display": "1.14 Default 16x",
     "description": "Default 1.14 port\nby Qwuiblington"
   },
   {
     "id": "faithful",
-    "file": "1.14 Packport.zip",
+    "file": "Faithful_1.14_in_1.8+[v3].zip",
     "display": "1.14 Faithful 32x",
     "description": "Faithful 1.14 port\nby 8KCoffeeWizard"
   }
