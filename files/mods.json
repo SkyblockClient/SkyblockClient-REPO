@@ -50,7 +50,7 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
     "display": "Scrollable Tooltips",
-    "description": "Lets you scroll on tooltips that are larger than your screen",
+    "description": "Provides the ability to scroll/move tooltips when its length passes your screen",
     "hidden": true
   },
   {
