@@ -6,9 +6,11 @@ display-string:    - What it shows in the program for the mod
 description-string:  Short description of the mod
 
 optional arguments:
+url-string:    -   - external download link - must be a full link
 enabled-bool:  -   - If mod is enabled by default, default false
 hidden-bool:   -   - does not show in the program if true, default false
 guide-bool:    -   - the mod has a guide, default false
+icon-bool: -   -   - has an icon, default false
 */
 [
   {
@@ -48,13 +50,17 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "v13 16x Skyblock Pack.zip",
     "display": "Packs HQ v13 16x",
-    "description": "Packs HQ Skyblock Pack 16x. Standalone"
+    "description": "Packs HQ Skyblock Pack 16x. Standalone",
+    "url": "https://packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip",
+    "icon": "packshq 512x.png"
   },
   {
     "id": "hq32f",
     "file": "v13 32x Skyblock Pack.zip",
     "display": "Packs HQ v13 32x",
-    "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful"
+    "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful",
+    "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
+    "icon": "packshq 512x.png"
   },
   {
     "id": "faithfuldark",

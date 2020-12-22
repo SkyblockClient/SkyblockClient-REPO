@@ -13,6 +13,7 @@ dependency-string: - library
 autoconfig-bool:   - will automatically configurate itself uppon install, requires backend, default false
 url-string:    -   - external download link - must be a full link
 guide-bool:    -   - the mod has a guide, default false
+icon-bool: -   -   - has an icon, default false
 */
 [
   {
@@ -20,7 +21,8 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "preview_OptiFine_1.8.9_HD_U_L6_pre1.jar",
     "display": "Optifine L6",
-    "description": "Essential for every game"
+    "description": "Essential for every game",
+    "icon": "optifine.png"
   },
   {
     "id": "patcher",
@@ -28,7 +30,8 @@ guide-bool:    -   - the mod has a guide, default false
     "file": "Patcher-1.4.1 (1.8.9).jar",
     "display": "Patcher",
     "description": "Provides a massive FPS boost, along with some nice QOL features and bug fixes.",
-    "guide": true
+    "guide": true,
+    "icon": "patcher.png"
   },
   {
     "id": "sba",
@@ -43,7 +46,8 @@ guide-bool:    -   - the mod has a guide, default false
     "enabled": true,
     "file": "NotEnoughUpdates-1.7.2-REL.jar",
     "display": "Not Enough Updates",
-    "description": "Provides a full list of every Skyblock item and much more"
+    "description": "Provides a full list of every Skyblock item and much more",
+    "icon": "neulogo.png"
   },
   {
     "id": "scrollabletooltips",
@@ -74,7 +78,8 @@ guide-bool:    -   - the mod has a guide, default false
     "id": "cowlection",
     "file": "Cowlection-1.8.9-0.11.0.jar",
     "display": "Cowlection",
-    "description": "A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use"
+    "description": "A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use",
+    "icon": "cowlection-logo.png"
   },
   {
     "id": "dankers",
@@ -119,7 +124,8 @@ guide-bool:    -   - the mod has a guide, default false
     "file": "ctjs-1.3.0-1.8.9.jar",
     "display": "Chat Triggers",
     "description": "Requirement for DungeonUtilties and SoopyAddons",
-    "warning" : "A better alternative to this mod would be Cowlection and Dankers.\nThis mod doesn't ship with modules.\n The recommended module is:\n\t/ct import DungeonUtilities\nYou can import the module by typing the command in-game. No restart required"
+    "warning" : "A better alternative to this mod would be Cowlection and Dankers.\nThis mod doesn't ship with modules.\n The recommended module is:\n\t/ct import DungeonUtilities\nYou can import the module by typing the command in-game. No restart required",
+    "icon": "chattriggers 48x.ico"
   },
   {
     "id": "sbcustommobtex",
