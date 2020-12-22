@@ -10,7 +10,7 @@ url-string:    -   - external download link - must be a full link
 enabled-bool:  -   - If mod is enabled by default, default false
 hidden-bool:   -   - does not show in the program if true, default false
 guide-bool:    -   - the mod has a guide, default false
-icon-bool: -   -   - has an icon, default false
+icon-string:   -   - icon name of the pack, transparent if empty
 */
 [
   {

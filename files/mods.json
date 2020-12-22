@@ -13,7 +13,7 @@ dependency-string: - library
 autoconfig-bool:   - will automatically configurate itself uppon install, requires backend, default false
 url-string:    -   - external download link - must be a full link
 guide-bool:    -   - the mod has a guide, default false
-icon-bool: -   -   - has an icon, default false
+icon-string:   -   - icon name of the mod, transparent if empty
 */
 [
   {
