@@ -18,32 +18,37 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "enabled": true,
     "file": "Mob Packet 1.8.9.zip",
     "display": "Mob Packet",
-    "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska"
+    "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska",
+    "icon": "mob packet.png"
   },
   {
     "id": "dungeontexturepack",
     "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
     "display": "Dungeons Texturepack",
-    "description": "Dungeons Texturepack by gratenes and Havenz"
+    "description": "Dungeons Texturepack by gratenes and Havenz",
+    "icon": "dungeon texturepack 1024x.png"
   },
   {
     "id": "skymobs",
     "file": "SkyMobs.zip",
     "display": "SkyMobs",
-    "description": "Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry"
+    "description": "Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry",
+    "icon": "skymobs.png"
   },
   {
     "id": "vtay",
     "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
     "display": "vTay's Skyblock Smoothie 16x",
-    "description": "vTays mix of different skyblock packs\nIn vTays' terms \"A refreshing taste of skyblock texture packs\""
+    "description": "vTays mix of different skyblock packs\nIn vTays' terms \"A refreshing taste of skyblock texture packs\"",
+    "icon": "vtays.png"
   },
   {
     "id": "hqdark",
     "enabled": true,
     "file": "Dark_Skyblock_UI.zip",
     "display": "PacksHQ dark UI addon",
-    "description": "Packs HQ Skyblock Pack dark UI"
+    "description": "Packs HQ Skyblock Pack dark UI",
+    "icon": "phq dark overlay.png"
   },
   {
     "id": "hq16f",
@@ -66,19 +71,22 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "id": "faithfuldark",
     "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
     "display": "Faithful 32x [Dark Mode]",
-    "description": "Faithful 1.14 port by 8KCoffeeWizard - Dark mode version"
+    "description": "Faithful 1.14 port by 8KCoffeeWizard - Dark mode version",
+    "icon": "faithful.png"
   },
   {
     "id": "defaultpackport",
     "enabled": true,
     "file": "1.14 Packport.zip",
     "display": "1.14 Default 16x",
-    "description": "Default 1.14 port\nby Qwuiblington"
+    "description": "Default 1.14 port\nby Qwuiblington",
+    "icon": "default.png"
   },
   {
     "id": "faithful",
     "file": "Faithful_1.14_in_1.8+[v3].zip",
     "display": "1.14 Faithful 32x",
-    "description": "Faithful 1.14 port\nby 8KCoffeeWizard"
+    "description": "Faithful 1.14 port\nby 8KCoffeeWizard",
+    "icon": "faithful team logo.png"
   }
 ]

@@ -31,14 +31,15 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "display": "Patcher",
     "description": "Provides a massive FPS boost, along with some nice QOL features and bug fixes.",
     "guide": true,
-    "icon": "patcher.png"
+    "icon": "sk1er monkey.png"
   },
   {
     "id": "sba",
     "enabled": true,
     "file": "SkyblockAddons-1.5.4-for-MC-1.8.9.jar",
     "display": "SkyblockAddons",
-    "description": "Essential for Skyblock"
+    "description": "Essential for Skyblock",
+    "icon": "bisquit.png"
   },
   {
     "id": "neu",
@@ -72,7 +73,8 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "enabled": true,
     "file": "Hytilities-1.0_-_beta_4.jar",
     "display": "Hytilities",
-    "description": "Provides a ton of QOL features specifically for Hypixel"
+    "description": "Provides a ton of QOL features specifically for Hypixel",
+    "icon": "sk1er monkey.png"
   },
   {
     "id": "cowlection",
@@ -85,7 +87,8 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "id": "dankers",
     "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
     "display": "Danker's Skyblock mod",
-    "description": "Provides dungeon utilities like puzzle solvers and such"
+    "description": "Provides dungeon utilities like puzzle solvers and such",
+    "icon": "dsm logo cropped.png"
   },
   {
     "id": "togglesneak",
@@ -98,7 +101,8 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "id": "oldanim",
     "file": "Sk1er_Old_Animations-1.0_-_beta_5.jar",
     "display": "Old Animations",
-    "description": "Sk1er's own old animations mod, brings back the old 1.7 animations to 1.8 from a client side perspective"
+    "description": "Sk1er's own old animations mod, brings back the old 1.7 animations to 1.8 from a client side perspective",
+    "icon": "sk1er monkey.png"
   },
   {
     "id": "potionhud",
@@ -110,7 +114,8 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "id": "autogg",
     "file": "AutoGG-4.0.3 (1.8.9).jar",
     "display": "AutoGG",
-    "description": "Says \"gg\" for you after each game so you can gain free Karma"
+    "description": "Says \"gg\" for you after each game so you can gain free Karma",
+    "icon": "sk1er monkey.png"
   },
   {
     "id": "discordrp",
@@ -132,7 +137,8 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "warning": "This Mod REQUIRES the SkyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
     "file": "SBCustomMobTex-1.4.jar",
     "display": "SBCustomMobTex",
-    "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them"
+    "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them",
+    "icon": "moulberrys bush.png"
   },
   {
     "id": "playerapi",
