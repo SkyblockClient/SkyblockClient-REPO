@@ -24,7 +24,7 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "description": "Essential for every game",
     "icon": "optifine.png"
   },
-  {
+  { 
     "id": "patcher",
     "enabled": true,
     "file": "Patcher-1.4.1 (1.8.9).jar",
@@ -68,15 +68,6 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "hidden": true
   },
   {
-    "id": "hytilities",
-    "config": true,
-    "enabled": true,
-    "file": "Hytilities-1.0_-_beta_4.jar",
-    "display": "Hytilities",
-    "description": "Provides a ton of QOL features specifically for Hypixel",
-    "icon": "sk1er monkey.png"
-  },
-  {
     "id": "cowlection",
     "file": "Cowlection-1.8.9-0.11.0.jar",
     "display": "Cowlection",
@@ -91,38 +82,11 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "icon": "dsm logo cropped.png"
   },
   {
-    "id": "togglesneak",
-    "dependency": "playerapi",
-    "file": "[1.8.9] Powns ToggleSneak - 3.0.jar",
-    "display": "Powns' Toggle Sneak",
-    "description": "The ability to press one button to toggle sprinting/sneaking without holding sprint/sneaking button"
-  },
-  {
-    "id": "oldanim",
-    "file": "Sk1er_Old_Animations-1.0_-_beta_5.jar",
-    "display": "Old Animations",
-    "description": "Sk1er's own old animations mod, brings back the old 1.7 animations to 1.8 from a client side perspective",
-    "icon": "sk1er monkey.png"
-  },
-  {
-    "id": "potionhud",
-    "file": "[1.8.9] Powns PotionEffect HUD - 1.0.jar",
-    "display": "Powns Potion hud",
-    "description": "Shows active potion status without having to open your inventory"
-  },
-  {
     "id": "autogg",
     "file": "AutoGG-4.0.3 (1.8.9).jar",
     "display": "AutoGG",
     "description": "Says \"gg\" for you after each game so you can gain free Karma",
     "icon": "sk1er monkey.png"
-  },
-  {
-    "id": "discordrp",
-    "warning": "A similar feature already exists in SkyblockAddons\nIf you don't intent to play anything but Skyblock, don't enable this mod",
-    "file": "DiscordRP-1.2.4.jar",
-    "display": "Discord Rich Presence",
-    "description": "Minecraft to Discord Rich Presence\nSimilar features are includes in SkyblockAddons\nBreaks SkyblockAddons's DiscordRP"
   },
   {
     "id": "ctjs",
@@ -139,13 +103,6 @@ icon-string:   -   - icon name of the mod, transparent if empty
     "display": "SBCustomMobTex",
     "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them",
     "icon": "moulberrys bush.png"
-  },
-  {
-    "id": "playerapi",
-    "file": "PlayerAPI-1.12.1-1.0.jar",
-    "display": "PlayerAPI",
-    "description": "A dependency for some pepega mods, you probably don't need this",
-    "hidden": true
   },
   {
     "id": "itlt",
