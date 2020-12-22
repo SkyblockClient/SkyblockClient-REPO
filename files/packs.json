@@ -48,6 +48,7 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "file": "Dark_Skyblock_UI.zip",
     "display": "PacksHQ dark UI addon",
     "description": "Packs HQ Skyblock Pack dark UI",
+    "url": "https://packshq.com/assets/packs/Dark_Skyblock_UI.zip",
     "icon": "phq dark overlay.png"
   },
   {
