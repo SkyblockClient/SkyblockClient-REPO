@@ -29,6 +29,13 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "icon": "dungeon texturepack 1024x.png"
   },
   {
+    "id": "actuallymobs",
+    "file": "ActuallyMobsv0.1.zip",
+    "display": "ActuallyMobs v0.1",
+    "description": "Quality Retextures for Skyblock Mobs\nBy Motor",
+    "icon": "actuallymobs.png"
+  },
+  {
     "id": "skymobs",
     "file": "SkyMobs.zip",
     "display": "SkyMobs",
