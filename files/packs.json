@@ -76,6 +76,13 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "icon": "packshq 512x.png"
   },
   {
+    "id": "actuallyassets",
+    "file": "ActuallyAssetsv1.6.6.2 no mobs.zip",
+    "display": "ActuallyAssets v1.6.6.2 16x",
+    "description": "Clean and Simple Skyblock Pack",
+    "icon": "actuallyassets.png"
+  },
+  {
     "id": "faithfuldark",
     "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
     "display": "Faithful 32x [Dark Mode]",
