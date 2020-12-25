@@ -157,6 +157,19 @@ actions-action array   - an array of actions, an action is made out of text-stri
     ]
   },
   {
+    "id": "fsr",
+    "file": "FurfSky Reborn [1.1.0].zip",
+    "display": "FurfSky Reborn v1.1.0 16x",
+    "description": "The continuation of Fursky+",
+    "icon": "fsr.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3482676/"
+      }
+    ]
+  },
+  {
     "id": "faithfuldark",
     "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
     "display": "Faithful 32x [Dark Mode]",
