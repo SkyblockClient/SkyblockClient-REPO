@@ -1,16 +1,16 @@
 /*
 required arguments:
-id-string: -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
-file-string:   -   - File name
-display-string:    - What it shows in the program for the mod
-description-string:  Short description of the mod
+id-string: -   -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
+file-string:   -   -   - File name
+display-string:    -   - What it shows in the program for the mod
+description-string:    - Short description of the mod
 
-optional arguments:
-url-string:    -   - external download link - must be a full link
-enabled-bool:  -   - If mod is enabled by default, default false
-hidden-bool:   -   - does not show in the program if true, default false
-guide-bool:    -   - the mod has a guide, default false
-icon-string:   -   - icon name of the pack, transparent if empty
+optional arguments: 
+url-string:    -   -   - external download link - must be a full link
+enabled-bool:  -   -   - If mod is enabled by default, default false
+hidden-bool:   -   -   - does not show in the program if true, default false
+icon-string:   -   -   - icon name of the pack, transparent if empty
+actions-action array   - an array of actions, an action is made out of text-string and link-string 
 */
 [
   {
@@ -19,35 +19,69 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "file": "Mob Packet 1.8.9.zip",
     "display": "Mob Packet",
     "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska",
-    "icon": "mob packet.png"
+    "icon": "mob packet.png",
+    "actions": [
+      { 
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3606096/"
+      }
+    ]
   },
   {
     "id": "dungeontexturepack",
     "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
     "display": "Dungeons Texturepack",
     "description": "Dungeons Texturepack by gratenes and Havenz",
-    "icon": "dungeon texturepack 1024x.png"
+    "icon": "dungeon texturepack 1024x.png",
+    "actions": [
+      { 
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3143529/"
+      }
+    ]
   },
   {
     "id": "actuallymobs",
     "file": "ActuallyMobsv0.1.zip",
     "display": "ActuallyMobs v0.1",
     "description": "Quality Retextures for Skyblock Mobs\nBy Motor",
-    "icon": "actuallymobs.png"
+    "icon": "actuallymobs.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3129905/"
+      },
+      {
+        "text": "Planet Minecraft",
+        "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
+      }
+    ]
   },
   {
     "id": "skymobs",
     "file": "SkyMobs.zip",
     "display": "SkyMobs",
     "description": "Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry",
-    "icon": "skymobs.png"
+    "icon": "skymobs.png",
+    "actions": [
+      { 
+        "text": "Github",
+        "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
+      }
+    ]
   },
   {
     "id": "vtay",
     "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
     "display": "vTay's Skyblock Smoothie 16x",
     "description": "vTays mix of different skyblock packs\nIn vTays' terms \"A refreshing taste of skyblock texture packs\"",
-    "icon": "vtays.png"
+    "icon": "vtays.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3178679/"
+      }
+    ]
   },
   {
     "id": "hqdark",
@@ -56,7 +90,17 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "display": "PacksHQ dark UI addon",
     "description": "Packs HQ Skyblock Pack dark UI",
     "url": "https://packshq.com/assets/packs/Dark_Skyblock_UI.zip",
-    "icon": "phq dark overlay.png"
+    "icon": "phq dark overlay.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/2103515/"
+      },
+      {
+        "text": "Website",
+        "link": "https://packshq.com/content/packs/"
+      }
+    ]
   },
   {
     "id": "hq16f",
@@ -65,7 +109,17 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "display": "Packs HQ v13 16x",
     "description": "Packs HQ Skyblock Pack 16x. Standalone",
     "url": "https://packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip",
-    "icon": "packshq 512x.png"
+    "icon": "packshq 512x.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/2103515/"
+      },
+      {
+        "text": "Website",
+        "link": "https://packshq.com/content/packs/"
+      }
+    ]
   },
   {
     "id": "hq32f",
@@ -73,20 +127,40 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "display": "Packs HQ v13 32x",
     "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful",
     "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
-    "icon": "packshq 512x.png"
+    "icon": "packshq 512x.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/2103515/"
+      },
+      {
+        "text": "Website",
+        "link": "https://packshq.com/content/packs/"
+      }
+    ]
   },
   {
     "id": "actuallyassets",
     "file": "ActuallyAssetsv1.6.6.2 no mobs.zip",
     "display": "ActuallyAssets v1.6.6.2 16x",
     "description": "Clean and Simple Skyblock Pack",
-    "icon": "actuallyassets.png"
+    "icon": "actuallyassets.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3129905/"
+      },
+      {
+        "text": "Planet Minecraft",
+        "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
+      }
+    ]
   },
   {
     "id": "faithfuldark",
     "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
     "display": "Faithful 32x [Dark Mode]",
-    "description": "Faithful 1.14 port by 8KCoffeeWizard - Dark mode version",
+    "description": "Faithful 1.14 port - Dark mode version\nby 8KCoffeeWizard",
     "icon": "faithful.png"
   },
   {
@@ -95,7 +169,13 @@ icon-string:   -   - icon name of the pack, transparent if empty
     "file": "1.14 Packport.zip",
     "display": "1.14 Default 16x",
     "description": "Default 1.14 port\nby Qwuiblington",
-    "icon": "default.png"
+    "icon": "default.png",
+    "actions": [
+      {
+        "text": "Curseforge",
+        "link": "https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport/"
+      }
+    ]
   },
   {
     "id": "faithful",
