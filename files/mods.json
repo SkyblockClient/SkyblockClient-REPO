@@ -115,6 +115,28 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "hidden": true
   },
   {
+    "id": "apec",
+    "file": "Apec-1.7.2.jar",
+    "display": "Apec",
+    "description": "Very high quality HUD mod that makes your interface look like RPG game",
+    "url": "https://github.com/BananaFructa/Apec/releases/download/1.7.2/Apec-1.7.2.jar",
+    "icon": "bisquit.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3076465/"
+      },
+      {
+        "text": "Github",
+        "link": "https://github.com/BananaFructa/Apec/releases"
+      },
+      {
+        "text": "Curseforge",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/apec"
+      }
+    ]
+  },
+  {
     "id": "cowlection",
     "file": "Cowlection-1.8.9-0.11.0.jar",
     "display": "Cowlection",
