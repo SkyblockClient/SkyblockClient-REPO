@@ -3,6 +3,8 @@
 https://sk1er.club/mods/patcher
 #### Beta programm
 https://sk1er.club/beta
+#### Disord
+https://discord.gg/sk1er
 
 # Patcher - How do i use it?
 
