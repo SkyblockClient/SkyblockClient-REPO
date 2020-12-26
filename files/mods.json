@@ -33,11 +33,11 @@ actions-action array   - an array of actions, an action is made out of text-stri
   {
     "id": "patcher",
     "enabled": true,
-    "file": "Patcher-1.4.1 (1.8.9).jar",
+    "file": "Patcher-1.5 (1.8.9).jar",
     "display": "Patcher",
     "description": "Provides a massive FPS boost, along with some nice QOL features and bug fixes.",
     "icon": "sk1er monkey.png",
-    "url": "https://static.sk1er.club/repo/mods/patcher/1.4.1/1.8.9/Patcher-1.4.1%20(1.8.9).jar",
+    "url": "https://static.sk1er.club/repo/mods/patcher/1.5/1.8.9/Patcher-1.5%20(1.8.9).jar",
     "actions": [
       {
         "text": "Guide", 
