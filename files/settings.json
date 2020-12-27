@@ -1,0 +1,13 @@
+/*
+Upper and lower case is important!
+The names should speak for themselves, if not, ask me what they do
+name : type : default value
+ignoreOutdatedVersion:bool:true
+appendMissingOptionIcon:bool:true
+copyEndpointToClipboardOnDebug:bool:false
+updateProfileOnDebug:bool:false
+copyEndpointToClipboardOnDebugOnError:bool:true
+*/
+{
+
+}
