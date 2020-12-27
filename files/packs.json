@@ -15,10 +15,10 @@ actions-action array   - an array of actions, an action is made out of text-stri
 [
   {
     "id": "mobpacket",
-    "enabled": true,
     "file": "Mob Packet 1.8.9.zip",
     "display": "Mob Packet",
     "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska",
+    "enabled": true,
     "icon": "mob packet.png",
     "actions": [
       { 
@@ -26,6 +26,13 @@ actions-action array   - an array of actions, an action is made out of text-stri
         "link": "https://hypixel.net/threads/3606096/"
       }
     ]
+  },
+  {
+    "id": "actuallymobpacket",
+    "file": "ActuallyPacketsv0.1.zip",
+    "display": "ActuallyPacket v0.1",
+    "description": "Branch of Mob Packet with ActuallyMobs textures\nBy Motor",
+    "icon": "actuallyassets.png"
   },
   {
     "id": "dungeontexturepack",
@@ -45,17 +52,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "file": "ActuallyMobsv0.1.zip",
     "display": "ActuallyMobs v0.1",
     "description": "Quality Retextures for Skyblock Mobs\nBy Motor",
-    "icon": "actuallymobs.png",
-    "actions": [
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3129905/"
-      },
-      {
-        "text": "Planet Minecraft",
-        "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
-      }
-    ]
+    "icon": "actuallymobs.png"
   },
   {
     "id": "skymobs",
