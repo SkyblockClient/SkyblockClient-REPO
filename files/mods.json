@@ -200,7 +200,7 @@ packs-string array -   - useful for SBCustomMobTex
   },
   {
     "id": "sbcustommobtex",
-    "warning": "This Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
+    "warning": "This Mod REQUIRES the SkyMobs or ActuallyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
     "file": "SBCustomMobTex-1.4.jar",
     "display": "SBCustomMobTex",
     "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them",

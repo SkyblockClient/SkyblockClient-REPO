@@ -7,6 +7,7 @@ appendMissingOptionIcon:bool:true
 copyEndpointToClipboardOnDebug:bool:false
 updateProfileOnDebug:bool:false
 copyEndpointToClipboardOnDebugOnError:bool:true
+enableModDependentPacksOnEnable:bool:true
 */
 {
 
