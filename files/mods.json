@@ -13,7 +13,8 @@ dependency-string: -   - library
 autoconfig-bool:   -   - will automatically configurate itself uppon install, requires backend, default false
 url-string:    -   -   - external download link - must be a full link
 icon-string:   -   -   - icon name of the mod, transparent if empty
-actions-action array   - an array of actions, an action is made out of text-string and link-string 
+actions-action array   - an array of actions, an action is made out of text-string and link-string
+packs-string array -   - useful for SBCustomMobTex
 */
 [
   {
@@ -199,7 +200,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
   },
   {
     "id": "sbcustommobtex",
-    "warning": "This Mod REQUIRES the SkyMobs or ActuallyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
+    "warning": "This Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
     "file": "SBCustomMobTex-1.4.jar",
     "display": "SBCustomMobTex",
     "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them",
@@ -209,6 +210,9 @@ actions-action array   - an array of actions, an action is made out of text-stri
         "text": "Github",
         "link": "https://github.com/Moulberry/SBCustomMobTex/releases"
       }
+    ],
+    "packs": [
+      "skymobs", "actuallymobs"
     ]
   },
   {
