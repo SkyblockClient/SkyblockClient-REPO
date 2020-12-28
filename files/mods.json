@@ -59,6 +59,10 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "bisquit.png",
     "actions": [
       {
+        "text": "Guide", 
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/2109217/"
       },
@@ -81,6 +85,10 @@ packs-string array -   - useful for SBCustomMobTex
     "description": "Provides a full list of every Skyblock item and much more",
     "icon": "neulogo.png",
     "actions": [
+      {
+        "text": "Guide", 
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3135465/"
@@ -144,6 +152,10 @@ packs-string array -   - useful for SBCustomMobTex
     "description": "A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use",
     "icon": "cowlection-logo.png",
     "actions": [
+      {
+        "text": "Guide", 
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/cowlection.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3087259/"

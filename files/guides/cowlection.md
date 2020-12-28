@@ -2,13 +2,12 @@
 #### Source
 https://github.com/cow-mc/Cowlection/releases
 #### Disord
-https://discord.gg/fU2tFPf
+discord.gg/fU2tFPf
 
 # Cowlection - How do i use it?
 
-Use the commands
+The only commands that you need are 
 > /moo
 
 and
 > /moo config
-To change the settings of the mod
