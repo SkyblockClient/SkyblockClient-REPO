@@ -8,6 +8,9 @@ copyEndpointToClipboardOnDebug:bool:false
 updateProfileOnDebug:bool:false
 copyEndpointToClipboardOnDebugOnError:bool:true
 enableModDependentPacksOnEnable:bool:true
+installForgeLibaries:bool:true
+installProfileToLauncher:bool:true
+checkJavaVersion:bool:false
 */
 {
 
