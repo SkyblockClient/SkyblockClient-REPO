@@ -189,6 +189,7 @@ packs-string array -   - useful for SBCustomMobTex
     "display": "AutoGG",
     "description": "Says \"gg\" for you after each game so you can gain free Karma",
     "icon": "sk1er monkey.png",
+    "url": "https://static.sk1er.club/repo/mods/autogg/4.0.3/1.8.9/AutoGG-4.0.3%20(1.8.9).jar",
     "actions": [
       {
         "text": "Website",
