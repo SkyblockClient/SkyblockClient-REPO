@@ -138,8 +138,8 @@ actions-action array   - an array of actions, an action is made out of text-stri
   },
   {
     "id": "actuallyassets",
-    "file": "ActuallyAssetsv1.6.6.2 no mobs.zip",
-    "display": "ActuallyAssets v1.6.6.2 16x",
+    "file": "ActuallyAssetsv1.7.zip",
+    "display": "ActuallyAssets v1.7 16x",
     "description": "Clean and Simple Skyblock Pack",
     "icon": "actuallyassets.png",
     "actions": [
