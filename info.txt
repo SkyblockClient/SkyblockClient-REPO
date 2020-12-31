@@ -1,3 +1,6 @@
+SkyClient v0.9 Changelog
+- Added update Button functionality 
+
 SkyClient v0.8.7 Changelog
 - Added guides. You can now see and enjoy them when Zordlan makes them
 
