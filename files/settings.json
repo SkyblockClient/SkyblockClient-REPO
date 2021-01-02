@@ -1,16 +1,6 @@
 /*
 Upper and lower case is important!
-The names should speak for themselves, if not, ask me what they do
-name : type : default value
-ignoreOutdatedVersion:bool:true
-appendMissingOptionIcon:bool:true
-copyEndpointToClipboardOnDebug:bool:false
-updateProfileOnDebug:bool:false
-copyEndpointToClipboardOnDebugOnError:bool:true
-enableModDependentPacksOnEnable:bool:true
-installForgeLibaries:bool:true
-installProfileToLauncher:bool:true
-checkJavaVersion:bool:false
+Check out https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs for a list of settings and their default values
 */
 {
 
