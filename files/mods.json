@@ -116,15 +116,6 @@ packs-string array -   - useful for SBCustomMobTex
     ]
   },
   {
-    "id": "sidebarmod",
-    "config": true,
-    "enabled": true,
-    "file": "1.8.9_Sidebar_Mod_Revamp.jar",
-    "display": "Sidebar Mod",
-    "description": "The ability to customize the sidebar",
-    "hidden": true
-  },
-  {
     "id": "apec",
     "file": "Apec-1.7.2.jar",
     "display": "Apec",
