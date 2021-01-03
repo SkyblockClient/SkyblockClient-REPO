@@ -155,7 +155,11 @@ packs-string array -   - useful for SBCustomMobTex
     "actions": [
       {
         "text": "Guide", 
-        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/cowlection.md"
+        "link": "https://github.com/cow-mc/Cowlection/blob/master/README.md"
+      },
+      {
+        "test": "Website",
+        "link": "https://cowtipper.de/"
       },
       {
         "text": "Forum",
