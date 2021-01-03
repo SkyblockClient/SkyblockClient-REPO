@@ -84,6 +84,7 @@ packs-string array -   - useful for SBCustomMobTex
     "display": "Not Enough Updates",
     "description": "Provides a full list of every Skyblock item and much more",
     "icon": "neulogo.png",
+    "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/1.7.1-REL/NotEnoughUpdates-1.7.2-REL.jar",
     "actions": [
       {
         "text": "Guide", 
