@@ -150,7 +150,7 @@ packs-string array -   - useful for SBCustomMobTex
         "link": "https://github.com/cow-mc/Cowlection/blob/master/README.md"
       },
       {
-        "test": "Website",
+        "text": "Website",
         "link": "https://cowtipper.de/"
       },
       {
