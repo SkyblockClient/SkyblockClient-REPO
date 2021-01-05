@@ -124,6 +124,11 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "bisquit.png",
     "actions": [
       {
+        "text": "Guide",
+        "link": "https://github.com/BananaFructa/Apec/blob/master/README.md"
+      },
+      {
+
         "text": "Forum",
         "link": "https://hypixel.net/threads/3076465/"
       },
