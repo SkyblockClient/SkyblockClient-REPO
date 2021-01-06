@@ -121,7 +121,7 @@ packs-string array -   - useful for SBCustomMobTex
     "display": "Apec",
     "description": "Very high quality HUD mod that makes your interface look like RPG game",
     "url": "https://github.com/BananaFructa/Apec/releases/download/1.7.2/Apec-1.7.2.jar",
-    "icon": "bisquit.png",
+    "icon": "apec.png",
     "actions": [
       {
         "text": "Guide",
