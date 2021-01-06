@@ -107,7 +107,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "display": "Packs HQ v13 16x",
     "description": "Packs HQ Skyblock Pack 16x. Standalone",
     "url": "https://packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip",
-    "icon": "packshq 512x.png",
+    "icon": "packshq.png",
     "actions": [
       {
         "text": "Forum",
@@ -126,7 +126,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "display": "Packs HQ v13 32x",
     "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful",
     "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
-    "icon": "packshq 512x.png",
+    "icon": "packshq.png",
     "actions": [
       {
         "text": "Forum",
