@@ -26,6 +26,7 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "optifine.png",
     "actions": [
       {
+        "icon": "optifine.png",
         "text": "Website",
         "link": "https://optifine.net/home"
       }
@@ -45,6 +46,7 @@ packs-string array -   - useful for SBCustomMobTex
         "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
       },
       {
+        "icon": "sk1er monkey.png",
         "text": "Website", 
         "link": "https://sk1er.club/mods/patcher"
       }
@@ -67,6 +69,7 @@ packs-string array -   - useful for SBCustomMobTex
         "link": "https://hypixel.net/threads/2109217/"
       },
       {
+        "icon": "bisquit.png",
         "text": "Website",
         "link": "https://biscuit.codes/mods/skyblockaddons/"
       },
@@ -110,6 +113,7 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar",
     "actions": [
       {
+        "icon": "sk1er monkey.png", 
         "text": "Website",
         "link": "https://sk1er.club/mods/text_overflow_scroll"
       }
@@ -155,6 +159,7 @@ packs-string array -   - useful for SBCustomMobTex
         "link": "https://github.com/cow-mc/Cowlection/blob/master/README.md"
       },
       {
+        "icon": "cowlection-logo.png", 
         "text": "Website",
         "link": "https://cowtipper.de/"
       },
@@ -194,6 +199,7 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.0.2/1.8.9/Keystrokes-8.0.2%20(1.8.9).jar",
     "actions": [
       {
+        "icon": "sk1er monkey.png", 
         "text": "Website",
         "link": "https://sk1er.club/mods/keystrokesmod"
       }
@@ -208,6 +214,7 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "chattriggers 48x.ico",
     "actions": [
       {
+        "icon":"chattriggers 48x.ico",
         "text": "Website",
         "link": "https://www.chattriggers.com/"
       }

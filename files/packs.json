@@ -94,6 +94,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
         "link": "https://hypixel.net/threads/2103515/"
       },
       {
+        "icon": "packshq.png",
         "text": "Website",
         "link": "https://packshq.com/content/packs/"
       }
@@ -113,6 +114,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
         "link": "https://hypixel.net/threads/2103515/"
       },
       {
+        "icon": "packshq.png",
         "text": "Website",
         "link": "https://packshq.com/content/packs/"
       }
@@ -131,6 +133,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
         "link": "https://hypixel.net/threads/2103515/"
       },
       {
+        "icon": "packshq.png",
         "text": "Website",
         "link": "https://packshq.com/content/packs/"
       }
@@ -148,6 +151,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
         "link": "https://hypixel.net/threads/3129905/"
       },
       {
+        "icon": "planetminecraft.png",
         "text": "Planet Minecraft",
         "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
       }
