@@ -126,7 +126,7 @@
 
         "changelogtext":
         {
-            "text" : "SkyClient v0.9 Released!",
+            "text" : "SkyClient v1.0 Released!",
             "posX" : 250,
             "posY" : -100,
             "fontSize": 1.5,

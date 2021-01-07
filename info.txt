@@ -1,3 +1,6 @@
+SkyClient 1.0 Released! Forum post soon.
+
+
 SkyClient v0.9 Changelog
 - Added update Button functionality 
 
