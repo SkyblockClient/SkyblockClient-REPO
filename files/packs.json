@@ -175,7 +175,8 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
     "display": "Faithful 32x [Dark Mode]",
     "description": "Faithful 1.14 port - Dark mode version\nby 8KCoffeeWizard",
-    "icon": "faithful.png"
+    "icon": "faithful.png",
+    "hidden": true
   },
   {
     "id": "defaultpackport",
@@ -196,6 +197,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "file": "Faithful_1.14_in_1.8+[v3].zip",
     "display": "1.14 Faithful 32x",
     "description": "Faithful 1.14 port\nby 8KCoffeeWizard",
-    "icon": "faithful team logo.png"
+    "icon": "faithful team logo.png",
+    "hidden": true
   }
 ]
