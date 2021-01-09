@@ -176,7 +176,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "display": "Faithful 32x [Dark Mode]",
     "description": "Faithful 1.14 port - Dark mode version\nby 8KCoffeeWizard",
     "icon": "faithful.png",
-    "hidden": true
+    "hidden": false
   },
   {
     "id": "defaultpackport",
@@ -198,6 +198,6 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "display": "1.14 Faithful 32x",
     "description": "Faithful 1.14 port\nby 8KCoffeeWizard",
     "icon": "faithful team logo.png",
-    "hidden": true
+    "hidden": false
   }
 ]

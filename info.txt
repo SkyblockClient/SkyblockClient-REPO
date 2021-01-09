@@ -1,4 +1,4 @@
-SkyClient 1.0 Released! Forum post soon.
+SkyClient 1.0 Released!
 
 
 SkyClient v0.9 Changelog
