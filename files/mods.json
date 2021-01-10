@@ -59,6 +59,7 @@ packs-string array -   - useful for SBCustomMobTex
     "display": "SkyblockAddons",
     "description": "Essential for Skyblock",
     "icon": "bisquit.png",
+    "url": "https://github.com/biscuut/SkyblockAddons/releases/download/v1.5.4/SkyblockAddons-1.5.4-for-MC-1.8.9.jar",
     "actions": [
       {
         "text": "Guide", 
@@ -179,6 +180,7 @@ packs-string array -   - useful for SBCustomMobTex
     "display": "Danker's Skyblock mod",
     "description": "Provides dungeon utilities like puzzle solvers and such",
     "icon": "dsm logo cropped.png",
+    "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.4/1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
     "actions": [
       {
         "text": "Forum",
@@ -199,6 +201,11 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.0.2/1.8.9/Keystrokes-8.0.2%20(1.8.9).jar",
     "actions": [
       {
+        "icon": "youtube.png", 
+        "text": "Youtube",
+        "link": "https://youtu.be/u--cnSTFqDE"
+      },
+      {
         "icon": "sk1er monkey.png", 
         "text": "Website",
         "link": "https://sk1er.club/mods/keystrokesmod"
@@ -211,7 +218,17 @@ packs-string array -   - useful for SBCustomMobTex
     "file": "ctjs-1.3.0-1.8.9.jar",
     "display": "Chat Triggers",
     "description": "Requirement for DungeonUtilties and SoopyAddons",
-    "warning" : "A better alternative to this mod would be Cowlection and Dankers.\nThis mod doesn't ship with modules.\n The recommended module is:\n\t/ct import DungeonUtilities\nYou can import the module by typing the command in-game. No restart required",
+    "warning" : {
+      "lines" : [
+        "A better alternative to this mod would be Cowlection and Dankers.",
+        "This mod doesn't ship with modules.\n The recommended module is:",
+        "\t/ct import DungeonUtilities",
+        "You can import the module by typing the command in-game. No restart required",
+        "",
+        "",
+        "Use anyway?"
+      ]
+    },
     "icon": "chattriggers 48x.ico",
     "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.0/ctjs-1.3.0-1.8.9.jar",
     "hidden": false,
@@ -225,11 +242,22 @@ packs-string array -   - useful for SBCustomMobTex
   },
   {
     "id": "sbcustommobtex",
-    "warning": "This Mod REQUIRES the SkyMobs or ActuallyMobs Texturepack.\nThis Mod will cause serious performance issues inside of dungeons.\nA good alternative to this mod is the Mob Packet Resource Pack.",
     "file": "SBCustomMobTex-1.4.jar",
     "display": "SBCustomMobTex",
     "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them",
     "icon": "moulberrys bush.png",
+    "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
+    "warning": {
+      "title": "THIS IS A HAND OMG",
+      "lines": [
+        "This Mod REQUIRES the SkyMobs or ActuallyMobs Texturepack.",
+        "This Mod will cause serious performance issues inside of dungeons.",
+        "A good alternative to this mod is the Mob Packet Resource Pack.",
+        "",
+        "",
+        "Use anyway?"
+      ]
+    },
     "actions": [
       {
         "text": "Github",
@@ -244,9 +272,10 @@ packs-string array -   - useful for SBCustomMobTex
     "id": "itlt",
     "config": true,
     "enabled": true,
-    "file": "itlt-1.8.9-0.0.9.jar",
+    "file": "itlt-1.8.9-0.0.9.jar", 
     "display": "It's the little things",
     "description": "Useful for modpack creators",
+    "url": "https://media.forgecdn.net/files/2290/963/itlt-1.8.9-0.0.9.jar",
     "hidden": true
   },
   {
@@ -263,6 +292,7 @@ packs-string array -   - useful for SBCustomMobTex
     "file": "CustomMainMenu-MC1.8.9-2.0.jar",
     "display": "Custom Main Menu",
     "description": "Adds a custom main menu to SkyClient",
+    "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
     "hidden": true
   },
   {

@@ -3,5 +3,6 @@ Upper and lower case is important!
 Check out https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs for a list of settings and their default values
 */
 {
-
+    "ignoreOutdatedVersion": false,
+    "version": "1.1.0"
 }
