@@ -9,7 +9,7 @@ optional arguments:
 enabled-bool:  -   -   - If mod is enabled by default, default false
 warning-string:    -   - a warning message that will appear if you toggle the mod to be enabled
 hidden-bool:   -   -   - does not show in the program if true, default false
-dependency-string: -   - library
+packages-string array: - library
 autoconfig-bool:   -   - will automatically configurate itself uppon install, requires backend, default false
 url-string:    -   -   - external download link - must be a full link
 icon-string:   -   -   - icon name of the mod, transparent if empty
