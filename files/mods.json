@@ -18,6 +18,56 @@ packs-string array -   - useful for SBCustomMobTex
 */
 [
   {
+    "id": "itlt",
+    "file": "itlt-1.8.9-0.0.9.jar", 
+    "display": "Utility Bundle",
+    "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
+    "url": "https://media.forgecdn.net/files/2290/963/itlt-1.8.9-0.0.9.jar",
+    "config": true,
+    "enabled": true,
+    "icon": "skyclient.png",
+    "packages": [
+      "scrollabletooltips"
+    ],
+    "actions": [
+      {
+        "icon": "sk1er monkey.png", 
+        "text": "Scrollable Tooltips",
+        "link": "https://sk1er.club/mods/text_overflow_scroll"
+      },
+      {
+        "icon": "itlt.png", 
+        "text": "It's the little things",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
+      }
+    ]
+  },
+  {
+    "id": "cmm",
+    "config": true,
+    "file": "CustomMainMenu-MC1.8.9-2.0.jar",
+    "display": "Gui Bundle",
+    "description": "Adds a custom main menu to SkyClient\nAdds a custom gui for the resoucepack manager",
+    "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
+    "icon": "skyclient.png",
+    "enabled": true,
+    "packages": [
+      "rpm"
+    ],
+    "actions": [
+      {
+        "icon": "cmm.png", 
+        "text": "Custom Main Menu",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
+      },
+      {
+        "icon": "aycy.jpg", 
+        "text": "Resource pack manager",
+        "link": "https://www.youtube.com/watch?v=OQZFWrrEcYM"
+      }
+    ]
+  },
+  {
     "id": "optifine",
     "enabled": true,
     "file": "preview_OptiFine_1.8.9_HD_U_M5_pre2.jar",
@@ -101,22 +151,6 @@ packs-string array -   - useful for SBCustomMobTex
       {
         "text": "Github",
         "link": "https://github.com/Moulberry/NotEnoughUpdates/releases/"
-      }
-    ]
-  },
-  {
-    "id": "scrollabletooltips",
-    "enabled": true,
-    "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
-    "display": "Scrollable Tooltips",
-    "description": "Provides the ability to scroll/move tooltips when its length passes your screen",
-    "hidden": true,
-    "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar",
-    "actions": [
-      {
-        "icon": "sk1er monkey.png", 
-        "text": "Website",
-        "link": "https://sk1er.club/mods/text_overflow_scroll"
       }
     ]
   },
@@ -269,38 +303,28 @@ packs-string array -   - useful for SBCustomMobTex
     ]
   },
   {
-    "id": "itlt",
-    "config": true,
-    "enabled": true,
-    "file": "itlt-1.8.9-0.0.9.jar", 
-    "display": "It's the little things",
-    "description": "Useful for modpack creators",
-    "url": "https://media.forgecdn.net/files/2290/963/itlt-1.8.9-0.0.9.jar",
-    "hidden": true
-  },
-  {
     "id": "resourceloader",
     "file": "ResourceLoader-MC1.8.8-1.4.jar",
     "display": "Resource Loader",
     "description": "Loads Resources for Custom Main Menu",
-    "hidden": true
-  },
-  {
-    "id": "cmm",
-    "config": true,
-    "enabled": true,
-    "file": "CustomMainMenu-MC1.8.9-2.0.jar",
-    "display": "Custom Main Menu",
-    "description": "Adds a custom main menu to SkyClient",
-    "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
-    "hidden": true
+    "hidden": true,
+    "enabled": false
   },
   {
     "id": "rpm",
-    "enabled": true,
     "file": "Resource_Pack_Manager_1.2.jar",
     "display": "Resource Pack Manager",
     "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the rp menu",
-    "hidden": true
+    "hidden": true,
+    "enabled": false
+  },
+  {
+    "id": "scrollabletooltips",
+    "enabled": false,
+    "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
+    "display": "Utility mods",
+    "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
+    "hidden": true,
+    "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar"
   }
 ]
