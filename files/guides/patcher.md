@@ -8,10 +8,10 @@ discord.gg/sk1er
 
 # Patcher - How do i use it?
 
-The only command that you need is 
-> /patcher
+The commands for patcher are:
+> /patcher, /patcher sounds, /inventoryscale 
 
-From there on you will be greeted with a peculiar GUI:
+From there on you will be greeted with a peculiar GUI (see image below) or with tips on how to use the command.
 
 ![image of the GUI](https://cdn.discordapp.com/attachments/789262632531525632/789266929822072842/unknown.png)
 
