@@ -116,6 +116,10 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://github.com/biscuut/SkyblockAddons/releases/download/v1.5.4/SkyblockAddons-1.5.4-for-MC-1.8.9.jar",
     "actions": [
       {
+        "method": "hover",
+        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+      },
+      {
         "text": "Guide", 
         "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md"
       },
@@ -145,6 +149,10 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/1.7.1-REL/NotEnoughUpdates-1.7.2-REL.jar",
     "actions": [
       {
+        "method": "hover",
+        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
+      },
+      {
         "text": "Guide", 
         "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md"
       },
@@ -166,6 +174,10 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://github.com/BananaFructa/Apec/releases/download/1.7.2/Apec-1.7.2.jar",
     "icon": "apec.png",
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://github.com/BananaFructa/Apec/blob/master/README.md?raw=true"
+      },
       {
         "text": "Guide",
         "link": "https://github.com/BananaFructa/Apec/blob/master/README.md"
@@ -194,6 +206,10 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.12.0/Cowlection-1.8.9-0.12.0.jar",
     "actions": [
       {
+        "method": "hover",
+        "document": "https://github.com/cow-mc/Cowlection/blob/master/README.md?raw=true"
+      },
+      {
         "text": "Guide", 
         "link": "https://github.com/cow-mc/Cowlection/blob/master/README.md"
       },
@@ -220,6 +236,14 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "dsm logo cropped.png",
     "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.4/1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+      },
+      {
+        "text": "Guide",
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3577020/"
