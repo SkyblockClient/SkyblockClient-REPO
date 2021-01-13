@@ -92,6 +92,10 @@ packs-string array -   - useful for SBCustomMobTex
     "url": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
+      },
+      {
         "text": "Guide", 
         "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
       },
