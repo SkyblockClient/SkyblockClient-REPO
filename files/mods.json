@@ -69,13 +69,12 @@ packs-string array -   - useful for SBCustomMobTex
   },
     {
     "id": "soundsubtitles",
-    "config": true,
     "file": "Sound Subtitles-1.1 (1.8.9).jar",
     "display": "QOL Bundle",
     "description": "Adds sound subtitles, which are only available \nby default in 1.9+, as well as a TNT countdown timer, and popup events \n(easier to accept party, friend, and guild invites)",
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "icon": "skyclient.png",
-    "enabled": true,
+    "enabled": false,
     "packages": [
       "rpm"
     ],
@@ -89,7 +88,7 @@ packs-string array -   - useful for SBCustomMobTex
         "icon": "sk1er monkey.png", 
         "text": "Sound Subtitles",
         "link": "https://sk1er.club/mods/subtitles_mod"
-      }
+      },
       {
         "icon": "sk1er monkey.png", 
         "text": "Popup Events",
