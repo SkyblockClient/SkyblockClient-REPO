@@ -1,16 +1,3 @@
-# Credits
-
-#### Source
-[1.8 Sound subtitles](https://sk1er.club/mods/subtitles_mod)
-
-[Popup events](https://sk1er.club/mods/popup_events)
-
-[TNT Time](https://sk1er.club/mods/tnttime)
-
-
-#### Discord
-https://discord.gg/sk1er
-
 # QOL Package
 
 ## What do the mods do?
@@ -40,3 +27,16 @@ Go to the minecraft controls menu to bind your keys
 ### TNT Timer
 
 No additional configuration is needed
+
+# Credits
+
+#### Mod links
+[1.8 Sound subtitles](https://sk1er.club/mods/subtitles_mod)
+
+[Popup events](https://sk1er.club/mods/popup_events)
+
+[TNT Time](https://sk1er.club/mods/tnttime)
+
+
+#### Discord
+https://discord.gg/sk1er
