@@ -80,6 +80,14 @@ packs-string array -   - useful for SBCustomMobTex
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md?raw=true"
+      },
+      {
+        "text": "Guide",
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
+      },
+      {
         "icon": "sk1er monkey.png", 
         "text": "TNT Timer",
         "link": "https://sk1er.club/mods/tnttime"
