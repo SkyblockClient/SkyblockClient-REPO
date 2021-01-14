@@ -11,18 +11,32 @@
 #### Discord
 https://discord.gg/sk1er
 
-# QOL Package - How do I use it?
+# QOL Package
 
-## Sound Subtitles
+## What do the mods do?
 
-> /subtitle_config
+### Sound Subtitles
 
-Setup your sound subtitles
+A mod to add the sound subtitles from modern versions of minecraft, in 1.8.9
 
-## Popup Events
+### Popup Events
 
-Controls menu to bind keys
+Allows you to easily accept/deny a request on Hypixel with the press of a single key
 
-## TNT Timer
+### TNT Timer
 
-Runs on its own
+Shows how long until tnt will explode above the tnt
+
+## How do I use them?
+
+### Sound Subtitles
+
+Use `/subtitle_config` to configure the subtitles
+
+### Popup Events
+
+Go to the minecraft controls menu to bind your keys
+
+### TNT Timer
+
+No additional configuration is needed
