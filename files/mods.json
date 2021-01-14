@@ -67,7 +67,7 @@ packs-string array -   - useful for SBCustomMobTex
       }
     ]
   },
-    {
+  {
     "id": "soundsubtitles",
     "file": "Sound Subtitles-1.1 (1.8.9).jar",
     "display": "QOL Bundle",
