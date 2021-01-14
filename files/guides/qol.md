@@ -1,11 +1,11 @@
 # Credits
 
 #### Source
-https://sk1er.club/mods/subtitles_mod
+[1.8 Sound subtitles](https://sk1er.club/mods/subtitles_mod)
 
-https://sk1er.club/mods/popup_events
+[Popup events](https://sk1er.club/mods/popup_events)
 
-https://sk1er.club/mods/tnttime
+[TNT Time](https://sk1er.club/mods/tnttime)
 
 
 #### Discord
