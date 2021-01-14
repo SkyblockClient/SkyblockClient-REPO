@@ -1,5 +1,11 @@
 # QOL Package
 
+## Includes:
+
+- Sound subtitles (Author: Sk1erLLC)
+- Popup events (Author: Sk1erLLC)
+- TNT Time (Author: Sk1erLLC)
+
 ## What do the mods do?
 
 ### Sound Subtitles
