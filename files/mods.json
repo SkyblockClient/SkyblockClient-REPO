@@ -146,11 +146,11 @@ packs-string array -   - useful for SBCustomMobTex
   {
     "id": "sba",
     "enabled": true,
-    "file": "SkyblockAddons-1.5.4-for-MC-1.8.9.jar",
+    "file": "SkyblockAddons-1.5.4-for-MC-1.8.9-BungeeFix.jar",
     "display": "SkyblockAddons",
     "description": "Essential for Skyblock",
     "icon": "bisquit.png",
-    "url": "https://github.com/biscuut/SkyblockAddons/releases/download/v1.5.4/SkyblockAddons-1.5.4-for-MC-1.8.9.jar",
+    /*"url": "https://github.com/biscuut/SkyblockAddons/releases/download/v1.5.4/SkyblockAddons-1.5.4-for-MC-1.8.9.jar",*/
     "actions": [
       {
         "method": "hover",
