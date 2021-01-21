@@ -347,7 +347,6 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "moulberrys bush.png",
     "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
     "warning": {
-      "title": "THIS IS A HAND OMG",
       "lines": [
         "This Mod REQUIRES the SkyMobs or ActuallyMobs Texturepack.",
         "This Mod will cause serious performance issues inside of dungeons.",
