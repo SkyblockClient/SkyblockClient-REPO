@@ -179,11 +179,11 @@ packs-string array -   - useful for SBCustomMobTex
     "id": "neu",
     "config": true,
     "enabled": true,
-    "file": "NotEnoughUpdates-1.7.2 Fixed.jar",
+    "file": "NotEnoughUpdates-1.7.3-RELjar.jar",
     "display": "Not Enough Updates",
     "description": "Provides a full list of every Skyblock item and much more",
     "icon": "neulogo.png",
-    "url": "https://cdn.discordapp.com/attachments/693586404256645231/801969689353388032/NotEnoughUpdates-1.7.2_Fixed.jar",
+    "url": "https://cdn.discordapp.com/attachments/693586404256645231/802187976758526002/NotEnoughUpdates-1.7.3-RELjar.jar",
     "actions": [
       {
         "method": "hover",
