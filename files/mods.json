@@ -150,7 +150,7 @@ packs-string array -   - useful for SBCustomMobTex
     "display": "SkyblockAddons",
     "description": "Essential for Skyblock",
     "icon": "bisquit.png",
-    "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/tag/v1.5.5",
+    "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
     "actions": [
       {
         "method": "hover",
