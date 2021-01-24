@@ -15,7 +15,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
 [
   {
     "id": "mobpacket",
-    "file": "Mob Packet 1.8.9.zip",
+    "file": "Mob Packet 1.8.9 1.4.zip",
     "display": "Mob Packet",
     "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska",
     "enabled": true,
