@@ -178,6 +178,11 @@ actions-action array   - an array of actions, an action is made out of text-stri
     "icon": "fsr.png",
     "actions": [
       {
+        "icon": "furfskywebsite.ico",
+        "text": "Website",
+        "link": "https://furfsky.github.io/"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3482676/"
       }
