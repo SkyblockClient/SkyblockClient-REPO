@@ -204,6 +204,26 @@ packs-string array -   - useful for SBCustomMobTex
     ]
   },
   {
+    "id": "antidreamskin",
+    "config": false,
+    "enabled": true,
+    "file": "Insomnia-1.0-REL.jar",
+    "display": "No Dream Skins",
+    "description": "Replaces all Dream skins with Steve and Alex skins\nCommands: /insomnia on/off",
+    "icon": "moulberrys bush.png",
+    "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+    "actions": [
+      {
+        "text": "Github",
+        "link": "https://github.com/Moulberry/Insomnia/releases/"
+      },
+      {
+        "text": "Youtube",
+        "link": "https://youtu.be/bZxXrt0T4Lc"
+      }
+    ]
+  },
+  {
     "id": "apec",
     "file": "Apec-1.8.jar",
     "display": "Apec",
