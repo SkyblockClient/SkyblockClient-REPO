@@ -76,7 +76,7 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "skyclient.png",
     "enabled": false,
     "packages": [
-      "rpm"
+      "popup_events", "tnttime", "antidreamskin"
     ],
     "actions": [
       {
@@ -101,6 +101,11 @@ packs-string array -   - useful for SBCustomMobTex
         "icon": "sk1er monkey.png", 
         "text": "Popup Events",
         "link": "https://sk1er.club/mods/popup_events"
+      },
+      {
+        "icon": "moulberrys bush.png",
+        "text": "Anti Dream Skin",
+        "link": "https://youtu.be/bZxXrt0T4Lc"
       }
     ]
   },
@@ -200,26 +205,6 @@ packs-string array -   - useful for SBCustomMobTex
       {
         "text": "Github",
         "link": "https://github.com/Moulberry/NotEnoughUpdates/releases/"
-      }
-    ]
-  },
-  {
-    "id": "antidreamskin",
-    "config": false,
-    "enabled": true,
-    "file": "Insomnia-1.0-REL.jar",
-    "display": "No Dream Skins",
-    "description": "Replaces all Dream skins with Steve and Alex skins\nCommands: /insomnia on/off",
-    "icon": "moulberrys bush.png",
-    "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
-    "actions": [
-      {
-        "text": "Github",
-        "link": "https://github.com/Moulberry/Insomnia/releases/"
-      },
-      {
-        "text": "Youtube",
-        "link": "https://youtu.be/bZxXrt0T4Lc"
       }
     ]
   },
@@ -428,5 +413,14 @@ packs-string array -   - useful for SBCustomMobTex
     "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
     "hidden": true,
     "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar"
-  }
+  },
+  {
+    "id": "antidreamskin",
+    "file": "Insomnia-1.0-REL.jar",
+    "display": "No Dream Skins",
+    "description": "Replaces all Dream skins with Steve and Alex skins\nCommands: /insomnia on/off",
+    "icon": "moulberrys bush.png",
+    "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+    "hidden": true
+  },
 ]
