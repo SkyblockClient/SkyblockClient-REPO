@@ -68,6 +68,19 @@ actions-action array   - an array of actions, an action is made out of text-stri
     ]
   },
   {
+    "id": "hsb",
+    "file": "HSB Texturepack V1.6.zip",
+    "display": "Sluzeeey's HSB Texturepack",
+    "description": "A Simplistic skyblock texture pack",
+    "icon": "hsb.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3527502/"
+      }
+    ]
+  },
+  {
     "id": "vtay",
     "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
     "display": "vTay's Skyblock Smoothie 16x",
