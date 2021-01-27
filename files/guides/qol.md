@@ -20,6 +20,10 @@ Allows you to easily accept/deny a request on Hypixel with the press of a single
 
 Shows how long until tnt will explode above the tnt
 
+### Insomnia (Anti-Dream Skin)
+
+Removes those nasty dream skins you hate
+
 ## How do I use them?
 
 ### Sound Subtitles
@@ -34,6 +38,10 @@ Go to the minecraft controls menu to bind your keys
 
 No additional configuration is needed
 
+### Insomnia
+
+Use `/insomnia <on/off>` to turn it on and off
+
 # Credits
 
 #### Mod links
@@ -43,6 +51,9 @@ No additional configuration is needed
 
 [TNT Time](https://sk1er.club/mods/tnttime)
 
+[Insomnia](https://github.com/Moulberry/Insomnia/releases/)
+
 
 #### Discord
 https://discord.gg/sk1er
+https://discord.gg/moulberry
