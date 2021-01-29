@@ -112,7 +112,7 @@ packs-string array -   - useful for SBCustomMobTex
   {
     "id": "optifine",
     "enabled": true,
-    "file": "preview_OptiFine_1.8.9_HD_U_M5_pre2.jar",
+    "file": "OptiFine_1.8.9_HD_U_M5.jar",
     "display": "Optifine M5",
     "description": "Essential for every game",
     "icon": "optifine.png",
