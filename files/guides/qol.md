@@ -2,9 +2,10 @@
 
 ## Includes:
 
-- Sound subtitles (Author: Sk1erLLC)
-- Popup events (Author: Sk1erLLC)
-- TNT Time (Author: Sk1erLLC)
+- Sound subtitles (Author: Sk1er LLC)
+- Popup events (Author: Sk1er LLC)
+- TNT Time (Author: Sk1er LLC)
+- Insomnia (Author: Moulberry)
 
 ## What do the mods do?
 
@@ -54,6 +55,6 @@ Use `/insomnia <on/off>` to turn it on and off
 [Insomnia](https://github.com/Moulberry/Insomnia/releases/)
 
 
-#### Discord
+#### Discords
 https://discord.gg/sk1er
 https://discord.gg/moulberry
