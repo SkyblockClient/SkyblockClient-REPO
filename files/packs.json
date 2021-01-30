@@ -69,7 +69,7 @@ actions-action array   - an array of actions, an action is made out of text-stri
   },
   {
     "id": "hsb",
-    "file": "HSB Texturepack V1.6.zip",
+    "file": "HSB Texturepack V1.6.zip 16x",
     "display": "Sluzeeey's HSB Texturepack",
     "description": "A Simplistic skyblock texture pack",
     "icon": "hsb.png",

@@ -209,6 +209,32 @@ packs-string array -   - useful for SBCustomMobTex
     ]
   },
   {
+    "id": "dankers",
+    "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
+    "display": "Danker's Skyblock mod",
+    "description": "Provides dungeon utilities like puzzle solvers and such",
+    "icon": "dsm logo cropped.png",
+    "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.4/1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
+    "actions": [
+      {
+        "method": "hover",
+        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+      },
+      {
+        "text": "Guide",
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+      },
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3577020/"
+      },
+      {
+        "text": "Github",
+        "link": "https://github.com/bowser0000/SkyblockMod/releases"
+      }
+    ]
+  },
+  {
     "id": "apec",
     "file": "Apec-1.8.jar",
     "display": "Apec",
@@ -267,32 +293,6 @@ packs-string array -   - useful for SBCustomMobTex
       {
         "text": "Github",
         "link": "https://github.com/cow-mc/Cowlection/releases"
-      }
-    ]
-  },
-  {
-    "id": "dankers",
-    "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
-    "display": "Danker's Skyblock mod",
-    "description": "Provides dungeon utilities like puzzle solvers and such",
-    "icon": "dsm logo cropped.png",
-    "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.4/1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
-      },
-      {
-        "text": "Guide",
-        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3577020/"
-      },
-      {
-        "text": "Github",
-        "link": "https://github.com/bowser0000/SkyblockMod/releases"
       }
     ]
   },
