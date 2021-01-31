@@ -422,5 +422,5 @@ packs-string array -   - useful for SBCustomMobTex
     "icon": "moulberrys bush.png",
     "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
     "hidden": true
-  },
+  }
 ]
