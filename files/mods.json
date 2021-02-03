@@ -184,7 +184,7 @@ packs-string array -   - useful for SBCustomMobTex
     "id": "neu",
     "config": true,
     "enabled": true,
-    "file": "NotEnoughUpdates-1.7.3-RELjar.jar",
+    "file": "NotEnoughUpdates-1.7.3-REL.jar",
     "display": "Not Enough Updates",
     "description": "Provides a full list of every Skyblock item and much more",
     "icon": "neulogo.png",
