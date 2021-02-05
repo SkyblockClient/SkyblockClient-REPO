@@ -41,6 +41,3 @@ SkyClient v0.8.2 and v0.8.1
 
 SkyClient v0.8 Actual Changelog
 - Added a forge installer, by default installs to a seperate game directory
-
-Other News
-- Only missing permission for a few mods in the public release.
