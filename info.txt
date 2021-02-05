@@ -1,5 +1,23 @@
-SkyClient 1.0 Released!
+SkyClient 1.3.1 Changelog
+- Fixed SSL/TLS compatability issue
 
+SkyClient 1.3 Changelog
+- Added warning if SkyClient is already on the Directory
+- Actions that have no content are now hidden
+- Spacing for guide previews
+
+SkyClient 1.2 Changelog
+- Added Guide preview
+- Improved lookalike detection algorithm for the update feature
+
+SkyClient 1.1 Changelog
+- Added notifications if you are using an outdated version of the installer
+- Improved the update button to support non-SkyClient directories
+- Backend: Mods now support multiple libraries -> changed the to packages
+- A lot more backend stuff relating to how the mods are formated, this is to assure future compatability
+- Advanced settings appending a / after you close and open the window
+
+SkyClient 1.0 Released!
 
 SkyClient v0.9 Changelog
 - Added update Button functionality 
@@ -23,6 +41,3 @@ SkyClient v0.8.2 and v0.8.1
 
 SkyClient v0.8 Actual Changelog
 - Added a forge installer, by default installs to a seperate game directory
-
-Other News
-- Only missing permission for a few mods in the public release.
