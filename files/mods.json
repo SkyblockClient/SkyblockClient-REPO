@@ -27,7 +27,8 @@ packs-string array -   - useful for SBCustomMobTex
     "enabled": true,
     "icon": "skyclient.png",
     "packages": [
-      "scrollabletooltips"
+      "scrollabletooltips",
+      "controlling"
     ],
     "actions": [
       {
