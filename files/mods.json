@@ -27,7 +27,8 @@ packs-string array -   - useful for SBCustomMobTex
     "enabled": true,
     "icon": "skyclient.png",
     "packages": [
-      "scrollabletooltips"
+      "scrollabletooltips",
+      "controlling"
     ],
     "actions": [
       {
@@ -39,6 +40,11 @@ packs-string array -   - useful for SBCustomMobTex
         "icon": "itlt.png", 
         "text": "It's the little things",
         "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
+      },
+      {
+        "icon": "controlling.png", 
+        "text": "Controlling",
+        "link": "https://www.curseforge.com/minecraft/mc-mods/controlling"
       }
     ]
   },
@@ -395,6 +401,15 @@ packs-string array -   - useful for SBCustomMobTex
     "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
     "hidden": true,
     "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar"
+  },
+  {
+    "id": "controlling",
+    "enabled": false,
+    "file": "Controlling-7.0.0.2.jar",
+    "display": "Utility mods",
+    "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
+    "hidden": true,
+    "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar"
   },
   {
     "id": "tnttime",
