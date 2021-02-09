@@ -215,7 +215,7 @@ packs-string array -   - useful for SBCustomMobTex
       },
       {
         "text": "Github",
-        "link": "https://github.com/Moulberry/NotEnoughUpdates/releases/"
+        "link": "https://github.com/Moulberry/NotEnoughUpdates/releases"
       }
     ]
   },
@@ -242,6 +242,32 @@ packs-string array -   - useful for SBCustomMobTex
       {
         "text": "Github",
         "link": "https://github.com/bowser0000/SkyblockMod/releases"
+      }
+    ]
+  },
+  {
+    "id": "skytils",
+    "file": "Skytils-0.0.5-pre2.jar",
+    "display": "Skytils,
+    "description": "Adds QOL features and more solvers to SkyBlock",
+    "icon": "skytils.png",
+    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.0.5-pre2/Skytils-0.0.5-pre2.jar",
+    "actions": [
+      {
+        "method": "hover",
+        "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
+      },
+      {
+        "text": "Guide",
+        "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md"
+      },
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3856202/"
+      },
+      {
+        "text": "Github",
+        "link": "https://github.com/Skytils/SkytilsMod/releases"
       }
     ]
   },
