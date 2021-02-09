@@ -1,21 +1,3 @@
-/*
-required arguments:
-id-string: -   -   -   - Identification for mod, backend, just use mod's name with only letters in lowercase
-file-string:   -   -   - File name
-display-string:    -   - What it shows in the program for the mod
-description-string:    - Short description of the mod
-
-optional arguments:  
-enabled-bool:  -   -   - If mod is enabled by default, default false
-warning-string:    -   - a warning message that will appear if you toggle the mod to be enabled
-hidden-bool:   -   -   - does not show in the program if true, default false
-packages-string array: - library
-autoconfig-bool:   -   - will automatically configurate itself uppon install, requires backend, default false
-url-string:    -   -   - external download link - must be a full link
-icon-string:   -   -   - icon name of the mod, transparent if empty
-actions-action array   - an array of actions, an action is made out of text-string and link-string
-packs-string array -   - useful for SBCustomMobTex
-*/
 [
   {
     "id": "itlt",
