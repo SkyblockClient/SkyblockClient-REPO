@@ -248,7 +248,7 @@ packs-string array -   - useful for SBCustomMobTex
   {
     "id": "skytils",
     "file": "Skytils-0.0.5-pre2.jar",
-    "display": "Skytils,
+    "display": "Skytils",
     "description": "Adds QOL features and more solvers to SkyBlock",
     "icon": "skytils.png",
     "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.0.5-pre2/Skytils-0.0.5-pre2.jar",
