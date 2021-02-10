@@ -7,15 +7,18 @@ discord.gg/qgs9ppaVKz
 # Skytils - How do I use it?
 
 #### The commands for Skytils are:
-> /skytils
+> /skytils or /st
 
 Open the mod's config menu - turn on features and solvers.
 > /skytils setkey [key]
 
-Set your API key.
+Sets your API key (will also grab it from /api new).
+> /skytils reloaddata
+
+Forces Skytils to re-fetch solutions from the data repository.
 > /skytils griffin refresh
 
-Refreshes the griffin waypoints.
+Forces a refresh for the Griffin burrow waypoints.
 > /rp
 
-Disbands and reparties your current party for dungeons.
+Disbands and sends a party invite to everyone who was in your party for dungeons.
