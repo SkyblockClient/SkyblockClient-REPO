@@ -203,11 +203,11 @@
   },
   {
     "id": "dankers",
-    "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.4.jar",
+    "file": "Dankers_Skyblock_Mod-1.8.5-beta8.jar",
     "display": "Danker's Skyblock mod",
     "description": "Provides dungeon utilities like puzzle solvers and such",
     "icon": "dsm logo cropped.png",
-    "url": "https://cdn.discordapp.com/attachments/742114256555606106/794386050369323018/Dankers_Skyblock_Mod-1.8.5-beta7.jar",
+    "url": "https://cdn.discordapp.com/attachments/742114256555606106/809239484092776448/Dankers_Skyblock_Mod-1.8.5-beta8.jar",
     "actions": [
       {
         "method": "hover",
