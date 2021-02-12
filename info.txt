@@ -1,3 +1,6 @@
+SkyClient 1.3.2 Changelog
+- Animated Launcher icon
+
 SkyClient 1.3.1 Changelog
 - Fixed SSL/TLS compatability issue
 
