@@ -14,20 +14,6 @@
     ]
   },
   {
-    "id": "smollicons",
-    "file": "Smoll_Icons.zip",
-    "display": "Smol icons",
-    "description": "Simple pack that replaces the icons in the Skyblock Menu UI text with minimal and smaller icons - by _HeroBear_",
-    "enabled": true,
-    "icon": "smol_icons.png",
-    "actions": [
-      { 
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
-      }
-    ]
-  },
-  {
     "id": "actuallymobpacket",
     "file": "ActuallyPacketsv0.1.zip",
     "display": "ActuallyPacket v0.1",
@@ -198,6 +184,20 @@
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3482676/"
+      }
+    ]
+  },
+  {
+    "id": "smollicons",
+    "file": "Smoll_Icons.zip",
+    "display": "Smol icons",
+    "description": "Simple pack that replaces the icons in the Skyblock Menu UI text with minimal and smaller icons - by _HeroBear_",
+    "enabled": true,
+    "icon": "smol_icons.png",
+    "actions": [
+      { 
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
       }
     ]
   },
