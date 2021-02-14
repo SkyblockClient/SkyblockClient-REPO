@@ -54,19 +54,6 @@
     ]
   },
   {
-    "id": "hsb",
-    "file": "HSB Texturepack V1.6.zip 16x",
-    "display": "Sluzeeey's HSB Texturepack",
-    "description": "A Simplistic skyblock texture pack",
-    "icon": "hsb.png",
-    "actions": [
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3527502/"
-      }
-    ]
-  },
-  {
     "id": "vtay",
     "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
     "display": "vTay's Skyblock Smoothie 16x",
@@ -76,6 +63,32 @@
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3178679/"
+      }
+    ]
+  },
+  {
+    "id": "rnbw",
+    "file": "RNBW+ v0.4.zip",
+    "display": "RNBW+ 16x",
+    "description": "An extension to Vanilla+",
+    "icon": "rnbw.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3470904/"
+      }
+    ]
+  },
+  {
+    "id": "hsb",
+    "file": "HSB Texturepack V1.6.zip 16x",
+    "display": "Sluzeeey's HSB Texturepack",
+    "description": "A Simplistic skyblock texture pack",
+    "icon": "hsb.png",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3527502/"
       }
     ]
   },
@@ -177,13 +190,13 @@
     "icon": "fsr.png",
     "actions": [
       {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3482676/"
+      },
+      {
         "icon": "furfskywebsite.ico",
         "text": "Website",
         "link": "https://furfsky.github.io/"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3482676/"
       }
     ]
   },
