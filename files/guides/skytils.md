@@ -19,6 +19,9 @@ Forces Skytils to re-fetch solutions from the data repository.
 > /skytils griffin refresh
 
 Forces a refresh for the Griffin burrow waypoints.
-> /rp
+> /reparty (/rp)
 
 Disbands and sends a party invite to everyone who was in your party for dungeons.
+> /armorcolor (/armourcolour) <set/clear/clearall>
+ 
+Changes the color of an armor piece to the hexcode or decimal color provided.
