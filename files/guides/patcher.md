@@ -1,7 +1,7 @@
 # Credits
 #### Source
 https://sk1er.club/mods/patcher
-#### Beta programm
+#### Beta program
 https://sk1er.club/beta
 #### Discord
 discord.gg/sk1er
