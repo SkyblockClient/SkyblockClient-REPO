@@ -2,8 +2,8 @@
 
 ## Includes:
 
-- Sound subtitles (Author: Sk1er LLC)
-- Popup events (Author: Sk1er LLC)
+- Sound Subtitles (Author: Sk1er LLC)
+- Popup Events (Author: Sk1er LLC)
 - TNT Time (Author: Sk1er LLC)
 - Insomnia (Author: Moulberry)
 
@@ -19,7 +19,7 @@ Allows you to easily accept/deny a request on Hypixel with the press of a single
 
 ### TNT Timer
 
-Shows how long until tnt will explode above the tnt
+Shows how long until TNT will explode above the TNT
 
 ### Insomnia (Anti-Dream Skin)
 
