@@ -1,7 +1,7 @@
 # Credits
 #### Source
 https://biscuit.codes/mods/skyblockaddons/
-#### Disord
+#### Discord
 discord.gg/biscuit
 
 # Skyblock Addons - How do i use it?
