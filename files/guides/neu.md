@@ -1,7 +1,7 @@
 # Credits
 #### Source
 https://github.com/Moulberry/NotEnoughUpdates/releases
-#### Disord
+#### Discord
 discord.gg/moulberry
 
 # Not Enough Updates - How do i use it?
