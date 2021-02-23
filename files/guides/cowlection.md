@@ -1,7 +1,7 @@
 # Credits
 #### Source
 https://github.com/cow-mc/Cowlection/releases
-#### Disord
+#### Discord
 discord.gg/fU2tFPf
 
 # Cowlection - How do i use it?
