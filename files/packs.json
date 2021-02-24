@@ -135,7 +135,7 @@
     "icon": "packshq.png",
     "actions": [
       {
-        "method": "hover",
+        "method": "this is not really a method but it doesn't crash so i'll use it to disable the preview",
         "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/hq16f.md"
       },
       {
