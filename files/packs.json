@@ -135,6 +135,10 @@
     "icon": "packshq.png",
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/hq16f.md"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/2103515/"
       },
