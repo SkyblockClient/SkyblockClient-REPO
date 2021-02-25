@@ -343,7 +343,7 @@
     "description": "Requirement for DungeonUtilties and SoopyAddons",
     "warning" : {
       "lines" : [
-        "A better alternative to this mod would be Cowlection and Dankers.",
+        "A better alternative to this mod would be Cowlection, Dankers, and Skytils.",
         "This mod doesn't ship with modules.\n The recommended module is:",
         "\t/ct import DungeonUtilities",
         "You can import the module by typing the command in-game. No restart required",
