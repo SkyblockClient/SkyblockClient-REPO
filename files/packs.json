@@ -188,8 +188,13 @@
   },
   {
     "id": "fsr",
+<<<<<<< Updated upstream
     "file": "FurfSky Reborn [1.2.1].zip",
     "display": "FurfSky Reborn v1.2.1 16x",
+=======
+    "file": "FurfSky Reborn [1.2.2].zip",
+    "display": "FurfSky Reborn v1.2.2 16x",
+>>>>>>> Stashed changes
     "description": "The continuation of Fursky+",
     "icon": "fsr.png",
     "actions": [
