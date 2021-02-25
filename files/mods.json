@@ -391,14 +391,6 @@
     ]
   },
   {
-    "id": "resourceloader",
-    "file": "ResourceLoader-MC1.8.8-1.4.jar",
-    "display": "Resource Loader",
-    "description": "Loads Resources for Custom Main Menu",
-    "hidden": true,
-    "enabled": false
-  },
-  {
     "id": "rpm",
     "file": "Resource_Pack_Manager_1.2.jar",
     "display": "Resource Pack Manager",
