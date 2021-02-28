@@ -4,5 +4,6 @@ Check out https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/Globa
 */
 {
     "ignoreOutdatedVersion": false,
-    "version": "1.3.0"
+    "version": "1.3.6",
+    "enableUpdateButton": false
 }
