@@ -34,7 +34,7 @@
     "icon": "skyclient.png",
     "enabled": true,
     "packages": [
-      "rpm", "controlling", "smoothscrollingeverywhere"
+      "rpm", "smoothscrollingeverywhere"
     ],
     "actions": [
       {
@@ -46,11 +46,6 @@
         "icon": "aycy.jpg", 
         "text": "Resource pack manager",
         "link": "https://www.youtube.com/watch?v=OQZFWrrEcYM"
-      },
-       {
-        "icon": "controlling.png", 
-        "text": "Controlling",
-        "link": "https://www.curseforge.com/minecraft/mc-mods/controlling"
       },
       {
         "icon": "smooth scrolling everywhere.png",
