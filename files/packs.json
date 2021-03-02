@@ -6,6 +6,7 @@
     "description": "The Resource Pack that (almost) adds textures to the custom skyblock mobs!\nByMira_23 and Viska",
     "enabled": true,
     "icon": "mob packet.png",
+    "categories": ["3;Mobs"],
     "actions": [
       { 
         "text": "Forum",
@@ -18,7 +19,8 @@
     "file": "ActuallyPacketsv0.1.zip",
     "display": "ActuallyPacket v0.1",
     "description": "Branch of Mob Packet with ActuallyMobs textures\nBy Motor",
-    "icon": "actuallyassets.png"
+    "icon": "actuallyassets.png",
+    "categories": ["3;Mobs"]
   },
   {
     "id": "dungeontexturepack",
@@ -38,7 +40,8 @@
     "file": "ActuallyMobsv0.1.zip",
     "display": "ActuallyMobs v0.1",
     "description": "Quality Retextures for Skyblock Mobs\nBy Motor",
-    "icon": "actuallymobs.png"
+    "icon": "actuallymobs.png",
+    "categories": ["3;Mobs"]
   },
   {
     "id": "skymobs",
@@ -46,6 +49,7 @@
     "display": "SkyMobs",
     "description": "Resource Pack for the SBCustomMobTex Mod.\nBy TBlazeWarrior and Moulberry",
     "icon": "skymobs.png",
+    "categories": ["3;Mobs"],
     "actions": [
       { 
         "text": "Github",
@@ -59,6 +63,7 @@
     "display": "vTay's Skyblock Smoothie 16x",
     "description": "vTays mix of different skyblock packs\nIn vTays' terms \"A refreshing taste of skyblock texture packs\"",
     "icon": "vtays.png",
+    "categories": ["2;Mix Packs"],
     "actions": [
       {
         "text": "Forum",
@@ -72,6 +77,7 @@
     "display": "RNBW+ 16x",
     "description": "An extension to Vanilla+",
     "icon": "rnbw.png",
+    "categories": ["1;Full"],
     "actions": [
       {
         "text": "Forum",
@@ -85,6 +91,7 @@
     "display": "Sluzeeey's HSB Texturepack",
     "description": "A Simplistic skyblock texture pack",
     "icon": "hsb.png",
+    "categories": ["1;Full"],
     "actions": [
       {
         "text": "Forum",
@@ -98,6 +105,7 @@
     "display": "Worlds and Beyond 16x",
     "description": "A texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are)\nIt also includes a revamped vanilla GUI as well to spice up your gameplay.",
     "icon": "worldsandbeyond.png",
+    "categories": ["1;Full"],
     "actions": [
       {
         "text": "Forum",
@@ -113,6 +121,7 @@
     "description": "Packs HQ Skyblock Pack dark UI",
     "url": "https://packshq.com/assets/packs/Dark_Skyblock_UI.zip",
     "icon": "phq dark overlay.png",
+    "categories": ["5;PacksHQ", "99;Other"],
     "actions": [
       {
         "text": "Forum",
@@ -133,6 +142,7 @@
     "description": "Packs HQ Skyblock Pack 16x. Standalone",
     "url": "https://packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip",
     "icon": "packshq.png",
+    "categories": ["5;PacksHQ", "1;Full"],
     "actions": [
       {
         "method": "this is not really a method but it doesn't crash so i'll use it to disable the preview",
@@ -156,6 +166,7 @@
     "description": "Packs HQ Skyblock Pack 32x. Use Standalone and in combination with Faithful",
     "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
     "icon": "packshq.png",
+    "categories": ["5;PacksHQ", "1;Full"],
     "actions": [
       {
         "text": "Forum",
@@ -174,6 +185,7 @@
     "display": "ActuallyAssets v1.8.1 16x",
     "description": "Clean and Simple Skyblock Pack",
     "icon": "actuallyassets.png",
+    "categories": ["1;Full"],
     "actions": [
       {
         "text": "Forum",
@@ -192,6 +204,7 @@
     "display": "FurfSky Reborn v1.2.2 16x",
     "description": "The continuation of Fursky+",
     "icon": "fsr.png",
+    "categories": ["1;Full"],
     "actions": [
       {
         "text": "Forum",
@@ -225,6 +238,7 @@
     "description": "Faithful 1.14 port - Dark mode version\nby 8KCoffeeWizard",
     "icon": "faithful.png",
     "hidden": false,
+    "categories": ["4;Vanilla"],
     "actions": [
       {
         "icon": "faithful team logo.png",
@@ -240,6 +254,7 @@
     "display": "1.14 Default 16x",
     "description": "Default 1.14 port\nby Qwuiblington, edited by Motor",
     "icon": "default.png",
+    "categories": ["4;Vanilla"],
     "actions": [
       {
         "text": "Curseforge",
@@ -253,6 +268,7 @@
     "display": "1.14 Faithful 32x",
     "description": "Faithful 1.14 port\nby 8KCoffeeWizard",
     "icon": "faithful team logo.png",
+    "categories": ["4;Vanilla"],
     "hidden": false,
     "actions": [
       {

@@ -8,6 +8,7 @@
     "config": true,
     "enabled": true,
     "icon": "skyclient.png",
+    "categories": ["1;Bundles"],
     "packages": [
       "scrollabletooltips"
     ],
@@ -32,6 +33,7 @@
     "description": "Adds a custom main menu to SkyClient\nAdds a custom gui for the resoucepack manager",
     "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
     "icon": "skyclient.png",
+    "categories": ["1;Bundles"],
     "enabled": true,
     "packages": [
       "rpm", "smoothscrollingeverywhere"
@@ -61,6 +63,7 @@
     "description": "Adds sound subtitles, which are only available \nby default in 1.9+, as well as a TNT countdown timer, and popup events \n(easier to accept party, friend, and guild invites)",
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "icon": "skyclient.png",
+    "categories": ["1;Bundles"],
     "enabled": false,
     "packages": [
       "popup_events", "tnttime", "antidreamskin"
@@ -104,6 +107,7 @@
     "display": "Optifine M5",
     "description": "Essential for every game",
     "icon": "optifine.png",
+    "categories": ["2;Optimization"],
     "actions": [
       {
         "icon": "optifine.png",
@@ -119,6 +123,7 @@
     "display": "Patcher",
     "description": "Provides a massive FPS boost, along with some nice QOL features and bug fixes.",
     "icon": "sk1er monkey.png",
+    "categories": ["2;Optimization"],
     "url": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
     "actions": [
       {
@@ -143,6 +148,7 @@
     "display": "SkyblockAddons",
     "description": "Essential for Skyblock",
     "icon": "bisquit.png",
+    "categories": ["3;Skyblock"],
     "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
     "actions": [
       {
@@ -176,6 +182,7 @@
     "display": "Not Enough Updates",
     "description": "Provides a full list of every Skyblock item and much more",
     "icon": "neulogo.png",
+    "categories": ["3;Skyblock"],
     "url": "https://cdn.discordapp.com/attachments/693586404256645231/802187976758526002/NotEnoughUpdates-1.7.3-RELjar.jar",
     "actions": [
       {
@@ -202,6 +209,7 @@
     "display": "Danker's Skyblock mod",
     "description": "Provides dungeon utilities like puzzle solvers and such",
     "icon": "dsm logo cropped.png",
+    "categories": ["3;Skyblock"],
     "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.5/1.8.9.Danker.s.Skyblock.Mod.-.1.8.5.jar",
     "actions": [
       {
@@ -228,6 +236,7 @@
     "display": "Skytils",
     "description": "Adds QOL features and more solvers to SkyBlock",
     "icon": "skytils.png",
+    "categories": ["3;Skyblock"],
     "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.0.8-pre7/Skytils-0.0.8-pre7.jar",
     "actions": [
       {
@@ -255,6 +264,7 @@
     "description": "Very high quality HUD mod that makes your interface look like RPG game",
     "url": "https://media.forgecdn.net/files/3176/213/Apec-1.8.jar",
     "icon": "apec.png",
+    "categories": ["3;Skyblock"],
     "actions": [
       {
         "method": "hover",
@@ -285,6 +295,7 @@
     "display": "Cowlection",
     "description": "A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use",
     "icon": "cowlection-logo.png",
+    "categories": ["3;Skyblock"],
     "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.12.0/Cowlection-1.8.9-0.12.0.jar",
     "actions": [
       {
@@ -348,6 +359,7 @@
       ]
     },
     "icon": "chattriggers 48x.ico",
+    "categories": ["3;Skyblock"],
     "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.1/ctjs-1.3.1-1.8.9.jar",
     "hidden": false,
     "actions": [
@@ -364,6 +376,7 @@
     "display": "SBCustomMobTex",
     "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to retexture them",
     "icon": "moulberrys bush.png",
+    "categories": ["3;Skyblock"],
     "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
     "warning": {
       "lines": [
