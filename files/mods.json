@@ -224,11 +224,11 @@
   },
   {
     "id": "skytils",
-    "file": "Skytils-0.0.8-pre5.jar",
+    "file": "Skytils-0.0.8-pre7.jar",
     "display": "Skytils",
     "description": "Adds QOL features and more solvers to SkyBlock",
     "icon": "skytils.png",
-    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.0.8-pre5/Skytils-0.0.8-pre5.jar",
+    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.0.8-pre7/Skytils-0.0.8-pre7.jar",
     "actions": [
       {
         "method": "hover",
