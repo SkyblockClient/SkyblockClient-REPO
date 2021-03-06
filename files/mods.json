@@ -366,7 +366,7 @@
     ]
   },
   {
-    "id": "keystrokes",
+    "id": "timechanger",
     "file": "TimeChanger-2.2.jar",
     "display": "TimeChanger",
     "description": "Tricks your game into thinking the server time is different. Very useful for shaderpacks!",
