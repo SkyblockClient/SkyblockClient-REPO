@@ -369,7 +369,7 @@
     "id": "keystrokes",
     "file": "TimeChanger-2.2.jar",
     "display": "TimeChanger",
-    "description": "Tricks your game into thinking the server time is different. Very useful for texturepacks!",
+    "description": "Tricks your game into thinking the server time is different. Very useful for shaderpacks!",
     "icon": "clock.png",
     "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2/TimeChanger-2.2.jar",
     "actions": [
