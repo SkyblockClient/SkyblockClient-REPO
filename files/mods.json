@@ -366,6 +366,20 @@
     ]
   },
   {
+    "id": "keystrokes",
+    "file": "TimeChanger-2.2.jar",
+    "display": "TimeChanger",
+    "description": "Tricks your game into thinking the server time is different. Very useful for texturepacks!",
+    "icon": "clock.png",
+    "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2/TimeChanger-2.2.jar",
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3574261/"
+      }
+    ]
+  },
+  {
     "id": "ctjs",
     "enabled": false,
     "file": "ctjs-1.3.1-1.8.9.jar",
