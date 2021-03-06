@@ -322,6 +322,30 @@
     ]
   },
   {
+    "id": "sbp",
+    "file": "1.8.9_SkyblockPersonalized_1.5.1.0.jar",
+    "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.5.1/1.8.9_SkyblockPersonalized_1.5.1.0.jar",
+    "display": "SkyblockPersonalized",
+    "description": "A QoL Mod with way to much customizability",
+    "icon": "sbp.png",
+    "categories": ["3;Skyblock"],
+    "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md"
+      },
+      {
+        "text": "Discord",
+        "icon": "discord icon.png",
+        "link": "https://discord.gg/KsqMmBdNBE"
+      },
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3963451/"
+      }
+    ]
+  },
+  {
     "id": "keystrokes",
     "file": "Keystrokes-8.0.2 (1.8.9).jar",
     "display": "Keystrokes",
