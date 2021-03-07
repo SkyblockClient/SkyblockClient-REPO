@@ -122,24 +122,6 @@
             "posY" : -30,
             "color" : -1,
             "alignment" : "bottom_left"
-        },
-
-        "changelogtext":
-        {
-            "text" : "SkyClient v1.0 Released!",
-            "posX" : 250,
-            "posY" : -100,
-            "fontSize": 1.5,
-            "color" : -1,
-            "alignment" : "left_center"
-        },
-
-        "changelog": { 
-            "text": "Click \"Changelog\" to learn more!",
-            "posX": 250,
-            "posY": -75,
-            "color": -1,
-            "alignment": "left_center" 
         }
 
     },
