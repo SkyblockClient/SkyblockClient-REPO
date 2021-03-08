@@ -60,7 +60,7 @@
     "id": "antidreamskin",
     "file": "Insomnia-1.0-REL.jar",
     "display": "QOL Bundle",
-    "description": "Adds sound subtitles, which are only available \nby default in 1.9+, as well as a TNT countdown timer, and popup events \n(easier to accept party, friend, and guild invites)",
+    "description": "Adds a TNT countdown timer, and popup events \n(easier to accept party, friend, and guild invites)",
     "icon": "skyclient.png",
     "categories": ["1;Bundles"],
     "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
