@@ -57,16 +57,15 @@
     ]
   },
   {
-    "id": "soundsubtitles",
-    "file": "Sound Subtitles-1.1 (1.8.9).jar",
+    "id": "antidreamskin",
+    "file": "Insomnia-1.0-REL.jar",
     "display": "QOL Bundle",
     "description": "Adds sound subtitles, which are only available \nby default in 1.9+, as well as a TNT countdown timer, and popup events \n(easier to accept party, friend, and guild invites)",
-    "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "icon": "skyclient.png",
     "categories": ["1;Bundles"],
-    "enabled": false,
+    "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
     "packages": [
-      "popup_events", "tnttime", "antidreamskin"
+      "popup_events", "tnttime"
     ],
     "actions": [
       {
@@ -81,11 +80,6 @@
         "icon": "sk1er monkey.png", 
         "text": "TNT Timer",
         "link": "https://sk1er.club/mods/tnttime"
-      },
-      {
-        "icon": "sk1er monkey.png", 
-        "text": "Sound Subtitles",
-        "link": "https://sk1er.club/mods/subtitles_mod"
       },
       {
         "icon": "sk1er monkey.png", 
@@ -490,12 +484,11 @@
     "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar"
   },
   {
-    "id": "antidreamskin",
-    "file": "Insomnia-1.0-REL.jar",
-    "display": "No Dream Skins",
-    "description": "Replaces all Dream skins with Steve and Alex skins\nCommands: /insomnia on/off",
-    "icon": "moulberrys bush.png",
-    "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+    "id": "soundsubtitles",
+    "file": "Sound Subtitles-1.1 (1.8.9).jar",
+    "display": "Sound Subtitles",
+    "description": "Adds sound subtitles",
+    "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "hidden": true
   },
   {
