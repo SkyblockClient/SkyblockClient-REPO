@@ -13,12 +13,21 @@ Open the mod's config menu - turn on features and solvers.
 > /skytils setkey [key]
 
 Sets your API key (will also grab it from /api new).
-> /skytils reloaddata
+> /skytils reload <aliases/data>
 
-Forces Skytils to re-fetch solutions from the data repository.
+Forces Skytils to re-fetch command aliases or solutions from the data repository.
+> /skytils editlocations
+
+Opens the location editing GUI.
+> /skytils aliases
+
+Opens the command alias editing GUI.
 > /skytils griffin refresh
 
 Forces a refresh for the Griffin burrow waypoints.
+> /skytils fetchur
+
+Shows the item that Fetchur wants.
 > /reparty (/rp)
 
 Disbands and sends a party invite to everyone who was in your party for dungeons.
