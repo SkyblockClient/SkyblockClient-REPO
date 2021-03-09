@@ -16,11 +16,13 @@
       {
         "icon": "sk1er monkey.png", 
         "text": "Scrollable Tooltips",
+        "creator": "Sk1er LLC",
         "link": "https://sk1er.club/mods/text_overflow_scroll"
       },
       {
         "icon": "itlt.png", 
         "text": "It's The Little Things",
+        "creator": "Zlepper and Paint_Ninja",
         "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
       }
     ]
@@ -42,16 +44,19 @@
       {
         "icon": "cmm.png", 
         "text": "Custom Main Menu",
+        "creator": "Lumien231",
         "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
       },
       {
         "icon": "aycy.jpg", 
         "text": "Resource pack manager",
+        "Creator": "Aycy",
         "link": "https://www.youtube.com/watch?v=OQZFWrrEcYM"
       },
       {
         "icon": "smooth scrolling everywhere.png",
         "text": "Smooth Scrolling Everywhere",
+        "creator": "Shedaniel",
         "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
       }
     ]
@@ -64,6 +69,7 @@
     "icon": "skyclient.png",
     "categories": ["1;Bundles"],
     "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+    "creator": "Moulberry",
     "packages": [
       "popup_events", "tnttime"
     ],
@@ -102,6 +108,7 @@
     "description": "Essential for every game",
     "icon": "optifine.png",
     "categories": ["2;Optimization"],
+    "creator": "sp614x",
     "actions": [
       {
         "icon": "optifine.png",
@@ -119,6 +126,7 @@
     "icon": "sk1er monkey.png",
     "categories": ["2;Optimization"],
     "url": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
+    "creator": "Sk1er LLC",
     "actions": [
       {
         "method": "hover",
@@ -144,6 +152,7 @@
     "icon": "bisquit.png",
     "categories": ["3;Skyblock"],
     "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
+    "creator": "Biscuit",
     "actions": [
       {
         "method": "hover",
@@ -178,6 +187,7 @@
     "icon": "neulogo.png",
     "categories": ["3;Skyblock"],
     "url": "https://cdn.discordapp.com/attachments/693586404256645231/802187976758526002/NotEnoughUpdates-1.7.3-RELjar.jar",
+    "creator": "Moulberry",
     "actions": [
       {
         "method": "hover",
@@ -205,6 +215,7 @@
     "icon": "dsm logo cropped.png",
     "categories": ["3;Skyblock"],
     "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.5/1.8.9.Danker.s.Skyblock.Mod.-.1.8.5.jar",
+    "creator": "DankerWanker",
     "actions": [
       {
         "method": "hover",
@@ -232,6 +243,7 @@
     "icon": "skytils.png",
     "categories": ["3;Skyblock"],
     "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.1.1/Skytils-0.1.1.jar",
+    "creator": "Sychic and Lily",
     "actions": [
       {
         "method": "hover",
@@ -259,6 +271,7 @@
     "url": "https://media.forgecdn.net/files/3176/213/Apec-1.8.jar",
     "icon": "apec.png",
     "categories": ["3;Skyblock"],
+    "creator": "BananaFructa",
     "actions": [
       {
         "method": "hover",
@@ -291,6 +304,7 @@
     "icon": "cowlection-logo.png",
     "categories": ["3;Skyblock"],
     "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.12.0/Cowlection-1.8.9-0.12.0.jar",
+    "creator": "Cow",
     "actions": [
       {
         "method": "hover",
@@ -323,6 +337,7 @@
     "description": "A QoL Mod with way too much customizability",
     "icon": "sbp.png",
     "categories": ["3;Skyblock"],
+    "creator": "Cobble8",
     "actions": [
       {
         "method": "hover",
@@ -346,6 +361,7 @@
     "description": "KeystrokesMod enables the ability to show the WASD, left and right click, the spacebar, sneak and custom status keys onscreen.",
     "icon": "sk1er monkey.png",
     "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.0.2/1.8.9/Keystrokes-8.0.2%20(1.8.9).jar",
+    "creator": "Sk1er LLC",
     "actions": [
       {
         "icon": "youtube.png", 
@@ -366,6 +382,7 @@
     "description": "Tricks your game into thinking the server time is different. Very useful for shaderpacks!",
     "icon": "clock.png",
     "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2/TimeChanger-2.2.jar",
+    "creator": "Shatterpoint",
     "actions": [
       {
         "text": "Forum",
@@ -394,6 +411,7 @@
     "categories": ["3;Skyblock"],
     "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.1/ctjs-1.3.1-1.8.9.jar",
     "hidden": false,
+    "creator": "Kerbybit",
     "actions": [
       {
         "icon":"chattriggers 48x.ico",
@@ -420,6 +438,7 @@
         "Use anyway?"
       ]
     },
+    "creator": "Moulberry",
     "actions": [
       {
         "text": "Github",
@@ -454,6 +473,7 @@
     "description": "Makes the scrolling in menus smoother",
     "icon": "smooth scrolling everywhere.png",
     "hidden": true,
+    "creator": "Shedaniel",
     "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
   },
   {
@@ -463,6 +483,7 @@
     "display": "Utility mods",
     "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
     "hidden": true,
+    "creator": "Sk1er LLC",
     "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar"
   },
   {
@@ -472,6 +493,7 @@
     "display": "QOL Bundle",
     "description": "Displays the TNT detonation time.",
     "hidden": true,
+    "creator": "Sk1er LLC",
     "url": "https://static.sk1er.club/repo/mods/tnttime/1.0/1.8.9/TNT%20Time-1.0%20(1.8.9).jar"
   },
   {
@@ -481,6 +503,7 @@
     "display": "QOL Bundle",
     "description": "Accept/deny friend/party invite requests",
     "hidden": true,
+    "creator": "Sk1er LLC",
     "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar"
   },
   {
@@ -490,12 +513,14 @@
     "description": "Adds sound subtitles",
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "hidden": true
+    "creator": "Sk1er LLC",
   },
   {
     "id": "minecraft",
     "file": "no",
     "display": "no",
     "description": "this is purely internal",
-    "hidden": true
+    "hidden": true,
+    "creator": "Mojang"
   }
 ]
