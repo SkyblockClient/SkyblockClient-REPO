@@ -512,8 +512,8 @@
     "display": "Sound Subtitles",
     "description": "Adds sound subtitles",
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
-    "hidden": true
-    "creator": "Sk1er LLC",
+    "hidden": true,
+    "creator": "Sk1er LLC"
   },
   {
     "id": "minecraft",
