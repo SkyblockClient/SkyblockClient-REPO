@@ -1,7 +1,3 @@
-# Credits
-#### Source
-https://hypixel.net/threads/mob-packet-dwarven-mines-16x-1-8-1-16.3606096/
-
 # Mob packet - custom textures for all the mobs in skyblock
 
 This resourcepack aims to give unique textures to all the mobs in skyblock, and spices up your gameplay experience!

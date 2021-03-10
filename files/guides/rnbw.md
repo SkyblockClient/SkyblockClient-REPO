@@ -1,9 +1,3 @@
-# Credits
-#### Source
-https://hypixel.net/threads/rnbw-resource-pack-v0-5-0-update-v0-5-0-dwarven-mines.3470904/
-# Discord
-discord.gg/dcdsnvG4Q4
-
 # RNBW+ 
 
 This pack includes updated and improved textures from the Vanilla+ resourcepack, and new textures as well.

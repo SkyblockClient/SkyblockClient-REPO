@@ -1,9 +1,3 @@
-# Credits
-#### Source
-https://hypixel.net/threads/1-8-2-redos-misc-actuallyassets-a-vanilla-esque-resource-pack-made-for-skyblock.3129905/
-#### Discord
-discord.gg/ABHrh6K3Fh
-
 # Actually Assets - A vanilla-esque resource pack made for Skyblock
 
 ActuallyAssets is a Hypixel Skyblock texture pack that has three main goals:

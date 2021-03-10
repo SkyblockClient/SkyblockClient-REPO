@@ -1,9 +1,3 @@
-# Credits
-#### Source
-https://hypixel.net/threads/worlds-and-beyond-16x-dwarven-mines-update-version-1-3.3597207/
-# Discord
-discord.gg/TXufEf3QaA
-
 # Worlds and Beyond 
 
 This is an unique skyblock texture pack featuring high quality and detailed pixel art, for revamping the entire look of your game. 

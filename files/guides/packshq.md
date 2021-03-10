@@ -1,9 +1,3 @@
-# Credits
-#### Source
-https://hypixel.net/threads/hypixel-skyblock-pack-the-necron-update.2103515/
-#### Discord
-discord.gg/XKmUE2jk3c
-
 # Hypixel Skyblock pack by PacksHQ
 
 One of the first skyblock packs to ever come out, this pack is maintained by a large number of artists, and features custom textures for 
