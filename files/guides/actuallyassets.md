@@ -7,7 +7,7 @@ ActuallyAssets is a Hypixel Skyblock texture pack that has three main goals:
 
 This pack also features some custom skull textures and mithril textures if you use the NotEnoughUpdates mod!
 
-![images of the items in the pack](https://i.imgur.com/ZAkUNb1l.png)
+![images of the items in the pack](https://i.imgur.com/ZAkUNb1.png)
 
 
 
