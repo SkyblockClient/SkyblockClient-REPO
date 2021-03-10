@@ -11,6 +11,10 @@
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/mobpacket.md"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3606096/"
       }
@@ -34,6 +38,10 @@
     "description": "Dungeons Texturepack by gratenes and Havenz",
     "icon": "dungeon texturepack 1024x.png",
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3143529/"
@@ -78,6 +86,10 @@
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3178679/"
       }
@@ -93,6 +105,10 @@
       "1;Full"
     ],
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/rnbw.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3470904/"
@@ -125,6 +141,10 @@
       "1;Full"
     ],
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3597207/"
@@ -187,8 +207,8 @@
     ],
     "actions": [
       {
-        "method": "this is not really a method but it doesn't crash so i'll use it to disable the preview",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/hq16f.md"
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
       },
       {
         "text": "Forum",
@@ -214,6 +234,10 @@
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/2103515/"
       },
@@ -237,6 +261,10 @@
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
+      },
+      {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3129905/"
       },
@@ -257,6 +285,10 @@
       "1;Full"
     ],
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/furfreborn.md"
+      },
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/3482676/"
@@ -294,6 +326,10 @@
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
+      },
+      {
         "icon": "faithful team logo.png",
         "text": "Website",
         "link": "https://faithful.team/"
@@ -312,6 +348,10 @@
     ],
     "actions": [
       {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/1.14backport.md"
+      },
+      {
         "text": "Curseforge",
         "link": "https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport/"
       }
@@ -328,6 +368,10 @@
     ],
     "hidden": false,
     "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
+      },
       {
         "icon": "faithful team logo.png",
         "text": "Website",
