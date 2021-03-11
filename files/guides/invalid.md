@@ -1,3 +1,5 @@
-# THIS IS A BUG, PLEASE REPORT IT TO THE CREATOR OF SKYCLIENT
+# THIS IS A BUG, PLEASE REPORT IT TO US
 
-Please describe what you have clicked to open this page
+https://discord.gg/VPqDRWSHN2
+
+Please describe what you have clicked to open this page.
