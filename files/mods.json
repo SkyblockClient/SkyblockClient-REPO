@@ -237,12 +237,12 @@
   },
   {
     "id": "skytils",
-    "file": "Skytils-0.1.2-pre2.jar",
+    "file": "Skytils-0.1.2-pre3.jar",
     "display": "Skytils",
     "description": "Adds QOL features and more solvers to SkyBlock",
     "icon": "skytils.png",
     "categories": ["3;Skyblock"],
-    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.1.2-pre2/Skytils-0.1.2-pre2.jar",
+    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.1.2-pre3/Skytils-0.1.2-pre3.jar",
     "creator": "Sychic and Lily",
     "actions": [
       {
