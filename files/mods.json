@@ -490,7 +490,7 @@
     "id": "tnttime",
     "enabled": false,
     "file": "TNT Time-1.0 (1.8.9).jar",
-    "display": "QOL Bundle",
+    "display": "TNT Time",
     "description": "Displays the TNT detonation time.",
     "hidden": true,
     "creator": "Sk1er LLC",

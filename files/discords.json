@@ -13,36 +13,52 @@
             "skyblockaddons",
             "biscuit",
             "bb"
+        ],
+        "mods": [
+            "sba"
         ]
     },
     {
         "id": "apec",
-        "secret": "HyvcR9a3x9"
+        "secret": "HyvcR9a3x9",
+        "mods": [
+            "apec"
+        ]
     },
     {
         "id": "cowlection",
-        "secret": "KRq5ZY9Hma"
+        "secret": "KRq5ZY9Hma",
+        "mods": [
+            "cowlection"
+        ]
     },
     {
         "id": "dsm",
         "secret": "BUmywXX47M",
         "nicknames": [
             "dankers"
+        ],
+        "mods": [
+            "dankers"
         ]
     },
     {
         "id": "fsr",
-        "secret": "tXxeBkF7Er"
-    },
-    {
-        "id": "sbp",
-        "secret": "KsqMmBdNBE"
+        "secret": "tXxeBkF7Er",
+        "nicknames": [
+            "furfsky"
+        ],
+        "packs": [
+            "fsr"
+        ]
     },
     {
         "id": "sk1er",
         "secret": "sk1er",
         "nicknames": [
-            "patcher"
+            "patcher",
+            "keystrokes",
+            "tnttime"
         ]
     },
     {
@@ -50,10 +66,42 @@
         "secret": "skytils",
         "nicknames": [
             "st"
+        ],
+        "mods": [
+            "skytils"
         ]
     },
     {
         "id": "optifine",
-        "secret": "xGVXsgbbSt"
+        "secret": "xGVXsgbbSt",
+        "mods": [
+            "optifine"
+        ]
+    },
+    {
+        "id": "sbp",
+        "secret": "KsqMmBdNBE",
+        "nicknames": [
+            "skyblockpersonalized"
+        ],
+        "mods": [
+            "sbp"
+        ]
+    },
+    {
+        "id": "aa",
+        "secret": "uxmruk7rtp",
+        "nicknames": [
+            "motors",
+            "actuallyassets",
+            "dwarvenassets",
+            "actuallymobs",
+            "actuallypackets"
+        ],
+        "packs": [
+            "actuallyassets",
+            "actuallymobs",
+            "actuallymobpacket"
+        ]
     }
 ]
