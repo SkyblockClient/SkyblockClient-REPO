@@ -1,7 +1,10 @@
 [
     {
         "id": "neu",
-        "secret": "moulberry"
+        "secret": "moulberry",
+        "mods": [
+            "neu"
+        ]
     },
     {
         "id": "sba",

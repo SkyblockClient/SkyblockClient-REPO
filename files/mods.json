@@ -480,7 +480,7 @@
     "id": "scrollabletooltips",
     "enabled": false,
     "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
-    "display": "Utility mods",
+    "display": "Scrollable Tooltips",
     "description": "Provides the ability to scroll/move tooltips when its length passes your screen\nAdds Hypixel as the default server, and more!",
     "hidden": true,
     "creator": "Sk1er LLC",
