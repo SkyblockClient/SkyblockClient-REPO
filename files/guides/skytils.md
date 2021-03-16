@@ -37,3 +37,12 @@ Disbands and sends a party invite to everyone who was in your party for dungeons
 > /armorcolor (/armourcolour) <set/clear/clearall>
  
 Changes the color of an armor piece to the hexcode or decimal color provided.
+> /glintcustomize override <on/off/clear/clearall>
+
+Change the visibility of enchantment glints for the item.
+> /glintcustomize color <set/clear/clearall>
+
+Change the enchant glint color for the item.
+> /blockability [clearall]
+
+Block using the ability on the currently held item
