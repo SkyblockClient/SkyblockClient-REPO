@@ -1,14 +1,14 @@
 [
     {
         "id": "neu",
-        "secret": "moulberry",
+        "code": "moulberry",
         "mods": [
             "neu"
         ]
     },
     {
         "id": "sba",
-        "secret": "biscuit",
+        "code": "biscuit",
         "nicknames": [
             "skyblockaddons",
             "biscuit",
@@ -20,21 +20,21 @@
     },
     {
         "id": "apec",
-        "secret": "HyvcR9a3x9",
+        "code": "HyvcR9a3x9",
         "mods": [
             "apec"
         ]
     },
     {
         "id": "cowlection",
-        "secret": "KRq5ZY9Hma",
+        "code": "KRq5ZY9Hma",
         "mods": [
             "cowlection"
         ]
     },
     {
         "id": "dsm",
-        "secret": "BUmywXX47M",
+        "code": "BUmywXX47M",
         "nicknames": [
             "dankers"
         ],
@@ -44,7 +44,7 @@
     },
     {
         "id": "fsr",
-        "secret": "tXxeBkF7Er",
+        "code": "tXxeBkF7Er",
         "nicknames": [
             "furfsky"
         ],
@@ -54,7 +54,7 @@
     },
     {
         "id": "sk1er",
-        "secret": "sk1er",
+        "code": "sk1er",
         "nicknames": [
             "patcher",
             "keystrokes",
@@ -63,7 +63,7 @@
     },
     {
         "id": "skytils",
-        "secret": "skytils",
+        "code": "skytils",
         "nicknames": [
             "st"
         ],
@@ -73,14 +73,14 @@
     },
     {
         "id": "optifine",
-        "secret": "xGVXsgbbSt",
+        "code": "xGVXsgbbSt",
         "mods": [
             "optifine"
         ]
     },
     {
         "id": "sbp",
-        "secret": "KsqMmBdNBE",
+        "code": "KsqMmBdNBE",
         "nicknames": [
             "skyblockpersonalized"
         ],
@@ -90,7 +90,7 @@
     },
     {
         "id": "aa",
-        "secret": "uxmruk7rtp",
+        "code": "uxmruk7rtp",
         "nicknames": [
             "motors",
             "actuallyassets",
