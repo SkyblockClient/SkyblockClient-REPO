@@ -1,0 +1,56 @@
+[
+    {
+        "id": "neu",
+        "secret": "moulberry"
+    },
+    {
+        "id": "sba",
+        "secret": "biscuit",
+        "nicknames": [
+            "skyblockaddons",
+            "biscuit",
+            "bb"
+        ]
+    },
+    {
+        "id": "apec",
+        "secret": "HyvcR9a3x9"
+    },
+    {
+        "id": "cowlection",
+        "secret": "KRq5ZY9Hma"
+    },
+    {
+        "id": "dsm",
+        "secret": "BUmywXX47M",
+        "nicknames": [
+            "dankers"
+        ]
+    },
+    {
+        "id": "fsr",
+        "secret": "tXxeBkF7Er"
+    },
+    {
+        "id": "sbp",
+        "secret": "KsqMmBdNBE"
+    },
+    {
+        "id": "sk1er",
+        "secret": "sk1er",
+        "nicknames": [
+            "patcher"
+        ]
+    },
+    {
+        "id": "skytils",
+        "secret": "skytils",
+        "nicknames": [
+            "st"
+        ]
+    },
+    {
+        "id": "optifine",
+        "secret": "xGVXsgbbSt"
+    }
+]
