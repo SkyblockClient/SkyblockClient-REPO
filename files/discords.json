@@ -21,7 +21,8 @@
         "nicknames": [
             "skyblockaddons",
             "biscuit",
-            "bb"
+            "bb",
+            "sba"
         ],
         "mods": [
             "sba"
@@ -38,14 +39,16 @@
         "id": "cowlection",
         "code": "KRq5ZY9Hma",
         "mods": [
-            "cowlection"
+            "cowlection",
+            "cow"
         ]
     },
     {
         "id": "dsm",
         "code": "BUmywXX47M",
         "nicknames": [
-            "dankers"
+            "dankers",
+            "dsm"
         ],
         "mods": [
             "dankers"
@@ -55,7 +58,9 @@
         "id": "fsr",
         "code": "tXxeBkF7Er",
         "nicknames": [
-            "furfsky"
+            "furfsky",
+            "fsr",
+            "furfskyreborn"
         ],
         "packs": [
             "fsr"
@@ -67,14 +72,16 @@
         "nicknames": [
             "patcher",
             "keystrokes",
-            "tnttime"
+            "tnttime",
+            "sk1er"
         ]
     },
     {
         "id": "skytils",
         "code": "skytils",
         "nicknames": [
-            "st"
+            "st",
+            "skytils"
         ],
         "mods": [
             "skytils"
@@ -83,6 +90,10 @@
     {
         "id": "optifine",
         "code": "xGVXsgbbSt",
+        "nicknames": [
+            "optifine",
+            "of"
+        ],
         "mods": [
             "optifine"
         ]
@@ -91,7 +102,8 @@
         "id": "sbp",
         "code": "KsqMmBdNBE",
         "nicknames": [
-            "skyblockpersonalized"
+            "skyblockpersonalized",
+            "sbp"
         ],
         "mods": [
             "sbp"
@@ -105,7 +117,8 @@
             "actuallyassets",
             "dwarvenassets",
             "actuallymobs",
-            "actuallypackets"
+            "actuallypackets",
+            "aa"
         ],
         "packs": [
             "actuallyassets",
