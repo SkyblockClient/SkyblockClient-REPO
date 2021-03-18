@@ -125,5 +125,16 @@
             "actuallymobs",
             "actuallymobpacket"
         ]
+    },
+    {
+        "id": "sbov",
+        "code": "BcVQUcM6mM",
+        "nicknames": [
+            "skyblockoverhaul",
+            "sbov"
+        ],
+        "packs": [
+            "skyblockoverhaul"
+        ]
     }
 ]
