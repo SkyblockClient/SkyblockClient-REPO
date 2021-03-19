@@ -209,12 +209,12 @@
   },
   {
     "id": "dankers",
-    "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.5.jar",
+    "file": "Dankers Skyblock Mod-1.8.6-beta3-fix.jar",
     "display": "Danker's Skyblock Mod",
     "description": "Provides dungeon utilities like puzzle solvers and such",
     "icon": "dsm logo cropped.png",
     "categories": ["3;Skyblock"],
-    "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.5/1.8.9.Danker.s.Skyblock.Mod.-.1.8.5.jar",
+    "url": "https://cdn.discordapp.com/attachments/742114256555606106/822258405191319562/Dankers_Skyblock_Mod-1.8.6-beta3-fix.jar",
     "creator": "DankerWanker",
     "actions": [
       {
