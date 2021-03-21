@@ -181,12 +181,12 @@
     "id": "neu",
     "config": true,
     "enabled": true,
-    "file": "NotEnoughUpdates-1.7.3-REL.jar",
+    "file": "NotEnoughUpdates-2.0-PRE25.1.jar",
     "display": "Not Enough Updates",
     "description": "Provides a full list of every Skyblock item and much more",
     "icon": "neulogo.png",
     "categories": ["3;Skyblock"],
-    "url": "https://cdn.discordapp.com/attachments/693586404256645231/802187976758526002/NotEnoughUpdates-1.7.3-RELjar.jar",
+    "url": "https://cdn.discordapp.com/attachments/795602083382296616/823019858539184128/NotEnoughUpdates-2.0-PRE25.1.jar",
     "creator": "Moulberry",
     "actions": [
       {
