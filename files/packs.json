@@ -76,6 +76,27 @@
     ]
   },
   {
+    "id": "dwarvenassets",
+    "file": "DwarvenAssets v1.1.zip",
+    "url": "https://github.com/ActuallyAssets/DwarvenAssets/releases/download/1.1/DwarvenAssets_v1.1.zip",
+    "display": "DwarvenAssets",
+    "description": " DwarvenAssets retextures Mithril Veins in the Dwarven Mines to give your game a more custom feel",
+    "icon": "da.png",
+    "categories": [
+      "6;ActuallyAssets"
+    ],
+    "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
+      },
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3797121/"
+      }
+    ]
+  },
+  {
     "id": "vtay",
     "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
     "display": "vTay's Skyblock Smoothie 16x",
