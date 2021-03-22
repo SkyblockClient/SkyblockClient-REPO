@@ -205,7 +205,8 @@
         "text": "Github",
         "link": "https://github.com/Moulberry/NotEnoughUpdates/releases"
       }
-    ]
+    ],
+    "command": "/neu"
   },
   {
     "id": "dankers",
