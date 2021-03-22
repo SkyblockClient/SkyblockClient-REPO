@@ -31,7 +31,7 @@
     "id": "cmm",
     "config": true,
     "file": "CustomMainMenu-MC1.8.9-2.0.jar",
-    "display": "Gui Bundle",
+    "display": "GUI Bundle",
     "description": "Adds a custom main menu to SkyClient\nAdds a custom gui for the resoucepack manager",
     "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
     "icon": "skyclient.png",
