@@ -38,7 +38,10 @@
         "icon": "apec.png",
         "mods": [
             "apec"
-        ]
+        ],
+        "nicknames": [
+            "apec"
+            ]
     },
     {
         "id": "cowlection",
@@ -46,9 +49,13 @@
         "partner": true,
         "icon": "cowlection.webp",
         "mods": [
+            "cowlection"
+        ],
+        "nicknames": [
             "cowlection",
-            "cow"
-        ]
+            "cow",
+            "cowshed"
+            ]
     },
     {
         "id": "dsm",
