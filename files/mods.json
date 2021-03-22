@@ -70,6 +70,7 @@
     "categories": ["1;Bundles"],
     "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
     "creator": "Moulberry",
+    "command": "/insomnia",
     "packages": [
       "popup_events", "tnttime"
     ],
@@ -115,7 +116,7 @@
         "text": "Website",
         "link": "https://optifine.net/home"
       }
-    ]
+    ],
   },
   {
     "id": "patcher",
@@ -141,7 +142,8 @@
         "text": "Website", 
         "link": "https://sk1er.club/mods/patcher"
       }
-    ]
+    ],
+    "command": "/patcher",
   },
   {
     "id": "sba",
@@ -175,7 +177,8 @@
         "text": "Github",
         "link": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases"
       }
-    ]
+    ],
+    "command": "/sba",
   },
   {
     "id": "neu",
@@ -234,7 +237,8 @@
         "text": "Github",
         "link": "https://github.com/bowser0000/SkyblockMod/releases"
       }
-    ]
+    ],
+    "command": "/dsm",
   },
   {
     "id": "skytils",
@@ -262,7 +266,8 @@
         "text": "Github",
         "link": "https://github.com/Skytils/SkytilsMod/releases"
       }
-    ]
+    ],
+    "command": "/st",
   },
   {
     "id": "apec",
@@ -295,7 +300,8 @@
         "text": "Curseforge",
         "link": "https://www.curseforge.com/minecraft/mc-mods/apec"
       }
-    ]
+    ],
+    "command": "/apecmenu",
   },
   {
     "id": "cowlection",
@@ -328,7 +334,8 @@
         "text": "Github",
         "link": "https://github.com/cow-mc/Cowlection/releases"
       }
-    ]
+    ],
+    "command": "/moo",
   },
   {
     "id": "sbp",
@@ -353,7 +360,8 @@
         "text": "Forum",
         "link": "https://hypixel.net/threads/3963451/"
       }
-    ]
+    ],
+    "command": "/sbp",
   },
   {
     "id": "keystrokes",
@@ -374,7 +382,8 @@
         "text": "Website",
         "link": "https://sk1er.club/mods/keystrokesmod"
       }
-    ]
+    ],
+    "command": "/keystrokes",
   },
   {
     "id": "timechanger",
@@ -389,7 +398,8 @@
         "text": "Forum",
         "link": "https://hypixel.net/threads/3574261/"
       }
-    ]
+    ],
+    "command": "/tc",
   },
   {
     "id": "ctjs",
@@ -419,7 +429,8 @@
         "text": "Website",
         "link": "https://www.chattriggers.com/"
       }
-    ]
+    ],
+    "command": "/ct",
   },
   {
     "id": "sbcustommobtex",
@@ -456,7 +467,8 @@
     "display": "Resource Pack Manager",
     "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the rp menu",
     "hidden": true,
-    "enabled": false
+    "enabled": false,
+    "command": "/rpm"
   },
   {
     "id": "controlling",
@@ -505,7 +517,8 @@
     "description": "Accept/deny friend/party invite requests",
     "hidden": true,
     "creator": "Sk1er LLC",
-    "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar"
+    "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar",
+    "command": "/popup"
   },
   {
     "id": "soundsubtitles",
@@ -514,7 +527,8 @@
     "description": "Adds sound subtitles",
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "hidden": true,
-    "creator": "Sk1er LLC"
+    "creator": "Sk1er LLC",
+    "command": "/subtitles_config"
   },
   {
     "id": "minecraft",
