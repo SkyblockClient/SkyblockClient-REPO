@@ -71,7 +71,6 @@
       "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
       "creator": "Moulberry",
       "command": "/insomnia",
-      "discordcode": "moulberry",
       "packages": [
         "popup_events", "tnttime"
       ],
