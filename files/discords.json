@@ -1,5 +1,13 @@
 [
     {
+        "id": "ctjs",
+        "code": "chattriggers",
+        "nicknames": [
+            "ctjs",
+            "chattriggers"
+        ]
+    },
+    {
         "id": "neu",
         "code": "moulberry",
         "partner": true,
