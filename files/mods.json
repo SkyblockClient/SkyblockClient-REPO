@@ -312,12 +312,12 @@
     },
     {
       "id": "cowlection",
-      "file": "Cowlection-1.8.9-0.12.0.jar",
+      "file": "Cowlection-1.8.9-0.13.0-beta1.jar",
       "display": "Cowlection",
       "description": "A collection of various features mainly focused on Hypixel SkyBlock\nSome features - for example the Minecraft log search - have a universal use",
       "icon": "cowlection-logo.png",
       "categories": ["3;Skyblock"],
-      "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.12.0/Cowlection-1.8.9-0.12.0.jar",
+      "url": "https://cdn.discordapp.com/attachments/747861916525002832/822994964240793600/Cowlection-1.8.9-0.13.0-beta1.jar",
       "creator": "Cow",
       "discordcode": "HyvcR9a3x9",
       "actions": [
