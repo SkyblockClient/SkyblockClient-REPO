@@ -189,7 +189,10 @@
       "file": "SkyblockHud-1.12.jar",
       "display": "SkyblockHud",
       "description": "SBH is a mod for skyblock that overhauls the overlay to make it feel more like an RPG games hud",
-      "creator": "ThatGravyBoat"
+      "categories": ["3;Skyblock"],
+      "url": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar",
+      "creator": "ThatGravyBoat",
+      "discordcode": "moulberry"
     },
     {
       "id": "neu",
