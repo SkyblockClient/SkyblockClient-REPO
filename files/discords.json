@@ -11,6 +11,8 @@
         "id": "neu",
         "code": "moulberry",
         "partner": true,
+        "fancyname": "Moulberry's Bush",
+        "description": "The official Discord server for all of Moulberry's mods, including NotEnoughUpdates.",
         "icon": "neu.png",
         "nicknames": [
             "neu",
@@ -18,7 +20,6 @@
             "sbcustommobtex",
             "mb",
             "moulberrysbush"
-
         ],
         "mods": [
             "neu",
@@ -41,6 +42,8 @@
     },
     {
         "id": "apec",
+        "fancyname": "Apec",
+        "description": "Apec is a Minecraft mod that improves the in-game GUI to better suit Hypixel skyblock and gives it a cleaner look.",
         "code": "HyvcR9a3x9",
         "partner": true,
         "icon": "apec.png",
@@ -49,10 +52,12 @@
         ],
         "nicknames": [
             "apec"
-            ]
+        ]
     },
     {
         "id": "cowlection",
+        "fancyname": "Cowshed",
+        "description": "Cowshed is the place for latest Hypixel SkyBlock news, leaks and update discussions, and the home of the Minecraft Mod Cowlection.",
         "code": "KRq5ZY9Hma",
         "partner": true,
         "icon": "cowlection.webp",
@@ -63,7 +68,7 @@
             "cowlection",
             "cow",
             "cowshed"
-            ]
+        ]
     },
     {
         "id": "dsm",
@@ -80,6 +85,8 @@
         "id": "fsr",
         "code": "tXxeBkF7Er",
         "partner": true,
+        "fancyname": "FurfSky Reborn",
+        "description": "A nice community to improve your art skills or just hang. Whether you're a seasoned pixel artist, a beginner or you've never touched a pixel we're confident you'll find your place here! Check out their server to download the FurfSky Reborn pack and to ask any questions!",
         "icon": "fsr.gif",
         "nicknames": [
             "furfsky",
@@ -136,6 +143,8 @@
     {
         "id": "motors",
         "code": "uxmruk7rtp",
+        "fancyname": "Motor's Garage",
+        "description": "Motor's Packs is the place to download ActuallyAssets and other packs by Motor, featured in SkyClient.",
         "partner": true,
         "icon": "motors.webp",
         "nicknames": [
@@ -155,6 +164,8 @@
     {
         "id": "sbov",
         "code": "BcVQUcM6mM",
+        "fancyname": "Skyblock Overhaul",
+        "description": "Hypixel Skyblock has a variety of swords, bows and tools. The Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
         "partner": true,
         "icon": "sbov.png",
         "nicknames": [
@@ -168,9 +179,12 @@
     {
         "id": "wab",
         "code": "BtAYyxf3W8",
+        "partner": true,
+        "fancyname": "Worlds and Beyond",
+        "description": "A texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are) It also includes a revamped vanilla GUI as well to spice up your gameplay.",
         "nicknames": [
             "wab",
             "worldsandbeyond"
-            ]
+        ]
     }
 ]
