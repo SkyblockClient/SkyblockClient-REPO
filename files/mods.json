@@ -27,13 +27,7 @@
         }
       ]
     },
-    {
-      "id": "sbhud",
-      "file": "SkyblockHud-1.12.jar",
-      "display": "SkyblockHud",
-      "description": "SBH is a mod for skyblock that overhauls the overlay to make it feel more like an RPG games hud",
-      "creator": "ThatGravyBoat"
-    },
+
     {
       "id": "cmm",
       "config": true,
@@ -189,6 +183,13 @@
         }
       ],
       "command": "/sba"
+    },
+    {
+      "id": "sbhud",
+      "file": "SkyblockHud-1.12.jar",
+      "display": "SkyblockHud",
+      "description": "SBH is a mod for skyblock that overhauls the overlay to make it feel more like an RPG games hud",
+      "creator": "ThatGravyBoat"
     },
     {
       "id": "neu",
