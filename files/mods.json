@@ -189,6 +189,15 @@
       "file": "SkyblockHud-1.12.jar",
       "display": "SkyblockHUD",
       "description": "SkyblockHUD is a GUI enhancement mod that is designed to make skyblock feel more like an RPG.",
+      "warning" : {
+        "lines" : [
+          "This mod is still a work in progress and no support will be provided.",
+          "The config is accessed through the forge mod menu.",
+          "",
+          "",
+          "Use anyway?"
+        ]
+      },
       "categories": ["3;Skyblock"],
       "url": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar",
       "creator": "ThatGravyBoat",
