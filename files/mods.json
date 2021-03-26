@@ -222,14 +222,14 @@
     "id": "neu",
     "config": true,
     "enabled": true,
-    "file": "NotEnoughUpdates-2.0-PRE25.1.jar",
+    "file": "NotEnoughUpdates-2.0-PRE26.jar",
     "display": "NotEnoughUpdates",
     "description": "NotEnoughUpdates is a Skyblock essential, with remote AH, dungeon chest prices, missing enchants, a list of every item in skyblock, and more!",
     "icon": "neulogo.png",
     "categories": [
       "3;Skyblock"
     ],
-    "url": "https://cdn.discordapp.com/attachments/795602083382296616/823019858539184128/NotEnoughUpdates-2.0-PRE25.1.jar",
+    "url": "https://cdn.discordapp.com/attachments/693586404256645231/825149964358778880/NotEnoughUpdates-2.0-PRE26.jar",
     "creator": "Moulberry",
     "discordcode": "moulberry",
     "actions": [
