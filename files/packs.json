@@ -92,6 +92,7 @@
     "icon": "da.png",
     "creator": "Motor & nacrt",
     "discordcode": "ABHrh6K3Fh",
+    "enabled": true,
     "categories": [
       "6;ActuallyAssets"
     ],
