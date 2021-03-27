@@ -531,7 +531,8 @@
     "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the rp menu",
     "hidden": true,
     "enabled": false,
-    "command": "/rpm"
+    "command": "/rpm",
+    "creator": "Aycy"
   },
   {
     "id": "controlling",
