@@ -202,6 +202,7 @@
     "file": "SkyblockHud-1.12.jar",
     "display": "SkyblockHUD",
     "description": "SkyblockHUD is a GUI enhancement mod that is designed to make skyblock feel more like an RPG.",
+    "icon": "skyclient.png",
     "warning": {
       "lines": [
         "This mod is still a work in progress and no support will be provided.",
