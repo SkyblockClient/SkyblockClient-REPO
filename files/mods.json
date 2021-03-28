@@ -448,7 +448,7 @@
     "description": "Toggle Sprint and Toggle Sneak",
     "icon": "skyclient.png",
     "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v1.0/SimpleToggleSprint-1.0.jar",
-    "creator": "lily"
+    "creator": "lily",
     "actions": [
       {
         "text": "Github",
