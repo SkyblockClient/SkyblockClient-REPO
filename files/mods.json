@@ -319,10 +319,10 @@
   },
   {
     "id": "apec",
-    "file": "Apec-1.8.jar",
+    "file": "Apec-1.8.1.jar",
     "display": "Apec",
     "description": "Apec is another GUI improvement mod that adds the distinct black bar at the bottom of your screen, removes the hypixel side panel, and arranges your GUI to look more like an RPG game.",
-    "url": "https://media.forgecdn.net/files/3176/213/Apec-1.8.jar",
+    "url": "https://media.forgecdn.net/files/3253/669/Apec-1.8.1.jar",
     "icon": "apec.png",
     "categories": [
       "3;Skyblock"
