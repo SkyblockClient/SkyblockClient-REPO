@@ -442,6 +442,22 @@
     "command": "/keystrokes"
   },
   {
+    "id": "simpletogglesprint",
+    "file": "SimpleToggleSprint-1.0.jar",
+    "display": "Toggle Sprint",
+    "description": "Toggle Sprint and Toggle Sneak",
+    "icon": "skyclient.png",
+    "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v1.0/SimpleToggleSprint-1.0.jar",
+    "creator": "Lily",
+    "actions": [
+      {
+        "text": "Github",
+        "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+      }
+    ],
+    "command": "/simpletogglesprint"
+  },
+  {
     "id": "timechanger",
     "file": "TimeChanger-2.2.1.jar",
     "display": "TimeChanger",
