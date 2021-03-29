@@ -420,6 +420,25 @@
     "command": "/sbp"
   },
   {
+    "id": "hudcaching",
+    "file": "HUDCaching-1.7.2.jar",
+    "display": "HUD Caching",
+    "description": "FPS boosting mod that limits your HUD fps to 20",
+    "warning": {
+      "lines": [
+        "This mod is still a work in progress.",
+        "This mod will break a lot of stuff.",
+        "If you don't need the FPS, don't get this mod.",
+        "",
+        "",
+        "Use anyway?"
+      ]
+    },
+    "categories": [
+      "2;Optimization"
+    ]
+  }, 
+  {
     "id": "keystrokes",
     "file": "Keystrokes-8.0.2 (1.8.9).jar",
     "display": "Keystrokes",
