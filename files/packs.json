@@ -126,7 +126,8 @@
         "text": "Forum",
         "link": "https://hypixel.net/threads/3178679/"
       }
-    ]
+    ],
+    "outdated": true
   },
   {
     "id": "rnbw",
@@ -207,7 +208,8 @@
         "icon": "discord icon.png",
         "link": "https://discord.gg/uwy3rwPpmV"
       }
-    ]
+    ],
+    "incomplete": true
   },
   {
     "id": "hqdark",
@@ -263,7 +265,8 @@
         "text": "Website",
         "link": "https://packshq.com/content/packs/"
       }
-    ]
+    ],
+    "outdated": true
   },
   {
     "id": "hq32f",
@@ -292,7 +295,8 @@
         "text": "Website",
         "link": "https://packshq.com/content/packs/"
       }
-    ]
+    ],
+    "outdated": true
   },
   {
     "id": "actuallyassets",
