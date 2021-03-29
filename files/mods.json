@@ -424,9 +424,6 @@
     "file": "HUDCaching-1.7.2.jar",
     "display": "HUD Caching",
     "description": "FPS boosting mod that limits your HUD fps to 20",
-    "actions": {
-
-    },
     "warning": {
       "lines": [
         "This mod is still a work in progress.",
