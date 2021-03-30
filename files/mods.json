@@ -287,14 +287,14 @@
   },
   {
     "id": "skytils",
-    "file": "Skytils-0.1.2-pre8.jar",
+    "file": "Skytils-0.1.2-pre9.jar",
     "display": "Skytils",
     "description": "Skytils adds useful puzzle solvers, many skyblock QOL features, a reparty command, and so much more.",
     "icon": "skytils.png",
     "categories": [
       "3;Skyblock"
     ],
-    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.1.2-pre8/Skytils-0.1.2-pre8.jar",
+    "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.1.2-pre9/Skytils-0.1.2-pre9.jar",
     "creator": "Sychic and Lily",
     "discordcode": "skytils",
     "actions": [
