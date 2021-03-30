@@ -9,7 +9,7 @@ discord.gg/sk1er
 # Patcher - How do i use it?
 
 The commands for patcher are:
-> /patcher, /patcher sounds, /inventoryscale 
+> /patcher, /patcher sounds, /patcher name, /patcher blacklist, /patcher benchmark /patcher debugfps, /patcher vanilla/optimized (useless), /fov, /sendcoords, /invscale
 
 From there on you will be greeted with a peculiar GUI (see image below) or with tips on how to use the command.
 
