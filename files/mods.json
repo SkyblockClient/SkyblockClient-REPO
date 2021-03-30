@@ -427,6 +427,7 @@
     "icon": "moulberrys bush.png",
     "creator": "Moulberry",
     "discordcode": "moulberry",
+    "command": "/hudcaching",
     "warning": {
       "lines": [
         "This mod is still a work in progress.",
