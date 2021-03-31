@@ -18,13 +18,11 @@
       {
         "icon": "sk1er monkey.png",
         "text": "Scrollable Tooltips",
-        "creator": "Sk1er LLC",
         "link": "https://sk1er.club/mods/text_overflow_scroll"
       },
       {
         "icon": "itlt.png",
         "text": "It's The Little Things",
-        "creator": "Zlepper and Paint_Ninja",
         "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
       }
     ]
@@ -49,19 +47,16 @@
       {
         "icon": "cmm.png",
         "text": "Custom Main Menu",
-        "creator": "Lumien231",
         "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
       },
       {
         "icon": "aycy.jpg",
         "text": "Resource Pack Manager",
-        "creator": "Aycy",
         "link": "https://www.youtube.com/watch?v=OQZFWrrEcYM"
       },
       {
         "icon": "smooth scrolling everywhere.png",
         "text": "Smooth Scrolling Everywhere",
-        "creator": "Shedaniel",
         "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
       }
     ]
@@ -76,7 +71,6 @@
       "1;Bundles"
     ],
     "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
-    "creator": "Moulberry",
     "command": "/insomnia",
     "packages": [
       "popup_events",
@@ -119,8 +113,6 @@
     "categories": [
       "2;Optimization"
     ],
-    "creator": "sp614x",
-    "discordcode": "xGVXsgbbSt",
     "actions": [
       {
         "icon": "optifine.png",
@@ -140,8 +132,6 @@
       "2;Optimization"
     ],
     "url": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
-    "creator": "Sk1er LLC",
-    "discordcode": "sk1er",
     "actions": [
       {
         "method": "hover",
@@ -170,8 +160,6 @@
       "3;Skyblock"
     ],
     "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
-    "creator": "Biscuit",
-    "discordcode": "qBkzcgdPqU",
     "actions": [
       {
         "method": "hover",
@@ -216,8 +204,6 @@
       "3;Skyblock"
     ],
     "url": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar",
-    "creator": "ThatGravyBoat",
-    "discordcode": "moulberry"
   },
   {
     "id": "neu",
@@ -231,8 +217,6 @@
       "3;Skyblock"
     ],
     "url": "https://cdn.discordapp.com/attachments/693586404256645231/825149964358778880/NotEnoughUpdates-2.0-PRE26.jar",
-    "creator": "Moulberry",
-    "discordcode": "moulberry",
     "actions": [
       {
         "method": "hover",
@@ -263,8 +247,6 @@
       "3;Skyblock"
     ],
     "url": "https://cdn.discordapp.com/attachments/742114256555606106/824757091737796639/Dankers_Skyblock_Mod-1.8.6-beta5.jar",
-    "creator": "DankerWanker",
-    "discordcode": "BUmywXX47M",
     "actions": [
       {
         "method": "hover",
@@ -295,8 +277,6 @@
       "3;Skyblock"
     ],
     "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.1.2-pre9/Skytils-0.1.2-pre9.jar",
-    "creator": "Sychic and Lily",
-    "discordcode": "skytils",
     "actions": [
       {
         "method": "hover",
@@ -327,8 +307,6 @@
     "categories": [
       "3;Skyblock"
     ],
-    "creator": "BananaFructa",
-    "discordcode": "HyvcR9a3x9",
     "actions": [
       {
         "method": "hover",
@@ -363,8 +341,6 @@
       "3;Skyblock"
     ],
     "url": "https://cdn.discordapp.com/attachments/747861916525002832/822994964240793600/Cowlection-1.8.9-0.13.0-beta1.jar",
-    "creator": "Cow",
-    "discordcode": "HyvcR9a3x9",
     "actions": [
       {
         "method": "hover",
@@ -400,8 +376,6 @@
     "categories": [
       "3;Skyblock"
     ],
-    "creator": "Cobble8",
-    "discordcode": "KsqMmBdNBE",
     "actions": [
       {
         "method": "hover",
@@ -425,8 +399,6 @@
     "display": "HUD Caching",
     "description": "Limits the framerate of the HUD to 20 which should have no visual difference but can provide an EXTREME fps boost.",
     "icon": "moulberrys bush.png",
-    "creator": "Moulberry",
-    "discordcode": "moulberry",
     "command": "/hudcaching",
     "warning": {
       "lines": [
@@ -449,8 +421,6 @@
     "description": "Adds display WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
     "icon": "sk1er monkey.png",
     "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.0.2/1.8.9/Keystrokes-8.0.2%20(1.8.9).jar",
-    "creator": "Sk1er LLC",
-    "discordcode": "sk1er",
     "actions": [
       {
         "icon": "youtube.png",
@@ -472,7 +442,6 @@
     "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
     "icon": "skyclient.png",
     "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v1.1/SimpleToggleSprint-1.1.jar",
-    "creator": "Lily",
     "actions": [
       {
         "text": "Github",
@@ -488,7 +457,6 @@
     "description": "Allows the user to change the client-side time with a simple slider and full time customizability",
     "icon": "clock.png",
     "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
-    "creator": "Shatterpoint",
     "actions": [
       {
         "text": "Forum",
@@ -520,8 +488,6 @@
     ],
     "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.1/ctjs-1.3.1-1.8.9.jar",
     "hidden": false,
-    "creator": "Kerbybit",
-    "discordcode": "chattriggers",
     "actions": [
       {
         "icon": "chattriggers 48x.ico",
@@ -551,8 +517,6 @@
         "Use anyway?"
       ]
     },
-    "discordcode": "moulberry",
-    "creator": "Moulberry",
     "actions": [
       {
         "text": "Github",
@@ -571,8 +535,7 @@
     "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the rp menu",
     "hidden": true,
     "enabled": false,
-    "command": "/rpm",
-    "creator": "Aycy"
+    "command": "/rpm"
   },
   {
     "id": "controlling",
@@ -590,7 +553,6 @@
     "description": "Makes the scrolling in menus smoother",
     "icon": "smooth scrolling everywhere.png",
     "hidden": true,
-    "creator": "Shedaniel",
     "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
   },
   {
@@ -600,8 +562,6 @@
     "display": "Scrollable Tooltips",
     "description": "Lets you scroll on item tooltips when their height surpasses the height of your screen.",
     "hidden": true,
-    "creator": "Sk1er LLC",
-    "discordcode": "sk1er",
     "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar"
   },
   {
@@ -611,8 +571,6 @@
     "display": "TNT Time",
     "description": "Displays the TNT detonation time.",
     "hidden": true,
-    "creator": "Sk1er LLC",
-    "discordcode": "sk1er",
     "url": "https://static.sk1er.club/repo/mods/tnttime/1.0/1.8.9/TNT%20Time-1.0%20(1.8.9).jar"
   },
   {
@@ -622,8 +580,6 @@
     "display": "QOL Bundle",
     "description": "Accept or deny friend, party, and guild invite requests.",
     "hidden": true,
-    "creator": "Sk1er LLC",
-    "discordcode": "sk1er",
     "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar",
     "command": "/popup"
   },
@@ -634,8 +590,6 @@
     "description": "Adds sound subtitles to your game.",
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "hidden": true,
-    "creator": "Sk1er LLC",
-    "discordcode": "sk1er",
     "command": "/subtitles_config"
   },
   {
@@ -643,7 +597,6 @@
     "file": "no",
     "display": "no",
     "description": "this is purely internal",
-    "hidden": true,
-    "creator": "Mojang"
+    "hidden": true
   }
 ]
