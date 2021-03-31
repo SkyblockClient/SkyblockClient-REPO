@@ -11,11 +11,13 @@
       {
         "icon": "sk1er monkey.png",
         "text": "Scrollable Tooltips",
+        "creator": "Sk1er LLC",
         "link": "https://sk1er.club/mods/text_overflow_scroll"
       },
       {
         "icon": "itlt.png",
         "text": "It's The Little Things",
+        "creator": "Zlepper and Paint_Ninja",
         "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
       }
     ],
@@ -39,16 +41,19 @@
       {
         "icon": "cmm.png",
         "text": "Custom Main Menu",
+        "creator": "Lumien231",
         "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
       },
       {
         "icon": "aycy.jpg",
         "text": "Resource Pack Manager",
+        "creator": "Aycy",
         "link": "https://www.youtube.com/watch?v=OQZFWrrEcYM"
       },
       {
         "icon": "smooth scrolling everywhere.png",
         "text": "Smooth Scrolling Everywhere",
+        "creator": "Shedaniel",
         "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
       }
     ],
@@ -65,6 +70,7 @@
     "id": "antidreamskin",
     "file": "Insomnia-1.0-REL.jar",
     "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+    "creator": "Moulberry",
     "display": "QOL Bundle",
     "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, removing dream skins.",
     "icon": "skyclient.png",
@@ -110,6 +116,8 @@
     "display": "Optifine M5",
     "description": "Optifine allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
     "icon": "optifine.png",
+    "creator": "sp614x",
+    "discordcode": "xGVXsgbbSt",
     "actions": [
       {
         "icon": "optifine.png",
@@ -126,6 +134,8 @@
     "enabled": true,
     "file": "Patcher-1.5.1 (1.8.9).jar",
     "url": "https://static.sk1er.club/repo/mods/patcher/1.5.1/1.8.9/Patcher-1.5.1%20(1.8.9).jar",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
     "display": "Patcher",
     "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, almost no tradeoff",
     "icon": "sk1er monkey.png",
@@ -157,6 +167,8 @@
     "display": "SkyblockAddons",
     "description": "Essential QOL skyblock mod with a plethora of indispensable features, locking slots, timers, and a ton more to discover!",
     "icon": "bisquit.png",
+    "creator": "Biscuit",
+    "discordcode": "qBkzcgdPqU",
     "actions": [
       {
         "method": "hover",
@@ -194,6 +206,8 @@
     "display": "SkyblockHUD",
     "description": "SBH Focuses on enhancing the skyblock HUD to feel like more of an RPG.",
     "icon": "sbhlogo.png",
+    "creator": "ThatGravyBoat",
+    "discordcode": "moulberry",
     "categories": [
       "3;Skyblock"
     ],
@@ -215,6 +229,8 @@
     "display": "NotEnoughUpdates",
     "description": "NEU is one of the essentials for playing skyblock featuring remote AH, dungeon chest prices, missing enchants, list of all skyblock item + recipes and a lot more, \nwith even a ton coming in the near future!",
     "icon": "neulogo.png",
+    "creator": "Moulberry",
+    "discordcode": "moulberry",
     "actions": [
       {
         "method": "hover",
@@ -248,6 +264,8 @@
     "display": "Danker's Skyblock Mod",
     "description": "DSM provides dungeon puzzle solvers, reparty command, custom boss music and more useful features to see for yourself!",
     "icon": "dsm logo cropped.png",
+    "creator": "DankerWanker",
+    "discordcode": "BUmywXX47M",
     "actions": [
       {
         "method": "hover",
@@ -280,6 +298,8 @@
     "display": "Skytils",
     "description": "Introduces some useful puzzle solvers, reparty command, spam hider for skyblock and a ton more with lots to come in the future!",
     "icon": "skytils.png",
+    "creator": "Sychic and Lily",
+    "discordcode": "skytils",
     "actions": [
       {
         "method": "hover",
@@ -312,6 +332,8 @@
     "display": "Apec",
     "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, and making the game feel more of an RPG.",
     "icon": "apec.png",
+    "creator": "BananaFructa",
+    "discordcode": "HyvcR9a3x9",
     "actions": [
       {
         "method": "hover",
@@ -349,6 +371,8 @@
     "display": "Cowlection",
     "description": "A collection of various features and enhancements mainly towards hypixel skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all hypixel players.",
     "icon": "cowlection-logo.png",
+    "creator": "Cow",
+    "discordcode": "HyvcR9a3x9",
     "actions": [
       {
         "method": "hover",
@@ -386,6 +410,8 @@
     "display": "SkyblockPersonalized",
     "description": "A mod with a lot of customizability and has many features including auto teleport to garry, disable mining messages, disable specific messages, \nice fill solver and showing player's dungeons stats with more for the user to discover.",
     "icon": "sbp.png",
+    "creator": "Cobble8",
+    "discordcode": "KsqMmBdNBE",
     "actions": [
       {
         "method": "hover",
@@ -412,6 +438,8 @@
     "display": "HUD Caching",
     "description": "Limits the framerate of the HUD to 20 which should have no visual difference but can provide an EXTREME fps boost.",
     "icon": "moulberrys bush.png",
+    "creator": "Moulberry",
+    "discordcode": "moulberry",
     "categories": [
       "2;Optimization"
     ],
@@ -433,6 +461,8 @@
     "display": "Keystrokes",
     "description": "Adds display WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
     "icon": "sk1er monkey.png",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
     "actions": [
       {
         "icon": "youtube.png",
@@ -453,6 +483,7 @@
     "display": "Toggle Sprint",
     "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
     "icon": "skyclient.png",
+    "creator": "Lily",
     "actions": [
       {
         "icon": "github.png",
@@ -468,6 +499,7 @@
     "display": "TimeChanger",
     "description": "Allows the user to change the client-side time with a simple slider and full time customizability",
     "icon": "clock.png",
+    "creator": "Shatterpoint",
     "actions": [
       {
         "icon": "forum.png",
@@ -483,6 +515,8 @@
     "display": "Chat Triggers",
     "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
     "icon": "chattriggers 48x.ico",
+    "creator": "Kerbybit",
+    "discordcode": "chattriggers",
     "actions": [
       {
         "icon": "chattriggers 48x.ico",
@@ -512,6 +546,8 @@
     "display": "SBCustomMobTex",
     "description": "Allows resource packs to view the NBT data of mobs in skyblock and provides the possiblity of changing custom mob textures with the use of resource packs.",
     "icon": "moulberrys bush.png",
+    "discordcode": "moulberry",
+    "creator": "Moulberry",
     "actions": [
       {
         "icon": "github.png",
@@ -542,6 +578,8 @@
     "file": "Resource_Pack_Manager_1.2.jar",
     "display": "Resource Pack Manager",
     "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the rp menu",
+    "command": "/rpm",
+    "creator": "Aycy"
     "hidden": true
   },
   {
@@ -558,6 +596,7 @@
     "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
     "display": "GUI Bundle",
     "description": "Makes the scrolling in menus smoother",
+    "creator": "Shedaniel",
     "hidden": true,
     "icon": "smooth scrolling everywhere.png"
   },
@@ -566,6 +605,8 @@
     "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
     "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar",
     "display": "Scrollable Tooltips",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
     "description": "Lets you scroll on item tooltips when their height surpasses the height of your screen.",
     "hidden": true
   },
@@ -574,7 +615,10 @@
     "file": "TNT Time-1.0 (1.8.9).jar",
     "url": "https://static.sk1er.club/repo/mods/tnttime/1.0/1.8.9/TNT%20Time-1.0%20(1.8.9).jar",
     "display": "TNT Time",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
     "description": "Displays the TNT detonation time.",
+    
     "hidden": true
   },
   {
@@ -582,6 +626,8 @@
     "file": "Popup Events-1.3.1 (1.8.9).jar",
     "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar",
     "display": "QOL Bundle",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
     "description": "Accept or deny friend, party, and guild invite requests.",
     "hidden": true
   },
@@ -591,6 +637,8 @@
     "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
     "display": "Sound Subtitles",
     "description": "Adds sound subtitles to your game.",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
     "hidden": true
   },
   {
@@ -598,6 +646,7 @@
     "file": "no",
     "display": "no",
     "description": "this is purely internal",
+    "creator": "Mojang",
     "hidden": true
   }
 ]
