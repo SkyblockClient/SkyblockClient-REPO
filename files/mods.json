@@ -3,7 +3,7 @@
     "id": "itlt",
     "file": "itlt-1.8.9-0.0.9.jar",
     "display": "Utility Bundle",
-    "description": "Allows you to scroll on tooltips that are taller than your screen, makes Hypixel the default server, and more!",
+    "description": "Useful bundle of utilities for scrolling through tooltips and making hypixel the default server and a lot more!",
     "url": "https://media.forgecdn.net/files/2290/963/itlt-1.8.9-0.0.9.jar",
     "config": true,
     "enabled": true,
@@ -34,7 +34,7 @@
     "config": true,
     "file": "CustomMainMenu-MC1.8.9-2.0.jar",
     "display": "GUI Bundle",
-    "description": "Adds the Skyblock Client custom main menu and a custom GUI for the resoucepack manager",
+    "description": "Useful GUI related features, e.g a skyblock custom main menu and a custom GUI for the resourcepack manager and more!",
     "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
     "icon": "skyclient.png",
     "categories": [
@@ -70,7 +70,7 @@
     "id": "antidreamskin",
     "file": "Insomnia-1.0-REL.jar",
     "display": "QOL Bundle",
-    "description": "Adds a TNT countdown timer, popup events (easier to accept party, friend, and guild invites), and an anti-Dream skin mod.",
+    "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, removing dream skins.",
     "icon": "skyclient.png",
     "categories": [
       "1;Bundles"
@@ -114,7 +114,7 @@
     "file": "OptiFine_1.8.9_HD_U_M5.jar",
     "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
     "display": "Optifine M5",
-    "description": "Essential for every game, boosts FPS, visual quality, and allows for custom texture packs.",
+    "description": "Optifine allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
     "icon": "optifine.png",
     "categories": [
       "2;Optimization"
@@ -134,7 +134,7 @@
     "enabled": true,
     "file": "Patcher-1.5.1 (1.8.9).jar",
     "display": "Patcher",
-    "description": "Provides a massive FPS boost, along with some nice QOL features and bug fixes.",
+    "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, almost no tradeoff",
     "icon": "sk1er monkey.png",
     "categories": [
       "2;Optimization"
@@ -164,7 +164,7 @@
     "enabled": true,
     "file": "SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
     "display": "SkyblockAddons",
-    "description": "SkyblockAddons is truly essential for Skyblock, adding locking slots, timers, and more!",
+    "description": "Essential QOL skyblock mod with a plethora of indispensable features, locking slots, timers, and a ton more to discover!",
     "icon": "bisquit.png",
     "categories": [
       "3;Skyblock"
@@ -201,7 +201,7 @@
     "id": "sbhud",
     "file": "SkyblockHud-1.12.jar",
     "display": "SkyblockHUD",
-    "description": "SkyblockHUD is a GUI enhancement mod that is designed to make skyblock feel more like an RPG.",
+    "description": "SBH Focuses on enhancing the skyblock HUD to feel like more of an RPG.",
     "icon": "sbhlogo.png",
     "warning": {
       "lines": [
@@ -225,7 +225,7 @@
     "enabled": true,
     "file": "NotEnoughUpdates-2.0-PRE26.jar",
     "display": "NotEnoughUpdates",
-    "description": "NotEnoughUpdates is a Skyblock essential, with remote AH, dungeon chest prices, missing enchants, a list of every item in skyblock, and more!",
+    "description": "NEU is one of the essentials for playing skyblock featuring remote AH, dungeon chest prices, missing enchants, list of all skyblock item + recipes and a lot more, \nwith even a ton coming in the near future!",
     "icon": "neulogo.png",
     "categories": [
       "3;Skyblock"
@@ -257,7 +257,7 @@
     "id": "dankers",
     "file": "Dankers Skyblock Mod-1.8.6-beta5.jar",
     "display": "Danker's Skyblock Mod",
-    "description": "Danker's Skyblock Mod, also known as DSM, provides dungeon puzzle solvers, a reparty command, custom boss music, and more!",
+    "description": "DSM provides dungeon puzzle solvers, reparty command, custom boss music and more useful features to see for yourself!",
     "icon": "dsm logo cropped.png",
     "categories": [
       "3;Skyblock"
@@ -289,7 +289,7 @@
     "id": "skytils",
     "file": "Skytils-0.1.2-pre9.jar",
     "display": "Skytils",
-    "description": "Skytils adds useful puzzle solvers, many skyblock QOL features, a reparty command, and so much more.",
+    "description": "Introduces some useful puzzle solvers, reparty command, spam hider for skyblock and a ton more with lots to come in the future!",
     "icon": "skytils.png",
     "categories": [
       "3;Skyblock"
@@ -321,7 +321,7 @@
     "id": "apec",
     "file": "Apec-1.8.1.jar",
     "display": "Apec",
-    "description": "Apec is another GUI improvement mod that adds the distinct black bar at the bottom of your screen, removes the hypixel side panel, and arranges your GUI to look more like an RPG game.",
+    "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, and making the game feel more of an RPG.",
     "url": "https://media.forgecdn.net/files/3253/669/Apec-1.8.1.jar",
     "icon": "apec.png",
     "categories": [
@@ -357,7 +357,7 @@
     "id": "cowlection",
     "file": "Cowlection-1.8.9-0.13.0-beta1.jar",
     "display": "Cowlection",
-    "description": "A collection of various enhancements and features generally for Hypixel SkyBlock. Some features - like the Minecraft log search - have universal uses.",
+    "description": "A collection of various features and enhancements mainly towards hypixel skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all hypixel players.",
     "icon": "cowlection-logo.png",
     "categories": [
       "3;Skyblock"
@@ -395,7 +395,7 @@
     "file": "1.8.9_SkyblockPersonalized_1.5.1.0.jar",
     "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.5.1/1.8.9_SkyblockPersonalized_1.5.1.0.jar",
     "display": "SkyblockPersonalized",
-    "description": "A QOL Mod with way too much customizability.",
+    "description": "A mod with a lot of customizability and has many features including auto teleport to garry, disable mining messages, disable specific messages, \nice fill solver and showing player's dungeons stats with more for the user to discover.",
     "icon": "sbp.png",
     "categories": [
       "3;Skyblock"
@@ -423,7 +423,7 @@
     "id": "hudcaching",
     "file": "HUDCaching-1.8.1.jar",
     "display": "HUD Caching",
-    "description": "FPS boosting mod that limits your HUD fps to 20",
+    "description": "Limits the framerate of the HUD to 20 which should have no visual difference but can provide an EXTREME fps boost.",
     "icon": "moulberrys bush.png",
     "creator": "Moulberry",
     "discordcode": "moulberry",
@@ -446,7 +446,7 @@
     "id": "keystrokes",
     "file": "Keystrokes-8.0.2 (1.8.9).jar",
     "display": "Keystrokes",
-    "description": "Keystrokes lets you show the WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
+    "description": "Adds display WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
     "icon": "sk1er monkey.png",
     "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.0.2/1.8.9/Keystrokes-8.0.2%20(1.8.9).jar",
     "creator": "Sk1er LLC",
@@ -469,7 +469,7 @@
     "id": "simpletogglesprint",
     "file": "SimpleToggleSprint-1.1.jar",
     "display": "Toggle Sprint",
-    "description": "Toggle Sprint and Toggle Sneak",
+    "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
     "icon": "skyclient.png",
     "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v1.1/SimpleToggleSprint-1.1.jar",
     "creator": "Lily",
@@ -485,7 +485,7 @@
     "id": "timechanger",
     "file": "TimeChanger-2.2.1.jar",
     "display": "TimeChanger",
-    "description": "Tricks your game into thinking the server time is different. Very useful for shaderpacks!",
+    "description": "Allows the user to change the client-side time with a simple slider and full time customizability",
     "icon": "clock.png",
     "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
     "creator": "Shatterpoint",
@@ -502,7 +502,7 @@
     "enabled": false,
     "file": "ctjs-1.3.1-1.8.9.jar",
     "display": "Chat Triggers",
-    "description": "Requirement for DungeonUtilties and SoopyAddons, Chat Triggers gives a lot of capability, at the cost of some performance.",
+    "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
     "warning": {
       "lines": [
         "A better alternative to this mod would be Cowlection, Dankers, and Skytils.",
@@ -535,7 +535,7 @@
     "id": "sbcustommobtex",
     "file": "SBCustomMobTex-1.4.jar",
     "display": "SBCustomMobTex",
-    "description": "Allows resource packs to view the NBT data of mobs in Skyblock, \nallowing packs to add custom mob textures.",
+    "description": "Allows resource packs to view the NBT data of mobs in skyblock and provides the possiblity of changing custom mob textures with the use of resource packs.",
     "icon": "moulberrys bush.png",
     "categories": [
       "3;Skyblock"
