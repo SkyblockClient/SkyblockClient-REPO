@@ -443,13 +443,13 @@
     },
     {
       "id": "hudcaching",
-      "file": "HUDCaching-1.8.1.jar",
+      "file": "HUDCaching-1.8.2.jar",
       "display": "HUD Caching",
       "description": "Limits the framerate of the HUD to 20 which should have no visual difference but can provide an EXTREME fps boost.",
       "icon": "moulberrys bush.png",
       "creator": "Moulberry",
       "discordcode": "moulberry",
-      "command": "/hudcaching on/off",
+      "command": "/hudcaching",
       "categories": [
         "2;Optimization"
       ],
