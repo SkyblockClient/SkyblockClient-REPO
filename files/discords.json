@@ -76,6 +76,7 @@
     {
         "id": "dsm",
         "code": "BUmywXX47M",
+        "partner": true,
         "nicknames": [
             "dankers",
             "dsm"
