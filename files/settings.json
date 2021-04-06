@@ -1,8 +1,5 @@
-/*
-Upper and lower case is important!
-Check out https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs for a list of settings and their default values
-*/
 {
+    "sourceFile": "https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs"
     "ignoreOutdatedVersion": false,
     "version": "1.3.6",
     "enableUpdateButton": true
