@@ -1,3 +1,8 @@
+SkyClient 1.3.3 Changelog
+- Basically the devs have been complete clowns for the past month, many minor bugfixes and probably other stuff that I can't read/understand
+- Many mods updated to fit Hypixel's new rules, as they were messing with packets
+- Please update this, I can't use github to save my life
+
 SkyClient 1.3.2 Changelog
 - Animated Launcher icon
 
@@ -17,7 +22,7 @@ SkyClient 1.1 Changelog
 - Added notifications if you are using an outdated version of the installer
 - Improved the update button to support non-SkyClient directories
 - Backend: Mods now support multiple libraries -> changed the to packages
-- A lot more backend stuff relating to how the mods are formated, this is to assure future compatability
+- A lot more backend stuff relating to how the mods are formatted, this is to assure future compatability
 - Advanced settings appending a / after you close and open the window
 
 SkyClient 1.0 Released!
