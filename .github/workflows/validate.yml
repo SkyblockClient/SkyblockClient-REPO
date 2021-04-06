@@ -1,0 +1,31 @@
+name: JSON
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: '*'
+  pull_request:
+    branches: '*'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  Validatejson:
+    name: Validate jsons
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: validate
+        run: |
+          #!/bin/bash
+          echo "Linting contants..."
+          for filename in **/*.json; do
+            if ! python -mjson.tool "$filename" &> /dev/null ; then
+                echo "Linting $filename failed:"
+                python -mjson.tool "$filename" > /dev/null
+            fi
+          done
+          echo "Linted."
