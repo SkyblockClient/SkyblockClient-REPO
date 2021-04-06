@@ -21,7 +21,7 @@ jobs:
       - name: validate
         run: |
           #!/bin/bash
-          echo "Linting contants..."
+          echo "Linting contents..."
           for filename in **/*.json; do
             if ! python -mjson.tool "$filename" &> /dev/null ; then
                 echo "Linting $filename failed:"
