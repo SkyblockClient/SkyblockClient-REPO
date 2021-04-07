@@ -6,7 +6,7 @@ https://sk1er.club/beta
 #### Discord
 discord.gg/sk1er
 
-# Patcher - How do i use it?
+# Patcher - How do I use it?
 
 The commands for patcher are:
 > /patcher, /patcher sounds, /patcher name, /patcher blacklist, /patcher benchmark, /patcher debugfps, /patcher vanilla/optimized (useless), /fov, /sendcoords, /invscale
