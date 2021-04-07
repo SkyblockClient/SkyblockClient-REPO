@@ -6,7 +6,7 @@ discord.gg/QsEkNQS
 
 # Danker's Skyblock Mod - How do I use it?
 
-#### The commands for dsm are:
+#### The commands for DSM are:
 > /dsm
 
 Open the mod's config menu - turn on solvers, skill trackers, and other features.
