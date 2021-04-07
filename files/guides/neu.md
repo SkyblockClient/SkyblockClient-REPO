@@ -9,7 +9,7 @@ discord.gg/moulberry
 The only command that you need is 
 > /neu
 
-From there on you will be greeted with a peculiar GUI at the left hand side if your screen:
+From there on you will be greeted with a peculiar GUI at the left hand side of your screen:
 
 ![image of the GUI](https://cdn.discordapp.com/attachments/789262632531525632/793098203112931328/unknown.png)
 
