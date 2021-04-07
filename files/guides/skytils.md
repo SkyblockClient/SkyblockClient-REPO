@@ -43,6 +43,4 @@ Change the visibility of enchantment glints for the item.
 > /glintcustomize color <set/clear/clearall>
 
 Change the enchant glint color for the item.
-> /blockability [clearall]
 
-Block using the ability on the currently held item
