@@ -1,6 +1,6 @@
 # Hypixel Skyblock pack by PacksHQ
 
-One of the first skyblock packs to ever come out, this pack is maintained by a large number of artists, and features custom textures for 
+One of the first Skyblock packs to ever come out, this pack is maintained by a large number of artists, and features custom textures for 
 most of the items in the game.
 It also features custom guis for mods like SkyBlockAddons and NotEnoughUpdates! 
 
