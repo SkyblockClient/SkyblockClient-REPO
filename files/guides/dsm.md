@@ -4,9 +4,9 @@ https://github.com/bowser0000/SkyblockMod/releases/
 #### Discord
 discord.gg/QsEkNQS
 
-# Danker's Skyblock Mod - How do I use it?
+# Better Danker's Skyblock Mod - How do I use it?
 
-#### The commands for dsm are:
+#### The commands for BDSM are:
 > /dsm
 
 Open the mod's config menu - turn on solvers, skill trackers, and other features.
@@ -52,7 +52,7 @@ Resets counter loot.
 Move and Scale GUI item to set <x> and <y> locations, and scale to set number from 0.1x to 10x (you can also use /dsm).
 > /toggle <gparty/coords/golden/slayercount/rngesusalerts/splitfishing/chatmaddox/spiritbearalerts/aotd/lividdagger/sceptremessages/midasstaffmessages/implosionmessages/healmessages/petcolors/dungeontimer/golemalerts/expertiselore/skill50display/outlinetext/caketimer/lowhealthnotify/lividsolver/threemanpuzzle/oruopuzzle/blazepuzzle/creeperpuzzle/waterpuzzle/tictactoepuzzle/startswithterminal/selectallterminal/itemframeonsealanterns/ultrasequencer/list>
 
-Toggle various DSM features. Can mostly be done from within /dsm.
+Toggle various BDSM features. Can mostly be done from within /dsm.
   
 > /onlyslayer <zombie/spider/wolf> <1/2/3/4>
 
