@@ -11,7 +11,7 @@
 
 ### Sound Subtitles
 
-A mod to add the sound subtitles from modern versions of minecraft, in 1.8.9
+A mod to backport the Sound Subtitles from newer Minecraft versions to 1.8.9
 
 ### Popup Events
 
