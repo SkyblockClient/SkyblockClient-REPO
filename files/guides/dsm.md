@@ -56,9 +56,6 @@ Toggle various DSM features. Can mostly be done from within /dsm.
   
 > /onlyslayer <zombie/spider/wolf> <1/2/3/4>
 
-Stops you from starting another slayer quest (Can be fine tuned to tier).
-> /skilltracker <start/stop/reset>
-
 Tracks average skill per hour.
 > /importfishing
 
