@@ -106,13 +106,12 @@
         ]
     },
     {
-        "id": "sk1er",
+        "id": "sk1ersupport",
         "code": "d4KFR9H",
         "nicknames": [
-            "patcher",
-            "keystrokes",
-            "tnttime",
-            "sk1er"
+            "sk1erbeta",
+            "sk1erhelp",
+            "sk1ersupport"
         ]
     },
     {
@@ -207,6 +206,29 @@
             "hq32f",
             "hq16f",
             "hqdark"
+        ]
+    },
+    {
+        "id": "sk1er",
+        "code": "sk1er",
+        "fancyname": "Sk1er Discord",
+        "description": "Sk1er's Discord server",
+        "nicknames": [
+            "patcher",
+            "keystrokes",
+            "tnttime",
+            "sk1er",
+            "popup_events",
+            "scrollabletooltips",
+            "soundsubtitles"
+        ],
+        "mods": [
+            "patcher",
+            "keystrokes",
+            "scrollabletooltips",
+            "tnttime",
+            "popup_events",
+            "soundsubtitles"
         ]
     }
 ]
