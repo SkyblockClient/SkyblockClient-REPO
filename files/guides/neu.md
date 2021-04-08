@@ -13,7 +13,7 @@ From there on you will be greeted with a peculiar GUI at the middle of your scre
 
 ![image of the GUI](https://cdn.discordapp.com/attachments/532527785164406786/829732923246641162/unknown.png)
 
-You can search for features using the scroll bar in the left part of this menu
+You can search for features using the scroll bar in the left part of this menu or using the search menu on the top right.
 
 ### Inventory
 
