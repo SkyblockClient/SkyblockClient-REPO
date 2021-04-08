@@ -210,3 +210,36 @@
         ]
     }
 ]
+
+  {
+        "id": "phq",
+        "code": "xqEhtq88b7",
+        "fancyname": "Packs HQ",
+        "description": "The Creator of the first and most well know Hypixel Skyblock texturepack",
+        "nicknames": [
+            "packshq"
+        ],
+        "packs": [
+            "hq32f",
+            "hq16f",
+ 
+        ]
+    }
+]
+
+
+  {
+        "id": "sk1ersupport",
+        "code": "d4KFR9H",
+        "fancyname": "Sk1er Support",
+        "description": "A bunch of super usefull forge mods",
+        "nicknames": [
+            "sk1er"
+        ],
+        "mods": [
+            "hq32f",
+            "hq16f",
+ 
+        ]
+    }
+]
