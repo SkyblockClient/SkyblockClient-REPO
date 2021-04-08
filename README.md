@@ -1,7 +1,7 @@
 # SkyblockClient-REPO
 ### This is a asset repository for [SkyblockClient](https://github.com/nacrt/SkyblockClient)
 Our [discord](https://discord.gg/VH6fdBYzQQ)!\
-[Changelog](Chnagelog.md)!
+[Changelog](Changelog.md)!
 <br></br>
 ## Pull Request Examples
 ### Name Should contain what did you change but shouldn't too long
