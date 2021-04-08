@@ -1,6 +1,6 @@
 # SkyblockClient-REPO
 ### This is an asset repository for [SkyblockClient](https://github.com/nacrt/SkyblockClient)
-Our [discord](https://discord.gg/VH6fdBYzQQ)!
+Our [Discord](https://discord.gg/VH6fdBYzQQ)!
 <br></br>
 ## Pull Request Examples
 ### Names of pull requests should be concise to the change, but not be too long.
