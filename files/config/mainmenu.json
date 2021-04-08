@@ -100,22 +100,6 @@
             }
         },
 
-        "changelog":
-        {
-            "text" : "Changelog",
-            "posX" : 50,
-            "posY" : -125,
-            "width": 100,
-            "height": 20,
-            "alignment" : "bottom_left",
-            "action" : 
-            {
-                "type" : "openLink",
-                "link" : "https://github.com/nacrt/SkyblockClient-REPO/blob/main/info.txt"
-            }
-        }
-        
-    },
     
     
     "labels":
