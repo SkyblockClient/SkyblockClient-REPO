@@ -211,7 +211,9 @@
             "patcher",
             "keystrokes",
             "tnttime",
-            "sk1er"
+            "sk1er",
+       ],
+        "mods": [
         ]
     },
 ]
