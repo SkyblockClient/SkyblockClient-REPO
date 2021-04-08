@@ -202,6 +202,12 @@
         "description": "The Creator of the first and most well know Hypixel Skyblock texturepack",
         "nicknames": [
             "packshq"
+        ],
+        "packs"": [
+            "hq32f",
+            "hq16f",
+            "hqdark"
+        
         ]
     },   
     {
