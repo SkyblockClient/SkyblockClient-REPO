@@ -98,9 +98,8 @@
                 "type" : "openLink",
                 "link" : "https://discord.gg/VPqDRWSHN2"
             }
-        },
-
-    
+        }
+    },
     
     "labels":
     {
@@ -124,18 +123,21 @@
 
     },
     
-    "other": {
-        "background": {
-			"image": "",
-			"slideshow": {
-				"images": [
-					"web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackground.png"
-					
-				],
-				"displayDuration": 50,
-				"fadeDuration": 100,
-				"mode":"fill"
-			}
-		}
+    "other": 
+    {
+        "background":
+	{
+            "image": "",
+            "slideshow":
+	    {
+            	"images":
+		[
+            	    "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackground.png"	
+		],
+		"displayDuration": 50,
+		"fadeDuration": 100,
+		"mode":"fill"
+	    }
+	}
     }
 }
