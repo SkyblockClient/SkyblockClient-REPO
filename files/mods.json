@@ -611,7 +611,8 @@
       "discordcode": "risk",
       "categories": [
         "3;Skyblock"
-      ]
+      ],
+      "hidden": true
     },
     {
       "id": "rpm",
