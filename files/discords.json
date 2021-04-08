@@ -207,13 +207,10 @@
     {
         "id": "sk1ersupport",
         "code": "d4KFR9H",
-        "nicknames": [
-            "patcher",
+        "nicknames":
+        [
             "keystrokes",
             "tnttime",
-            "sk1er",
-         ],
-        "mods": [
-        ]
-    },
-]
+            "sk1er"
+         ]
+    }
