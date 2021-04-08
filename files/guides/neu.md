@@ -4,7 +4,7 @@ https://github.com/Moulberry/NotEnoughUpdates/releases
 #### Discord
 discord.gg/moulberry
 
-# Not Enough Updates - How do i use it?
+# Not Enough Updates - How do I use it?
 
 The only command that you need is 
 > /neu
