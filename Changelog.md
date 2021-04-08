@@ -1,4 +1,5 @@
-# SkyClient 1.3.9 Changelog
+# SkyClient Changelog
+SkyClient 1.3.9 Changelog
 > Added categories
 
 SkyClient 1.3.8 Changelog
@@ -49,7 +50,7 @@ SkyClient v0.9 Changelog
 > Added update Button functionality 
 
 SkyClient v0.8.7 Changelog
-> Added guides. You can now see and enjoy them when Zordlan makes them
+> Added guides, short informational articles that explain how to use a mod and its features.
 
 SkyClient v0.8.5 Changelog
 > The gui looks better now (thanks jani270)
