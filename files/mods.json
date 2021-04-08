@@ -601,6 +601,19 @@
       ]
     },
     {
+      "id": "dungeonrooms",
+      "file": "Dungeon Rooms-1.0.4.jar",
+      "url": "https://cdn.discordapp.com/attachments/804248325967577118/829062429874192434/Dungeon_Rooms-1.0.4.jar",
+      "display": "Dungeon Rooms",
+      "description": "Displays dungeon room id/name, Works with Dungeon Secrets (not available on skyclient YET!)",
+      "creator": "_risk",
+      "command": "/room",
+      "discordcode": "risk",
+      "categories": [
+        "3;Skyblock"
+      ]
+    },
+    {
       "id": "rpm",
       "file": "Resource_Pack_Manager_1.2.jar",
       "display": "Resource Pack Manager",
