@@ -230,5 +230,19 @@
             "popup_events",
             "soundsubtitles"
         ]
+    },
+    {
+        "id": "risk",
+        "code": "7B5RbsArYK",
+        "fancyname": "_risk Discord",
+        "description": "_risk's Discord server",
+        "nicknames": [
+            "_risk",
+            "risk",
+            "dungeonrooms"
+        ],
+        "mods": [
+            "dungeonrooms"
+        ]
     }
 ]
