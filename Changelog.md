@@ -1,4 +1,4 @@
-SkyClient 1.3.9 Changelog
+# SkyClient 1.3.9 Changelog
 > Added categories
 
 SkyClient 1.3.8 Changelog
@@ -43,8 +43,8 @@ SkyClient 1.1 Changelog
 > A lot more backend stuff relating to how the mods are formatted, this is to assure future compatability
 > Advanced settings appending a / after you close and open the window
 
-SkyClient 1.0 Released!
-
+## SkyClient 1.0 Released!
+<br></br>
 SkyClient v0.9 Changelog
 > Added update Button functionality 
 
