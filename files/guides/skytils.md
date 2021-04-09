@@ -2,7 +2,7 @@
 #### Source
 https://github.com/Skytils/SkytilsMod/releases/
 #### Discord
-discord.gg/qgs9ppaVKz
+https://discord.gg/qgs9ppaVKz
 
 # Skytils - How do I use it?
 
