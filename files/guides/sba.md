@@ -2,7 +2,7 @@
 #### Source
 https://biscuit.codes/mods/skyblockaddons/
 #### Discord
-discord.gg/biscuit
+https://discord.gg/biscuit
 
 # Skyblock Addons - How do i use it?
 
