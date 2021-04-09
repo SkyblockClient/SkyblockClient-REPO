@@ -2,7 +2,7 @@
 #### Source
 https://github.com/bowser0000/SkyblockMod/releases/
 #### Discord
-discord.gg/QsEkNQS
+https://discord.gg/QsEkNQS
 
 # Danker's Skyblock Mod - How do I use it?
 
