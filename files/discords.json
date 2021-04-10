@@ -77,13 +77,12 @@
         "id": "dsm",
         "code": "BUmywXX47M",
         "partner": true,
-        "description": "BDSM makes a cool Skyblock mod with lots of solvers",
-        "fancyname": "Better Dankers Skyblock Mod",
-        "icon": "bdsm.png",
+        "description": "DSM makes a cool Skyblock mod with lots of solvers",
+        "fancyname": "Dankers Skyblock Mod",
+        "icon": "dsm logo cropped.png",
         "nicknames": [
             "dankers",
-            "dsm",
-            "bdsm"
+            "dsm"
         ],
         "mods": [
             "dankers"
