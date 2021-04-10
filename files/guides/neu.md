@@ -2,7 +2,7 @@
 #### Source
 https://github.com/Moulberry/NotEnoughUpdates/releases
 #### Discord
-discord.gg/moulberry
+https://discord.gg/moulberry
 
 # Not Enough Updates - How do I use it?
 

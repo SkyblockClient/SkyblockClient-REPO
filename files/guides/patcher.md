@@ -4,7 +4,7 @@ https://sk1er.club/mods/patcher
 #### Beta program
 https://sk1er.club/beta
 #### Discord
-discord.gg/sk1er
+https://discord.gg/sk1er
 
 # Patcher - How do I use it?
 
