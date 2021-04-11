@@ -298,8 +298,8 @@
     },
     {
       "id": "skytils",
-      "file": "Skytils-0.3-pre1.jar",
-      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.3-pre1/Skytils-0.3-pre1.jar",
+      "file": "Skytils-0.3-pre2.jar",
+      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.3-pre2/Skytils-0.3-pre2.jar",
       "display": "Skytils",
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
       "icon": "skytils.png",
@@ -598,6 +598,26 @@
       "packs": [
         "skymobs",
         "actuallymobs"
+      ]
+    },
+    {
+      "id": "dungeonrooms",
+      "file": "Dungeon Rooms-1.0.4.jar",
+      "url": "https://cdn.discordapp.com/attachments/804248325967577118/829062429874192434/Dungeon_Rooms-1.0.4.jar",
+      "display": "Dungeon Rooms",
+      "description": "Displays dungeon room id/name, Works with Dungeon Secrets (not available on skyclient YET!)",
+      "creator": "_risk",
+      "command": "/room",
+      "discordcode": "7B5RbsArYK",
+      "categories": [
+        "3;Skyblock"
+      ],
+      "actions": [
+        {
+          "icon": "github.png",
+          "text": "Github",
+          "link": "https://github.com/Quantizr/DungeonRoomsMod"
+        }
       ]
     },
     {
