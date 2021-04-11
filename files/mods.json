@@ -304,7 +304,7 @@
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
       "icon": "skytils.png",
       "creator": "Sychic and Lily",
-      "discordcode": "skytils",
+      "discordcode": "biscuit",
       "command": "/skytils",
       "actions": [
         {
