@@ -4,7 +4,7 @@ https://biscuit.codes/mods/skyblockaddons/
 #### Discord
 https://discord.gg/biscuit
 
-# Skyblock Addons - How do i use it?
+# Skyblock Addons - How do I use it?
 
 The mod is very simple to use. The only command that you need is 
 > /sba
