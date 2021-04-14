@@ -614,7 +614,11 @@
         "3;Skyblock"
       ],
       "actions": [
-        {
+         {
+          "method": "hover",
+          "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/drm.md"
+        },
+          {
           "icon": "github.png",
           "text": "Github",
           "link": "https://github.com/Quantizr/DungeonRoomsMod"
