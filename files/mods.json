@@ -45,12 +45,6 @@
           "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
         },
         {
-          "icon": "aycy.jpg",
-          "text": "Resource Pack Manager",
-          "creator": "Aycy",
-          "link": "https://www.youtube.com/watch?v=OQZFWrrEcYM"
-        },
-        {
           "icon": "smooth scrolling everywhere.png",
           "text": "Smooth Scrolling Everywhere",
           "creator": "Shedaniel",
@@ -61,7 +55,6 @@
         "1;Bundles"
       ],
       "packages": [
-        "rpm",
         "smoothscrollingeverywhere"
       ],
       "config": true
@@ -631,7 +624,19 @@
       "display": "Resource Pack Manager",
       "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu",
       "creator": "Aycy",
-      "hidden": true
+      "warning": {
+        "lines": [
+          "This Mod might break the texturepack selector.",
+          "",
+          "Sometimes texturepacks don't get enabled",
+          "Othertimes they get unselected when you restart Minecraft",
+          "",
+          "Most of the time it works fine though.",
+          "",
+          "",
+          "Use anyway?"
+        ]
+      },
     },
     {
       "id": "controlling",
