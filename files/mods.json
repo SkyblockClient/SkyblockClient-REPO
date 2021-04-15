@@ -2,8 +2,8 @@
     {
       "id": "itlt",
       "enabled": true,
-      "file": "itlt-1.8.9-0.0.9.jar",
-      "url": "https://media.forgecdn.net/files/2290/963/itlt-1.8.9-0.0.9.jar",
+      "file": "itlt-1.8.9-1.0.0.jar",
+      "url": "https://media.forgecdn.net/files/3215/425/itlt-1.8.9-1.0.0.jar",
       "display": "Utility Bundle",
       "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, and a lot more!",
       "icon": "skyclient.png",
