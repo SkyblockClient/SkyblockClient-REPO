@@ -599,7 +599,7 @@
       "url": "https://cdn.discordapp.com/attachments/804248325967577118/829062429874192434/Dungeon_Rooms-1.0.4.jar",
       "display": "Dungeon Rooms",
       "icon": "drm.png",
-      "description": "Displays dungeon room id/name, Works with Dungeon Secrets (not available on skyclient YET!)",
+      "description": "Displays dungeon room id/name",
       "creator": "_risk",
       "command": "/room",
       "discordcode": "7B5RbsArYK",
