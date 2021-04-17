@@ -25,3 +25,4 @@ Smooth Scrolling Everywhere - By Shedaniel
 Sound Subtitles - By Sk1erLLC
 TimeChanger - Shatterpoint
 TNT Timer - By Sk1erLLC
+Simpletogglesprint - By Lily
