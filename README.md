@@ -13,3 +13,9 @@ Our [Discord](https://discord.gg/VH6fdBYzQQ)!
 #### Examples
 > Good: "Changed that because this was useless"\
 > Bad: "because that was dumb"
+
+<br></br>
+### Issues notify devs when a file or line of code is broken.
+#### Examples 
+> Good: "Some broken code in index.json"\
+> Bad: "fix your horrible code in all of the files"  
