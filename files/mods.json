@@ -132,7 +132,7 @@
       "discordcode": "sk1er",
       "display": "Patcher",
       "command": "/patcher",
-      "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, almost no tradeoff",
+      "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoff.",
       "icon": "sk1er monkey.png",
       "actions": [
         {
@@ -222,7 +222,7 @@
      "file": "[1.8.9-2.0-beta2] EvergreenHUD.jar",
      "url": "https://short.evergreenclient.com/RqjzS4",
      "display": "EvergreenHUD",
-     "description": "Displays every piece of information a hypixel player could ever need",
+     "description": "Displays every piece of information a Hypixel player could ever need.",
      "creator": "isXander",
      "command": "/evergreenhud",
      "discordcode": "AJv5ZnNT8q",
@@ -534,7 +534,7 @@
       "file": "TimeChanger-2.2.1.jar",
       "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
       "display": "TimeChanger",
-      "description": "Allows the user to change the client-side time with a simple slider and full time customizability",
+      "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
       "icon": "clock.png",
       "creator": "Shatterpoint",
       "actions": [
@@ -584,7 +584,7 @@
           "A better alternative to this mod would be Cowlection, Dankers, and Skytils.",
           "This mod doesn't ship with modules.\n The recommended module is:",
           "\t/ct import DungeonUtilities",
-          "You can import the module by typing the command in-game. No restart required",
+          "You can import the module by typing the command in-game. No restart required.",
           "",
           "",
           "Use anyway?"
@@ -631,7 +631,7 @@
       "url": "https://cdn.discordapp.com/attachments/804248325967577118/829062429874192434/Dungeon_Rooms-1.0.4.jar",
       "display": "Dungeon Rooms",
       "icon": "drm.png",
-      "description": "Displays dungeon room id/name, Works with Dungeon Secrets (not available on skyclient YET!)",
+      "description": "Displays dungeon room id/name, Works with Dungeon Secrets (not available on skyclient YET)!",
       "creator": "_risk",
       "command": "/room",
       "discordcode": "7B5RbsArYK",
@@ -654,7 +654,7 @@
       "id": "rpm",
       "file": "Resource_Pack_Manager_1.2.jar",
       "display": "Resource Pack Manager",
-      "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu",
+      "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
       "creator": "Aycy",
       "warning": {
         "lines": [
@@ -675,7 +675,7 @@
       "file": "Controlling-7.0.0.2.jar",
       "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
       "display": "GUI Bundle",
-      "description": "Adds more options in controls menu to make it easier to navigate",
+      "description": "Adds more options in controls menu to make it easier to navigate.",
       "hidden": true
     },
     {
@@ -739,5 +739,4 @@
       "creator": "Mojang",
       "hidden": true
     }
-  ]
-  
+ ]
