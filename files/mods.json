@@ -640,6 +640,14 @@
       }
     },
     {
+     "id": "evergreenhud",
+     "file": "1.8.9-2.0-beta2.EvergreenHUD.jar",
+     "url": "https://github.com/Evergreen-Client/EvergreenHUD/releases/download/v2.0-beta2/1.8.9-2.0-beta2.EvergreenHUD.jar",
+     "display": "EvergreenHUD",
+     "description": "none - please add one i bet you",
+     "icon": "evergreen.png"
+    },
+    {
       "id": "controlling",
       "file": "Controlling-7.0.0.2.jar",
       "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
