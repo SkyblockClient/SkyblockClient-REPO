@@ -238,7 +238,15 @@
              "text": "Hypixel",
              "link": "https://hypixel.net/threads/v2-beta-out-now-evergreenhud-1-3-1.3787277/"
          }
-     ]
+     ],
+     "warning": {
+        "lines": [
+          "This mod is still in beta and may not be completely stable.",
+          "",
+          "",
+          "Use anyway?"
+        ]
+      }
     },
     {
       "id": "neu",
