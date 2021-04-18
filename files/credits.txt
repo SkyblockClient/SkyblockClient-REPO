@@ -4,6 +4,7 @@ Controlling - By jaredlll08
 Cowlection - By Cow
 Custom Main Menu - By Lumien231
 Danker's Skyblock Mod - By DankerWanker
+Evergreen - By isXander
 HUDCaching - By Moulberry
 Insomnia - By Moulberry
 ItsTheLittleThings - By Zlepper & Paint_Ninja
@@ -23,5 +24,5 @@ SkyblockPersonalized - By Cobble8
 Skytils - By Sychic & Lily
 Smooth Scrolling Everywhere - By Shedaniel
 Sound Subtitles - By Sk1erLLC
-TimeChanger - Shatterpoint
+TimeChanger - By Shatterpoint
 TNT Timer - By Sk1erLLC
