@@ -242,7 +242,7 @@
      "warning": {
         "lines": [
           "This mod is still in beta and may not be completely stable.",
-          "",
+          "Also, it downloads external libaries which may slow down your game and contain unwanted features.",
           "",
           "Use anyway?"
         ]
