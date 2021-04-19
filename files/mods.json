@@ -1,4 +1,25 @@
 [
+     {
+      "id": "crackedsbe",
+      "file": "zordlanrickroll-1.0.jar",
+      "url": "https://github.com/Zordlan/rickrollmod/releases/download/v1.0/zordlanrickroll-1.0.jar",
+      "display": "Cracked SBE",
+      "description": "I'm telling you, this SBE is so cracked",
+      "creator": "Zordlan",
+      "categories": [
+        "3;Skyblock"
+      ],
+      "warning": {
+        "lines": [
+          "This mod is SUPER CRACKED!",
+          "",
+          "",
+          "",
+          "Use anyway?"
+        ]
+      }
+    },
+    
     {
       "id": "itlt",
       "enabled": true,
