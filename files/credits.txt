@@ -4,7 +4,6 @@ Controlling - By jaredlll08
 Cowlection - By Cow
 Custom Main Menu - By Lumien231
 Danker's Skyblock Mod - By DankerWanker
-EvergreenHUD - By isXander
 HUDCaching - By Moulberry
 Insomnia - By Moulberry
 ItsTheLittleThings - By Zlepper & Paint_Ninja
