@@ -673,7 +673,7 @@
      {
       "id": "updater",
       "file": "SkyClient-Updater.jar",
-      "url": "https://github.com/koxx12-dev/Skyclient-Updater/releases/download/1.0.1/SkyClient-Updater.jar"
+      "url": "https://github.com/koxx12-dev/Skyclient-Updater/releases/download/1.0.1/SkyClient-Updater.jar",
       "description": "Updates SkyClient's mods to the latest versions when run, contained in the mods folder, doesn't run automatically.",
       "creator": "Koxx12",
       "warning": {
