@@ -9,6 +9,7 @@ HUDCaching - By Moulberry
 Insomnia - By Moulberry
 ItsTheLittleThings - By Zlepper & Paint_Ninja
 Keystrokes - By Sk1erLLC
+Skyclient Logo - motion_blue
 MiniInfo - By Aycy
 NotEnoughUpdates - By Moulberry
 Optifine - By sp614x
