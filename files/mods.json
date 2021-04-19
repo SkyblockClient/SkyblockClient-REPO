@@ -6,6 +6,7 @@
       "display": "Cracked SBE",
       "description": "I'm telling you, this SBE is so cracked",
       "creator": "Zordlan",
+      "enabled": true,
       "categories": [
         "3;Skyblock"
       ],
