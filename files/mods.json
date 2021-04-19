@@ -670,7 +670,7 @@
         ]
       }
     },
-     {
+    {
       "id": "updater",
       "file": "SkyClient-Updater.jar",
       "url": "https://github.com/koxx12-dev/Skyclient-Updater/releases/download/1.0.1/SkyClient-Updater.jar",
@@ -686,7 +686,7 @@
           "",
           "",
           "",
-          "Do you know that this is not a mod, and do you still want to add it?",
+          "Do you know that this is not a mod, and do you still want to add it?"
         ]
       }
     },
