@@ -684,10 +684,10 @@
           "This is a temporary fix to the program, and is not final.",
           "Again, this is NOT A MOD.",
           "Join the Discord for support",
-          "M",
           "",
           "",
-          "Do you know that this is not a mod, and do you still want to add it?"
+          "",
+          "Do you know that this is not a mod, and do you still want to add it?",
         ]
       }
     },
