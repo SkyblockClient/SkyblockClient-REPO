@@ -9,7 +9,7 @@
       "icon": "skyclient.png",
       "actions": [
         {
-          "icon": "sk1er monkey.png",
+          "icon": "monkey.png",
           "text": "Scrollable Tooltips",
           "creator": "Sk1er LLC",
           "link": "https://sk1er.club/mods/text_overflow_scroll"
@@ -79,12 +79,12 @@
           "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
         },
         {
-          "icon": "sk1er monkey.png",
+          "icon": "monkey.png",
           "text": "TNT Timer",
           "link": "https://sk1er.club/mods/tnttime"
         },
         {
-          "icon": "sk1er monkey.png",
+          "icon": "monkey.png",
           "text": "Popup Events",
           "link": "https://sk1er.club/mods/popup_events"
         },
@@ -133,7 +133,7 @@
       "display": "Patcher",
       "command": "/patcher",
       "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoff.",
-      "icon": "sk1er monkey.png",
+      "icon": "monkey.png",
       "actions": [
         {
           "method": "hover",
@@ -145,7 +145,7 @@
           "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
         },
         {
-          "icon": "sk1er monkey.png",
+          "icon": "monkey.png",
           "text": "Website",
           "link": "https://sk1er.club/mods/patcher"
         }
@@ -495,7 +495,7 @@
       "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.0.2/1.8.9/Keystrokes-8.0.2%20(1.8.9).jar",
       "display": "Keystrokes",
       "description": "Adds display WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
-      "icon": "sk1er monkey.png",
+      "icon": "monkey.png",
       "creator": "Sk1er LLC",
       "command": "/keystrokes",
       "discordcode": "sk1er",
@@ -506,7 +506,7 @@
           "link": "https://youtu.be/u--cnSTFqDE"
         },
         {
-          "icon": "sk1er monkey.png",
+          "icon": "monkey.png",
           "text": "Website",
           "link": "https://sk1er.club/mods/keystrokesmod"
         }
