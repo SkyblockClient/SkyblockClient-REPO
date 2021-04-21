@@ -537,6 +537,7 @@
       "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
       "icon": "clock.png",
       "creator": "Shatterpoint",
+      "command": "/timechange",
       "actions": [
         {
           "icon": "forum.png",
