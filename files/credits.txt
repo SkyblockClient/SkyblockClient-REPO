@@ -17,6 +17,7 @@ Resource Loader - By Lumien231
 Resource Pack Manager - By Aycy
 SBCustomMobTex - By Moulberry
 Scrollable Tooltips - By Sk1erLLC
+SimpleHUD - By TGMDevelopment
 Simple Toggle Sprint - By Lily
 SkyblockAddons - By Biscuit
 SkyblockHUD - By ThatGravyBoat

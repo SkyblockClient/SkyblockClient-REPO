@@ -732,6 +732,17 @@
       "hidden": true
     },
     {
+      "id": "simplehud",
+      "file": "SimpleHUD-1.9.2-working.jar",
+      "url": "https://media.forgecdn.net/files/3201/864/SimpleHUD-1.9.2-working.jar",
+      "display": "SimpleHUD",
+      "description": "SimpleHUD is a Forge mod which adds many neat overlays to your game",
+      "creator": "TGMDevelopment",
+      "icon": "simplehud.png",
+      "command": "/simplehud",
+      "hidden": false
+    },
+    {
       "id": "minecraft",
       "file": "no",
       "display": "no",
