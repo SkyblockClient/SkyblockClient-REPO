@@ -26,4 +26,5 @@ Skytils - By Sychic & Lily
 Smooth Scrolling Everywhere - By Shedaniel
 Sound Subtitles - By Sk1erLLC
 TimeChanger - By Shatterpoint
+TimerHUD - By Wyvest
 TNT Timer - By Sk1erLLC

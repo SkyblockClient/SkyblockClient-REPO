@@ -740,7 +740,17 @@
       "creator": "TGMDevelopment",
       "icon": "simplehud.png",
       "command": "/simplehud",
-      "hidden": false
+    },
+    {
+      "id": "timer",
+      "file": "TimerHUD.jar",
+      "url": "https://wyvest.net/timerhud",
+      "display": "TimerHUD",
+      "description": "TimerHUD is a mod that adds a timer - in Minecraft!",
+      "creator": "Wyvest",
+      "icon": "wyvest.jpeg",
+      "command": "/timerhud",
+
     },
     {
       "id": "minecraft",
