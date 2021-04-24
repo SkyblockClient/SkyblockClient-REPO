@@ -31,6 +31,22 @@
         ]
     },
     {
+        "id": "evergreenhud",
+        "code": "AJv5ZnNT8q",
+        "fancyname": "isXander's Hangout",
+        "description": "The official discord for isXander.",
+        "icon": "isxander.png",
+        "nicknames": [
+            "evergreen",
+            "xander",
+            "isxander",
+            "hud"
+        ],
+        "mods": [
+            "evergreenhud"
+        ]
+    },
+    {
         "id": "sba",
         "code": "qBkzcgdPqU",
         "nicknames": [
