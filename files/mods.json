@@ -397,8 +397,8 @@
     },
     {
       "id": "cowlection",
-      "file": "Cowlection-1.8.9-0.13.0-beta1.jar",
-      "url": "https://cdn.discordapp.com/attachments/747861916525002832/822994964240793600/Cowlection-1.8.9-0.13.0-beta1.jar",
+      "file": "Cowlection-1.8.9-0.13.0.jar",
+      "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.13.0/Cowlection-1.8.9-0.13.0.jar",
       "display": "Cowlection",
       "description": "A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all Hypixel players.",
       "icon": "cowlection-logo.png",
