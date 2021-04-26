@@ -13,3 +13,12 @@ Our [Discord](https://discord.gg/VH6fdBYzQQ)!
 #### Examples
 > Good: "Changed that because this was useless"\
 > Bad: "because that was dumb"
+
+<br></br>
+### Issues notify devs when a file or line of code is broken.
+#### Examples 
+> Good: "Some broken code in index.json"\
+> Bad: "fix your horrible code in all of the files"  <br></br>
+## How to add my mod to SkyblockClient?
+> Quote from discord\
+> "if you want a mod to be added write a lengthy article on why it should be added, where to get it and how it is related to skyblock"
