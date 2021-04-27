@@ -12,7 +12,7 @@ Our [Discord](https://discord.gg/VH6fdBYzQQ)!
 ### Descriptions are optional, but appreciated if they provide more information. 
 #### Examples
 > Good: "Changed that because this was useless"\
-> Bad: "because that was dumb"
+> Bad: "bruh that was dumb"
 
 <br></br>
 ### Issues notify devs when a file or line of code is broken.
