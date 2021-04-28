@@ -657,6 +657,7 @@
       "display": "Resource Pack Manager",
       "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
       "creator": "Aycy",
+      "icon": "didyking.gif",
       "warning": {
         "lines": [
           "This Mod might break the texturepack selector.",
