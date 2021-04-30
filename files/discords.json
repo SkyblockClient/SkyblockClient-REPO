@@ -136,6 +136,7 @@
         "code": "dQJR2rhkmK",
         "fancyname": "Skytils",
         "description": "A Skyblock Utilities mod that has all of the features that SkyblockExtras has, but free.",
+        "icon": "st.png",
         "partner": true,
         "nicknames": [
             "st",
