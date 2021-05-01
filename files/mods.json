@@ -485,6 +485,13 @@
       "categories": [
         "2;Optimization"
       ],
+      "actions": [
+        {
+          "icon": "direct_download.png",
+          "text": "Download",
+          "link": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar"
+        }
+      ],
       "warning": {
         "lines": [
           "This mod is still a work in progress.",
