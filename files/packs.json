@@ -192,8 +192,8 @@
   },
   {
     "id": "sbov",
-    "file": "SkyblockOverhaul First Revision - 32x.zip",
-    "url": "https://cdn.discordapp.com/attachments/798742345989619723/817845388693340240/SkyblockOverhaul_First_Revision_-_32x.zip",
+    "file": "Skyblock.Overhaul.32x.-.v1.zip",
+    "url": "https://github.com/Skyblock-Overhaul/Skyblock-Overhaul-Website-v2/releases/download/v1.0/Skyblock.Overhaul.32x.-.v1.zip",
     "display": "SkyblockOverhaul",
     "description": "Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
     "icon": "sbov.png",
@@ -208,8 +208,7 @@
         "icon": "discord icon.png",
         "link": "https://discord.gg/uwy3rwPpmV"
       }
-    ],
-    "incomplete": true
+    ]
   },
   {
     "id": "hqdark",
