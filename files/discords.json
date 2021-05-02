@@ -123,6 +123,16 @@
         ]
     },
     {
+        "id": "rnbw",
+        "code": "dcdsnvG4Q4",
+        "fancyname": "RNBW+ Resource Pack Official",
+        "description": "The official discord for the RNBW+ discord",
+        "icon": "rnbw_hq.png",
+        "packs": [
+            "rnbw"
+        ]
+    },
+    {
         "id": "sk1ersupport",
         "code": "d4KFR9H",
         "nicknames": [
