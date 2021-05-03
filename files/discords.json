@@ -130,6 +130,9 @@
         "icon": "rnbw_hq.png",
         "packs": [
             "rnbw"
+        ],
+        "nicknames": [
+            "rnbw"
         ]
     },
     {
