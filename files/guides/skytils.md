@@ -46,3 +46,6 @@ Change the enchant glint color for the item.
 > /blockability [clearall]
 
 Block using the ability on the currently held item
+
+ChatTriggers issue
+> Change the name of skytils to be !skytils in skyclient\mods
