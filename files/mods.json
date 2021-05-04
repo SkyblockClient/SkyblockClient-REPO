@@ -102,7 +102,7 @@
         "tnttime"
       ]
     },
-     {
+    {
       "id": "dungeonsguide",
       "file": "dungeonsguideplaceholder.jar",
       "url": "https://github.com/probablyrioho/templink.jar",
@@ -122,6 +122,8 @@
           "text": "Guide",
           "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
         }
+      ]
+    },
     {
       "id": "optifine",
       "enabled": true,
