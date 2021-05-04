@@ -102,6 +102,26 @@
         "tnttime"
       ]
     },
+     {
+      "id": "dungeonsguide",
+      "file": "dungeonsguideplaceholder.jar",
+      "url": "https://github.com/probablyrioho/templink.jar",
+      "creator": "syeyoung I think",
+      "display": "Dungeons Guide",
+      "description": "A very helpful mod that shows you how to locate and navigate to dungeon secrets (unreleased)",
+      "icon": "dungeonsguide.png",
+      "discordcode": "dg",
+      "hidden": true
+      "actions": [
+        {
+          "method": "hover",
+          "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+        },
+        {
+          "icon": "guide.png",
+          "text": "Guide",
+          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+        },
     {
       "id": "optifine",
       "enabled": true,
