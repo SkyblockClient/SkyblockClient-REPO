@@ -111,7 +111,7 @@
       "description": "A very helpful mod that shows you how to locate and navigate to dungeon secrets (unreleased)",
       "icon": "dungeonsguide.png",
       "discordcode": "dg",
-      "hidden": true
+      "hidden": true,
       "actions": [
         {
           "method": "hover",
