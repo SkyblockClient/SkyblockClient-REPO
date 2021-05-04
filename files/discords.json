@@ -8,6 +8,20 @@
         ]
     },
     {
+        "id": "dungeonsguide",
+        "code": "dg",
+        "fancyname": "Dungeons Guide Discord",
+        "description": "Need I say more?",
+        "icon": "dungeonsguide.png",
+        "nicknames": [
+            "dg",
+            "dungeonsguide",
+        ],
+        "mods": [
+            "dungeonsguide",
+        ]
+    },
+    {
         "id": "neu",
         "code": "moulberry",
         "partner": true,
