@@ -104,14 +104,14 @@
     },
     {
       "id": "dungeonsguide",
-      "file": "dungeonsguideplaceholder.jar",
-      "url": "https://github.com/probablyrioho/templink.jar",
-      "creator": "syeyoung I think",
+      "file": "dungeonsguide.jar",
+      "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide",
+      "creator": "Syeyoung",
       "display": "Dungeons Guide",
-      "description": "A very helpful mod that shows you how to locate and navigate to dungeon secrets (unreleased)",
+      "description": "Tthe most intelligent Hypixel Skyblock Dungeons Mod",
       "icon": "dungeonsguide.png",
       "discordcode": "dg",
-      "hidden": true,
+      "enabled": true,
       "actions": [
         {
           "method": "hover",
@@ -120,8 +120,16 @@
         {
           "icon": "guide.png",
           "text": "Guide",
-          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md" 
+        },
+        {
+          "icon": "github.png",
+          "text": "Github",
+          "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
         }
+      ],
+      "categories": [
+        "3;Skyblock"
       ]
     },
     {
