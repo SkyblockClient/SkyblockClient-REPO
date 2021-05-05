@@ -567,6 +567,7 @@
       "display": "MiniInfo",
       "description": "Display HUD for fps, cps, ping",
       "icon": "aycy.jpg",
+      "creator": "Aycy",
       "actions": [
         {
           "icon": "youtube.png",
