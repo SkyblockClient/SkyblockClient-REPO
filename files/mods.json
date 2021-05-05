@@ -329,8 +329,8 @@
     },
     {
       "id": "skytils",
-      "file": "!Skytils-1.0-pre2.jar",
-      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre2/Skytils-1.0-pre2.jar",
+      "file": "!Skytils-1.0-pre3.jar",
+      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre3/Skytils-1.0-pre3.jar",
       "display": "Skytils",
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
       "icon": "skytils.png",
