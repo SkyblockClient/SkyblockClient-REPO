@@ -207,6 +207,13 @@
       "categories": [
         "3;Skyblock"
       ],
+      "actions": [
+        {
+          "icon": "direct_download.png",
+          "text": "Download",
+          "link": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar"
+        }
+      ],
       "warning": {
         "lines": [
           "This mod is still a work in progress and no support will be provided.",
@@ -219,7 +226,7 @@
     },
     {
      "id": "evergreenhud",
-     "file": "[1.8.9-2.0-beta2] EvergreenHUD.jar",
+     "file": "[1.8.9-2.0-beta3] EvergreenHUD.jar",
      "url": "https://short.evergreenclient.com/RqjzS4",
      "display": "EvergreenHUD",
      "description": "Displays every piece of information a Hypixel player could ever need.",
@@ -287,8 +294,8 @@
     },
     {
       "id": "dsm",
-      "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.6.jar",
-      "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.6/1.8.9.Danker.s.Skyblock.Mod.-.1.8.6.jar",
+      "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.7-beta1.jar",
+      "url": "https://cdn.discordapp.com/attachments/742114256555606106/837506327072604200/Dankers_Skyblock_Mod-1.8.7-beta1.jar",
       "display": "Better Danker's Skyblock Mod",
       "description": "DSM provides dungeon puzzle solvers,a reparty command, custom boss music and more useful features to see for yourself!",
       "icon": "dsm logo cropped.png",
@@ -322,8 +329,8 @@
     },
     {
       "id": "skytils",
-      "file": "Skytils-0.3.1.jar",
-      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v0.3.1/Skytils-0.3.1.jar",
+      "file": "!Skytils-1.0-pre3.jar",
+      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre3/Skytils-1.0-pre3.jar",
       "display": "Skytils",
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
       "icon": "skytils.png",
@@ -437,8 +444,8 @@
     },
     {
       "id": "sbp",
-      "file": "1.8.9_SkyblockPersonalized_1.5.1.0.jar",
-      "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.5.1/1.8.9_SkyblockPersonalized_1.5.1.0.jar",
+      "file": "1.8.9_SkyblockPersonalized_1.5.2.0.jar",
+      "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.5.2/1.8.9.SkyblockPersonalized.1.5.2.0.jar",
       "display": "SkyblockPersonalized",
       "description": "A mod with a lot of customizability and has many features including auto teleport to garry, disable mining messages, disable specific messages, \nice fill solver and showing player's dungeons stats with more for the user to discover.",
       "icon": "sbp.png",
@@ -477,6 +484,13 @@
       "command": "/hudcaching",
       "categories": [
         "2;Optimization"
+      ],
+      "actions": [
+        {
+          "icon": "direct_download.png",
+          "text": "Download",
+          "link": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar"
+        }
       ],
       "warning": {
         "lines": [
@@ -553,6 +567,7 @@
       "display": "MiniInfo",
       "description": "Display HUD for fps, cps, ping",
       "icon": "aycy.jpg",
+      "creator": "Aycy",
       "actions": [
         {
           "icon": "youtube.png",
@@ -628,8 +643,8 @@
     },
     {
       "id": "dungeonrooms",
-      "file": "Dungeon Rooms-1.0.4.jar",
-      "url": "https://cdn.discordapp.com/attachments/804248325967577118/829062429874192434/Dungeon_Rooms-1.0.4.jar",
+      "file": "Dungeon Rooms-1.0.5.jar",
+      "url": "https://cdn.discordapp.com/attachments/804248325967577118/838574495689474088/Dungeon_Rooms-1.0.5.jar",
       "display": "Dungeon Rooms",
       "icon": "drm.png",
       "description": "Displays dungeon room id/name, Works with Dungeon Secrets (Dungeon Secrets not available on skyclient)",
@@ -657,6 +672,14 @@
       "display": "Resource Pack Manager",
       "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
       "creator": "Aycy",
+      "icon": "aycy.jpg",
+      "actions": [
+        {
+          "icon": "direct_download.png",
+          "text": "Download",
+          "link": "https://github.com/nacrt/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
+        }
+      ],
       "warning": {
         "lines": [
           "This Mod might break the texturepack selector.",

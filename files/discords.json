@@ -20,6 +20,8 @@
             "sbcustommobtex",
             "mb",
             "moulberrysbush",
+            "insomnia",
+            "antidreamskin",
             "hudcaching"
         ],
         "mods": [
@@ -95,7 +97,7 @@
         "partner": true,
         "description": "DSM makes a cool Skyblock mod with lots of solvers",
         "fancyname": "Dankers Skyblock Mod",
-        "icon": "dsm logo cropped.png",
+        "icon": "dsm.webp",
         "nicknames": [
             "dankers",
             "dsm"
@@ -121,6 +123,20 @@
         ]
     },
     {
+        "id": "rnbw",
+        "code": "dcdsnvG4Q4",
+        "partner": true,
+        "fancyname": "RNBW+ Resource Pack Official",
+        "description": "The official discord for the RNBW+ discord",
+        "icon": "rnbw_hq.png",
+        "packs": [
+            "rnbw"
+        ],
+        "nicknames": [
+            "rnbw"
+        ]
+    },
+    {
         "id": "sk1ersupport",
         "code": "d4KFR9H",
         "nicknames": [
@@ -132,6 +148,10 @@
     {
         "id": "skytils",
         "code": "dQJR2rhkmK",
+        "fancyname": "Skytils",
+        "description": "A Skyblock Utilities mod that has all of the features that SkyblockExtras has, but free.",
+        "icon": "st.png",
+        "partner": true,
         "nicknames": [
             "st",
             "skytils",
@@ -203,6 +223,7 @@
         "id": "wab",
         "code": "BtAYyxf3W8",
         "partner": true,
+        "icon": "wab.webp",
         "fancyname": "Worlds and Beyond",
         "description": "A texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are) It also includes a revamped vanilla GUI as well to spice up your gameplay.",
         "nicknames": [

@@ -123,21 +123,9 @@
 
     },
     
-    "other": 
-    {
-        "background":
-	{
-            "image": "",
-            "slideshow":
-	    {
-            	"images":
-		[
-            	    "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackground.png"	
-		],
-		"displayDuration": 50,
-		"fadeDuration": 100,
-		"mode":"fill"
-	    }
-	}
+    "other": {
+        "background": {
+			"image": "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackground.png"
+		}
     }
 }
