@@ -98,6 +98,21 @@
                 "type" : "openLink",
                 "link" : "https://discord.gg/VPqDRWSHN2"
             }
+        },
+
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 50,
+            "posY" : -125,
+            "width": 100,
+            "height": 20,
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
         }
     },
     
