@@ -33,6 +33,21 @@
         ]
     },
     {
+        "id": "dungeonsguide",
+        "code": "dg",
+        "fancyname": "DungeonsGuide",
+        "description": "The official discord server for the Dungeons Guide mod.\nDungeons Guide is the most advanced and intelligent dungeons mod.",
+        "icon": "dungeonsguide.png",
+        "partner": true,
+        "nicknames": [
+            "dg",
+            "dungeonsguide"
+        ],
+        "mods": [
+            "dungeonsguide"
+        ]
+    },
+    {
         "id": "evergreenhud",
         "code": "AJv5ZnNT8q",
         "fancyname": "isXander's Hangout",
