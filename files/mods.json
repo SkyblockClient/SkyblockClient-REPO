@@ -103,6 +103,22 @@
       ]
     },
     {
+      "id": "scu",
+      "file": "!SkyblockClient-Updater-1.0.jar",
+      "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0/SkyblockClient-Updater-1.0.jar",
+      "display": "SkyClient Updater",
+      "description": "Adds in-game updater for the mods in SkyClient.",
+      "icon": "skyclient.png",
+      "creator": "Lily",
+      "actions": [
+        {
+          "icon": "github.png",
+          "text": "Github",
+          "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
+        }
+      ]
+    },
+    {
       "id": "optifine",
       "enabled": true,
       "file": "OptiFine_1.8.9_HD_U_M5.jar",
@@ -329,7 +345,7 @@
     },
     {
       "id": "skytils",
-      "file": "!Skytils-1.0-pre3.jar",
+      "file": "!!Skytils-1.0-pre3.jar",
       "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre3/Skytils-1.0-pre3.jar",
       "display": "Skytils",
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
