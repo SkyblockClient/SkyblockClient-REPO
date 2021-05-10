@@ -535,7 +535,7 @@
       "description": "The most intelligent Hypixel Skyblock Dungeons Mod",
       "icon": "dungeonsguide.jpg",
       "discordcode": "dg",
-      "enabled": false,
+      "command": "/dg",
       "actions": [
         {
           "method": "hover",
