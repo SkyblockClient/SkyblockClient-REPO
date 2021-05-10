@@ -5,8 +5,7 @@ https://github.com/cyoung06/Skyblock-Dungeons-Guide
 https://discord.gg/dg
 
 # Dungeons Guide - How do I use it?
-Dugeons Guide is the most advanced dungeons mod, developed by syeyoung. This mod includes a secret waypoint and also puzzle solvers.
-
+Dugeons Guide is a very advanced dungeon utility mod, featuring pathfinding to secrets and solvers for dungeon puzzles, along with other QOL features!
 The command to open the config menu is
 > /dg
 
