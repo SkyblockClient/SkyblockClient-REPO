@@ -108,6 +108,7 @@
       "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0/SkyblockClient-Updater-1.0.jar",
       "display": "SkyClient Updater",
       "description": "Adds in-game updater for the mods in SkyClient.",
+      "enabled": true,
       "icon": "skyclient.png",
       "creator": "Lily",
       "actions": [
