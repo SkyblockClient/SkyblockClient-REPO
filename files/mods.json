@@ -29,8 +29,8 @@
       ],
       "config": true,
       "files": [
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/itlt.cfg",
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/itlt/icon.png"
+        "config/itlt.cfg",
+        "config/itlt/icon.png"
       ]
     },
     {
@@ -63,8 +63,8 @@
       ],
       "config": true,
       "files": [
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/CustomMainMenu/mainmenu.json",
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/CustomMainMenu/play.json"
+        "config/CustomMainMenu/mainmenu.json",
+        "config/CustomMainMenu/play.json"
       ]
     },
     {
@@ -128,27 +128,27 @@
       ]
     },
     {
-      "id": "optifine",
+      "id": "",
       "enabled": true,
-      "file": "OptiFine_1.8.9_HD_U_M5.jar",
-      "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
-      "display": "Optifine M5",
-      "description": "Optifine allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
-      "icon": "optifine.png",
+      "file": "_1.8.9_HD_U_M5.jar",
+      "url": "https://.net/download?f=_1.8.9_HD_U_M5.jar",
+      "display": " M5",
+      "description": " allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
+      "icon": ".png",
       "creator": "sp614x",
       "discordcode": "xGVXsgbbSt",
       "actions": [
         {
-          "icon": "optifine.png",
+          "icon": ".png",
           "text": "Website",
-          "link": "https://optifine.net/home"
+          "link": "https://.net/home"
         }
       ],
       "categories": [
         "2;Optimization"
       ],
       "files": [
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/optionsof.txt"
+        "optionsof.txt"
       ]
     },
     {
@@ -320,7 +320,7 @@
       ],
       "config": true,
       "files": [
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/notenoughupdates/config.json"
+        "config/notenoughupdates/config.json"
       ]
     },
     {
@@ -433,7 +433,7 @@
         "3;Skyblock"
       ],
       "files": [
-        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/Apec/Settings.txt"
+        "config/Apec/Settings.txt"
       ]
     },
     {
