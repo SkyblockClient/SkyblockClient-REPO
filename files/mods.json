@@ -128,20 +128,20 @@
       ]
     },
     {
-      "id": "",
+      "id": "optifine",
       "enabled": true,
-      "file": "_1.8.9_HD_U_M5.jar",
-      "url": "https://.net/download?f=_1.8.9_HD_U_M5.jar",
-      "display": " M5",
-      "description": " allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
-      "icon": ".png",
+      "file": "optifine_1.8.9_HD_U_M5.jar",
+      "url": "https://optifine.net/download?f=optifine_1.8.9_HD_U_M5.jar",
+      "display": "optifine M5",
+      "description": "optifine allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
+      "icon": "optifine.png",
       "creator": "sp614x",
       "discordcode": "xGVXsgbbSt",
       "actions": [
         {
-          "icon": ".png",
+          "icon": "optifine.png",
           "text": "Website",
-          "link": "https://.net/home"
+          "link": "https://optifine.net/home"
         }
       ],
       "categories": [
