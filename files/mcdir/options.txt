@@ -1,0 +1,2 @@
+guiScale:3
+resourcePacks:["Mob Packet 1.8.9 1.4.zip","ActuallyMobsv0.1.zip","SkyMobs.zip","DwarvenAssets v1.1.zip","Dark_Skyblock_UI.zip","v13 16x Skyblock Pack.zip","Smoll_Icons.zip","1.14 Packport.zip"]
