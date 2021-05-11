@@ -27,7 +27,11 @@
       "packages": [
         "scrollabletooltips"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/itlt.cfg",
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/itlt/icon.png"
+      ]
     },
     {
       "id": "cmm",
@@ -57,7 +61,11 @@
       "packages": [
         "smoothscrollingeverywhere"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/CustomMainMenu/mainmenu.json",
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/CustomMainMenu/play.json"
+      ]
     },
     {
       "id": "antidreamskin",
@@ -138,6 +146,9 @@
       ],
       "categories": [
         "2;Optimization"
+      ],
+      "files": [
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/optionsof.txt"
       ]
     },
     {
@@ -307,7 +318,10 @@
       "categories": [
         "3;Skyblock"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/notenoughupdates/config.json"
+      ]
     },
     {
       "id": "dsm",
@@ -417,6 +431,9 @@
       ],
       "categories": [
         "3;Skyblock"
+      ],
+      "files": [
+        "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mcdir/config/Apec/Settings.txt"
       ]
     },
     {
@@ -561,7 +578,7 @@
         {
           "icon": "guide.png",
           "text": "Guide",
-          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md" 
+          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
         },
         {
           "icon": "github.png",
@@ -777,7 +794,7 @@
       "creator": "Sk1er LLC",
       "discordcode": "sk1er",
       "description": "Displays the TNT detonation time.",
-      
+
       "hidden": true
     },
     {
