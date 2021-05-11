@@ -27,7 +27,11 @@
       "packages": [
         "scrollabletooltips"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "config/itlt.cfg",
+        "config/itlt/icon.png"
+      ]
     },
     {
       "id": "cmm",
@@ -57,7 +61,11 @@
       "packages": [
         "smoothscrollingeverywhere"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "config/CustomMainMenu/mainmenu.json",
+        "config/CustomMainMenu/play.json"
+      ]
     },
     {
       "id": "antidreamskin",
@@ -120,24 +128,27 @@
       ]
     },
     {
-      "id": "optifine",
+      "id": "",
       "enabled": true,
-      "file": "OptiFine_1.8.9_HD_U_M5.jar",
-      "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
-      "display": "Optifine M5",
-      "description": "Optifine allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
-      "icon": "optifine.png",
+      "file": "_1.8.9_HD_U_M5.jar",
+      "url": "https://.net/download?f=_1.8.9_HD_U_M5.jar",
+      "display": " M5",
+      "description": " allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
+      "icon": ".png",
       "creator": "sp614x",
       "discordcode": "xGVXsgbbSt",
       "actions": [
         {
-          "icon": "optifine.png",
+          "icon": ".png",
           "text": "Website",
-          "link": "https://optifine.net/home"
+          "link": "https://.net/home"
         }
       ],
       "categories": [
         "2;Optimization"
+      ],
+      "files": [
+        "optionsof.txt"
       ]
     },
     {
@@ -307,7 +318,10 @@
       "categories": [
         "3;Skyblock"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "config/notenoughupdates/config.json"
+      ]
     },
     {
       "id": "dsm",
@@ -417,6 +431,9 @@
       ],
       "categories": [
         "3;Skyblock"
+      ],
+      "files": [
+        "config/Apec/Settings.txt"
       ]
     },
     {
@@ -561,7 +578,7 @@
         {
           "icon": "guide.png",
           "text": "Guide",
-          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md" 
+          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
         },
         {
           "icon": "github.png",
@@ -777,7 +794,7 @@
       "creator": "Sk1er LLC",
       "discordcode": "sk1er",
       "description": "Displays the TNT detonation time.",
-      
+
       "hidden": true
     },
     {
