@@ -92,7 +92,7 @@
     "icon": "da.png",
     "creator": "Motor & nacrt",
     "discordcode": "ABHrh6K3Fh",
-    "enabled": true,
+    "enabled": false,
     "categories": [
       "6;ActuallyAssets"
     ],
@@ -238,7 +238,7 @@
   },
   {
     "id": "hq16f",
-    "enabled": true,
+    "enabled": false,
     "file": "v13 16x Skyblock Pack.zip",
     "display": "Packs HQ v13 16x",
     "description": "Packs HQ Skyblock Pack 16x. Standalone",
@@ -358,7 +358,7 @@
     "file": "Smoll_Icons.zip",
     "display": "Smol icons",
     "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
-    "enabled": true,
+    "enabled": false,
     "icon": "smol_icons.png",
     "creator": "_HeroBear_",
     "actions": [
