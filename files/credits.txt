@@ -5,7 +5,7 @@ Cowlection - By Cow
 Custom Main Menu - By Lumien231
 Danker's Skyblock Mod - By DankerWanker
 EvergreenHUD - By isXander
-HUDCaching - By Moulberry
+MCHUDCaching - By Moulberry
 Insomnia - By Moulberry
 ItsTheLittleThings - By Zlepper & Paint_Ninja
 Keystrokes - By Sk1erLLC
