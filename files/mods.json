@@ -128,7 +128,7 @@
       ]
     },
     {
-      "id": "OptiFine",
+      "id": "optifine",
       "enabled": true,
       "file": "OptiFine_1.8.9_HD_U_M5.jar",
       "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
