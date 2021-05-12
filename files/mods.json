@@ -128,12 +128,12 @@
       ]
     },
     {
-      "id": "optifine",
+      "id": "OptiFine",
       "enabled": true,
-      "file": "optifine_1.8.9_HD_U_M5.jar",
-      "url": "https://optifine.net/download?f=optifine_1.8.9_HD_U_M5.jar",
-      "display": "optifine M5",
-      "description": "Optifine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
+      "file": "OptiFine_1.8.9_HD_U_M5.jar",
+      "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
+      "display": "OptiFine M5",
+      "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
       "icon": "optifine.png",
       "creator": "sp614x",
       "discordcode": "xGVXsgbbSt",
