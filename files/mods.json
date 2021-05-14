@@ -27,7 +27,11 @@
       "packages": [
         "scrollabletooltips"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "config/itlt.cfg",
+        "config/itlt/icon.png"
+      ]
     },
     {
       "id": "cmm",
@@ -57,7 +61,11 @@
       "packages": [
         "smoothscrollingeverywhere"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "config/CustomMainMenu/mainmenu.json",
+        "config/CustomMainMenu/play.json"
+      ]
     },
     {
       "id": "antidreamskin",
@@ -103,12 +111,29 @@
       ]
     },
     {
+      "id": "scu",
+      "file": "!SkyblockClient-Updater-1.0.1.jar",
+      "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0.1/SkyblockClient-Updater-1.0.1.jar",
+      "display": "SkyClient Updater",
+      "description": "Adds in-game updater for the mods in SkyClient.",
+      "enabled": true,
+      "icon": "skyclient.png",
+      "creator": "Lily",
+      "actions": [
+        {
+          "icon": "github.png",
+          "text": "Github",
+          "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
+        }
+      ]
+    },
+    {
       "id": "optifine",
       "enabled": true,
       "file": "OptiFine_1.8.9_HD_U_M5.jar",
       "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
-      "display": "Optifine M5",
-      "description": "Optifine allows your game to be more customizable and push it to its limits while also providing an FPS boost.",
+      "display": "OptiFine M5",
+      "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
       "icon": "optifine.png",
       "creator": "sp614x",
       "discordcode": "xGVXsgbbSt",
@@ -121,6 +146,9 @@
       ],
       "categories": [
         "2;Optimization"
+      ],
+      "files": [
+        "optionsof.txt"
       ]
     },
     {
@@ -258,8 +286,8 @@
     {
       "id": "neu",
       "enabled": true,
-      "file": "NotEnoughUpdates-2.0-PRE26.jar",
-      "url": "https://cdn.discordapp.com/attachments/693586404256645231/825149964358778880/NotEnoughUpdates-2.0-PRE26.jar",
+      "file": "NotEnoughUpdates-2.0-PRE27.jar",
+      "url": "https://cdn.discordapp.com/attachments/693586404256645231/842389266709610537/NotEnoughUpdates-2.0-PRE27.jar",
       "display": "NotEnoughUpdates",
       "description": "NEU is one of the essentials for playing Skyblock featuring remote AH, dungeon chest prices, missing enchants, list of all Skyblock items + recipes, and a lot more, \nwith even a ton coming in the near future!",
       "icon": "neulogo.png",
@@ -290,7 +318,10 @@
       "categories": [
         "3;Skyblock"
       ],
-      "config": true
+      "config": true,
+      "files": [
+        "config/notenoughupdates/config.json"
+      ]
     },
     {
       "id": "dsm",
@@ -329,8 +360,8 @@
     },
     {
       "id": "skytils",
-      "file": "!Skytils-1.0-pre3.jar",
-      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre3/Skytils-1.0-pre3.jar",
+      "file": "!!Skytils-1.0-pre4.1.jar",
+      "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre4/Skytils-1.0-pre4.1.jar",
       "display": "Skytils",
       "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
       "icon": "skytils.png",
@@ -364,8 +395,8 @@
     },
     {
       "id": "apec",
-      "file": "Apec-1.9.1.jar",
-      "url": "https://github.com/BananaFructa/Apec/releases/download/1.9.1/Apec-1.9.1.jar",
+      "file": "Apec-1.9.jar",
+      "url": "https://github.com/BananaFructa/Apec/releases/download/1.9/Apec-1.9.jar",
       "display": "Apec",
       "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more of an RPG.",
       "icon": "apec.png",
@@ -400,6 +431,9 @@
       ],
       "categories": [
         "3;Skyblock"
+      ],
+      "files": [
+        "config/Apec/Settings.txt"
       ]
     },
     {
@@ -527,15 +561,15 @@
       ]
     },
      {
-      "id": "dungeonsguide",
-      "file": "dungeonsguide-3.0.3.jar",
-      "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.0.3/dungeonsguide-3.0.jar",
+      "id": "dg",
+      "file": "dungeonsguide-3.0.4.jar",
+      "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.0.4/dungeonsguide-3.0.jar",
       "creator": "Syeyoung",
       "display": "Dungeons Guide",
       "description": "The most intelligent Hypixel Skyblock Dungeons Mod",
       "icon": "dungeonsguide.jpg",
       "discordcode": "dg",
-      "enabled": false,
+      "command": "/dg",
       "actions": [
         {
           "method": "hover",
@@ -544,7 +578,7 @@
         {
           "icon": "guide.png",
           "text": "Guide",
-          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md" 
+          "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
         },
         {
           "icon": "github.png",
@@ -703,7 +737,6 @@
       "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
       "creator": "Aycy",
       "icon": "aycy.jpg",
-      "url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar?raw=true",
       "actions": [
         {
           "icon": "direct_download.png",
@@ -761,7 +794,7 @@
       "creator": "Sk1er LLC",
       "discordcode": "sk1er",
       "description": "Displays the TNT detonation time.",
-      
+
       "hidden": true
     },
     {
