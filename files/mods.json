@@ -663,7 +663,7 @@
         "lines": [
           "A better alternative to this mod would be Cowlection, Dankers, and Skytils.",
           "This mod doesn't ship with modules.\n The recommended module is:",
-          "\t/ct import DungeonUtilities",
+          "  /ct import DungeonUtilities",
           "You can import the module by typing the command in-game. No restart required.",
           "",
           "",
