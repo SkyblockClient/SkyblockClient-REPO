@@ -257,11 +257,11 @@
      "file": "[1.8.9-2.0-pre4] EvergreenHUD.jar",
      "url": "https://short.evergreenclient.com/RqjzS4",
      "display": "EvergreenHUD",
-     "description": "Displays every piece of information a Hypixel player could ever need.",
+     "description": "Displays every piece of information a Minecraft player could ever need.",
      "creator": "isXander",
      "command": "/evergreenhud",
      "discordcode": "AJv5ZnNT8q",
-     "icon": "isxander.png",
+     "icon": "evergreen.png",
      "actions": [
          {
              "icon": "github.png",
@@ -277,7 +277,6 @@
      "warning": {
         "lines": [
           "This mod is still in beta and may not be completely stable.",
-          "Also, it downloads external libaries which may slow down your game and contain unwanted features.",
           "",
           "Use anyway?"
         ]
