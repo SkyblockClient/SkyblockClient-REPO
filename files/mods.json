@@ -569,6 +569,7 @@
       "icon": "dungeonsguide.jpg",
       "discordcode": "dg",
       "command": "/dg",
+      "hidden": "true",
       "actions": [
         {
           "method": "hover",
