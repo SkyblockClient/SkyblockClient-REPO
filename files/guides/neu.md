@@ -11,13 +11,13 @@ The main command is
 
 From there on you will be greeted with a peculiar GUI at the middle of your screen:
 
-![image of the GUI](https://cdn.discordapp.com/attachments/532527785164406786/829732923246641162/unknown.png)
+![image of the GUI](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/NEUgui.png)
 
 You can search for features using the scroll bar in the left part of this menu or using the search menu on the top right.
 
 ### Inventory
 
-![Inventory GUI](https://cdn.discordapp.com/attachments/532527785164406786/829736203594891314/unknown.png)
+![Inventory GUI](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/NEUinventory.png)
 
 At the bottom of your screen you will find a black box. You can search for Skyblock items using this box. (for example I searched "necron")   
 If you double click the box, it will have a yellow border and will highlight any items in your inventory that have a matching name or lore as the textbox.

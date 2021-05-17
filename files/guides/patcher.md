@@ -13,13 +13,13 @@ The commands for patcher are:
 
 From there on you will be greeted with a peculiar GUI (see image below) or with tips on how to use the command.
 
-![image of the GUI](https://cdn.discordapp.com/attachments/789262632531525632/789266929822072842/unknown.png)
+![image of the GUI](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/PatcherGUI.png)
 
 
 You can navigate the settings using the Menu on the left
 
 In the top right you can find a small magnifying glass. Hover over it and you can search for features:
 
-![image of top right](https://cdn.discordapp.com/attachments/789262632531525632/789266948168613969/unknown.png)
+![image of top right](https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/PatcherSearch.png)
 
 
