@@ -641,7 +641,7 @@
       "discordcode": "chattriggers",
       "actions": [
         {
-          "icon": "chattriggers 48x.ico",
+          "icon": "chattriggers 48x.png",
           "text": "Website",
           "link": "https://www.chattriggers.com/"
         }
