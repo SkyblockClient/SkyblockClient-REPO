@@ -1,7 +1,11 @@
 [
     {
-        "trigger": "tagsinfo",
-        "response": "Once you add a tag, it will take a few minutes for the bot to realise that there's a new tag, but once that happens, it should just work fine.",
-        "taginfo": "Info about the tags."
+        "trigger": "download",
+        "response": "<#780940408175853609>"
+    },
+    {
+        "trigger": "add",
+        "trigger2": "mod",
+        "response": "https://youtu.be/Y7AyoDMsFdY"
     }
 ]
