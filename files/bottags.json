@@ -11,6 +11,6 @@
     {
         "trigger": "move",
         "trigger2": "screen",
-        "response": "**THIS IS NOT A CLIENT, THERE IS NO BIG MENU FOR ALL OF THE MODS.\n\nEach mod has it's own settings, accessed through a command, which is typically that mod's name. **S**ky**B**lock**A**ddons would be `/sba`, **N**ot**E**nough**U**pdates would be `/neu`, you get the idea."
+        "response": "**THIS IS NOT A CLIENT, THERE IS NO BIG MENU FOR ALL OF THE MODS.**\n\nEach mod has it's own settings, accessed through a command, which is typically that mod's name. **S**ky**B**lock**A**ddons would be `/sba`, **N**ot**E**nough**U**pdates would be `/neu`, you get the idea."
     }
 ]
