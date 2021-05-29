@@ -152,6 +152,25 @@
     ]
   },
   {
+    "id": "nameless",
+    "file": "placeholder",
+    "display": "placeholder",
+    "description": "placeholder",
+    "icon": "placeholder",
+    "creator": "nameless?",
+    "discordcode": "placeholder",
+    "hidden": true,
+    "categories": [
+      "1;Full"
+    ],
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/4189235/"
+      }
+    ]
+  },
+  {
     "id": "hsb",
     "file": "HSB Texturepack V1.7.zip",
     "display": "Sluzeeey's HSB Texturepack 16x",
