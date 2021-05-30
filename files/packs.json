@@ -153,13 +153,11 @@
   },
   {
     "id": "nameless",
-    "file": "placeholder",
-    "display": "placeholder",
-    "description": "placeholder",
-    "icon": "placeholder",
-    "creator": "nameless?",
-    "discordcode": "placeholder",
-    "hidden": true,
+    "file": "Nameless [Beta 0.2].zip",
+    "display": "Nameless",
+    "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+    "icon": "nameless.png",
+    "creator": "Smolegit",
     "categories": [
       "1;Full"
     ],
@@ -167,6 +165,11 @@
       {
         "text": "Forum",
         "link": "https://hypixel.net/threads/4189235/"
+      },
+      {
+        "text": "Discord",
+        "icon": "discord icon.png",
+        "link": "https://discord.gg/XXxSuX8VMX"
       }
     ]
   },
