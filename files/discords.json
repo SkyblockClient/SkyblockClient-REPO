@@ -297,5 +297,17 @@
         "mods": [
             "dungeonrooms"
         ]
+    },
+    {
+        "id": "nameless",
+        "code": "XXxSuX8VMX",
+        "icon": "nameless big.png",
+        "fancyname": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+        "nicknames": [
+            "smolegit"
+        ],
+        "packs": [
+            "nameless"
+        ]
     }
 ]
