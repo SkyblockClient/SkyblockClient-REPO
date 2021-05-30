@@ -152,6 +152,28 @@
     ]
   },
   {
+    "id": "nameless",
+    "file": "Nameless [Beta 0.2].zip",
+    "display": "Nameless",
+    "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+    "icon": "nameless.png",
+    "creator": "Smolegit",
+    "categories": [
+      "1;Full"
+    ],
+    "actions": [
+      {
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/4189235/"
+      },
+      {
+        "text": "Discord",
+        "icon": "discord icon.png",
+        "link": "https://discord.gg/XXxSuX8VMX"
+      }
+    ]
+  },
+  {
     "id": "hsb",
     "file": "HSB Texturepack V1.7.zip",
     "display": "Sluzeeey's HSB Texturepack 16x",
