@@ -4,7 +4,7 @@
 			["how", "where"],
 			["download", "skyclient", "skyblock client", "\"client\""]
 		],
-		"response": "for information regarding how to download and such things, please read our forum post https://hypixel.net/threads/3731617/"
+		"response": "SkyClient Download (windows): <#780940408175853609>\nSkyClient Download (universal java): <#810285335581425734>\n\nForum (more information): https://hypixel.net/threads/3731617/"
 	},
 	{
 		"triggers": [
