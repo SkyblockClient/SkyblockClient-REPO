@@ -1,0 +1,9 @@
+[
+    {
+        "triggers": [
+          ["how", "where"],
+          ["download", "skyclient", "skyblock client", "\"client\""]
+        ],
+        "response": "<#780940408175853609> <:nobrain:796089762679095326"
+      }
+]
