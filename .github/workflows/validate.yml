@@ -29,3 +29,39 @@ jobs:
             fi
           done
           echo "Linted."
+          
+  Prettifyjson:
+    needs: Validatejson
+    name: Prettify jsons
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Configure git
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      - name: Prettify Json
+        run: |
+          #!/bin/bash
+          echo "Prettifying contents..."
+          touch "tmp.json"
+          for filename in **/*.json; do
+            if ! python -mjson.tool "$filename" &> "tmp.json" ; mv "tmp.json" "$filename" ; then
+                echo "editing $filename failed:"
+                python -mjson.tool "$filename" > /dev/null
+            fi
+          done
+          echo "Done."
+      - name: Commit
+        run: |
+          #!/bin/bash 
+          set +e
+          git commit -am "Automatically prettify json"
+          set -e
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+        if: ${{ always() }}
