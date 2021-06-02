@@ -3,7 +3,8 @@
     "triggers": [
       [
         "how",
-        "where"
+        "where",
+	"mac"
       ],
       [
         "download"
@@ -17,11 +18,18 @@
     ],
     "response":"https://youtu.be/Y7AyoDMsFdY"
   },
-	{
-		"triggers": [
-			["dungeons guide", "dungeonsguide", "dg"],
-			["ban"]
-		],
-		"response": "Dungeons Guide is not bannable, like any other mod in SkyClient.\nFor further comment, please ask the developer and his community\ndiscord.gg/dg"
-	}
+  {
+  "triggers": [
+	["dungeons guide", "dungeonsguide", "dg"],
+		["ban"]
+	],
+	"response": "Dungeons Guide is not bannable, like any other mod in SkyClient.\nFor further comment, please ask the developer and his community\ndiscord.gg/dg"
+  },
+  {
+    "triggers": [
+		 ["mac","linux"],
+		  ["universal"]
+		  ],
+      "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
+   }
 ]
