@@ -17,10 +17,5 @@
         "trigger": "move",
         "trigger2": "mod",
         "response": "**THIS IS NOT A CLIENT, THERE IS NO BIG MENU FOR ALL OF THE MODS.**\n\nEach mod has it's own settings, accessed through a command, which is typically that mod's name. **S**ky**B**lock**A**ddons would be `/sba`, **N**ot**E**nough**U**pdates would be `/neu`, you get the idea."
-    },
-    {
-        "trigger": "mac",
-        "trigger2": "universal",
-        "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
     }
 ]
