@@ -1,461 +1,461 @@
 [
-  {
-    "id": "mobpacket",
-    "file": "Mob Packet 1.8.9 1.4.zip",
-    "display": "Mob Packet",
-    "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
-    "enabled": true,
-    "icon": "mob packet.png",
-    "creator": "Viska & Mira_23",
-    "categories": [
-      "3;Mobs"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/mobpacket.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3606096/"
-      }
-    ]
-  },
-  {
-    "id": "actuallymobpacket",
-    "file": "ActuallyPacketsv0.1.zip",
-    "display": "ActuallyPacket v0.1",
-    "description": "Branch of Mob Packet with ActuallyMobs textures.",
-    "icon": "actuallyassets.png",
-    "creator": "Motor",
-    "discordcode": "ABHrh6K3Fh",
-    "categories": [
-      "3;Mobs",
-      "6;ActuallyAssets"
-    ]
-  },
-  {
-    "id": "dungeontexturepack",
-    "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
-    "display": "Dungeons Texturepack",
-    "description": "Dungeons resource pack",
-    "icon": "dungeon texturepack 1024x.png",
-    "creator": "gratenes & Havenz",
-    "discordcode": "rfdWXb6",
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3143529/"
-      }
-    ]
-  },
-  {
-    "id": "actuallymobs",
-    "file": "ActuallyMobsv0.1.zip",
-    "display": "ActuallyMobs v0.1",
-    "description": "Quality retextures for Skyblock mobs.",
-    "icon": "actuallymobs.png",
-    "creator": "Motor",
-    "discordcode": "ABHrh6K3Fh",
-    "categories": [
-      "3;Mobs",
-      "6;ActuallyAssets"
-    ]
-  },
-  {
-    "id": "skymobs",
-    "file": "SkyMobs.zip",
-    "display": "SkyMobs",
-    "description": "Resource Pack for the SBCustomMobTex Mod.",
-    "icon": "skymobs.png",
-    "creators": "TBlazeWarrior & Moulberry",
-    "categories": [
-      "3;Mobs"
-    ],
-    "actions": [
-      {
-        "text": "Github",
-        "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
-      }
-    ]
-  },
-  {
-    "id": "dwarvenassets",
-    "file": "DwarvenAssets v1.1.zip",
-    "url": "https://github.com/ActuallyAssets/DwarvenAssets/releases/download/1.1/DwarvenAssets_v1.1.zip",
-    "display": "DwarvenAssets",
-    "description": " DwarvenAssets retextures Mithril Veins in the Dwarven Mines to give your game a more custom feel",
-    "icon": "da.png",
-    "creator": "Motor & nacrt",
-    "discordcode": "ABHrh6K3Fh",
-    "enabled": true,
-    "categories": [
-      "6;ActuallyAssets"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3797121/"
-      }
-    ]
-  },
-  {
-    "id": "vtay",
-    "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
-    "display": "vTay's Skyblock Smoothie 16x",
-    "description": "vTays's mix of different Skyblock packs. In vTays' terms, \"A refreshing taste of Skyblock texture packs\"",
-    "icon": "vtays.png",
-    "creator": "vTay",
-    "categories": [
-      "2;Mix Packs"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3178679/"
-      }
-    ],
-    "outdated": true
-  },
-  {
-    "id": "rnbw",
-    "file": "RNBW+ v0.5.zip",
-    "display": "RNBW+ 16x",
-    "description": "An extension to Vanilla+.",
-    "icon": "rnbw.png",
-    "creator": "Rainbowcraft2",
-    "discordcode": "dcdsnvG4Q4",
-    "categories": [
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/rnbw.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3470904/"
-      }
-    ]
-  },
-  {
-    "id": "nameless",
-    "file": "Nameless [Beta 0.2].zip",
-    "display": "Nameless",
-    "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
-    "icon": "nameless.png",
-    "creator": "Smolegit",
-    "categories": [
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/4189235/"
-      },
-      {
-        "text": "Discord",
-        "icon": "discord icon.png",
-        "link": "https://discord.gg/XXxSuX8VMX"
-      }
-    ]
-  },
-  {
-    "id": "hsb",
-    "file": "HSB Texturepack V1.7.zip",
-    "display": "Sluzeeey's HSB Texturepack 16x",
-    "description": "A simplistic Skyblock texture pack.",
-    "icon": "hsb.png",
-    "creator": "Sluzeeey",
-    "categories": [
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3527502/"
-      }
-    ]
-  },
-  {
-    "id": "worldsandbeyond",
-    "file": "Worlds and Beyond [16x] - Release 1.3.zip",
-    "display": "Worlds and Beyond 16x",
-    "description": "A texturepack with unique textures for Skyblock items, swords, bows, armors, everything! (Not everything is finished but most are)\nIt also includes a revamped vanilla GUI to spice up your gameplay.",
-    "icon": "worldsandbeyond.png",
-    "creator": "Skeletony",
-    "discordcode": "BtAYyxf3W8",
-    "categories": [
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3597207/"
-      }
-    ]
-  },
-  {
-    "id": "sbov",
-    "file": "SkyblockOverhaul-Overlay_32x-1.1.0.zip",
-    "url": "https://github.com/Skyblock-Overhaul/Skyblock-Overhaul-Website-v2/releases/download/o1.1.0/SkyblockOverhaul-Overlay_32x-1.1.0.zip",
-    "display": "SkyblockOverhaul",
-    "description": "Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
-    "icon": "sbov.png",
-    "creator": "Stef, Saikage, and sporkspoon",
-    "discordcode": "uwy3rwPpmV",
-    "categories": [
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "text": "Discord",
-        "icon": "discord icon.png",
-        "link": "https://discord.gg/uwy3rwPpmV"
-      }
-    ]
-  },
-  {
-    "id": "hqdark",
-    "enabled": true,
-    "file": "v2 Dark Skyblock UI.zip",
-    "display": "PacksHQ dark UI addon",
-    "description": "Packs HQ Skyblock Pack dark UI",
-    "url": "https://packshq.com/assets/packs/v2_Dark_Skyblock_UI.zip",
-    "icon": "phq dark overlay.png",
-    "creator": "Packs HQ Team",
-    "discordcode": "KwvMQ4T",
-    "categories": [
-      "5;PacksHQ",
-      "99;Other"
-    ],
-    "actions": [
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/2103515/"
-      },
-      {
+    {
+        "id": "mobpacket",
+        "file": "Mob Packet 1.8.9 1.4.zip",
+        "display": "Mob Packet",
+        "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
+        "enabled": true,
+        "icon": "mob packet.png",
+        "creator": "Viska & Mira_23",
+        "categories": [
+            "3;Mobs"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/mobpacket.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3606096/"
+            }
+        ]
+    },
+    {
+        "id": "actuallymobpacket",
+        "file": "ActuallyPacketsv0.1.zip",
+        "display": "ActuallyPacket v0.1",
+        "description": "Branch of Mob Packet with ActuallyMobs textures.",
+        "icon": "actuallyassets.png",
+        "creator": "Motor",
+        "discordcode": "ABHrh6K3Fh",
+        "categories": [
+            "3;Mobs",
+            "6;ActuallyAssets"
+        ]
+    },
+    {
+        "id": "dungeontexturepack",
+        "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
+        "display": "Dungeons Texturepack",
+        "description": "Dungeons resource pack",
+        "icon": "dungeon texturepack 1024x.png",
+        "creator": "gratenes & Havenz",
+        "discordcode": "rfdWXb6",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3143529/"
+            }
+        ]
+    },
+    {
+        "id": "actuallymobs",
+        "file": "ActuallyMobsv0.1.zip",
+        "display": "ActuallyMobs v0.1",
+        "description": "Quality retextures for Skyblock mobs.",
+        "icon": "actuallymobs.png",
+        "creator": "Motor",
+        "discordcode": "ABHrh6K3Fh",
+        "categories": [
+            "3;Mobs",
+            "6;ActuallyAssets"
+        ]
+    },
+    {
+        "id": "skymobs",
+        "file": "SkyMobs.zip",
+        "display": "SkyMobs",
+        "description": "Resource Pack for the SBCustomMobTex Mod.",
+        "icon": "skymobs.png",
+        "creators": "TBlazeWarrior & Moulberry",
+        "categories": [
+            "3;Mobs"
+        ],
+        "actions": [
+            {
+                "text": "Github",
+                "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
+            }
+        ]
+    },
+    {
+        "id": "dwarvenassets",
+        "file": "DwarvenAssets v1.1.zip",
+        "url": "https://github.com/ActuallyAssets/DwarvenAssets/releases/download/1.1/DwarvenAssets_v1.1.zip",
+        "display": "DwarvenAssets",
+        "description": " DwarvenAssets retextures Mithril Veins in the Dwarven Mines to give your game a more custom feel",
+        "icon": "da.png",
+        "creator": "Motor & nacrt",
+        "discordcode": "ABHrh6K3Fh",
+        "enabled": true,
+        "categories": [
+            "6;ActuallyAssets"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3797121/"
+            }
+        ]
+    },
+    {
+        "id": "vtay",
+        "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
+        "display": "vTay's Skyblock Smoothie 16x",
+        "description": "vTays's mix of different Skyblock packs. In vTays' terms, \"A refreshing taste of Skyblock texture packs\"",
+        "icon": "vtays.png",
+        "creator": "vTay",
+        "categories": [
+            "2;Mix Packs"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3178679/"
+            }
+        ],
+        "outdated": true
+    },
+    {
+        "id": "rnbw",
+        "file": "RNBW+ v0.5.zip",
+        "display": "RNBW+ 16x",
+        "description": "An extension to Vanilla+.",
+        "icon": "rnbw.png",
+        "creator": "Rainbowcraft2",
+        "discordcode": "dcdsnvG4Q4",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/rnbw.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3470904/"
+            }
+        ]
+    },
+    {
+        "id": "nameless",
+        "file": "Nameless [Beta 0.2].zip",
+        "display": "Nameless",
+        "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+        "icon": "nameless.png",
+        "creator": "Smolegit",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/4189235/"
+            },
+            {
+                "text": "Discord",
+                "icon": "discord icon.png",
+                "link": "https://discord.gg/XXxSuX8VMX"
+            }
+        ]
+    },
+    {
+        "id": "hsb",
+        "file": "HSB Texturepack V1.7.zip",
+        "display": "Sluzeeey's HSB Texturepack 16x",
+        "description": "A simplistic Skyblock texture pack.",
+        "icon": "hsb.png",
+        "creator": "Sluzeeey",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3527502/"
+            }
+        ]
+    },
+    {
+        "id": "worldsandbeyond",
+        "file": "Worlds and Beyond [16x] - Release 1.3.zip",
+        "display": "Worlds and Beyond 16x",
+        "description": "A texturepack with unique textures for Skyblock items, swords, bows, armors, everything! (Not everything is finished but most are)\nIt also includes a revamped vanilla GUI to spice up your gameplay.",
+        "icon": "worldsandbeyond.png",
+        "creator": "Skeletony",
+        "discordcode": "BtAYyxf3W8",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3597207/"
+            }
+        ]
+    },
+    {
+        "id": "sbov",
+        "file": "SkyblockOverhaul-Overlay_32x-1.1.0.zip",
+        "url": "https://github.com/Skyblock-Overhaul/Skyblock-Overhaul-Website-v2/releases/download/o1.1.0/SkyblockOverhaul-Overlay_32x-1.1.0.zip",
+        "display": "SkyblockOverhaul",
+        "description": "Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
+        "icon": "sbov.png",
+        "creator": "Stef, Saikage, and sporkspoon",
+        "discordcode": "uwy3rwPpmV",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "text": "Discord",
+                "icon": "discord icon.png",
+                "link": "https://discord.gg/uwy3rwPpmV"
+            }
+        ]
+    },
+    {
+        "id": "hqdark",
+        "enabled": true,
+        "file": "v2 Dark Skyblock UI.zip",
+        "display": "PacksHQ dark UI addon",
+        "description": "Packs HQ Skyblock Pack dark UI",
+        "url": "https://packshq.com/assets/packs/v2_Dark_Skyblock_UI.zip",
+        "icon": "phq dark overlay.png",
+        "creator": "Packs HQ Team",
+        "discordcode": "KwvMQ4T",
+        "categories": [
+            "5;PacksHQ",
+            "99;Other"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2103515/"
+            },
+            {
+                "icon": "packshq.png",
+                "text": "Website",
+                "link": "https://packshq.com/content/packs/"
+            }
+        ]
+    },
+    {
+        "id": "hq16f",
+        "enabled": true,
+        "file": "v13 16x Skyblock Pack.zip",
+        "display": "Packs HQ v13 16x",
+        "description": "Packs HQ Skyblock Pack 16x. Standalone",
+        "url": "https://packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip",
         "icon": "packshq.png",
-        "text": "Website",
-        "link": "https://packshq.com/content/packs/"
-      }
-    ]
-  },
-  {
-    "id": "hq16f",
-    "enabled": true,
-    "file": "v13 16x Skyblock Pack.zip",
-    "display": "Packs HQ v13 16x",
-    "description": "Packs HQ Skyblock Pack 16x. Standalone",
-    "url": "https://packshq.com/assets/packs/v13/v13_16x_Hypixel_Skyblock_Pack.zip",
-    "icon": "packshq.png",
-    "creator": "Packs HQ Team",
-    "discordcode": "KwvMQ4T",
-    "categories": [
-      "5;PacksHQ",
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/2103515/"
-      },
-      {
+        "creator": "Packs HQ Team",
+        "discordcode": "KwvMQ4T",
+        "categories": [
+            "5;PacksHQ",
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2103515/"
+            },
+            {
+                "icon": "packshq.png",
+                "text": "Website",
+                "link": "https://packshq.com/content/packs/"
+            }
+        ],
+        "outdated": true
+    },
+    {
+        "id": "hq32f",
+        "file": "v13 32x Skyblock Pack.zip",
+        "display": "Packs HQ v13 32x",
+        "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Faithful.",
+        "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
         "icon": "packshq.png",
-        "text": "Website",
-        "link": "https://packshq.com/content/packs/"
-      }
-    ],
-    "outdated": true
-  },
-  {
-    "id": "hq32f",
-    "file": "v13 32x Skyblock Pack.zip",
-    "display": "Packs HQ v13 32x",
-    "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Faithful.",
-    "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
-    "icon": "packshq.png",
-    "creator": "ImperiaL",
-    "discordcode": "KwvMQ4T",
-    "categories": [
-      "5;PacksHQ",
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/2103515/"
-      },
-      {
-        "icon": "packshq.png",
-        "text": "Website",
-        "link": "https://packshq.com/content/packs/"
-      }
-    ],
-    "outdated": true
-  },
-  {
-    "id": "actuallyassets",
-    "file": "ActuallyAssets.v1.8.2.zip",
-    "url": "https://github.com/ActuallyAssets/ActuallyAssets/files/6094353/ActuallyAssets.v1.8.2.zip",
-    "display": "ActuallyAssets v1.8.1 16x",
-    "description": "Clean and simple Skyblock Pack.",
-    "icon": "actuallyassets.png",
-    "creator": "Motor",
-    "discordcode": "ABHrh6K3Fh",
-    "categories": [
-      "1;Full",
-      "6;ActuallyAssets"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3129905/"
-      },
-      {
-        "icon": "planetminecraft.png",
-        "text": "Planet Minecraft",
-        "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
-      }
-    ]
-  },
-  {
-    "id": "fsr",
-    "file": "FurfSky Reborn OV+[1.3].zip",
-    "display": "FurfSky Reborn 16x",
-    "description": "The continuation of FurfSky+.",
-    "icon": "fsr.png",
-    "creator": "FurfSky Reborn Team",
-    "discordcode": "jMPnPnUEAS",
-    "categories": [
-      "1;Full"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/furfreborn.md"
-      },
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/3482676/"
-      },
-      {
-        "icon": "furfskywebsite.png",
-        "text": "Website",
-        "link": "https://furfsky.github.io/"
-      }
-    ]
-  },
-  {
-    "id": "smollicons",
-    "file": "Smoll_Icons.zip",
-    "display": "Smol icons",
-    "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
-    "enabled": true,
-    "icon": "smol_icons.png",
-    "creator": "_HeroBear_",
-    "actions": [
-      {
-        "text": "Forum",
-        "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
-      }
-    ]
-  },
-  {
-    "id": "faithfuldark",
-    "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
-    "display": "Faithful 32x [Dark Mode]",
-    "description": "Faithful 1.14 port - Dark mode version.",
-    "icon": "faithful.png",
-    "hidden": false,
-    "creator": "Faithful Team",
-    "categories": [
-      "4;Vanilla"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
-      },
-      {
+        "creator": "ImperiaL",
+        "discordcode": "KwvMQ4T",
+        "categories": [
+            "5;PacksHQ",
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2103515/"
+            },
+            {
+                "icon": "packshq.png",
+                "text": "Website",
+                "link": "https://packshq.com/content/packs/"
+            }
+        ],
+        "outdated": true
+    },
+    {
+        "id": "actuallyassets",
+        "file": "ActuallyAssets.v1.8.2.zip",
+        "url": "https://github.com/ActuallyAssets/ActuallyAssets/files/6094353/ActuallyAssets.v1.8.2.zip",
+        "display": "ActuallyAssets v1.8.1 16x",
+        "description": "Clean and simple Skyblock Pack.",
+        "icon": "actuallyassets.png",
+        "creator": "Motor",
+        "discordcode": "ABHrh6K3Fh",
+        "categories": [
+            "1;Full",
+            "6;ActuallyAssets"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3129905/"
+            },
+            {
+                "icon": "planetminecraft.png",
+                "text": "Planet Minecraft",
+                "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
+            }
+        ]
+    },
+    {
+        "id": "fsr",
+        "file": "FurfSky Reborn OV+[1.3].zip",
+        "display": "FurfSky Reborn 16x",
+        "description": "The continuation of FurfSky+.",
+        "icon": "fsr.png",
+        "creator": "FurfSky Reborn Team",
+        "discordcode": "jMPnPnUEAS",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/furfreborn.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3482676/"
+            },
+            {
+                "icon": "furfskywebsite.png",
+                "text": "Website",
+                "link": "https://furfsky.github.io/"
+            }
+        ]
+    },
+    {
+        "id": "smollicons",
+        "file": "Smoll_Icons.zip",
+        "display": "Smol icons",
+        "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
+        "enabled": true,
+        "icon": "smol_icons.png",
+        "creator": "_HeroBear_",
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
+            }
+        ]
+    },
+    {
+        "id": "faithfuldark",
+        "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
+        "display": "Faithful 32x [Dark Mode]",
+        "description": "Faithful 1.14 port - Dark mode version.",
+        "icon": "faithful.png",
+        "hidden": false,
+        "creator": "Faithful Team",
+        "categories": [
+            "4;Vanilla"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
+            },
+            {
+                "icon": "faithful team logo.png",
+                "text": "Website",
+                "link": "https://faithful.team/"
+            }
+        ]
+    },
+    {
+        "id": "defaultpackport",
+        "enabled": true,
+        "file": "1.14 Packport.zip",
+        "display": "1.14 Default 16x",
+        "description": "Default 1.14 port.",
+        "icon": "default.png",
+        "creator": "Qwuiblington & Motor",
+        "categories": [
+            "4;Vanilla"
+        ],
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/1.14backport.md"
+            },
+            {
+                "text": "Curseforge",
+                "link": "https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport/"
+            }
+        ]
+    },
+    {
+        "id": "faithful",
+        "file": "Faithful_1.14_in_1.8 [v4].zip",
+        "display": "1.14 Faithful 32x",
+        "description": "Faithful 1.14 port.",
         "icon": "faithful team logo.png",
-        "text": "Website",
-        "link": "https://faithful.team/"
-      }
-    ]
-  },
-  {
-    "id": "defaultpackport",
-    "enabled": true,
-    "file": "1.14 Packport.zip",
-    "display": "1.14 Default 16x",
-    "description": "Default 1.14 port.",
-    "icon": "default.png",
-    "creator": "Qwuiblington & Motor",
-    "categories": [
-      "4;Vanilla"
-    ],
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/1.14backport.md"
-      },
-      {
-        "text": "Curseforge",
-        "link": "https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport/"
-      }
-    ]
-  },
-  {
-    "id": "faithful",
-    "file": "Faithful_1.14_in_1.8 [v4].zip",
-    "display": "1.14 Faithful 32x",
-    "description": "Faithful 1.14 port.",
-    "icon": "faithful team logo.png",
-    "creator": "Faithful Team",
-    "categories": [
-      "4;Vanilla"
-    ],
-    "hidden": false,
-    "actions": [
-      {
-        "method": "hover",
-        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
-      },
-      {
-        "icon": "faithful team logo.png",
-        "text": "Website",
-        "link": "https://faithful.team/"
-      }
-    ]
-  }
+        "creator": "Faithful Team",
+        "categories": [
+            "4;Vanilla"
+        ],
+        "hidden": false,
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
+            },
+            {
+                "icon": "faithful team logo.png",
+                "text": "Website",
+                "link": "https://faithful.team/"
+            }
+        ]
+    }
 ]
