@@ -1,28 +1,49 @@
+Actually mob packet - By  Motor
+ActuallyAssets v1.8.1 16x - By Motor
+Actually mobs - By motor
 Apec - By BananaFructa
 ChatTriggers - By Kerbybit
 Controlling - By jaredlll08
 Cowlection - By Cow
 Custom Main Menu - By Lumien231
 Danker's Skyblock Mod - By DankerWanker
+Dungeon texture pack - By gratenes & Havenz
+DwarvenAssets -  By Motor & nacrt
 EvergreenHUD - By isXander
+Faithful 32x [Dark Mode] - By Faithful Team
+FurfSky Reborn 16x - By FurfSky Reborn Team
 HUDCaching - By Moulberry
 Insomnia - By Moulberry
 ItsTheLittleThings - By Zlepper & Paint_Ninja
 Keystrokes - By Sk1erLLC
+RNBW+ 16x - Rainbowcraft2
 MiniInfo - By Aycy
+Mob packet - By Viska & Mira_23
+Nameless - Smolegit
 NotEnoughUpdates - By Moulberry
 Optifine - By sp614x
+PacksHQ dark UI addon - By Packs HQ Team
+Packs HQ v13 16x - Packs HQ Team
+Packs HQ v13 32x - By Packs HQ Team
 Popup Events - By Sk1erLLC
 Resource Loader - By Lumien231
 Resource Pack Manager - By Aycy
 SBCustomMobTex - By Moulberry
 Scrollable Tooltips - By Sk1erLLC
 Simple Toggle Sprint - By Lily
+Smol icons - By _HeroBear_
 SkyblockAddons - By Biscuit
 SkyblockHUD - By ThatGravyBoat
+SkyblockOverhaul - By Stef, Saikage, and sporkspoon 
 SkyblockPersonalized - By Cobble8
 Skytils - By Sychic & Lily
+SkyMobs - By TBlazeWarrior & Moulberry
+Sluzeeey's HSB Texturepack 16x - By Sluzeeey
 Smooth Scrolling Everywhere - By Shedaniel
 Sound Subtitles - By Sk1erLLC
 TimeChanger - By Shatterpoint
 TNT Timer - By Sk1erLLC .
+vTay's Skyblock Smoothie 16x - vTay
+Worlds and Beyond 16x - Skeletony
+1.14 Default 16x - By Qwuiblington & Motor
+1.14 Faithful 32x - Faithful Team

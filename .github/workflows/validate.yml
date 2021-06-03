@@ -29,12 +29,13 @@ jobs:
             fi
           done
           echo "Linted."
+          echo "Event Type ${{ github.event_name }}"
           
   Prettifyjson:
     needs: Validatejson
     name: Prettify jsons
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true
+    if: ${{ github.event_name == 'push' }}
     steps:
       - name: checkout
         uses: actions/checkout@v2
