@@ -27,6 +27,7 @@
     {
         "triggers": [
             [
+                "which",
                 "dungeons guide",
                 "dungeonsguide",
                 "dg"
