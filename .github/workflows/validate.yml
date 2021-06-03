@@ -35,7 +35,7 @@ jobs:
     needs: Validatejson
     name: Prettify jsons
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'commit' }}
+    if: ${{ github.event_name == 'push' }}
     steps:
       - name: checkout
         uses: actions/checkout@v2
