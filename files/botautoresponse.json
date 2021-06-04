@@ -2,6 +2,7 @@
     {
         "triggers": [
             [
+                "download",
                 "how",
                 "where",
                 "mac"
