@@ -62,5 +62,16 @@
             ]
         ],
         "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
+    },
+    {
+        "triggers": [
+            [
+                "sbhud"
+            ],
+            [
+                "command"
+            ]
+        ],
+        "response": "There isn't a command for SBHud. To configure it, check out this video.\nhttps://youtu.be/3mwt94fGZ3M"
     }
 ]
