@@ -79,6 +79,17 @@
     {
         "triggers": [
             [
+                "exit"
+            ],
+            [
+                "code"
+            ]
+        ],
+        "response": "go to `%appdata%\.minecraft\skyclient\crash-reports` and upload the latest file after your game crashes\ngo to %appdata%\.minecraft\skyclient\logs and upload latest.log"
+    },
+    {
+        "triggers": [
+            [
                 "skyclient"
             ]
         ],
