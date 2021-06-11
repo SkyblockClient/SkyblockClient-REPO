@@ -66,10 +66,12 @@
     {
         "triggers": [
             [
-                "sbhud", "command"
+                "sbhud",
+                "command"
             ],
             [
-                "command", "sbhud"
+                "command",
+                "sbhud"
             ]
         ],
         "response": "There isn't a command for SBHud. To configure it, check out this video.\nhttps://youtu.be/3mwt94fGZ3M"
