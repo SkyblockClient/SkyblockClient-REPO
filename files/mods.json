@@ -112,8 +112,8 @@
     },
     {
         "id": "scu",
-        "file": "!SkyblockClient-Updater-1.0.4.jar",
-        "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0.4/SkyblockClient-Updater-1.0.4.jar",
+        "file": "!SkyblockClient-Updater-1.0.5.jar",
+        "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0.5/SkyblockClient-Updater-1.0.5.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
