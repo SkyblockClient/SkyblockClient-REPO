@@ -75,5 +75,16 @@
             ]
         ],
         "response": "There isn't a command for SBHud. To configure it, check out this video.\nhttps://youtu.be/3mwt94fGZ3M"
+    },
+    {
+        "triggers": [
+            [
+                "exit"
+            ],
+            [
+                "code"
+            ]
+        ],
+        "response": "go to `%appdata%\\.minecraft\\skyclient\\crash-reports` and upload the latest file after your game crashes\ngo to %appdata%\\.minecraft\\skyclient\\logs and upload latest.log"
     }
 ]
