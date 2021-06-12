@@ -254,7 +254,7 @@
     },
     {
         "id": "evergreenhud",
-        "file": "[1.8.9-2.0-RC.1.1] EvergreenHUD.jar",
+        "file": "EvergreenHUD (1.8.9-2.0-RC.2).jar",
         "url": "https://short.evergreenclient.com/RqjzS4",
         "display": "EvergreenHUD",
         "description": "Displays every piece of information a Minecraft player could ever need.",
@@ -273,14 +273,7 @@
                 "text": "Hypixel",
                 "link": "https://hypixel.net/threads/3787277/"
             }
-        ],
-        "warning": {
-            "lines": [
-                "This mod is still in beta and may not be completely stable.",
-                "",
-                "Use anyway?"
-            ]
-        }
+        ]
     },
     {
         "id": "neu",
