@@ -273,7 +273,15 @@
                 "text": "Hypixel",
                 "link": "https://hypixel.net/threads/3787277/"
             }
-        ]
+        ],
+        "warning": {
+            "lines": [
+                   "This mod is currently in the release candidate stage. This means that it should be pretty stable by now.",
+                    "KEYWORD: SHOULD. You may still encounter stability problems.",
+                    "",
+                    "Use anyway?"
+            ]
+        }    
     },
     {
         "id": "neu",
