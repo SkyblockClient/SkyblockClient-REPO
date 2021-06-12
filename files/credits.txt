@@ -47,3 +47,4 @@ vTay's Skyblock Smoothie 16x - vTay
 Worlds and Beyond 16x - Skeletony
 1.14 Default 16x - By Qwuiblington & Motor
 1.14 Faithful 32x - Faithful Team
+SkyblockClientUpdater - Lily
