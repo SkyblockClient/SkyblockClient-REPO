@@ -1,4 +1,5 @@
 {
     "This is used for bot testing.": "Please ignore this.",
-    "wow another line": "this is for testing if pulling works"
+    "wow another line": "this is for testing if pulling works",
+    "a change has been made": "this will not register in the bot"
 }
