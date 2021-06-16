@@ -15,7 +15,7 @@ Our [Discord](https://discord.gg/VH6fdBYzQQ)!
 > Bad: "because that was dumb"
 
 <br></br>
-### Issues notify devs when a file or line of code is broken and you dont know how to fix it.
+### Issues notify devs when a file or line of code is broken and you don't know how to fix it.
 If you know how to fix it, make a PR with the fixed version.
 #### Examples 
 > Good: "Some broken code in index.json"\
