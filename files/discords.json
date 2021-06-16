@@ -189,6 +189,8 @@
     {
         "id": "sbp",
         "code": "KsqMmBdNBE",
+        "description": "The QoL mod with customizability to unhealthy extents, as well as a lot of QoL features for the Dwarven Mines and dungeons.",
+        "partner": true,
         "nicknames": [
             "skyblockpersonalized",
             "sbp"
