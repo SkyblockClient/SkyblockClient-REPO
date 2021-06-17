@@ -325,9 +325,9 @@
     },
     {
         "id": "dsm",
-        "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.7-beta2.jar",
-        "url": "https://cdn.discordapp.com/attachments/742114256555606106/854942293508227103/Dankers_Skyblock_Mod-1.8.7-beta2.jar",
-        "display": "Better Danker's Skyblock Mod",
+        "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.7-beta2-crash-fix.jar",
+        "url": "https://cdn.discordapp.com/attachments/742114256555606106/854975273010855956/Dankers_Skyblock_Mod-1.8.7-beta2-crash-fix.jar",
+        "display": "Danker's Skyblock Mod",
         "description": "DSM provides dungeon puzzle solvers,a reparty command, custom boss music and more useful features to see for yourself!",
         "icon": "dsm logo cropped.png",
         "creator": "DankerWanker",
