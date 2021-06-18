@@ -2,6 +2,7 @@
     {
         "id": "ctjs",
         "code": "chattriggers",
+        "fancyname": "Chat Triggers",
         "nicknames": [
             "ctjs",
             "chattriggers"
