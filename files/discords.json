@@ -66,7 +66,6 @@
     {
         "id": "sba",
         "code": "qBkzcgdPqU",
-        "fancyname": "Biscuit's Bakery",
         "nicknames": [
             "skyblockaddons",
             "biscuit",
@@ -180,7 +179,7 @@
     {
         "id": "optifine",
         "code": "xGVXsgbbSt",
-        "fancyname": "OptiFine",
+        "fancyname": "OptiFine"
         "nicknames": [
             "optifine",
             "of"
@@ -308,8 +307,7 @@
         "id": "nameless",
         "code": "XXxSuX8VMX",
         "icon": "nameless big.png",
-        "fancyname": "Nameless Skyblock Pack",
-        "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+        "fancyname": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
         "nicknames": [
             "nameless",
             "smolegit"
@@ -322,7 +320,7 @@
         "id": "drm",
         "code": "bedjDkjvaK",
         "icon": "skyclient.png",
-        "fancyname": "DungeonRooms",
+        "fancyname": "cool discord check it out guys haha",
         "nicknames": [
             "dungeonrooms"
         ],
