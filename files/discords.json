@@ -291,7 +291,7 @@
         ]
     },
     {
-        "id": "risk",
+        "id": "drm",
         "code": "7B5RbsArYK",
         "icon": "drm.png",
         "fancyname": "Dungeon Rooms Discord",
@@ -317,18 +317,6 @@
         ],
         "packs": [
             "nameless"
-        ]
-    },
-    {
-        "id": "drm",
-        "code": "bedjDkjvaK",
-        "icon": "skyclient.png",
-        "fancyname": "DungeonRooms",
-        "nicknames": [
-            "dungeonrooms"
-        ],
-        "packs": [
-            "drm"
         ]
     }
 ]
