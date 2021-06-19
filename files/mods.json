@@ -184,7 +184,7 @@
     },
     {
         "id": "sba",
-        "enabled": false,
+        "enabled": true,
         "file": "SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
         "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
         "display": "SkyblockAddons",
@@ -815,6 +815,6 @@
         "display": "no",
         "description": "this is purely internal - test",
         "creator": "Mojang",
-        "hidden": false
+        "hidden": true
     }
 ]
