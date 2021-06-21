@@ -255,7 +255,7 @@
     {
         "id": "evergreenhud",
         "file": "EvergreenHUD (1.8.9-2.0-RC.3).jar",
-        "url": "https://short.evergreenclient.com/RqjzS4",
+        "url": "https://short.isxander.co.uk/RqjzS4",
         "display": "EvergreenHUD",
         "description": "Displays every piece of information a Minecraft player could ever need.",
         "creator": "isXander",
@@ -266,7 +266,7 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://short.evergreenclient.com/WD21Ce"
+                "link": "https://short.isxander.co.uk/WD21Ce"
             },
             {
                 "icon": "forum.png",
