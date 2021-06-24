@@ -128,6 +128,22 @@
         ]
     },
     {
+        "id": "scc",
+        "file": "!!!SkyblockClient-Cosmetics-BETA-5.jar",
+        "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/beta-5/Skyclient.Cosmetics-BETA-5.jar",
+        "display": "SkyClient Cosmetics",
+        "description": "Adds some cool tags, discord rpc and more!",
+        "icon": "skyclient.png",
+        "creator": "koxx12",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
+            }
+        ]
+    },
+    {
         "id": "optifine",
         "enabled": true,
         "file": "OptiFine_1.8.9_HD_U_M5.jar",
