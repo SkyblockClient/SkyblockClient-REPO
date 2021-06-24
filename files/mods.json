@@ -142,7 +142,13 @@
                 "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
             }
         ],
-                "warning": {"lines": ["This mod is still a work in progress and may break some stuff","","","","Use anyway?"
+        "warning": {
+            "lines": [
+                "This mod is still a work in progress and may break some stuff",
+                "",
+                "",
+                "",
+                "Use anyway?"
             ]
         }
     },
