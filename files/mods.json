@@ -135,6 +135,7 @@
         "description": "Adds some cool tags, discord rpc and more!",
         "icon": "skyclient.png",
         "creator": "koxx12",
+        "enabled": true,
         "actions": [
             {
                 "icon": "github.png",
