@@ -17,14 +17,15 @@
     {
         "triggers": [
             [
-                "add",
-                "how",
-                "mod"
+                "add ",
+                "how ",
+                "mod ",
+                " mod"
             ],
             [
-                "mod",
+                " mod",
                 "add",
-                "folder"
+                " folder"
             ]
         ],
         "response": "https://youtu.be/Y7AyoDMsFdY"
