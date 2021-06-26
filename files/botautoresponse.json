@@ -82,7 +82,13 @@
     {
         "triggers": [
             [
-                "exit code 0"
+                "exit"
+            ],
+            [
+                "code"
+            ],
+            [
+                "0"
             ]
         ],
         "response": "To fix this, we need your latest.log.\n**Windows**: Hit Windows Key + R and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**:Linux: if you use linux and you don't know this, there's something wrong with you.\nOpen the `logs` folder, and send `latest.log`."
