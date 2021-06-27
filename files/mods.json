@@ -579,9 +579,9 @@
         "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.1.1/dungeonsguide-3.0.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
-        "description": " A highly advanced Hypixel Skyblock Dungeons Mod",
+        "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints, and other things.",
         "icon": "dungeonsguide.jpg",
-        "discordcode": "dg",
+        "discordcode": "sdg",
         "command": "/dg",
         "actions": [
             {
@@ -719,7 +719,7 @@
         ]
     },
     {
-        "id": "dungeonrooms",
+        "id": "drm",
         "file": "Dungeon Rooms-2.0.0.jar",
         "url": "https://cdn.discordapp.com/attachments/804248325967577118/852805332820164639/Dungeon_Rooms-2.0.0.jar",
         "display": "Dungeon Rooms",
