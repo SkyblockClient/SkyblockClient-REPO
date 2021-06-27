@@ -106,8 +106,7 @@
             "1;Bundles"
         ],
         "packages": [
-            "popup_events",
-            "tnttime"
+            "popup_events"
         ]
     },
     {
