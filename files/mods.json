@@ -316,6 +316,7 @@
         "creator": "Moulberry",
         "command": "/neu",
         "discordcode": "moulberry",
+        "nicknames": ["notenoughupdates"],
         "actions": [
             {
                 "method": "hover",
