@@ -1,7 +1,9 @@
 [
     {
         "id": "itlt",
-        "nicknames":["itsthelittlethings"],
+        "nicknames": [
+            "itsthelittlethings"
+        ],
         "enabled": true,
         "file": "itlt-1.8.9-1.0.0.jar",
         "url": "https://media.forgecdn.net/files/3215/425/itlt-1.8.9-1.0.0.jar",
@@ -36,7 +38,9 @@
     },
     {
         "id": "cmm",
-        "nicknames":["custommainmenu"],
+        "nicknames": [
+            "custommainmenu"
+        ],
         "enabled": true,
         "file": "CustomMainMenu-MC1.8.9-2.0.jar",
         "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
@@ -71,7 +75,9 @@
     },
     {
         "id": "antidreamskin",
-        "nicknames":["insomnia"],
+        "nicknames": [
+            "insomnia"
+        ],
         "file": "Insomnia-1.0-REL.jar",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
@@ -114,7 +120,10 @@
     },
     {
         "id": "scu",
-        "nicknames":["skyclientupdater","skyblockclientupdater"],
+        "nicknames": [
+            "skyclientupdater",
+            "skyblockclientupdater"
+        ],
         "file": "!SkyblockClient-Updater-1.0.5.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0.5/SkyblockClient-Updater-1.0.5.jar",
         "display": "SkyClient Updater",
@@ -132,7 +141,10 @@
     },
     {
         "id": "scc",
-        "nicknames":["skyclientcosmetics","skyblockclientcosmetics"],
+        "nicknames": [
+            "skyclientcosmetics",
+            "skyblockclientcosmetics"
+        ],
         "file": "!!!SkyblockClient-Cosmetics-BETA-5.jar",
         "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/beta-5/Skyclient.Cosmetics-BETA-5.jar",
         "display": "SkyClient Cosmetics [BETA]",
@@ -156,7 +168,9 @@
     },
     {
         "id": "optifine",
-        "nicknames":["of"],
+        "nicknames": [
+            "of"
+        ],
         "enabled": true,
         "file": "OptiFine_1.8.9_HD_U_M5.jar",
         "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
@@ -212,7 +226,9 @@
     },
     {
         "id": "sba",
-        "nicknames":["skyblockaddons"],
+        "nicknames": [
+            "skyblockaddons"
+        ],
         "enabled": true,
         "file": "SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
         "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
@@ -254,7 +270,10 @@
     },
     {
         "id": "sbhud",
-        "nicknames":["sbh","skyblockhud"],
+        "nicknames": [
+            "sbh",
+            "skyblockhud"
+        ],
         "file": "SkyblockHud-1.12.jar",
         "url": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar",
         "display": "SkyblockHUD",
@@ -284,7 +303,9 @@
     },
     {
         "id": "evergreenhud",
-        "nicknames":["evergreen"],
+        "nicknames": [
+            "evergreen"
+        ],
         "file": "EvergreenHUD (1.8.9-2.0-RC.3).jar",
         "url": "https://short.isxander.co.uk/RqjzS4",
         "display": "EvergreenHUD",
@@ -359,7 +380,10 @@
     },
     {
         "id": "dsm",
-        "nicknames":["dankers","dankersskyblockmod"],
+        "nicknames": [
+            "dankers",
+            "dankersskyblockmod"
+        ],
         "file": "Dankers_Skyblock_Mod-1.8.7-beta2.1.jar",
         "url": "https://cdn.discordapp.com/attachments/857170501016616970/857311969631666226/Dankers_Skyblock_Mod-1.8.7-beta2-crash-fix-final3.jar",
         "display": "Better Danker's Skyblock Mod",
@@ -395,7 +419,9 @@
     },
     {
         "id": "skytils",
-        "nicknames":["st"],
+        "nicknames": [
+            "st"
+        ],
         "file": "!!Skytils-1.0-pre13.1.jar",
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre13/Skytils-1.0-pre13.1.jar",
         "display": "Skytils",
@@ -474,7 +500,10 @@
     },
     {
         "id": "cowlection",
-        "nicknames":["cow","moo"],
+        "nicknames": [
+            "cow",
+            "moo"
+        ],
         "file": "Cowlection-1.8.9-0.13.0-fix.jar",
         "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.13.0/Cowlection-1.8.9-0.13.0-fix.jar",
         "display": "Cowlection",
@@ -515,7 +544,9 @@
     },
     {
         "id": "sbp",
-        "nicknames":["skyblockpersonalized"],
+        "nicknames": [
+            "skyblockpersonalized"
+        ],
         "file": "1.8.9 SkyblockPersonalized 1.5.3.2.jar",
         "url": "https://cdn.discordapp.com/attachments/779550146861203477/843160504067162173/1.8.9_SkyblockPersonalized_1.5.3.2.jar",
         "display": "SkyblockPersonalized",
@@ -546,7 +577,9 @@
     },
     {
         "id": "hudcaching",
-        "nicknames":["fpsgobrrrrr"],
+        "nicknames": [
+            "fpsgobrrrrr"
+        ],
         "enabled": true,
         "file": "HUDCaching-1.8-REL-for-MC1.8.9.jar",
         "url": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar",
@@ -592,7 +625,10 @@
     },
     {
         "id": "dg",
-        "nicknames":["dungeonsguide","sdg"],
+        "nicknames": [
+            "dungeonsguide",
+            "sdg"
+        ],
         "file": "dungeonsguide-3.1.1.jar",
         "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.1.1/dungeonsguide-3.0.jar",
         "creator": "Syeyoung",
@@ -623,7 +659,9 @@
     },
     {
         "id": "simpletogglesprint",
-        "nicknames":["togglesprint"],
+        "nicknames": [
+            "togglesprint"
+        ],
         "file": "SimpleToggleSprint-1.2.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v1.2/SimpleToggleSprint-1.2.jar",
         "display": "Toggle Sprint",
@@ -674,7 +712,9 @@
     },
     {
         "id": "ctjs",
-        "nicknames":["chattriggers"],
+        "nicknames": [
+            "chattriggers"
+        ],
         "file": "ctjs-1.3.1-1.8.9.jar",
         "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.1/ctjs-1.3.1-1.8.9.jar",
         "display": "Chat Triggers",
@@ -740,7 +780,9 @@
     },
     {
         "id": "drm",
-        "nicknames":["dungeonrooms"],
+        "nicknames": [
+            "dungeonrooms"
+        ],
         "file": "Dungeon Rooms-2.0.0.jar",
         "url": "https://cdn.discordapp.com/attachments/804248325967577118/852805332820164639/Dungeon_Rooms-2.0.0.jar",
         "display": "Dungeon Rooms",
@@ -766,7 +808,9 @@
     },
     {
         "id": "rpm",
-        "nicknames":["resourcepackmanager"],
+        "nicknames": [
+            "resourcepackmanager"
+        ],
         "file": "Resource_Pack_Manager_1.2.jar",
         "display": "Resource Pack Manager",
         "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
@@ -813,7 +857,9 @@
     },
     {
         "id": "scrollabletooltips",
-        "nicknames":["text_overflow_scroll"],
+        "nicknames": [
+            "text_overflow_scroll"
+        ],
         "file": "Scrollable Tooltips-1.3 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.3/1.8.9/Scrollable%20Tooltips-1.3%20(1.8.9).jar",
         "display": "Scrollable Tooltips",
@@ -824,7 +870,9 @@
     },
     {
         "id": "popup_events",
-        "nicknames":["popupevents"],
+        "nicknames": [
+            "popupevents"
+        ],
         "file": "Popup Events-1.3.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar",
         "display": "QOL Bundle",
@@ -836,7 +884,9 @@
     },
     {
         "id": "soundsubtitles",
-        "nicknames":["subtitles"],
+        "nicknames": [
+            "subtitles"
+        ],
         "file": "Sound Subtitles-1.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
         "display": "Sound Subtitles",
