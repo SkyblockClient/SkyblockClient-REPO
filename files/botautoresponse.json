@@ -88,7 +88,7 @@
                 "code"
             ]
         ],
-        "response": "``How to access the SkyClient folder:``\nWindows: Hit ``Windows Key + R`` and type in ``%appdata%``. Open the ``.minecraft`` folder, then go to the ``skyclient`` folder.\nMac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type ``~/Library/Application Support/Minecraft/skyclient``, then hit enter.\nLinux: if you use Linux and you don't know this, there's something wrong with you\n\n\n``Exit Code 0:``\nGo into the ``logs`` folder and upload ``latest.log``\nIf you don't see that file, look for it. Any other file will be useless.\n\n``Exit Code 1:``\nGo into the crash-reports folder and upload the latest current crashlog."
+        "response": "**`How to access the SkyClient folder:`**\n**Windows**: Hit `Windows Key + R` and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**: if you use Linux and you don't know this, stop using Linux.\n\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or -1):`**\nGo into the crash-reports folder and upload the latest current crashlog."
     },
     {
         "triggers": [
