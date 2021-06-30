@@ -1,51 +1,122 @@
 [
-  {
-    "triggers": [
-      ["download", "how", "where", "mac"],
-      ["download", "client"]
-    ],
-    "response": "Windows 10 SkyClient Download: <#780940408175853609>\nUniversal (requires Java) SkyClient Download: <#782998702289059860>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
-  },
-  {
-    "triggers": [
-      ["add", "how", "mod"],
-      ["mod", "add", "folder"]
-    ],
-    "response": "https://youtu.be/Y7AyoDMsFdY"
-  },
-  {
-    "triggers": [["which", "dungeons guide", "dungeonsguide", "dg"], ["ban"]],
-    "response": "Dungeons Guide is not bannable, like any other mod in SkyClient.\nFor further comment, please ask the developer and his community\ndiscord.gg/h7j5m72zqW"
-  },
-  {
-    "triggers": [["mac", "linux"], ["universal"]],
-    "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
-  },
-  {
-    "triggers": [["need"], ["forge"]],
-    "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
-  },
-  {
-    "triggers": [
-      ["sbhud", "command"],
-      ["command", "sbhud"]
-    ],
-    "response": "There isn't a command for SBHud. To configure it, check out this video.\nhttps://youtu.be/3mwt94fGZ3M"
-  },
-  {
-    "triggers": [["exit"], ["code"]],
-    "response": "**`How to access the SkyClient folder:`**\n**Windows**: Hit `Windows Key + R` and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**: if you use Linux and you don't know this, stop using Linux.\n\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or -1):`**\nGo into the crash-reports folder and upload the latest current crashlog."
-  },
-  {
-    "triggers": [["skyclient", "crash", "why"], ["crash"]],
-    "response": "If you are crashing, we need the following:\n\n``How to access the SkyClient folder:``\nWindows: Hit ``Windows Key + R`` and type in ``%appdata%``. Open the ``.minecraft`` folder, then go to the ``skyclient`` folder.\nMac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type ``~/Library/Application Support/Minecraft/skyclient``, then hit enter.\nLinux: if you use Linux and you don't know this, there's something wrong with you\n\n\n``Exit Code 0:``\nGo into the ``logs`` folder and upload ``latest.log``\nIf you don't see that file, look for it. Any other file will be useless.\n\n``Exit Code 1:``\nGo into the crash-reports folder and upload the latest current crashlog."
-  },
-  {
-    "triggers": [["1.7", "old"], ["anim"]],
-    "response": "Use sk1ers old animations https://sk1er.club/beta"
-  },
-  {
-    "triggers": [["tesselating", "block", "model"]],
-    "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
-  }
+    {
+        "triggers": [
+            [
+                "download",
+                "how",
+                "where",
+                "mac"
+            ],
+            [
+                "download",
+                "client"
+            ]
+        ],
+        "response": "Windows 10 SkyClient Download: <#780940408175853609>\nUniversal (requires Java) SkyClient Download: <#782998702289059860>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
+    },
+    {
+        "triggers": [
+            [
+                "add",
+                "how",
+                "mod"
+            ],
+            [
+                "mod",
+                "add",
+                "folder"
+            ]
+        ],
+        "response": "https://youtu.be/Y7AyoDMsFdY"
+    },
+    {
+        "triggers": [
+            [
+                "which",
+                "dungeons guide",
+                "dungeonsguide",
+                "dg"
+            ],
+            [
+                "ban"
+            ]
+        ],
+        "response": "Dungeons Guide is not bannable, like any other mod in SkyClient.\nFor further comment, please ask the developer and his community\ndiscord.gg/h7j5m72zqW"
+    },
+    {
+        "triggers": [
+            [
+                "mac",
+                "linux"
+            ],
+            [
+                "universal"
+            ]
+        ],
+        "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
+    },
+    {
+        "triggers": [
+            [
+                "need"
+            ],
+            [
+                "forge"
+            ]
+        ],
+        "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
+    },
+    {
+        "triggers": [
+            [
+                "sbhud",
+                "command"
+            ],
+            [
+                "command",
+                "sbhud"
+            ]
+        ],
+        "response": "There isn't a command for SBHud. To configure it, check out this video.\nhttps://youtu.be/3mwt94fGZ3M"
+    },
+    {
+        "triggers": [
+            [
+                "exit"
+            ],
+            [
+                "code"
+            ]
+        ],
+        "response": "**`How to access the SkyClient folder:`**\n**Windows**: Hit `Windows Key + R` and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**: if you use Linux and you don't know this, stop using Linux.\n\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
+    },
+    {
+        "triggers": [
+            [
+                "skyclient",
+                "crash",
+                "why"
+            ],
+            [
+                "crash"
+            ]
+        ],
+        "response": "If you are crashing, we need the following:\n\n``How to access the SkyClient folder:``\nWindows: Hit ``Windows Key + R`` and type in ``%appdata%``. Open the ``.minecraft`` folder, then go to the ``skyclient`` folder.\nMac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type ``~/Library/Application Support/Minecraft/skyclient``, then hit enter.\nLinux: if you use Linux and you don't know this, there's something wrong with you\n\n\n``Exit Code 0:``\nGo into the ``logs`` folder and upload ``latest.log``\nIf you don't see that file, look for it. Any other file will be useless.\n\n``Exit Code 1:``\nGo into the crash-reports folder and upload the latest current crashlog."
+    },
+    {
+        "triggers": [
+            [
+                "1.7",
+                "old"
+            ],
+            [
+                "anim"
+            ]
+        ],
+        "response": "Use sk1ers old animations https://sk1er.club/beta"
+    },
+    {
+        "triggers": [["tesselating", "block", "model"]],
+        "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
+      }
 ]
