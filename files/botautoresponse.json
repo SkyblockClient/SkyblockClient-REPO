@@ -116,7 +116,13 @@
         "response": "Use sk1ers old animations https://sk1er.club/beta"
     },
     {
-        "triggers": [["tesselating", "block", "model"]],
+        "triggers": [
+            [
+                "tesselating",
+                "block",
+                "model"
+            ]
+        ],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
-      }
+    }
 ]
