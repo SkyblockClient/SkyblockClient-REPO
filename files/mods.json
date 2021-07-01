@@ -667,7 +667,7 @@
         "display": "Toggle Sprint",
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
-        "command": "/simpletogglesprint",
+        "command": "/togglesprint",
         "creator": "Lily",
         "actions": [
             {
