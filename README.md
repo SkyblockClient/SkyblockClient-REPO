@@ -22,4 +22,4 @@ If you know how to fix it, make a PR with the fixed version.
 > Bad: "fix your horrible code in all of the files"  <br></br>
 ## How to add my mod to SkyblockClient?
 > Quote from discord\
-> "if you want a mod to be added write a lengthy article on why it should be added, where to get it and how it is related to skyblock"
+> "if you want a mod to be added write a lengthy article on why it should be added, where to get it and how it is related to skyblock or hypixel and why its hulpful"
