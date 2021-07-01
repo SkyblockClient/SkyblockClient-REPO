@@ -156,7 +156,7 @@
         "file": "Nameless [Beta 0.2].zip",
         "display": "Nameless",
         "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
-        "icon": "nameless.png",
+        "icon": "hy;.png",
         "creator": "Smolegit",
         "categories": [
             "1;Full"
@@ -170,6 +170,25 @@
                 "text": "Discord",
                 "icon": "discord icon.png",
                 "link": "https://discord.gg/XXxSuX8VMX"
+            }
+        ]
+    },
+    {
+        "id": "hp+",
+        "file": "Hypixel+ 1.8.9.zip",
+        "display": "Hypixel+",
+        "description": "Hypixel+ is a x16 pack with a fresh look that changes textures not only in skyblock!",
+        "icon": "hypixelplus.png",
+        "creator": "ic22487",
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/4174260/"
+            },
+            {
+                "text": "Discord",
+                "icon": "discord icon.png",
+                "link": "https://discord.gg/yu9ykgT8bB"
             }
         ]
     },
