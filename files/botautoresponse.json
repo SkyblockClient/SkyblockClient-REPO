@@ -2,10 +2,10 @@
     {
         "triggers": [
             [
-                "download",
                 "how",
                 "where",
-                "mac"
+                "mac",
+                "download"
             ],
             [
                 "download",
