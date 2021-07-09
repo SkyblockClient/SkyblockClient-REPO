@@ -174,6 +174,25 @@
         ]
     },
     {
+        "id": "hp+",
+        "file": "Hypixel+ 1.8.9.zip",
+        "display": "Hypixel+ 16x",
+        "description": "Hypixel+ is a 16x pack with a fresh look that changes textures not only in skyblock!",
+        "icon": "hypixelplus.png",
+        "creator": "ic22487",
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/4174260/"
+            },
+            {
+                "text": "Discord",
+                "icon": "discord icon.png",
+                "link": "https://discord.gg/yu9ykgT8bB"
+            }
+        ]
+    },
+    {
         "id": "hsb",
         "file": "HSB Texturepack V1.7.zip",
         "display": "Sluzeeey's HSB Texturepack 16x",
@@ -217,7 +236,7 @@
         "file": "SkyblockOverhaul-Overlay_32x-1.1.0.zip",
         "url": "https://github.com/Skyblock-Overhaul/Skyblock-Overhaul-Website-v2/releases/download/o1.1.0/SkyblockOverhaul-Overlay_32x-1.1.0.zip",
         "display": "SkyblockOverhaul",
-        "description": "Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
+        "description": "Skyblock Overhaul includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs!",
         "icon": "sbov.png",
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
