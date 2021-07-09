@@ -230,8 +230,8 @@
             "skyblockaddons"
         ],
         "enabled": true,
-        "file": "SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
-        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.5.5/SkyblockAddons-1.5.5-for-MC-1.8.9.jar",
+        "file": "SkyblockAddons-1.6.0-for-MC-1.8.9.jar",
+        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.6.0/SkyblockAddons-1.6.0-for-MC-1.8.9.jar",
         "display": "SkyblockAddons",
         "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover!",
         "icon": "bisquit.png",
