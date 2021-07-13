@@ -633,7 +633,7 @@
         "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.1.2/dungeonsguide-3.0.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
-        "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints, and other things.",
+        "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
         "icon": "dungeonsguide.jpg",
         "discordcode": "sdg",
         "command": "/dg",
