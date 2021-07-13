@@ -307,7 +307,7 @@
             "evergreen"
         ],
         "file": "EvergreenHUD (1.8.9-2.0-pre10).jar",
-        "url": "https://short.isxander.co.uk/RqjzS4",
+        "url": "https://short.isxander.dev/RqjzS4",
         "display": "EvergreenHUD",
         "description": "Displays every piece of information a Minecraft player could ever need.",
         "creator": "isXander",
@@ -318,22 +318,14 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://short.isxander.co.uk/WD21Ce"
+                "link": "https://short.isxander.dev/WD21Ce"
             },
             {
                 "icon": "forum.png",
                 "text": "Hypixel",
                 "link": "https://hypixel.net/threads/3787277/"
             }
-        ],
-        "warning": {
-            "lines": [
-                "This mod is currently in the release candidate stage. This means that it should be pretty stable by now.",
-                "KEYWORD: SHOULD. You may still encounter stability problems.",
-                "",
-                "Use anyway?"
-            ]
-        }
+        ]
     },
     {
         "id": "neu",
@@ -423,7 +415,7 @@
             "st"
         ],
         "file": "!!Skytils-1.0-pre16.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0-pre16/Skytils-1.0-pre16.jar",
+        "url": "https://cdn.discordapp.com/attachments/807302782432051230/864220788361920512/Skytils-1.0-pre16_Crypts_fix.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",

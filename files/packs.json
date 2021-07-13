@@ -279,7 +279,6 @@
     },
     {
         "id": "hq16f",
-        "enabled": true,
         "file": "v13 16x Skyblock Pack.zip",
         "display": "Packs HQ v13 16x",
         "description": "Packs HQ Skyblock Pack 16x. Standalone",
@@ -369,7 +368,8 @@
     },
     {
         "id": "fsr",
-        "file": "FurfSky Reborn OV+ [1.3.1].zip",
+        "enabled": true,
+        "file": "FurfSky Reborn OV+ [1.3.2].zip",
         "display": "FurfSky Reborn 16x",
         "description": "The continuation of FurfSky+.",
         "icon": "fsr.png",
