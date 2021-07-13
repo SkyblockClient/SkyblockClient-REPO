@@ -132,10 +132,12 @@
     {
         "triggers": [
             [
+                "neu",
                 "find"
             ],
             [
-                "fairysouls"
+                "souls",
+                "neu"
             ]
         ],
         "response": "`/neusouls on/off`"
