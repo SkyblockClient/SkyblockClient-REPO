@@ -540,7 +540,7 @@
             "skyblockpersonalized"
         ],
         "file": "1.8.9 SkyblockPersonalized 1.5.4.0.jar",
-        "url": "https://cdn.discordapp.com/attachments/779550146861203477/864978768635494400/1.8.9_SkyblockPersonalized_1.5.4.0.jar",
+        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.5.4.0/1.8.9.SkyblockPersonalized.1.5.4.0.jar",
         "display": "SkyblockPersonalized",
         "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nice fill solver and showing player's dungeons stats with more for the user to discover.",
         "icon": "sbp.png",
