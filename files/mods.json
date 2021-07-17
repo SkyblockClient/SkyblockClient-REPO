@@ -330,8 +330,8 @@
     {
         "id": "neu",
         "enabled": true,
-        "file": "NotEnoughUpdates-2.0-PRE28.3.jar",
-        "url": "https://cdn.discordapp.com/attachments/693586404256645231/849714059384455168/NotEnoughUpdates-2.0-PRE28.3.jar",
+        "file": "NotEnoughUpdates-2.0-PRE29.jar",
+        "url": "https://cdn.discordapp.com/attachments/693586404256645231/865978595183689748/NotEnoughUpdates-2.0-PRE29.jar",
         "display": "NotEnoughUpdates",
         "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
         "icon": "neulogo.png",
