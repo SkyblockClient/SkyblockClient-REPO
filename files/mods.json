@@ -152,8 +152,8 @@
         "icon": "skyclient.png",
         "creator": "koxx12",
         "command": "/scc",
-        "enabled": false,
-        "hidden": true,
+        "enabled": true,
+        "hidden": false,
         "actions": [
             {
                 "icon": "github.png",
