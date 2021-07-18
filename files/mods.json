@@ -153,7 +153,6 @@
         "creator": "koxx12",
         "command": "/scc",
         "enabled": true,
-        "hidden": false,
         "actions": [
             {
                 "icon": "github.png",
