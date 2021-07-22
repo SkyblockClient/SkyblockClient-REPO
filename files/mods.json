@@ -622,8 +622,8 @@
             "dungeonsguide",
             "sdg"
         ],
-        "file": "dungeonsguide-3.1.3.jar",
-        "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.1.3/dungeonsguide-3.1.2.jar",
+        "file": "dungeonsguide-3.2.0.jar",
+        "url": "https://github.com/cyoung06/Skyblock-Dungeons-Guide/releases/download/3.2.0/dungeonsguide-3.2.0.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
         "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
@@ -777,8 +777,8 @@
         "nicknames": [
             "dungeonrooms"
         ],
-        "file": "Dungeon Rooms-2.1.0.jar",
-        "url": "https://cdn.discordapp.com/attachments/804248325967577118/860990601435938826/Dungeon_Rooms-2.1.0.jar",
+        "file": "Dungeon_Rooms-3.0.0.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.0.0/Dungeon_Rooms-3.0.0.jar",
         "display": "Dungeon Rooms",
         "icon": "drm.png",
         "description": "Displays dungeon room id/name and adds waypoints for secrets.",
