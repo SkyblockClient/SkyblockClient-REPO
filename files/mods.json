@@ -777,8 +777,8 @@
         "nicknames": [
             "dungeonrooms"
         ],
-        "file": "Dungeon_Rooms-3.0.0.jar",
-        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.0.0/Dungeon_Rooms-3.0.0.jar",
+        "file": "Dungeon_Rooms-3.1.0.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.1.0/Dungeon_Rooms-3.1.0.jar",
         "display": "Dungeon Rooms",
         "icon": "drm.png",
         "description": "Displays dungeon room id/name and adds waypoints for secrets.",
