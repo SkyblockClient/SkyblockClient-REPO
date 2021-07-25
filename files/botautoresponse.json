@@ -2,6 +2,17 @@
     {
         "triggers": [
             [
+                "invalid"
+            ],
+            [
+                "session"
+            ]
+        ],
+        "response": "**If you are seeing an ``Invalid Session`` when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
+    },
+    {
+        "triggers": [
+            [
                 "how",
                 "where",
                 "mac",
