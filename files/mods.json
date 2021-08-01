@@ -167,6 +167,34 @@
         ]
     },
     {
+        "id": "crashhelper",
+        "nicknames": [
+                "crashhelp",
+                "ch",
+                "crash"
+        ],
+        "enabled": true,
+        "file": "CrashHelper-1.0.1.jar",
+        "url": "https://short.isxander.dev/qKYfzc",
+        "display": "Crash Helper",
+        "description": "Gives useful information about crashes in minecraft",
+        "icon": "isxander.png",
+        "creator": "isXander",
+        "discordcode": "AJv5ZnNT8q",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://short.isxander.dev/crashhelper"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
+            }
+         ]
+    },
+    {
         "id": "optifine",
         "nicknames": [
             "of"
