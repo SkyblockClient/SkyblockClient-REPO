@@ -149,6 +149,7 @@
         "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/BETA-6.2/Skyclient.Cosmetics-BETA-6.2.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags, discord rpc and more!",
+        "enabled": true,
         "icon": "skyclient.png",
         "creator": "koxx12",
         "command": "/scc",
