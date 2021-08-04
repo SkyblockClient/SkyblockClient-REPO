@@ -18,7 +18,7 @@ Our [Discord](https://discord.gg/VH6fdBYzQQ)!
 ### Issues notify devs when a file or line of code is broken and you don't know how to fix it.
 If you know how to fix it, make a PR with the fixed version.
 #### Examples 
-> Good: "Looks like patcher is one update passed stable release""\
+> Good: "Looks like patcher is one update past stable release""\
 > Bad: "fix your horrible code in all of the files"  <br></br>
 ## How to add my mod to Skyblock Clien't?
 > Quote from discord\
