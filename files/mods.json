@@ -596,31 +596,6 @@
         ]
     },
     {
-        "id": "hudcaching",
-        "nicknames": [
-            "fpsgobrrrrr"
-        ],
-        "enabled": true,
-        "file": "HUDCaching-1.8-REL-for-MC1.8.9.jar",
-        "url": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar",
-        "display": "HUD Caching",
-        "description": "Limits the framerate of the HUD to 20 which should have no visual difference but may provide an extreme FPS boost depending on hardware.",
-        "icon": "moulberrys bush.png",
-        "creator": "Moulberry",
-        "discordcode": "moulberry",
-        "command": "/hudcaching",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar"
-            }
-        ],
-        "categories": [
-            "2;Optimization"
-        ]
-    },
-    {
         "id": "keystrokes",
         "file": "Keystrokes-8.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1/1.8.9/Keystrokes-8.1%20(1.8.9).jar",
