@@ -174,7 +174,7 @@
             "crash"
         ],
         "enabled": true,
-        "file": "CrashHelper-1.0.1.jar",
+        "file": "CrashHelper-1.1.1.jar",
         "url": "https://short.isxander.dev/qKYfzc",
         "display": "Crash Helper",
         "description": "Gives useful information about crashes in minecraft",
