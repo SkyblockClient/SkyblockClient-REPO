@@ -334,9 +334,8 @@
         "nicknames": [
             "evergreen"
         ],
-        "note": "DO NOT UPDATE, ESSENTIAL BREAKS PATCHER",
-        "file": "EvergreenHUD (1.8.9-2.0-pre10).jar",
-        "url": "https://short.isxander.dev/RqjzS4",
+        "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/2.0.0.94-pre.12/EvergreenHUD%20(2.0.0.94-pre.12-rev.542d514).jar",
         "display": "EvergreenHUD",
         "description": "Displays every piece of information a Minecraft player could ever need.",
         "creator": "isXander",
