@@ -683,8 +683,8 @@
             "togglesprint",
             "sts"
         ],
-        "file": "SimpleToggleSprint-1.2.1.jar",
-        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v1.2.1/SimpleToggleSprint-1.2.1.jar",
+        "file": "SimpleToggleSprint-2.0.1.jar",
+        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.0.1/SimpleToggleSprint-2.0.1.jar",
         "display": "Toggle Sprint",
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
