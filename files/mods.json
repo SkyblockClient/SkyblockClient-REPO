@@ -124,7 +124,7 @@
             "skyclientupdater",
             "skyblockclientupdater"
         ],
-        "file": "!SkyblockClient-Updater-1.0.6.jar",
+        "file": "SkyblockClient-Updater-1.0.6.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0.6/SkyblockClient-Updater-1.0.6.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
@@ -145,7 +145,7 @@
             "skyclientcosmetics",
             "skyblockclientcosmetics"
         ],
-        "file": "!!!SkyblockClient-Cosmetics-BETA-6.2.jar",
+        "file": "SkyblockClient-Cosmetics-BETA-6.2.jar",
         "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/BETA-6.2/Skyclient.Cosmetics-BETA-6.2.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags, discord rpc and more!",
@@ -442,8 +442,8 @@
         "nicknames": [
             "st"
         ],
-        "file": "!!Skytils-1.0-pre20.3_fix.jar",
-        "url": "https://cdn.discordapp.com/attachments/807302538558308355/872438866508914708/Skytils-1.0-pre21.3_fix.jar",
+        "file": "Skytils-1.0.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0/Skytils-1.0.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
@@ -596,31 +596,6 @@
         ]
     },
     {
-        "id": "hudcaching",
-        "nicknames": [
-            "fpsgobrrrrr"
-        ],
-        "enabled": true,
-        "file": "HUDCaching-1.8-REL-for-MC1.8.9.jar",
-        "url": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar",
-        "display": "HUD Caching",
-        "description": "Limits the framerate of the HUD to 20 which should have no visual difference but may provide an extreme FPS boost depending on hardware.",
-        "icon": "moulberrys bush.png",
-        "creator": "Moulberry",
-        "discordcode": "moulberry",
-        "command": "/hudcaching",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://github.com/Moulberry/MCHUDCaching/releases/download/1.8/HUDCaching-1.8-REL-for-MC1.8.9.jar"
-            }
-        ],
-        "categories": [
-            "2;Optimization"
-        ]
-    },
-    {
         "id": "keystrokes",
         "file": "Keystrokes-8.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1/1.8.9/Keystrokes-8.1%20(1.8.9).jar",
@@ -712,22 +687,6 @@
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3574261/"
-            }
-        ]
-    },
-    {
-        "id": "miniinfo",
-        "file": "MiniInfo-v1.0.jar",
-        "url": "https://cdn.discordapp.com/attachments/733903046681034813/827606319124185098/MiniInfo-v1.0.jar",
-        "display": "MiniInfo",
-        "description": "Display HUD for fps, cps, ping",
-        "icon": "aycy.jpg",
-        "creator": "Aycy",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "Youtube",
-                "link": "https://www.youtube.com/watch?v=9OwPMxBzQog"
             }
         ]
     },
