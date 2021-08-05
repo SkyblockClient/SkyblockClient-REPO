@@ -27,6 +27,7 @@
         "display": "ActuallyPacket v0.1",
         "description": "Branch of Mob Packet with ActuallyMobs textures.",
         "icon": "actuallyassets.png",
+        "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
@@ -40,6 +41,7 @@
         "display": "Dungeons Texturepack",
         "description": "Dungeons resource pack",
         "icon": "dungeon texturepack 1024x.png",
+        "icon_scaling": "pixel",
         "creator": "gratenes & Havenz",
         "discordcode": "rfdWXb6",
         "actions": [
@@ -59,6 +61,7 @@
         "display": "ActuallyMobs v0.1",
         "description": "Quality retextures for Skyblock mobs.",
         "icon": "actuallymobs.png",
+        "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
@@ -72,6 +75,7 @@
         "display": "SkyMobs",
         "description": "Resource Pack for the SBCustomMobTex Mod.",
         "icon": "skymobs.png",
+        "icon_scaling": "pixel",
         "creators": "TBlazeWarrior & Moulberry",
         "categories": [
             "3;Mobs"
@@ -90,6 +94,7 @@
         "display": "DwarvenAssets",
         "description": " DwarvenAssets retextures Mithril Veins in the Dwarven Mines to give your game a more custom feel",
         "icon": "da.png",
+        "icon_scaling": "pixel",
         "creator": "Motor & nacrt",
         "discordcode": "ABHrh6K3Fh",
         "enabled": true,
@@ -135,6 +140,7 @@
         "display": "RNBW+ 16x",
         "description": "An extension to Vanilla+.",
         "icon": "rnbw.png",
+        "icon_scaling": "pixel",
         "creator": "Rainbowcraft2",
         "discordcode": "dcdsnvG4Q4",
         "categories": [
@@ -198,6 +204,7 @@
         "display": "Sluzeeey's HSB Texturepack 16x",
         "description": "A simplistic Skyblock texture pack.",
         "icon": "hsb.png",
+        "icon_scaling": "pixel",
         "creator": "Sluzeeey",
         "categories": [
             "1;Full"
@@ -344,6 +351,7 @@
         "display": "ActuallyAssets v1.8.1 16x",
         "description": "Clean and simple Skyblock Pack.",
         "icon": "actuallyassets.png",
+        "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
@@ -401,6 +409,7 @@
         "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
         "enabled": true,
         "icon": "smol_icons.png",
+        "icon_scaling": "pixel",
         "creator": "_HeroBear_",
         "actions": [
             {

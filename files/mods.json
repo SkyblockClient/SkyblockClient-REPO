@@ -179,6 +179,7 @@
         "display": "Crash Helper",
         "description": "Gives useful information about crashes in minecraft",
         "icon": "isxander.png",
+        "icon_scaling": "pixel",
         "creator": "isXander",
         "discordcode": "AJv5ZnNT8q",
         "actions": [
@@ -205,6 +206,7 @@
         "display": "OptiFine M5",
         "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
         "icon": "optifine.png",
+        "icon_scaling": "pixel",
         "creator": "sp614x",
         "discordcode": "xGVXsgbbSt",
         "actions": [
@@ -529,6 +531,7 @@
         "display": "Cowlection",
         "description": "A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all Hypixel players.",
         "icon": "cowlection-logo.png",
+        "icon_scaling": "pixel",
         "creator": "Cow",
         "discordcode": "HyvcR9a3x9",
         "command": "/moo config",
@@ -680,6 +683,7 @@
         "display": "TimeChanger",
         "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
         "icon": "clock.png",
+        "icon_scaling": "pixel",
         "creator": "Shatterpoint",
         "command": "/timechange",
         "actions": [
