@@ -137,7 +137,7 @@
     {
         "triggers": [
             [
-                "tesselating"
+                "tessellating"
             ],
             [
                 "block"
