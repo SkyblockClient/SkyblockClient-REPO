@@ -147,17 +147,5 @@
             ]
         ],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
-    },
-    {
-        "triggers": [
-            [
-                "find",
-                "neu"
-            ],
-            [
-                "souls"
-            ]
-        ],
-        "response": "`/neusouls on/off`"
     }
 ]
