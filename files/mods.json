@@ -679,8 +679,8 @@
     {
         "id": "wyvtilities",
         "nicknames": [
-          "wyvtils",
-          "wytil"
+            "wyvtils",
+            "wytil"
         ],
         "file": "Wyvtilities-1.1.0.jar",
         "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.1.0/Wyvtilities-1.1.0.jar",
@@ -690,16 +690,16 @@
         "command": "/wyvtilities",
         "creator": "Wyvest",
         "actions": [
-          {
-            "icon": "github.png",
-            "text": "Github",
-            "link": "https://github.com/Wyvest/Wyvtilities"
-          },
-          {
-            "icon": "guide.png",
-            "text": "Guide",
-            "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtilities.md"
-          }
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Wyvest/Wyvtilities"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtilities.md"
+            }
         ],
         "discordcode": "b6twapxC3T"
     },
@@ -907,7 +907,6 @@
         "discordcode": "sk1er",
         "hidden": true
     },
-
     {
         "id": "minecraft",
         "file": "no",
