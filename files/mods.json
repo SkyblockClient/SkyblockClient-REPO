@@ -677,6 +677,33 @@
         ]
     },
     {
+        "id": "wyvtilities",
+        "nicknames": [
+          "wyvtils",
+          "wytil"
+        ],
+        "file": "Wyvtilities-1.1.0.jar",
+        "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.1.0/Wyvtilities-1.1.0.jar",
+        "display": "Wyvtilities",
+        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
+        "icon": "wyvest.png",
+        "command": "/wyvtilities",
+        "creator": "Wyvest",
+        "actions": [
+          {
+            "icon": "github.png",
+            "text": "Github",
+            "link": "https://github.com/Wyvest/Wyvtilities"
+          },
+          {
+            "icon": "guide.png",
+            "text": "Guide",
+            "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtilities.md"
+          }
+        ],
+        "discordcode": "b6twapxC3T"
+    },
+    {
         "id": "timechanger",
         "file": "TimeChanger-2.2.1.jar",
         "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
@@ -865,33 +892,6 @@
         "command": "/popupevents",
         "description": "Accept or deny friend, party, and guild invite requests.",
         "hidden": true
-    },
-    {
-        "id": "wyvtilities",
-        "nicknames": [
-          "wyvtils",
-          "wytil"
-        ],
-        "file": "Wyvtilities-1.1.0.jar",
-        "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.1.0/Wyvtilities-1.1.0.jar",
-        "display": "Wyvtilities",
-        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
-        "icon": "wyvest.png",
-        "command": "/wyvtilities",
-        "creator": "Wyvest",
-        "actions": [
-          {
-            "icon": "github.png",
-            "text": "Github",
-            "link": "https://github.com/Wyvest/Wyvtilities"
-          },
-          {
-            "icon": "guide.png",
-            "text": "Guide",
-            "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtilities.md"
-          }
-        ],
-        "discordcode": "b6twapxC3T"
     },
     {
         "id": "soundsubtitles",
