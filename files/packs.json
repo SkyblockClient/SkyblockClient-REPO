@@ -217,6 +217,24 @@
         ]
     },
     {
+        "id": "kmp",
+        "file": "kios-hsb-pack.zip",
+        "link": "https://static.planetminecraft.com/files/resource_media/texture/kios-hsb-pack.zip",
+        "display": "Kio's HSB Model Pack",
+        "description": "Wynncraft-Esque 3D Models for Your Skyblock Items",
+        "icon": "kmp.png",
+        "creator": "Kiocifer",
+        "categories": [
+            "1;Full"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3604212/"
+            }
+        ]
+    },
+    {
         "id": "worldsandbeyond",
         "file": "Worlds and Beyond [16x] - Release 1.3.zip",
         "display": "Worlds and Beyond 16x",
