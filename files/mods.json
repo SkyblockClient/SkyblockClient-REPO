@@ -884,6 +884,11 @@
             "icon": "github.png",
             "text": "Github",
             "link": "https://github.com/Wyvest/Wyvtilities"
+          },
+          {
+            "icon": "guide.png",
+            "text": "Guide",
+            "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtilities.md"
           }
         ],
         "discordcode": "b6twapxC3T"
