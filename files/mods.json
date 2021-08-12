@@ -872,8 +872,8 @@
           "wyvtils",
           "wytil"
         ],
-        "file": "Wyvtilities-1.0.1.jar",
-        "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.0.1/Wyvtilities-1.0.1.jar",
+        "file": "Wyvtilities-1.1.0.jar",
+        "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.1.0/Wyvtilities-1.1.0.jar",
         "display": "Wyvtilities",
         "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
         "icon": "wyvest.png",
