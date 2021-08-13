@@ -66,6 +66,21 @@
         ]
     },
     {
+        "id": "wyvest",
+        "code": "qKETDJDsV3",
+        "fancyname": "WWWWWWWWWWWWWWWWWWW",
+        "description": "A server to discuss / get support for Wyvest's mod (Wyvtilities) and other things!",
+        "icon": "wyvest.png",
+        "nicknames": [
+            "wyvtils",
+            "wyvtilities",
+            "WWW"
+        ],
+        "mods": [
+            "wyvtilities"
+        ]
+    },
+    {
         "id": "sba",
         "code": "qBkzcgdPqU",
         "fancyname": "Biscuit's Bakery",
