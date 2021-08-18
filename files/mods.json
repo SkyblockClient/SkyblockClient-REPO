@@ -226,8 +226,8 @@
     {
         "id": "patcher",
         "enabled": true,
-        "file": "Patcher-1.6 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.6/1.8.9/Patcher-1.6%20(1.8.9).jar",
+        "file": "Patcher-1.6.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.6.1/1.8.9/Patcher-1.6.1%20(1.8.9).jar",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "display": "Patcher",
