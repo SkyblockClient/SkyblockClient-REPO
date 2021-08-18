@@ -145,8 +145,8 @@
             "skyclientcosmetics",
             "skyblockclientcosmetics"
         ],
-        "file": "SkyblockClient-Cosmetics-BETA-7.0.jar",
-        "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/0.7.0-beta/Skyclient.Cosmetics-0.7.0-beta.jar",
+        "file": "SkyblockClient-Cosmetics-BETA-6.2.jar",
+        "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/BETA-6.2/Skyclient.Cosmetics-BETA-6.2.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags, discord rpc and more!",
         "enabled": true,
@@ -444,8 +444,8 @@
         "nicknames": [
             "st"
         ],
-        "file": "Skytils-1.0.3-RC1.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0.3-RC1/Skytils-1.0.3-RC1.jar",
+        "file": "Skytils-1.0.3-pre2.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0.3-pre2/Skytils-1.0.3-pre2.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
