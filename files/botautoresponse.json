@@ -13,6 +13,14 @@
     {
         "triggers": [
             [
+                "perspective mod"
+            ]
+        ],
+        "response": "**PERSPECTIVE MOD IS CURRENTLY BANNABLE!**"
+    },
+    {
+        "triggers": [
+            [
                 "reinstal"
             ]
         ],
