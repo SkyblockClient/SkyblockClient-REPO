@@ -1,6 +1,10 @@
-[{
-    "id": "skyclient-skyclientcosmetics",
-    "displayName": "/skyclient\nSkyclient Cosmetics",
-    "desc": ["#test","test"]
-}
+[
+    {
+        "id": "skyclient-skyclientcosmetics",
+        "displayName": "/skyclient\nSkyclient Cosmetics",
+        "desc": [
+            "#test",
+            "test"
+        ]
+    }
 ]
