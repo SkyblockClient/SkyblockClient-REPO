@@ -1,10 +1,10 @@
 [
     {
-        "id": "skyclient-skyclientcosmetics",
-        "displayName": "/skyclient\nSkyclient Cosmetics",
+        "id": "neusouls-notenoughupdates",
+        "displayName": "/neusouls\nNEU",
         "desc": [
-            "#test",
-            "test"
+            "## /neusouls <on/off>",
+            "neusouls shows or hides fairy souls waypoints"
         ]
     }
 ]
