@@ -1,7 +1,16 @@
 [
     {
         "id": "neusouls-notenoughupdates",
-        "displayName": "/neusouls\nNEU",
+        "mod": "neu",
+        "command": "/neusouls",
+        "type": "toggle",
+        "params": [
+            "on",
+            "off"
+        ],
+        "tags": [
+            "Fairy Souls"
+        ]
         "desc": [
             "## /neusouls <on/off>",
             "Shows Fairy Soul Waypoints"
