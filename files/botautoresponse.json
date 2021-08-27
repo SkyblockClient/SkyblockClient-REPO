@@ -11,7 +11,7 @@
         "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
     },
     {
-        "triggers": [﻿
+        "triggers": [
             [
                 "perspective mod"
             ]
