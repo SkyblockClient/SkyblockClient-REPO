@@ -11,7 +11,7 @@
         "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
     },
     {
-        "triggers": [
+        "triggers": [﻿
             [
                 "perspective mod"
             ]
@@ -162,7 +162,7 @@
                 "selling"
             ]
         ],
-        "response": "**This isn't a place to advertise your items, go here instead** discord.gg/sbs"
+        "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skybloc"
     },
     {
         "triggers": [
@@ -170,7 +170,7 @@
                 "buying"
             ]
         ],
-        "response": "discord.gg/sbs"
+        "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skybloc"
     },
     {
         "triggers": [
