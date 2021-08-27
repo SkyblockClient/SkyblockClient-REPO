@@ -155,5 +155,30 @@
             ]
         ],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
+    },
+    {
+        "triggers": [
+            [
+                "selling"
+            ]
+        ],
+        "response": "**This isn't a place to advertise your items, go here instead** discord.gg/sbs"
+    },
+    {
+        "triggers": [
+            [
+                "buying"
+            ]
+        ],
+        "response": "discord.gg/sbs"
+    },
+    {
+        "triggers": [
+            [
+                "carry"
+            ]
+        ],
+        "response": "discord.gg/sbs"
     }
+    
 ]
