@@ -159,13 +159,25 @@
     {
         "triggers": [
             [
+                "carry"
+            ]
+        ],
+        "response": "discord.gg/sbm discord.gg/sbs discord.gg/skyblock discord.gg/dungeongang
+        "
+    },
+    {
+        "triggers": [
+            [
                 "selling"
             ],
+        ]
+        "response": "discord.gg/sbm discord.gg/sbs discord.gg/skyblock discord.gg/dungeongang
+        "
+    },
+    {
+        "triggers": [
             [
                 "buying"
-            ],
-            [
-                "carry"
             ]
         ],
         "response": "discord.gg/sbm discord.gg/sbs discord.gg/skyblock discord.gg/dungeongang"
