@@ -155,5 +155,19 @@
             ]
         ],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
+    },
+    {
+        "triggers": [
+            [
+                "selling"
+            ],
+            [
+                "buying"
+            ],
+            [
+                "carry"
+            ]
+        ],
+        "response": "discord.gg/sbm discord.gg/sbs discord.gg/skyblock discord.gg/dungeongang"
     }
 ]
