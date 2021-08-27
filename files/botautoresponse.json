@@ -1,15 +1,14 @@
 [
+    //Invalid session
     {
         "triggers": [
             [
-                "invalid"
+                "invalid","session"
             ],
-            [
-                "session"
-            ]
         ],
         "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
     },
+    //Perspective mod
     {
         "triggers": [
             [
@@ -18,6 +17,7 @@
         ],
         "response": "**PERSPECTIVE MOD IS CURRENTLY BANNABLE!**"
     },
+    //Dont reinstall skyclient stopid
     {
         "triggers": [
             [
@@ -26,62 +26,50 @@
         ],
         "response": "**If you are trying to reinstall SkyClient because of the Mods throws an error, don't.** It has never helped and will never help. \nTry to actually fix the issue instead of reinstalling for the 10th time."
     },
+    //Another download thing
     {
         "triggers": [
             [
-                "how",
-                "where",
-                "mac",
-                "download"
+                "how","where","mac","download"
             ],
             [
-                "download",
-                "client"
+                "download","client"
             ]
         ],
         "response": "Windows 10 SkyClient Download: <#780940408175853609>\nUniversal (requires Java) SkyClient Download: <#782998702289059860>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
     },
+    //How to add mods
     {
         "triggers": [
             [
-                "add",
-                "how",
-                "mod"
+                "add","how","mod"
             ],
             [
-                "mod",
-                "add",
-                "folder"
+                "mod","add","folder"
             ]
         ],
         "response": "https://youtu.be/Y7AyoDMsFdY"
     },
+    //Dungeons guide
     {
         "triggers": [
             [
-                "which",
-                "dungeons guide",
-                "dungeonsguide",
-                "dg"
+                "which",="dungeons guide", "dungeonsguide", "dg", "ban"
             ],
-            [
-                "ban"
-            ]
         ],
         "response": "Dungeons Guide is not bannable, like every other mod in SkyClient. https://media.discordapp.net/attachments/781913473872560194/867454697387065354/image0.png"
     },
+    //Mac download
     {
         "triggers": [
             [
-                "mac",
-                "linux"
+                "mac", "linux","universal"
             ],
-            [
-                "universal"
-            ]
+            
         ],
         "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
     },
+    //Skyclient Forge thing
     {
         "triggers": [
             [
@@ -93,36 +81,32 @@
         ],
         "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
     },
+    //Sbhud thing
     {
         "triggers": [
             [
-                "sbhud",
-                "command"
+                "sbhud","command"
             ],
             [
-                "command",
-                "sbhud"
+                "command","sbhud"
             ]
         ],
         "response": "There isn't a command for SBHud. To configure it, check out this video.\nhttps://youtu.be/3mwt94fGZ3M"
     },
+    //Also Skyclient Crashing but with exit codes??
     {
         "triggers": [
             [
-                "exit"
+                "exit","code"
             ],
-            [
-                "code"
-            ]
         ],
         "response": "**`How to access the SkyClient folder:`**\n**Windows**: Hit `Windows Key + R` and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**: if you use Linux and you don't know this, stop using Linux.\n\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
     },
+    //Skyclient Crashing
     {
         "triggers": [
             [
-                "skyclient",
-                "crash",
-                "why"
+                "skyclient","crash","why"
             ],
             [
                 "crash"
@@ -130,11 +114,11 @@
         ],
         "response": "If you are crashing, we need the following:\n\n``How to access the SkyClient folder:``\nWindows: Hit ``Windows Key + R`` and type in ``%appdata%``. Open the ``.minecraft`` folder, then go to the ``skyclient`` folder.\nMac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type ``~/Library/Application Support/Minecraft/skyclient``, then hit enter.\nLinux: if you use Linux and you don't know this, there's something wrong with you\n\n\n``Exit Code 0:``\nGo into the ``logs`` folder and upload ``latest.log``\nIf you don't see that file, look for it. Any other file will be useless.\n\n``Exit Code 1 (or anything other than 0):``\nGo into the crash-reports folder and upload the latest current crashlog."
     },
+    //Sk1er's Old Animations
     {
         "triggers": [
             [
-                "1.7",
-                "old"
+                "1.7","old"
             ],
             [
                 "anim"
@@ -142,28 +126,25 @@
         ],
         "response": "Use sk1ers old animations https://sk1er.club/beta"
     },
+    //
     {
         "triggers": [
             [
-                "tessellating"
+                "tessellating","block","model"
             ],
-            [
-                "block"
-            ],
-            [
-                "model"
-            ]
         ],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
     },
+    //Advertising Auto Response
     {
         "triggers": [
             [
-                "carry"
+                "carry","selling","buying"
             ]
         ],
         "response": "discord.gg/sbm discord.gg/sbs discord.gg/skyblock discord.gg/dungeongang"
     },
+    //What even is this
     {
         "triggers": [
             [
@@ -172,6 +153,7 @@
         ],
         "response": "discord.gg/sbm discord.gg/sbs discord.gg/skyblock discord.gg/dungeongang"
     },
+    //What
     {
         "triggers": [
             [
