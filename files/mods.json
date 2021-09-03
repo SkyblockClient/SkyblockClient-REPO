@@ -444,8 +444,9 @@
         "nicknames": [
             "st"
         ],
-        "file": "Skytils-1.0.5.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0.5/Skytils-1.0.5.jar",
+        "file": "Skytils-1.0.6.jar",
+        "enabled": true,
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0.6/Skytils-1.0.6.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
@@ -627,8 +628,8 @@
             "dungeonsguide",
             "sdg"
         ],
-        "file": "dungeonsguide-3.3.3.1.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.3.3.1/dungeonsguide-3.3.3.1.jar",
+        "file": "dungeonsguide-3.4.0.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.4.0/dungeonsguide-3.4.0.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
         "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",

@@ -54,7 +54,7 @@
                 "folder"
             ]
         ],
-        "response": "https://youtu.be/Y7AyoDMsFdY"
+        "response": "https://youtu.be/E6lwqIo0-Ms"
     },
     {
         "triggers": [
@@ -155,5 +155,29 @@
             ]
         ],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
+    },
+    {
+        "triggers": [
+            [
+                "selling"
+            ]
+        ],
+        "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skyblock"
+    },
+    {
+        "triggers": [
+            [
+                "buying"
+            ]
+        ],
+        "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skyblock"
+    },
+    {
+        "triggers": [
+            [
+                "carry"
+            ]
+        ],
+        "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skyblock"
     }
 ]

@@ -9,6 +9,18 @@
         ]
     },
     {
+        "id": "net",
+        "code": "wqN4vXAXXc",
+        "fancyname": "Not Enough Textures",
+        "nicknames": [
+            "not enough textures",
+            "notenoughtextures"
+        ],
+        "packs": [
+            "net"
+        ]
+    },
+    {
         "id": "neu",
         "code": "moulberry",
         "partner": true,
