@@ -145,8 +145,8 @@
             "skyclientcosmetics",
             "skyblockclientcosmetics"
         ],
-        "file": "SkyblockClient-Cosmetics-BETA-7.0.jar",
-        "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/0.7.0-beta/Skyclient.Cosmetics-0.7.0-beta.jar",
+        "file": "SkyblockClient-Cosmetics-BETA-7.0.5.jar",
+        "url": "https://github.com/koxx12-dev/MiscFiles/raw/main/!!SkyClient%20Cosmetics-0.7.0.5-beta.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
         "enabled": true,
