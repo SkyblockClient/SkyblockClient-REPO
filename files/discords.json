@@ -10,6 +10,7 @@
     },
     {
         "id": "net",
+        "icon": "net.png",
         "code": "wqN4vXAXXc",
         "fancyname": "Not Enough Textures",
         "nicknames": [
