@@ -34,7 +34,7 @@
             "1;Bundles"
         ],
         "packages": [
-            "scrollabletooltips", 
+            "scrollabletooltips",
             "optibye"
         ],
         "config": true,
