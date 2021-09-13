@@ -22,13 +22,20 @@
                 "text": "It's The Little Things",
                 "creator": "Zlepper and Paint_Ninja",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
+            },
+            {
+                "icon": " optifine.png",
+                "text": "OptiBye",
+                "creator": "ThatGravyBoat",
+                "link": "https://discord.gg/neu"
             }
         ],
         "categories": [
             "1;Bundles"
         ],
         "packages": [
-            "scrollabletooltips"
+            "scrollabletooltips", 
+            "optibye"
         ],
         "config": true,
         "files": [
@@ -906,6 +913,16 @@
         "creator": "Sk1er LLC",
         "command": "/subtitles_config",
         "discordcode": "sk1er",
+        "hidden": true
+    },
+    {
+        "id": "optibye",
+        "file": "Optibye-1.0.0-dep.jar",
+        "display": "Optibye",
+        "description": "Prevents Optifine from logging completely useless information",
+        "creator": "ThatGravyBoat",
+        "command": "No Commands",
+        "discordcode": "neu",
         "hidden": true
     },
     {
