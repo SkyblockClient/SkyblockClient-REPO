@@ -131,7 +131,7 @@
             "skyclientupdater",
             "skyblockclientupdater"
         ],
-        "file": "SimpleToggleSprint-2.1.0.jar",
+        "file": "no.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.1.0/SimpleToggleSprint-2.1.0.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
