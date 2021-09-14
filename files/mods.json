@@ -664,10 +664,10 @@
         ]
     },
     {
-        "id": "simpletogglesprint",
+        "id": "sts",
         "nicknames": [
             "togglesprint",
-            "sts"
+            "simpletogglesprint"
         ],
         "file": "SimpleToggleSprint-2.1.0.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.1.0/SimpleToggleSprint-2.1.0.jar",
@@ -913,7 +913,7 @@
         "creator": "Sk1er LLC",
         "command": "/subtitles_config",
         "discordcode": "sk1er",
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "optibye",
