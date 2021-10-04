@@ -691,25 +691,25 @@
             "wytil"
         ],
         "file": "Wyvtilities-1.1.2.jar",
-        "url": "https://github.com/Wyvest/Wyvtilities/releases/download/v1.1.2/Wyvtilities-1.1.2.jar",
+        "url": "https://github.com/Qalcyo/Wyvtils/releases/download/v1.1.2/Wyvtilities-1.1.2.jar",
         "display": "Wyvtilities",
         "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
         "icon": "wyvest.png",
         "command": "/wyvtilities",
-        "creator": "Wyvest",
+        "creator": "Qalcyo (Wyvest)",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/Wyvest/Wyvtilities"
+                "link": "https://github.com/Qalcyo/Wyvtils"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtilities.md"
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
             }
         ],
-        "discordcode": "b6twapxC3T"
+        "discordcode": "BJzuuc398G"
     },
     {
         "id": "timechanger",

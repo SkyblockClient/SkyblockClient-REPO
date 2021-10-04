@@ -92,15 +92,16 @@
         ]
     },
     {
-        "id": "wyvest",
+        "id": "qalcyo",
         "code": "qKETDJDsV3",
         "fancyname": "WWWWWWWWWWWWWWWWWWW",
-        "description": "A server to discuss / get support for Wyvest's mod (Wyvtilities) and other things!",
+        "description": "A server to discuss / get support for Qalcyo mods (Wyvtilities) and other things!",
         "icon": "wyvest.png",
         "nicknames": [
             "wyvtils",
             "wyvtilities",
-            "www"
+            "www",
+            "qalcyo"
         ],
         "mods": [
             "wyvtilities"
