@@ -122,7 +122,7 @@
             "1;Bundles"
         ],
         "packages": [
-            "popup_events", 
+            "popup_events",
             "rc"
         ]
     },
