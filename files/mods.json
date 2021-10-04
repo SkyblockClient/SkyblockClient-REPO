@@ -103,9 +103,9 @@
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
             },
             {
-                "icon": "monkey.png",
-                "text": "TNT Timer",
-                "link": "https://sk1er.club/mods/tnttime"
+                "icon": "tgb icon.png",
+                "text": "RewardClaim",
+                "link": "https://discord.gg/jRhkYFmpCa"
             },
             {
                 "icon": "monkey.png",
@@ -122,7 +122,8 @@
             "1;Bundles"
         ],
         "packages": [
-            "popup_events"
+            "popup_events", 
+            "rc"
         ]
     },
     {
