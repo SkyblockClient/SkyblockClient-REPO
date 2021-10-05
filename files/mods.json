@@ -4,6 +4,7 @@
         "nicknames": [
             "itsthelittlethings"
         ],
+        "forge_id": "itlt",
         "enabled": true,
         "file": "itlt-1.8.8-9-1.0.1.jar",
         "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
@@ -48,6 +49,7 @@
         "nicknames": [
             "custommainmenu"
         ],
+        "forge_id": "custommainmenu",
         "enabled": true,
         "file": "CustomMainMenu-MC1.8.9-2.0.jar",
         "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
@@ -85,6 +87,7 @@
         "nicknames": [
             "insomnia"
         ],
+        "forge_id": "insomnia",
         "file": "Insomnia-1.0-REL.jar",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
@@ -132,6 +135,7 @@
             "skyclientupdater",
             "skyblockclientupdater"
         ],
+        "forge_id": "skyblockclientupdater",
         "file": "SkyblockClient-Updater-1.0.9.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater/releases/download/v1.0.9/SkyblockClient-Updater-1.0.9.jar",
         "display": "SkyClient Updater",
@@ -153,6 +157,7 @@
             "skyclientcosmetics",
             "skyblockclientcosmetics"
         ],
+        "forge_id": "skyclientcosmetics",
         "file": "SkyblockClient-Cosmetics-BETA-7.0.6.jar",
         "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/0.7.0.6-beta/SkyClient.Cosmetics-0.7.0.6-beta.jar",
         "display": "SkyClient Cosmetics [BETA]",
@@ -181,6 +186,7 @@
             "ch",
             "crash"
         ],
+        "forge_id": "crashhelper",
         "enabled": true,
         "file": "CrashHelper-1.1.2.jar",
         "url": "https://short.isxander.dev/qKYfzc",
@@ -233,6 +239,7 @@
     },
     {
         "id": "patcher",
+        "forge_id": "patcher",
         "enabled": true,
         "file": "Patcher-1.6.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/patcher/1.6.1/1.8.9/Patcher-1.6.1%20(1.8.9).jar",
@@ -267,6 +274,7 @@
         "nicknames": [
             "skyblockaddons"
         ],
+        "forge_id": "skyblockaddons",
         "enabled": true,
         "file": "SkyblockAddons-1.6.0-for-MC-1.8.9.jar",
         "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.6.0/SkyblockAddons-1.6.0-for-MC-1.8.9.jar",
@@ -312,6 +320,7 @@
             "sbh",
             "skyblockhud"
         ],
+        "forge_id": "skyblockhud",
         "file": "SkyblockHud-1.13-beta7.jar",
         "url": "https://cdn.discordapp.com/attachments/845306740957642782/868401557874573342/SkyBlockHud-1.13-beta-test-7.jar",
         "display": "SkyblockHUD",
@@ -344,6 +353,7 @@
         "nicknames": [
             "evergreen"
         ],
+        "forge_id": "evergreenhud",
         "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
         "url": "https://short.isxander.dev/RqjzS4",
         "display": "EvergreenHUD",
@@ -367,6 +377,7 @@
     },
     {
         "id": "neu",
+        "forge_id": "notenoughupdates",
         "enabled": true,
         "file": "NotEnoughUpdates-2.0-PRE30.2.jar",
         "url": "https://cdn.discordapp.com/attachments/693586404256645231/867842420850294814/NotEnoughUpdates-2.0-PRE30.2.jar",
@@ -414,6 +425,7 @@
             "dankers",
             "dankersskyblockmod"
         ],
+        "forge_id": "Danker's Skyblock Mod",
         "file": "1.8.9.Danker.s.Skyblock.Mod.-.1.8.7-beta4.jar",
         "url": "https://cdn.discordapp.com/attachments/742114256555606106/871202865069322270/Dankers_Skyblock_Mod-1.8.7-beta4.jar",
         "display": "Danker's Skyblock Mod",
@@ -452,6 +464,7 @@
         "nicknames": [
             "st"
         ],
+        "forge_id": "skytils",
         "file": "Skytils-1.0.7.jar",
         "enabled": true,
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.0.7/Skytils-1.0.7.jar",
@@ -488,6 +501,7 @@
     },
     {
         "id": "apec",
+        "forge_id": "apec",
         "file": "Apec-1.10.jar",
         "url": "https://github.com/BananaFructa/Apec/releases/download/1.10/Apec-1.10.jar",
         "display": "Apec",
@@ -535,6 +549,7 @@
             "cow",
             "moo"
         ],
+        "forge_id": "cowlection",
         "file": "Cowlection-1.8.9-0.14.0.jar",
         "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.14.0/Cowlection-1.8.9-0.14.0.jar",
         "display": "Cowlection",
@@ -579,6 +594,7 @@
         "nicknames": [
             "skyblockpersonalized"
         ],
+        "forge_id": "sbp",
         "file": "1.8.9 SkyblockPersonalized 1.5.4.2.jar",
         "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.5.4.2/1.8.9.SkyblockPersonalized.1.5.4.2.jar",
         "display": "SkyblockPersonalized",
@@ -609,6 +625,7 @@
     },
     {
         "id": "keystrokes",
+        "forge_id": "keystrokesmod",
         "file": "-done.jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.1/1.8.9/Keystrokes-8.1.1%20(1.8.9).jar",
         "display": "Keystrokes",
@@ -636,6 +653,7 @@
             "dungeonsguide",
             "sdg"
         ],
+        "forge_id": "skyblock_dungeons_guide",
         "file": "dungeonsguide-3.4.0.jar",
         "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.4.0/dungeonsguide-3.4.0.jar",
         "creator": "Syeyoung",
@@ -670,6 +688,7 @@
             "togglesprint",
             "sts"
         ],
+        "forge_id": "simpletogglesprint",
         "file": "SimpleToggleSprint-2.1.0.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.1.0/SimpleToggleSprint-2.1.0.jar",
         "display": "Toggle Sprint",
@@ -691,6 +710,7 @@
             "wyvtils",
             "wytil"
         ],
+        "forge_id": "wyvtils",
         "file": "Wyvtilities-1.1.2.jar",
         "url": "https://github.com/Qalcyo/Wyvtils/releases/download/v1.1.2/Wyvtilities-1.1.2.jar",
         "display": "Wyvtilities",
@@ -714,6 +734,7 @@
     },
     {
         "id": "timechanger",
+        "forge_id": "timechanger",
         "file": "TimeChanger-2.2.1.jar",
         "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
         "display": "TimeChanger",
@@ -735,6 +756,7 @@
         "nicknames": [
             "chattriggers"
         ],
+        "forge_id": "ct.js",
         "file": "ctjs-1.3.2-1.8.9.jar",
         "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/1.3.2/ctjs-1.3.2-1.8.9.jar",
         "display": "Chat Triggers",
@@ -803,6 +825,7 @@
         "nicknames": [
             "dungeonrooms"
         ],
+        "forge_id": "dungeonrooms",
         "file": "Dungeon_Rooms-3.2.4.jar",
         "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.2.4/Dungeon_Rooms-3.2.4.jar",
         "display": "Dungeon Rooms",
@@ -831,6 +854,7 @@
         "nicknames": [
             "resourcepackmanager"
         ],
+        "forge_id": "resourcepackmanager",
         "file": "Resource_Pack_Manager_1.2.jar",
         "display": "Resource Pack Manager",
         "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
@@ -859,6 +883,7 @@
     },
     {
         "id": "controlling",
+        "forge_id": "controlling",
         "file": "Controlling-7.0.0.2.jar",
         "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
         "display": "GUI Bundle",
@@ -867,6 +892,7 @@
     },
     {
         "id": "smoothscrollingeverywhere",
+        "forge_id": "smooth-scrolling-everywhere",
         "file": "smooth-scrolling-everywhere-1.2.jar",
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
         "display": "GUI Bundle",
@@ -880,6 +906,7 @@
         "nicknames": [
             "text_overflow_scroll"
         ],
+        "forge_id": "text_overflow_scroll",
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "display": "Scrollable Tooltips",
@@ -893,6 +920,7 @@
         "nicknames": [
             "popupevents"
         ],
+        "forge_id": "popup_events",
         "file": "Popup Events-1.3.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
         "display": "QOL Bundle",
@@ -907,6 +935,7 @@
         "nicknames": [
             "subtitles"
         ],
+        "forge_id": "subtitles_mod",
         "file": "Sound Subtitles-1.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.1/1.8.9/Sound%20Subtitles-1.1%20(1.8.9).jar",
         "display": "Sound Subtitles",
@@ -918,6 +947,7 @@
     },
     {
         "id": "optibye",
+        "forge_id": "optibye",
         "file": "Optibye-1.0.0-dep.jar",
         "display": "Optibye",
         "description": "Prevents Optifine from logging completely useless information",
@@ -928,6 +958,7 @@
     },
     {
         "id": "rc",
+        "forge_id": "gravyrewardclaim",
         "file": "RewardClaim-1.0.3.jar",
         "url": "https://github.com/ThatGravyBoat/RewardClaim/releases/download/v1.0.3/RewardClaim-1.0.3.jar",
         "display": "RewardClaim",
