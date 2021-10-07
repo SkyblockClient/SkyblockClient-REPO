@@ -957,7 +957,10 @@
         "hidden": true
     },
     {
-        "id": "rc",
+        "id": "rc",,
+        "nicknames": [
+            "rewardclaim"
+        ],
         "forge_id": "gravyrewardclaim",
         "file": "RewardClaim-1.0.3.jar",
         "url": "https://github.com/ThatGravyBoat/RewardClaim/releases/download/v1.0.3/RewardClaim-1.0.3.jar",
