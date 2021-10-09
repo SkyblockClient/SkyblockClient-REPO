@@ -972,6 +972,17 @@
         "hidden": true
     },
     {
+        "id": "hychat",
+        "forge_id": "hychat",
+        "file": "Hychat-1.12.2-BETA.jar",
+        "display": "Hychat",
+        "description": "Hychat is a beta mod developed by Moulberry to improve chat on hypixel.",
+        "creator": "Moulberry",
+        "command": "No commands",
+        "discordcode": "neu",
+        "hidden": true
+    },
+    {
         "id": "minecraft",
         "file": "no",
         "display": "no",
