@@ -626,7 +626,7 @@
     {
         "id": "keystrokes",
         "forge_id": "keystrokesmod",
-        "file": "Keystrokes-8.1.2%20(1.8.9).jar",
+        "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
         "display": "Keystrokes",
         "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
