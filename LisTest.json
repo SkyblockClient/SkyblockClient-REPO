@@ -2,5 +2,6 @@
 	"hello!": "This is for me, lisena, to test things!",
 	"hello v2": "i am here again",
 	"hello v3": "does this work a third time???",
-	"hi!": "i may have reinstalled my OS and fucked up git, amazing"
+	"hi!": "i may have reinstalled my OS and fucked up git, amazing",
+	"commit again": "ok, does committing a second time not freak out at me about authentication?"
 }
