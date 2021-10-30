@@ -9,6 +9,11 @@
         ]
     },
     {
+        "id": "essential",
+        "code": "essential",
+        "fancyname": "Essential"
+    },
+    {
         "id": "tgb",
         "code": "jRhkYFmpCa",
         "fancyname": "ThatGravyBoat's Boat",
