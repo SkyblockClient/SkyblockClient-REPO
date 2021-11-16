@@ -179,5 +179,13 @@
             ]
         ],
         "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skyblock"
+    },
+    {
+        "triggers": [
+            [
+                "new launcher"
+            ]
+        ],
+        "response": "For the new launcher, you have to set your profile manually. Create a new installation with the version `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` and the game directory `C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient` https://cdn.discordapp.com/attachments/780206481596350486/814935220637794365/unknown.png The icon for the profile if you’d like can be found in <https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/images/SkyblockClient128.png>"
     }
 ]
