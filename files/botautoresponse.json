@@ -189,6 +189,6 @@
                 "launcher"
             ]
         ],
-        "response": "For the new launcher, you have to set your profile manually. \nCreate a new installation with the version 1.8.9-forge1.8.9-11.15.1.2318-1.8.9 and the game directory C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient https://cdn.discordapp.com/attachments/780206481596350486/814935220637794365/unknown.png \n\nThe icon for the profile if you’d like can be found in https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/images/SkyblockClient128.png"
+        "response": "For the new launcher, you have to set your profile manually. \nCreate a new installation with the version 1.8.9-forge1.8.9-11.15.1.2318-1.8.9 and the game directory C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient https://cdn.discordapp.com/attachments/780206481596350486/814935220637794365/unknown.png \n\nThe icon for the profile if you\u2019d like can be found in https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/images/SkyblockClient128.png"
     }
 ]
