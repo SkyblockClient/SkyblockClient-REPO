@@ -18,7 +18,7 @@
                 "notenoughcoins"
             ]
         ],
-        "response": "NotEnoughCoins will not be added to SkyClient.\We will also not provide any support for NotEnoughCoins."
+        "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins."
     },
     {
         "triggers": [
