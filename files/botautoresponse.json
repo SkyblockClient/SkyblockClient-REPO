@@ -15,8 +15,12 @@
             [
                 "not"
             ],
-            [ "enoug"],
-            ["coin"]
+            [
+                "enoug"
+            ],
+            [
+                "coin"
+            ]
         ],
         "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins."
     },
