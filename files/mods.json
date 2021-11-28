@@ -651,16 +651,16 @@
         "id": "dg",
         "nicknames": [
             "dungeonsguide",
-            "sdg"
+            "dg"
         ],
         "forge_id": "skyblock_dungeons_guide",
-        "file": "dungeonsguide-3.6.0.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.6.0/dungeonsguide-3.6.0.jar",
+        "file": "dungeonsguide-3.7.0.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.0/dungeonsguide-3.7.0.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
         "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
         "icon": "dungeonsguide.jpg",
-        "discordcode": "sdg",
+        "discordcode": "dg",
         "command": "/dg",
         "actions": [
             {
