@@ -2,6 +2,5 @@
     "sourceFile": "https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs",
     "ignoreOutdatedVersion": false,
     "version": "1.3.6",
-    "enableUpdateButton": false,
-    "javaArgs": "-Dlog4j2.formatMsgNoLookups=true -Xmx3G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M"
+    "enableUpdateButton": false
 }
