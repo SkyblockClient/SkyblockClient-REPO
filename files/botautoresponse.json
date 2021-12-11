@@ -112,7 +112,8 @@
     {
         "triggers": [
             [
-                "need"
+                "need",
+                "install"
             ],
             [
                 "forge"
