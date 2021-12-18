@@ -624,6 +624,30 @@
         ]
     },
     {
+        "id": "hytilities-reborn",
+        "forge_id": "hytilities-reborn",
+        "file": "Hytilities-Reborn-1.0.0.jar",
+        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.0.0/Hytilities-Reborn-1.0.0.jar",
+        "display": "Hytilities Reborn",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
+        "icon": "wyvest.png",
+        "command": "/hytilities",
+        "creator": "W-OVERFLOW (Wyvest)",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+            }
+        ],
+        "discordcode": "qKETDJDsV3"
+    },
+    {
         "id": "keystrokes",
         "forge_id": "keystrokesmod",
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
@@ -713,7 +737,7 @@
         "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), sidebar customization, action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
         "icon": "wyvest.png",
         "command": "/wyvtils",
-        "creator": "Wyvest",
+        "creator": "W-OVERFLOW (Wyvest)",
         "actions": [
             {
                 "icon": "github.png",
