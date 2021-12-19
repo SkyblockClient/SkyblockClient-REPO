@@ -442,7 +442,7 @@
         "display": "Faithful 32x [Dark Mode]",
         "description": "Faithful 1.14 port - Dark mode version.",
         "icon": "faithful.png",
-        "hidden": false,
+        "hidden": true,
         "creator": "Faithful Team",
         "categories": [
             "4;Vanilla"
