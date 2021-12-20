@@ -22,7 +22,7 @@
     {
         "triggers": [
             [
-                "log4",
+                "log4"
             ]
         ],
         "response": "The Log4j exploit never affected 1.8.9\nPlease read <#843909942658596874> for more info."
