@@ -336,7 +336,7 @@
         "id": "hq32f",
         "file": "v13 32x Skyblock Pack.zip",
         "display": "Packs HQ v13 32x",
-        "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Faithful.",
+        "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Compliance.",
         "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
         "icon": "packshq.png",
         "creator": "ImperiaL",
@@ -437,25 +437,21 @@
         ]
     },
     {
-        "id": "faithfuldark",
-        "file": "Faithful_1.14_in_1.8 [v3] - Dark Mode.zip",
-        "display": "Faithful 32x [Dark Mode]",
-        "description": "Faithful 1.14 port - Dark mode version.",
-        "icon": "faithful.png",
+        "id": "compliancedark",
+        "file": "Compliance 1.14 in 1.8 [v3] - Dark Mode.zip",
+        "display": "Compliance 32x [Dark Mode]",
+        "description": "Compliance 1.14 port - Dark mode version.",
+        "icon": "compliance.png",
         "hidden": true,
-        "creator": "Faithful Team",
+        "creator": "Compliance Team",
         "categories": [
             "4;Vanilla"
         ],
         "actions": [
             {
-                "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
-            },
-            {
-                "icon": "faithful team logo.png",
+                "icon": "compliance team logo.png",
                 "text": "Website",
-                "link": "https://faithful.team/"
+                "link": "https://compliancepack.net/"
             }
         ]
     },
@@ -482,25 +478,21 @@
         ]
     },
     {
-        "id": "faithful",
-        "file": "Faithful_1.14_in_1.8 [v4].zip",
-        "display": "1.14 Faithful 32x",
-        "description": "Faithful 1.14 port.",
-        "icon": "faithful team logo.png",
-        "creator": "Faithful Team",
+        "id": "compliance",
+        "file": "Compliance 1.14 in 1.8 [v4].zip",
+        "display": "1.14 Compliance 32x",
+        "description": "Compliance 1.14 port.",
+        "icon": "compliance team logo.png",
+        "creator": "Compliance Team",
         "categories": [
             "4;Vanilla"
         ],
         "hidden": false,
         "actions": [
             {
-                "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/faithfulbackport.md"
-            },
-            {
-                "icon": "faithful team logo.png",
+                "icon": "compliance team logo.png",
                 "text": "Website",
-                "link": "https://faithful.team/"
+                "link": "https://compliancepack.net/"
             }
         ]
     }

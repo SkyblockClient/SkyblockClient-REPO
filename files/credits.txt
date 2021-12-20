@@ -10,7 +10,7 @@ Danker's Skyblock Mod - By DankerWanker
 Dungeon texture pack - By gratenes & Havenz
 DwarvenAssets - By Motor & nacrt
 EvergreenHUD - By isXander
-Faithful 32x [Dark Mode] - By Faithful Team
+Compliance 32x [Dark Mode] - By Compliance Team
 FurfSky Reborn 16x - By FurfSky Reborn Team
 HUDCaching - By Moulberry
 Insomnia - By Moulberry
@@ -46,4 +46,4 @@ TNT Timer - By Sk1erLLC
 vTay's Skyblock Smoothie 16x - By vTay
 Worlds and Beyond 16x - By Skeletony
 1.14 Default 16x - By Qwuiblington & Motor
-1.14 Faithful 32x - By Faithful Team
+1.14 Compliance 32x - By Compliance Team
