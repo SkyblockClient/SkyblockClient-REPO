@@ -595,8 +595,8 @@
             "skyblockpersonalized"
         ],
         "forge_id": "sbp",
-        "file": "1.8.9 SkyblockPersonalized 1.6.0.0.jar",
-        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.0/1.8.9.SkyblockPersonalized.1.6.0.0.jar",
+        "file": "SkyblockPersonalized 1.6.0.1.jar",
+        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.1/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
         "display": "SkyblockPersonalized",
         "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
         "icon": "sbp.png",
