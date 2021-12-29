@@ -713,8 +713,8 @@
             "sts"
         ],
         "forge_id": "simpletogglesprint",
-        "file": "SimpleToggleSprint-2.1.0.jar",
-        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.1.0/SimpleToggleSprint-2.1.0.jar",
+        "file": "SimpleToggleSprint-2.2.0.jar",
+        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
         "display": "Toggle Sprint",
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
