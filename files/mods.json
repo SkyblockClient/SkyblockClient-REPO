@@ -649,6 +649,11 @@
     },
     {
         "id": "chattils",
+        "nicknames": [
+            "l ratio better chat",
+            "chatting"
+        ],
+        "forge_i
         "forge_id": "chattils",
         "file": "Chattils-1.0.0.jar",
         "url": "https://github.com/W-OVERFLOW/Chattils/releases/download/v1.0.0/Chattils-1.0.0.jar",
