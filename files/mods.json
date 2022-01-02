@@ -632,7 +632,7 @@
         "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
         "icon": "wyvest.png",
         "command": "/hytilities",
-        "creator": "W-OVERFLOW (Wyvest)",
+        "creator": "W-OVERFLOW",
         "actions": [
             {
                 "icon": "github.png",
@@ -643,6 +643,25 @@
                 "icon": "guide.png",
                 "text": "Guide",
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+            }
+        ],
+        "discordcode": "qKETDJDsV3"
+    },
+    {
+        "id": "chattils",
+        "forge_id": "chattils",
+        "file": "Chattils-1.0.0.jar",
+        "url": "https://github.com/W-OVERFLOW/Chattils/releases/download/v1.0.0/Chattils-1.0.0.jar",
+        "display": "Chattils",
+        "description": "Chattils is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
+        "icon": "wyvest.png",
+        "command": "/chattils",
+        "creator": "W-OVERFLOW",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/Chattils"
             }
         ],
         "discordcode": "qKETDJDsV3"
