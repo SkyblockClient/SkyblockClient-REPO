@@ -648,24 +648,25 @@
         "discordcode": "qKETDJDsV3"
     },
     {
-        "id": "chattils",
+        "id": "chatting",
         "nicknames": [
             "l ratio better chat",
-            "chatting"
+            "chattils",
+            "stratus"
         ],
-        "forge_id": "chattils",
-        "file": "Chattils-1.0.0.jar",
-        "url": "https://github.com/W-OVERFLOW/Chattils/releases/download/v1.0.0/Chattils-1.0.0.jar",
-        "display": "L Ratio Better Chat \ud83d\ude42",
-        "description": "Chattils is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
+        "forge_id": "chatting",
+        "file": "Chatting-1.1.0.jar",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.1.0/Chatting-1.1.0.jar",
+        "display": "Chatting",
+        "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
-        "command": "/chattils",
+        "command": "/chatting",
         "creator": "W-OVERFLOW",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Chattils"
+                "link": "https://github.com/W-OVERFLOW/Chatting"
             }
         ],
         "discordcode": "qKETDJDsV3"
