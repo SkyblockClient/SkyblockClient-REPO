@@ -122,6 +122,7 @@
         "categories": [
             "2;Mix Packs"
         ],
+        "hidden": true,
         "actions": [
             {
                 "method": "hover",
