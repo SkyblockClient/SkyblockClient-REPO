@@ -502,8 +502,8 @@
     {
         "id": "apec",
         "forge_id": "apec",
-        "file": "Apec-1.10.jar",
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10/Apec-1.10.jar",
+        "file": "Apec-1.10.1.jar",
+        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.1/Apec-1.10.1.jar",
         "display": "Apec",
         "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG.",
         "icon": "apec.png",
