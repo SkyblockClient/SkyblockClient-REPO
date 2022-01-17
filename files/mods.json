@@ -626,8 +626,8 @@
     {
         "id": "hytilities-reborn",
         "forge_id": "hytilities-reborn",
-        "file": "Hytilities-Reborn-1.2.0.jar",
-        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.2.0/Hytilities-Reborn-1.2.0.jar",
+        "file": "Hytilities-Reborn-1.3.1.jar",
+        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.3.1/Hytilities-Reborn-1.3.1.jar",
         "display": "Hytilities Reborn",
         "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
         "icon": "wyvest.png",
@@ -655,8 +655,8 @@
             "stratus"
         ],
         "forge_id": "chatting",
-        "file": "Chatting-1.1.0.jar",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.1.0/Chatting-1.1.0.jar",
+        "file": "Chatting-1.2.0.jar",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.2.0/Chatting-1.2.0.jar",
         "display": "Chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
