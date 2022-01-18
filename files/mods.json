@@ -465,9 +465,9 @@
             "st"
         ],
         "forge_id": "skytils",
-        "file": "Skytils-1.1.0.jar",
+        "file": "Skytils-1.1.1.jar",
         "enabled": true,
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.1.0/Skytils-1.1.0.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.1.1/Skytils-1.1.1.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
