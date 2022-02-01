@@ -255,7 +255,6 @@
         "discordcode": "sk1er",
         "display": "Patcher",
         "command": "/patcher",
-        "update_to_id": "skytils",
         "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
         "icon": "monkey.png",
         "actions": [
