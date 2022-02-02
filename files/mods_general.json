@@ -40,6 +40,7 @@
             {
                 "icon": "monkey.png",
                 "text": "Hypixel Autocomplete",
+                "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/hypixel_auto_complete"
             }
         ],
@@ -87,16 +88,19 @@
             {
                 "icon": "llamalad.png",
                 "text": "BetterChat",
+                "creator": "LlamaLad7",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
             },
             {
                 "icon": "wyvest.png",
                 "text": "Chatting",
+                "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/Chatting"
             },
             {
                 "icon": "tgb icon.png",
                 "text": "RewardClaim",
+                "creator": "ThatGravyBoat",
                 "link": "https://discord.gg/jRhkYFmpCa"
             }
         ],
@@ -135,21 +139,25 @@
             {
                 "icon": "evergreen.png",
                 "text": "EvergreenHUD",
+                "creator": "isXander",
                 "link": "https://hypixel.net/threads/3787277/"
             },
             {
                 "icon": "wyvest.png",
                 "text": "Wyvtils",
+                "creator": "W-OVERFLOW (Wyvest)",
                 "link": "https://github.com/Wyvest/Wyvtils"
             },
             {
                 "icon": "wyvest.png",
                 "text": "REDACTION",
+                "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/REDACTION"
             },
             {
                 "icon": "monkey.png",
                 "text": "Keystrokes",
+                "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
@@ -189,36 +197,43 @@
             {
                 "icon": "monkey.png",
                 "text": "Popup Events",
+                "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/popup_events"
             },
             {
                 "icon": "moulberrys bush.png",
                 "text": "Anti Dream Skin",
+                "creator": "Moulberry",
                 "link": "https://youtu.be/bZxXrt0T4Lc"
             },
             {
                 "icon": "monkey.png",
                 "text": "AutoGG",
+                "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/autogg"
             },
             {
                 "icon": "monkey.png",
                 "text": "AutoTip",
+                "creator": "Sk1er LLC",
                 "link": "https://autotip.pro/"
             },
             {
                 "icon": "monkey.png",
                 "text": "TNT Time",
+                "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/tnttime"
             },
             {
                 "icon": "monkey.png",
                 "text": "OofMod",
+                "creator": "Powns, Refraction and Sk1er LLC",
                 "link": "https://sk1er.club/mods/refractionoof"
             },
             {
                 "icon": "monkey.png",
                 "text": "Levelhead",
+                "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/level_head"
             }
         ],
@@ -258,16 +273,19 @@
             {
                 "icon": "wyvest.png",
                 "text": "Damage Tint",
+                "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/DamageTint"
             },
             {
                 "icon": "isxander.png",
                 "text": "Particles Enhanced",
+                "creator": "isXander",
                 "link": "https://short.isxander.dev/particlesenhanced"
             },
             {
                 "icon": "wyvest.png",
                 "text": "BehindYouV3",
+                "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/BehindYouV3"
             }
         ],
@@ -278,7 +296,7 @@
             "particlesenhanced",
             "behindyouv3"
         ],
-        "discordcode": "qKETDJDsV3"
+        "discordcode": "woverflow"
     },
     {
         "id": "scu",
@@ -328,37 +346,6 @@
                 "icon": "guide.png",
                 "text": "Featrues",
                 "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
-            }
-        ]
-    },
-    {
-        "id": "crashhelper",
-        "nicknames": [
-            "crashhelp",
-            "ch",
-            "crash"
-        ],
-        "forge_id": "crashhelper",
-        "enabled": true,
-        "file": "CrashHelper-1.1.2.jar",
-        "hash": "83b9d10713582aefe641cbb0cf78b8954dbd2700fbdaf424d0b33c99806eba0a",
-        "url": "https://short.isxander.dev/qKYfzc",
-        "display": "Crash Helper",
-        "description": "Gives useful information about crashes in minecraft",
-        "icon": "isxander.png",
-        "icon_scaling": "pixel",
-        "creator": "isXander",
-        "discordcode": "AJv5ZnNT8q",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "GitHub",
-                "link": "https://short.isxander.dev/crashhelper"
-            },
-            {
-                "icon": "isxander.png",
-                "text": "Website",
-                "link": "https://www.isxander.dev"
             }
         ]
     },
@@ -425,6 +412,37 @@
         ]
     },
     {
+        "id": "crashhelper",
+        "nicknames": [
+            "crashhelp",
+            "ch",
+            "crash"
+        ],
+        "forge_id": "crashhelper",
+        "enabled": true,
+        "file": "CrashHelper-1.1.2.jar",
+        "hash": "83b9d10713582aefe641cbb0cf78b8954dbd2700fbdaf424d0b33c99806eba0a",
+        "url": "https://short.isxander.dev/qKYfzc",
+        "display": "Crash Helper",
+        "description": "Gives useful information about crashes in minecraft",
+        "icon": "isxander.png",
+        "icon_scaling": "pixel",
+        "creator": "isXander",
+        "discordcode": "AJv5ZnNT8q",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://short.isxander.dev/crashhelper"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
+            }
+        ]
+    },
+    {
         "id": "hytilities-reborn",
         "forge_id": "hytilities-reborn",
         "file": "Hytilities-Reborn-1.3.1.jar",
@@ -447,7 +465,40 @@
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             }
         ],
-        "discordcode": "qKETDJDsV3"
+        "discordcode": "woverflow"
+    },
+    {
+        "id": "blockoverlay",
+        "forge_id": "blockoverlay",
+        "hash": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9",
+        "file": "Block_Overlay_4.0.3.jar",
+        "display": "Block Overlay",
+        "description": "A custom overlay on blocks.",
+        "creator": "Aycy",
+        "icon": "aycy.jpg",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Showcase",
+                "link": "https://www.youtube.com/watch?v=7B8v384K0fM"
+            }
+        ]
+    },
+    {
+        "id": "nick_hider",
+        "nicknames": [
+            "nickhider"
+        ],
+        "forge_id": "nick_hider",
+        "file": "Nick Hider-6.0 (1.8.9).jar",
+        "hash": "72f61cbcc69896afb0a2ebf044c035b528fd96badc198e75539488a4a58d8c65",
+        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
+        "display": "Nick Hider",
+        "creator": "Sk1er LLC",
+        "command": "/nickhider",
+        "discordcode": "sk1er",
+        "description": "Hides your nick on Hypixel.",
+        "hidden": true
     },
     {
         "id": "timechanger",
@@ -466,6 +517,44 @@
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3574261/"
+            }
+        ]
+    },
+    {
+        "id": "craftify",
+        "forge_id": "craftify",
+        "file": "Craftify-1.0.0.jar",
+        "hash": "816cb57890afd490af5270dc05f384e50e14237e107fe4b31594c9ac60d40ac0",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
+        "display": "Craftify",
+        "description": "Show your Spotify songs ingame!",
+        "icon": "tgb icon.png",
+        "command": "/craftify",
+        "creator": "ThatGravyBoat",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/ThatGravyBoat/Craftify"
+            }
+        ],
+        "discordcode": "wQfFucgHTX"
+    },
+    {
+        "id": "blur",
+        "forge_id": "blur",
+        "file": "Blur-MC1.8.9-1.0.4-2.jar",
+        "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
+        "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
+        "display": "Blur",
+        "description": "Add a blur to all your GUIs!",
+        "icon": "tterag.png",
+        "creator": "tterrag1098",
+        "actions": [
+            {
+                "icon": "skyclient.png",
+                "text": "Showcase",
+                "link": "https://imgur.com/EmSEKFu"
             }
         ]
     },
@@ -501,6 +590,21 @@
                 "Use anyway?"
             ]
         }
+    },
+    {
+        "id": "soundsubtitles",
+        "nicknames": [
+            "subtitles"
+        ],
+        "forge_id": "subtitles_mod",
+        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
+        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
+        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "display": "Sound Subtitles",
+        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+        "creator": "Sk1er LLC",
+        "command": "/subtitles_config",
+        "discordcode": "sk1er"
     },
     {
         "id": "controlling",
@@ -553,22 +657,6 @@
         "discordcode": "sk1er",
         "command": "/popupevents",
         "description": "Accept or deny friend, party, and guild invite requests.",
-        "hidden": true
-    },
-    {
-        "id": "soundsubtitles",
-        "nicknames": [
-            "subtitles"
-        ],
-        "forge_id": "subtitles_mod",
-        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
-        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
-        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
-        "display": "Sound Subtitles",
-        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
-        "creator": "Sk1er LLC",
-        "command": "/subtitles_config",
-        "discordcode": "sk1er",
         "hidden": true
     },
     {
@@ -689,7 +777,7 @@
                 "link": "https://github.com/W-OVERFLOW/Chatting"
             }
         ],
-        "discordcode": "qKETDJDsV3",
+        "discordcode": "woverflow",
         "hidden": true
     },
     {
@@ -731,7 +819,7 @@
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
             }
         ],
-        "discordcode": "qKETDJDsV3",
+        "discordcode": "woverflow",
         "hidden": true
     },
     {
@@ -752,7 +840,7 @@
                 "link": "https://github.com/W-OVERFLOW/REDACTION"
             }
         ],
-        "discordcode": "qKETDJDsV3",
+        "discordcode": "woverflow",
         "hidden": true
     },
     {
@@ -773,7 +861,7 @@
                 "link": "https://github.com/W-OVERFLOW/BehindYouV3"
             }
         ],
-        "discordcode": "qKETDJDsV3",
+        "discordcode": "woverflow",
         "hidden": true
     },
     {
