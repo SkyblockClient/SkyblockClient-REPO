@@ -1,0 +1,588 @@
+[
+    {
+        "id": "itlt",
+        "nicknames": [
+            "itsthelittlethings"
+        ],
+        "forge_id": "itlt",
+        "enabled": true,
+        "file": "itlt-1.8.8-9-1.0.1.jar",
+        "hash": "99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04",
+        "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
+        "display": "Utility Bundle",
+        "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, and a lot more!",
+        "icon": "skyclient.png",
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Scrollable Tooltips",
+                "creator": "Sk1er LLC",
+                "link": "https://sk1er.club/mods/text_overflow_scroll"
+            },
+            {
+                "icon": "itlt.png",
+                "text": "It's The Little Things",
+                "creator": "Zlepper and Paint_Ninja",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
+            },
+            {
+                "icon": " optifine.png",
+                "text": "OptiBye",
+                "creator": "ThatGravyBoat",
+                "link": "https:/discord.gg/jRhkYFmpCa"
+            }
+        ],
+        "categories": [
+            "1;Bundles"
+        ],
+        "packages": [
+            "scrollabletooltips",
+            "optibye"
+        ],
+        "config": true,
+        "files": [
+            "config/itlt.cfg",
+            "config/itlt/icon.png"
+        ]
+    },
+    {
+        "id": "cmm",
+        "nicknames": [
+            "custommainmenu"
+        ],
+        "forge_id": "custommainmenu",
+        "enabled": true,
+        "file": "CustomMainMenu-MC1.8.9-2.0.jar",
+        "hash": "f78f8a1e47a1d9a2a9e2d622e8c9383e9b907c6d023ab114b8d04f6207f22920",
+        "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
+        "display": "GUI Bundle",
+        "description": "Useful GUI related features, e.g a Skyblock custom main menu, custom GUI for the resourcepack manager, and more!",
+        "icon": "skyclient.png",
+        "actions": [
+            {
+                "icon": "cmm.png",
+                "text": "Custom Main Menu",
+                "creator": "Lumien231",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
+            },
+            {
+                "icon": "smooth scrolling everywhere.png",
+                "text": "Smooth Scrolling Everywhere",
+                "creator": "Shedaniel",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
+            }
+        ],
+        "categories": [
+            "1;Bundles"
+        ],
+        "packages": [
+            "smoothscrollingeverywhere"
+        ],
+        "config": true,
+        "files": [
+            "config/CustomMainMenu/mainmenu.json",
+            "config/CustomMainMenu/play.json"
+        ]
+    },
+    {
+        "id": "antidreamskin",
+        "nicknames": [
+            "insomnia"
+        ],
+        "forge_id": "insomnia",
+        "file": "Insomnia-1.0-REL.jar",
+        "hash": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
+        "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+        "creator": "Moulberry",
+        "display": "QOL Bundle",
+        "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, removing Dream skins.",
+        "icon": "skyclient.png",
+        "command": "/insomnia on/off",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
+            },
+            {
+                "icon": "tgb icon.png",
+                "text": "RewardClaim",
+                "link": "https://discord.gg/jRhkYFmpCa"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Popup Events",
+                "link": "https://sk1er.club/mods/popup_events"
+            },
+            {
+                "icon": "moulberrys bush.png",
+                "text": "Anti Dream Skin",
+                "link": "https://youtu.be/bZxXrt0T4Lc"
+            }
+        ],
+        "categories": [
+            "1;Bundles"
+        ],
+        "packages": [
+            "popup_events",
+            "rc"
+        ]
+    },
+    {
+        "id": "scu",
+        "nicknames": [
+            "skyclientupdater",
+            "skyblockclientupdater"
+        ],
+        "forge_id": "skyblockclientupdater",
+        "file": "SkyblockClient-Updater-1.1.1.jar",
+        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.1/SkyblockClient-Updater-1.1.1.jar",
+        "display": "SkyClient Updater",
+        "description": "Adds in-game updater for the mods in SkyClient.",
+        "enabled": true,
+        "icon": "skyclient.png",
+        "creator": "Lily",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
+            }
+        ]
+    },
+    {
+        "id": "scc",
+        "nicknames": [
+            "skyclientcosmetics",
+            "skyblockclientcosmetics"
+        ],
+        "forge_id": "skyclientcosmetics",
+        "file": "SkyblockClient-Cosmetics-BETA-7.0.6.jar",
+        "hash": "0efc1148bb72db248a931c2c9b42e8a2d3e2b4b251d78a183cf6197ee9c91cd2",
+        "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/0.7.0.6-beta/SkyClient.Cosmetics-0.7.0.6-beta.jar",
+        "display": "SkyClient Cosmetics [BETA]",
+        "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
+        "enabled": true,
+        "icon": "skyclient.png",
+        "creator": "koxx12",
+        "command": "/scc",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Featrues",
+                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
+            }
+        ]
+    },
+    {
+        "id": "crashhelper",
+        "nicknames": [
+            "crashhelp",
+            "ch",
+            "crash"
+        ],
+        "forge_id": "crashhelper",
+        "enabled": true,
+        "file": "CrashHelper-1.1.2.jar",
+        "hash": "83b9d10713582aefe641cbb0cf78b8954dbd2700fbdaf424d0b33c99806eba0a",
+        "url": "https://short.isxander.dev/qKYfzc",
+        "display": "Crash Helper",
+        "description": "Gives useful information about crashes in minecraft",
+        "icon": "isxander.png",
+        "icon_scaling": "pixel",
+        "creator": "isXander",
+        "discordcode": "AJv5ZnNT8q",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://short.isxander.dev/crashhelper"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
+            }
+        ]
+    },
+    {
+        "id": "optifine",
+        "nicknames": [
+            "of"
+        ],
+        "enabled": true,
+        "file": "OptiFine_1.8.9_HD_U_M5.jar",
+        "hash": "2739760a70fca6ae5c7dc817bcc6283f18f55e38fa23778da7f387a6b724b2c4",
+        "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
+        "display": "OptiFine M5",
+        "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
+        "icon": "optifine.png",
+        "icon_scaling": "pixel",
+        "creator": "sp614x",
+        "discordcode": "xGVXsgbbSt",
+        "actions": [
+            {
+                "icon": "optifine.png",
+                "text": "Website",
+                "link": "https://optifine.net/home"
+            }
+        ],
+        "categories": [
+            "2;Optimization"
+        ],
+        "files": [
+            "optionsof.txt"
+        ]
+    },
+    {
+        "id": "patcher",
+        "forge_id": "patcher",
+        "enabled": true,
+        "file": "Patcher-1.8.0 (1.8.9).jar",
+        "hash": "c89142adccbe833081a61ac0b09ab936859de826150d25a0719fc1603b8ce83b",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.0/1.8.9/Patcher-1.8.0%20(1.8.9).jar",
+        "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
+        "display": "Patcher",
+        "command": "/patcher",
+        "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
+        "icon": "monkey.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/patcher"
+            }
+        ],
+        "categories": [
+            "2;Optimization"
+        ]
+    },
+    {
+        "id": "evergreenhud",
+        "nicknames": [
+            "evergreen"
+        ],
+        "forge_id": "evergreenhud",
+        "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
+        "hash": "b65548499adcd2e69f0855dfdc7636c81d9daa1fb3d05c367904a28d6d5fed01",
+        "url": "https://short.isxander.dev/RqjzS4",
+        "display": "EvergreenHUD",
+        "description": "Displays every piece of information a Minecraft player could ever need.",
+        "creator": "isXander",
+        "command": "/evergreenhud",
+        "discordcode": "AJv5ZnNT8q",
+        "icon": "evergreen.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://short.isxander.dev/evergreenhud"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Hypixel",
+                "link": "https://hypixel.net/threads/3787277/"
+            }
+        ]
+    },
+    {
+        "id": "hytilities-reborn",
+        "forge_id": "hytilities-reborn",
+        "file": "Hytilities-Reborn-1.3.1.jar",
+        "hash": "f927e4832f5fbe3255fa357b9da0cb0a1151995d78b28339b99567d9228e7b8a",
+        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.3.1/Hytilities-Reborn-1.3.1.jar",
+        "display": "Hytilities Reborn",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
+        "icon": "wyvest.png",
+        "command": "/hytilities",
+        "creator": "W-OVERFLOW",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+            }
+        ],
+        "discordcode": "qKETDJDsV3"
+    },
+    {
+        "id": "chatting",
+        "nicknames": [
+            "l ratio better chat",
+            "chattils",
+            "stratus"
+        ],
+        "forge_id": "chatting",
+        "file": "Chatting-1.2.0.jar",
+        "hash": "b35be8eb945c50734ab483f53eb23e2795cbafead50e9f2fcdcc7f9847dcb883",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.2.0/Chatting-1.2.0.jar",
+        "display": "Chatting",
+        "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
+        "icon": "wyvest.png",
+        "command": "/chatting",
+        "creator": "W-OVERFLOW",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/Chatting"
+            }
+        ],
+        "discordcode": "qKETDJDsV3"
+    },
+    {
+        "id": "keystrokes",
+        "forge_id": "keystrokesmod",
+        "file": "Keystrokes-8.1.2 (1.8.9).jar",
+        "hash": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2",
+        "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
+        "display": "Keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
+        "icon": "monkey.png",
+        "creator": "Sk1er LLC",
+        "command": "/keystrokes",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Youtube",
+                "link": "https://youtu.be/u--cnSTFqDE"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/keystrokesmod"
+            }
+        ]
+    },
+    {
+        "id": "simpletogglesprint",
+        "nicknames": [
+            "togglesprint",
+            "sts"
+        ],
+        "forge_id": "simpletogglesprint",
+        "file": "SimpleToggleSprint-2.2.0.jar",
+        "hash": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
+        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
+        "display": "Toggle Sprint",
+        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
+        "icon": "skyclient.png",
+        "command": "/togglesprint",
+        "creator": "Lily",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+            }
+        ]
+    },
+    {
+        "id": "wyvtils",
+        "forge_id": "wyvtils",
+        "file": "Wyvtils-1.8.9-2.0.0.jar",
+        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
+        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "display": "Wyvtils",
+        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), sidebar customization, action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
+        "icon": "wyvest.png",
+        "command": "/wyvtils",
+        "creator": "W-OVERFLOW (Wyvest)",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Wyvest/Wyvtils"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
+            }
+        ],
+        "discordcode": "qKETDJDsV3"
+    },
+    {
+        "id": "timechanger",
+        "forge_id": "timechanger",
+        "file": "TimeChanger-2.2.1.jar",
+        "hash": "6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b",
+        "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
+        "display": "TimeChanger",
+        "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
+        "icon": "clock.png",
+        "icon_scaling": "pixel",
+        "creator": "Shatterpoint",
+        "command": "/timechange",
+        "actions": [
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3574261/"
+            }
+        ]
+    },
+    {
+        "id": "rpm",
+        "nicknames": [
+            "resourcepackmanager"
+        ],
+        "forge_id": "resourcepackmanager",
+        "hash": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2",
+        "file": "Resource_Pack_Manager_1.2.jar",
+        "display": "Resource Pack Manager",
+        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
+        "creator": "Aycy",
+        "icon": "aycy.jpg",
+        "actions": [
+            {
+                "icon": "direct_download.png",
+                "text": "Download",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
+            }
+        ],
+        "warning": {
+            "lines": [
+                "This Mod might break the texturepack selector.",
+                "",
+                "Sometimes texturepacks don't get enabled",
+                "Othertimes they get unselected when you restart Minecraft",
+                "",
+                "Most of the time it works fine though.",
+                "Keyword there is MOST",
+                "",
+                "Use anyway?"
+            ]
+        }
+    },
+    {
+        "id": "controlling",
+        "forge_id": "controlling",
+        "file": "Controlling-7.0.0.2.jar",
+        "hash": "e88312bde2cd50a53f0d8eaa04afe82026cf45709ab4a35905473e695285a70c",
+        "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
+        "display": "GUI Bundle",
+        "description": "Adds more options in controls menu to make it easier to navigate.",
+        "hidden": true
+    },
+    {
+        "id": "smoothscrollingeverywhere",
+        "forge_id": "smooth-scrolling-everywhere",
+        "file": "smooth-scrolling-everywhere-1.2.jar",
+        "hash": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
+        "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
+        "display": "GUI Bundle",
+        "description": "Makes the scrolling in menus smoother",
+        "creator": "Shedaniel",
+        "hidden": true,
+        "icon": "smooth scrolling everywhere.png"
+    },
+    {
+        "id": "scrollabletooltips",
+        "nicknames": [
+            "text_overflow_scroll"
+        ],
+        "forge_id": "text_overflow_scroll",
+        "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
+        "hash": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
+        "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
+        "display": "Scrollable Tooltips",
+        "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
+        "description": "Lets you scroll on item tooltips when their height surpasses the height of your screen.",
+        "hidden": true
+    },
+    {
+        "id": "popup_events",
+        "nicknames": [
+            "popupevents"
+        ],
+        "forge_id": "popup_events",
+        "file": "Popup Events-1.3.2 (1.8.9).jar",
+        "hash": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6",
+        "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
+        "display": "QOL Bundle",
+        "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
+        "command": "/popupevents",
+        "description": "Accept or deny friend, party, and guild invite requests.",
+        "hidden": true
+    },
+    {
+        "id": "soundsubtitles",
+        "nicknames": [
+            "subtitles"
+        ],
+        "forge_id": "subtitles_mod",
+        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
+        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
+        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "display": "Sound Subtitles",
+        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+        "creator": "Sk1er LLC",
+        "command": "/subtitles_config",
+        "discordcode": "sk1er"
+    },
+    {
+        "id": "optibye",
+        "forge_id": "optibye",
+        "file": "Optibye-1.0.0-dep.jar",
+        "hash": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7",
+        "display": "Optibye",
+        "description": "Prevents Optifine from logging completely useless information",
+        "creator": "ThatGravyBoat",
+        "command": "No Commands",
+        "discordcode": "neu",
+        "hidden": true
+    },
+    {
+        "id": "rc",
+        "nicknames": [
+            "rewardclaim"
+        ],
+        "forge_id": "gravyrewardclaim",
+        "file": "RewardClaim-1.0.4.jar",
+        "hash": "8e9d668b1cca3d86bab89ec1dbcb6aca36a51280e3ec2a1830b48e12e4491380",
+        "url": "https://github.com/ThatGravyBoat/RewardClaim/releases/download/v1.0.4/RewardClaim-1.0.4.jar",
+        "display": "RewardClaim",
+        "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
+        "creator": "ThatGravyBoat",
+        "command": "/rewardclaim",
+        "discordcode": "wQfFucgHTX",
+        "hidden": true
+    },
+    {
+        "id": "minecraft",
+        "file": "no",
+        "display": "no",
+        "description": "this is purely internal - test",
+        "creator": "Mojang",
+        "hidden": true,
+        "ignored": true
+    }
+]
