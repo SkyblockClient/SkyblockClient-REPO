@@ -139,9 +139,8 @@
             "skyblockclientupdater"
         ],
         "forge_id": "skyblockclientupdater",
-        "file": "SkyblockClient-Updater-1.1.0.jar",
-        "hash": "eac7c166f3483a773f77f929deee9471d8045ede1e7a36e3fc4ca32236fc335d",
-        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/1.1.0/SkyblockClient-Updater-1.1.0.jar",
+        "file": "SkyblockClient-Updater-1.1.1.jar",
+        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.1/SkyblockClient-Updater-1.1.1.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
