@@ -10,7 +10,7 @@
         "hash": "99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04",
         "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
         "display": "Utility Bundle",
-        "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, and a lot more!",
+        "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, togglesprint, and a lot more!",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -30,6 +30,17 @@
                 "text": "OptiBye",
                 "creator": "ThatGravyBoat",
                 "link": "https:/discord.gg/jRhkYFmpCa"
+            },
+            {
+                "icon": "skyclient.png",
+                "text": "SimpleToggleSprint",
+                "creator": "Lily",
+                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Hypixel Autocomplete",
+                "link": "https://sk1er.club/mods/hypixel_auto_complete"
             }
         ],
         "categories": [
@@ -37,7 +48,9 @@
         ],
         "packages": [
             "scrollabletooltips",
-            "optibye"
+            "optibye",
+            "simpletogglesprint",
+            "hypixel_auto_complete"
         ],
         "config": true,
         "files": [
@@ -56,7 +69,7 @@
         "hash": "f78f8a1e47a1d9a2a9e2d622e8c9383e9b907c6d023ab114b8d04f6207f22920",
         "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
         "display": "GUI Bundle",
-        "description": "Useful GUI related features, e.g a Skyblock custom main menu, custom GUI for the resourcepack manager, and more!",
+        "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -70,18 +83,83 @@
                 "text": "Smooth Scrolling Everywhere",
                 "creator": "Shedaniel",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
+            },
+            {
+                "icon": "llamalad.png",
+                "text": "BetterChat",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "Chatting",
+                "link": "https://github.com/W-OVERFLOW/Chatting"
+            },
+            {
+                "icon": "tgb icon.png",
+                "text": "RewardClaim",
+                "link": "https://discord.gg/jRhkYFmpCa"
             }
         ],
         "categories": [
             "1;Bundles"
         ],
         "packages": [
-            "smoothscrollingeverywhere"
+            "smoothscrollingeverywhere",
+            "betterchat",
+            "chatting",
+            "rc",
+            "reportplus"
         ],
         "config": true,
         "files": [
             "config/CustomMainMenu/mainmenu.json",
             "config/CustomMainMenu/play.json"
+        ]
+    },
+    {
+        "id": "evergreenhud",
+        "nicknames": [
+            "evergreen"
+        ],
+        "forge_id": "evergreenhud",
+        "enabled": true,
+        "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
+        "hash": "b65548499adcd2e69f0855dfdc7636c81d9daa1fb3d05c367904a28d6d5fed01",
+        "url": "https://short.isxander.dev/RqjzS4",
+        "display": "HUD Bundle",
+        "description": "Displays every piece of information a Minecraft player could ever need.",
+        "command": "/evergreenhud",
+        "discordcode": "AJv5ZnNT8q",
+        "icon": "skyclient.png",
+        "actions": [
+            {
+                "icon": "evergreen.png",
+                "text": "EvergreenHUD",
+                "link": "https://hypixel.net/threads/3787277/"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "Wyvtils",
+                "link": "https://github.com/Wyvest/Wyvtils"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "REDACTION",
+                "link": "https://github.com/W-OVERFLOW/REDACTION"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Keystrokes",
+                "link": "https://sk1er.club/mods/keystrokesmod"
+            }
+        ],
+        "categories": [
+            "1;Bundles"
+        ],
+        "packages": [
+            "wyvtils",
+            "redaction",
+            "keystrokes"
         ]
     },
     {
@@ -95,7 +173,7 @@
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
         "display": "QOL Bundle",
-        "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, removing Dream skins.",
+        "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
         "command": "/insomnia on/off",
         "actions": [
@@ -109,11 +187,6 @@
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
             },
             {
-                "icon": "tgb icon.png",
-                "text": "RewardClaim",
-                "link": "https://discord.gg/jRhkYFmpCa"
-            },
-            {
                 "icon": "monkey.png",
                 "text": "Popup Events",
                 "link": "https://sk1er.club/mods/popup_events"
@@ -122,6 +195,31 @@
                 "icon": "moulberrys bush.png",
                 "text": "Anti Dream Skin",
                 "link": "https://youtu.be/bZxXrt0T4Lc"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "AutoGG",
+                "link": "https://sk1er.club/mods/autogg"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "AutoTip",
+                "link": "https://autotip.pro/"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "TNT Time",
+                "link": "https://sk1er.club/mods/tnttime"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "OofMod",
+                "link": "https://sk1er.club/mods/refractionoof"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Levelhead",
+                "link": "https://sk1er.club/mods/level_head"
             }
         ],
         "categories": [
@@ -129,7 +227,11 @@
         ],
         "packages": [
             "popup_events",
-            "rc"
+            "autogg",
+            "autotip",
+            "tnttime",
+            "oofmod",
+            "levelhead"
         ]
     },
     {
@@ -277,34 +379,6 @@
         ]
     },
     {
-        "id": "evergreenhud",
-        "nicknames": [
-            "evergreen"
-        ],
-        "forge_id": "evergreenhud",
-        "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
-        "hash": "b65548499adcd2e69f0855dfdc7636c81d9daa1fb3d05c367904a28d6d5fed01",
-        "url": "https://short.isxander.dev/RqjzS4",
-        "display": "EvergreenHUD",
-        "description": "Displays every piece of information a Minecraft player could ever need.",
-        "creator": "isXander",
-        "command": "/evergreenhud",
-        "discordcode": "AJv5ZnNT8q",
-        "icon": "evergreen.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://short.isxander.dev/evergreenhud"
-            },
-            {
-                "icon": "forum.png",
-                "text": "Hypixel",
-                "link": "https://hypixel.net/threads/3787277/"
-            }
-        ]
-    },
-    {
         "id": "hytilities-reborn",
         "forge_id": "hytilities-reborn",
         "file": "Hytilities-Reborn-1.3.1.jar",
@@ -325,104 +399,6 @@
                 "icon": "guide.png",
                 "text": "Guide",
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
-            }
-        ],
-        "discordcode": "qKETDJDsV3"
-    },
-    {
-        "id": "chatting",
-        "nicknames": [
-            "l ratio better chat",
-            "chattils",
-            "stratus"
-        ],
-        "forge_id": "chatting",
-        "file": "Chatting-1.2.0.jar",
-        "hash": "b35be8eb945c50734ab483f53eb23e2795cbafead50e9f2fcdcc7f9847dcb883",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.2.0/Chatting-1.2.0.jar",
-        "display": "Chatting",
-        "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
-        "icon": "wyvest.png",
-        "command": "/chatting",
-        "creator": "W-OVERFLOW",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Chatting"
-            }
-        ],
-        "discordcode": "qKETDJDsV3"
-    },
-    {
-        "id": "keystrokes",
-        "forge_id": "keystrokesmod",
-        "file": "Keystrokes-8.1.2 (1.8.9).jar",
-        "hash": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2",
-        "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
-        "display": "Keystrokes",
-        "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
-        "icon": "monkey.png",
-        "creator": "Sk1er LLC",
-        "command": "/keystrokes",
-        "discordcode": "sk1er",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "Youtube",
-                "link": "https://youtu.be/u--cnSTFqDE"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://sk1er.club/mods/keystrokesmod"
-            }
-        ]
-    },
-    {
-        "id": "simpletogglesprint",
-        "nicknames": [
-            "togglesprint",
-            "sts"
-        ],
-        "forge_id": "simpletogglesprint",
-        "file": "SimpleToggleSprint-2.2.0.jar",
-        "hash": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
-        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
-        "display": "Toggle Sprint",
-        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
-        "icon": "skyclient.png",
-        "command": "/togglesprint",
-        "creator": "Lily",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
-            }
-        ]
-    },
-    {
-        "id": "wyvtils",
-        "forge_id": "wyvtils",
-        "file": "Wyvtils-1.8.9-2.0.0.jar",
-        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
-        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
-        "display": "Wyvtils",
-        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), sidebar customization, action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
-        "icon": "wyvest.png",
-        "command": "/wyvtils",
-        "creator": "W-OVERFLOW (Wyvest)",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/Wyvest/Wyvtils"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
             }
         ],
         "discordcode": "qKETDJDsV3"
@@ -546,7 +522,8 @@
         "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
         "creator": "Sk1er LLC",
         "command": "/subtitles_config",
-        "discordcode": "sk1er"
+        "discordcode": "sk1er",
+        "hidden": true
     },
     {
         "id": "optibye",
@@ -574,6 +551,301 @@
         "creator": "ThatGravyBoat",
         "command": "/rewardclaim",
         "discordcode": "wQfFucgHTX",
+        "hidden": true
+    },
+    {
+        "id": "simpletogglesprint",
+        "nicknames": [
+            "togglesprint",
+            "sts"
+        ],
+        "forge_id": "simpletogglesprint",
+        "file": "SimpleToggleSprint-2.2.0.jar",
+        "hash": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
+        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
+        "display": "Toggle Sprint",
+        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
+        "icon": "skyclient.png",
+        "command": "/togglesprint",
+        "creator": "Lily",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "hypixel_auto_complete",
+        "nicknames": [
+            "autocomplete"
+        ],
+        "forge_id": "hypixel_auto_complete",
+        "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "hash": "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d",
+        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar",
+        "display": "Hypixel Autocomplete",
+        "description": "Hypixel Autocomplete Mod allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players.",
+        "icon": "monkey.png",
+        "command": "/hypixelautocomplete",
+        "creator": "Sk1er LLC",
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/hypixel_auto_complete"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "betterchat",
+        "forge_id": "betterchat",
+        "file": "betterchat-1.5.jar",
+        "hash": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065",
+        "display": "Betterchat",
+        "description": "Allows you to move the chat and makes chat messages animated.",
+        "icon": "llamalad.png",
+        "command": "/betterchat",
+        "creator": "LlamaLad7",
+        "actions": [
+            {
+                "icon": "llamalad.png",
+                "text": "Website",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "chatting",
+        "nicknames": [
+            "l ratio better chat",
+            "chattils",
+            "stratus"
+        ],
+        "forge_id": "chatting",
+        "file": "Chatting-1.2.0.jar",
+        "hash": "b35be8eb945c50734ab483f53eb23e2795cbafead50e9f2fcdcc7f9847dcb883",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.2.0/Chatting-1.2.0.jar",
+        "display": "Chatting",
+        "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
+        "icon": "wyvest.png",
+        "command": "/chatting",
+        "creator": "W-OVERFLOW",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/Chatting"
+            }
+        ],
+        "discordcode": "qKETDJDsV3",
+        "hidden": true
+    },
+    {
+        "id": "reportplus",
+        "nicknames": [
+            "report"
+        ],
+        "forge_id": "reportplus",
+        "file": "ReportPlus-1.0.0.jar",
+        "hash": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614",
+        "url": "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar",
+        "display": "ReportPlus",
+        "description": "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. ",
+        "creator": "ThatGravyBoat",
+        "command": "/reportplus",
+        "discordcode": "wQfFucgHTX",
+        "hidden": true
+    },
+    {
+        "id": "wyvtils",
+        "forge_id": "wyvtils",
+        "file": "Wyvtils-1.8.9-2.0.0.jar",
+        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
+        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "display": "Wyvtils",
+        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), sidebar customization, action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
+        "icon": "wyvest.png",
+        "command": "/wyvtils",
+        "creator": "W-OVERFLOW (Wyvest)",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Wyvest/Wyvtils"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
+            }
+        ],
+        "discordcode": "qKETDJDsV3",
+        "hidden": true
+    },
+    {
+        "id": "redaction",
+        "forge_id": "redaction",
+        "file": "REDACTION-1.0.0.jar",
+        "hash": "e97cb7ec22fbc7826897f8d2e5b0d243b2d5148e61a2da37a6253a38c077cd08",
+        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.0.0/REDACTION-1.0.0.jar",
+        "display": "REDACTION",
+        "description": "Adds useful GUI additions to the game.",
+        "icon": "wyvest.png",
+        "command": "/redaction",
+        "creator": "W-OVERFLOW (Wyvest)",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/REDACTION"
+            }
+        ],
+        "discordcode": "qKETDJDsV3",
+        "hidden": true
+    },
+    {
+        "id": "keystrokes",
+        "forge_id": "keystrokesmod",
+        "file": "Keystrokes-8.1.2 (1.8.9).jar",
+        "hash": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2",
+        "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
+        "display": "Keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
+        "icon": "monkey.png",
+        "creator": "Sk1er LLC",
+        "command": "/keystrokes",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Youtube",
+                "link": "https://youtu.be/u--cnSTFqDE"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/keystrokesmod"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "tnttime",
+        "forge_id": "tnttime",
+        "file": "Keystrokes-8.1.2 (1.8.9).jar",
+        "hash": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59",
+        "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
+        "display": "TNT Time",
+        "description": "TNT Time displays TNT's time until detonation.",
+        "icon": "monkey.png",
+        "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Youtube",
+                "link": "https://www.youtube.com/watch?v=dV3UYspr6jc"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/tnttime"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "levelhead",
+        "forge_id": "level_head",
+        "file": "Levelhead-8.0 (1.8.9).jar",
+        "hash": "aaee81a9d0ccf1938c7406c5eb479b1e74d5709a30d0c9df93f0be77dbdafd0c",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.0/1.8.9/Levelhead-8.0%20(1.8.9).jar",
+        "display": "Levelhead",
+        "description": "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.",
+        "icon": "monkey.png",
+        "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Youtube",
+                "link": "https://www.youtube.com/watch?v=LiAaFdyqLho"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/level_head"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "autogg",
+        "forge_id": "autogg",
+        "file": "AutoGG-4.1.3 (1.8.9).jar",
+        "hash": "7ad843d6d95f4654febbf410ec389d48078f874437bb51b5cc94e68221379b32",
+        "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3%20(1.8.9).jar",
+        "display": "AutoGG",
+        "description": "Automatically say a selected phrase after a game has ended on supported servers.",
+        "icon": "monkey.png",
+        "creator": "Sk1er LLC",
+        "command": "/autogg",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/autogg"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "autotip",
+        "forge_id": "autotip",
+        "file": "Autotip-3.0.1 [1.8-1.12.2].jar",
+        "hash": "85f9c0124e6ac143635476f30107582bb44951c2bb0d383a78fbda7988566d47",
+        "url": "https://dl.autotip.pro/3.0.1",
+        "display": "AutoTip",
+        "description": "Autotipper for mc.hypixel.net.",
+        "icon": "monkey.png",
+        "creator": "Semx11, 2Pi, Sk1er LLC",
+        "command": "/autotip",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://autotip.pro/"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "oofmod",
+        "forge_id": "refractionoof",
+        "file": "OofMod-3.0 (1.8.9).jar",
+        "hash": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90",
+        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
+        "display": "OofMod",
+        "description": "Play a custom sound when killing another player using .wav files.",
+        "icon": "monkey.png",
+        "creator": "Powns, Refraction, Sk1er LLC",
+        "command": "/oofmod",
+        "discordcode": "XgDZA3pdyT",
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/refractionoof"
+            }
+        ],
         "hidden": true
     },
     {
