@@ -104,11 +104,6 @@
                 "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md?raw=true"
             },
             {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
-            },
-            {
                 "icon": "tgb icon.png",
                 "text": "RewardClaim",
                 "link": "https://discord.gg/jRhkYFmpCa"
