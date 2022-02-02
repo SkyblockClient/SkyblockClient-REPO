@@ -336,7 +336,7 @@
         "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
         "icon": "sbhlogo.png",
         "creator": "ThatGravyBoat",
-        "discordcode": "moulberry",
+        "discordcode": "jRhkYFmpCa",
         "categories": [
             "3;Skyblock"
         ],
@@ -1056,7 +1056,7 @@
         "description": "Prevents Optifine from logging completely useless information",
         "creator": "ThatGravyBoat",
         "command": "No Commands",
-        "discordcode": "neu",
+        "discordcode": "jRhkYFmpCa",
         "hidden": true
     },
     {
@@ -1072,7 +1072,7 @@
         "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "creator": "ThatGravyBoat",
         "command": "/rewardclaim",
-        "discordcode": "wQfFucgHTX",
+        "discordcode": "jRhkYFmpCa",
         "hidden": true
     },
     {
