@@ -257,6 +257,11 @@
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
             },
             {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+            },
+            {
                 "icon": "monkey.png",
                 "text": "Website",
                 "link": "https://sk1er.club/mods/patcher"
@@ -286,6 +291,11 @@
             {
                 "method": "hover",
                 "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md"
             },
             {
                 "icon": "forum.png",
@@ -392,6 +402,11 @@
                 "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
             },
             {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md"
+            },
+            {
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3135465/"
@@ -432,6 +447,11 @@
                 "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
             },
             {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+            },
+            {
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3577020/"
@@ -468,6 +488,11 @@
                 "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
             },
             {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md"
+            },
+            {
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3856202/"
@@ -498,6 +523,11 @@
             {
                 "method": "hover",
                 "document": "https://github.com/BananaFructa/Apec/blob/master/README.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/BananaFructa/Apec/blob/master/README.md"
             },
             {
                 "icon": "forum.png",
@@ -543,6 +573,11 @@
             {
                 "method": "hover",
                 "document": "https://github.com/cow-mc/Cowlection/blob/master/README.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/cow-mc/Cowlection/blob/master/README.md"
             },
             {
                 "icon": "cowlection-logo.png",
@@ -612,13 +647,14 @@
         "creator": "W-OVERFLOW",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md?raw=true"
-            },
-            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             }
         ],
         "discordcode": "qKETDJDsV3"
@@ -695,6 +731,11 @@
                 "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
             },
             {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+            },
+            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
@@ -740,13 +781,14 @@
         "creator": "W-OVERFLOW (Wyvest)",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md?raw=true"
-            },
-            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Wyvest/Wyvtils"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
             }
         ],
         "discordcode": "qKETDJDsV3"
@@ -764,13 +806,14 @@
         "creator": "Wyvest",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md?raw=true"
-            },
-            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Wyvest/Wyvtils"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
             }
         ],
         "discordcode": "qKETDJDsV3",
