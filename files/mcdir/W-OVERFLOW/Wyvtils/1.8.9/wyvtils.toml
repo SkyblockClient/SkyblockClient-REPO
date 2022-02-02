@@ -1,0 +1,39 @@
+
+[bossbar]
+	bossbar_customization = false
+
+[general]
+	reverse_inventory_scrolling = false
+	item_physics = true
+	first_time = true
+	disable_text_shadow = false
+	hide_locraw_messages = false
+	bossbar_first_time = true
+
+	[general.nametags]
+		nametag_text_shadow = false
+		remove_nametag_background = false
+		render_own_nametag = false
+
+[sidebar]
+	toggle_sidebar = true
+	sidebar_position = false
+	sidebar_scale = 1.0
+	toggle_sidebar_text_shadow = true
+	toggle_background = false
+	toggle_score_points = false
+	sidebar_background_color = "50,0,0,0"
+
+[pack_gui_modifier]
+	reverse_packs = false
+	pack_search_box = true
+	remove_pack_gui_background = true
+	hide_incompatible_packs = false
+
+[action_bar]
+	background_padding_amount = 2
+	background_color = "128,0,0,0"
+	action_bar_shadow = true
+	action_bar_background = false
+	action_bar_customization = true
+	action_bar = true

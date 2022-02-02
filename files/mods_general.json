@@ -551,7 +551,7 @@
         "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
         "display": "Blur",
         "description": "Add a blur to all your GUIs!",
-        "icon": "tterag.png",
+        "icon": "tterrag.png",
         "creator": "tterrag1098",
         "actions": [
             {
@@ -823,7 +823,10 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": true,
+        "files": [
+            "W-OVERFLOW/Wyvtils/1.8.9/wyvtils.toml"
+        ]
     },
     {
         "id": "redaction",
@@ -844,7 +847,10 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": true,
+        "files": [
+            "W-OVERFLOW/REDACTION/redaction.toml"
+        ]
     },
     {
         "id": "behindyouv3",
