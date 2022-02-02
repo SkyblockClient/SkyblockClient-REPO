@@ -235,6 +235,52 @@
         ]
     },
     {
+        "id": "damagetint",
+        "forge_id": "damagetint",
+        "file": "DamageTint-3.2.0.jar",
+        "hash": "fdfd3bd9feb7719aa2a77edd2901566f5cdf42d8770a7a1f4d954f91ed359aa5",
+        "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "display": "PvP Bundle",
+        "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
+        "icon": "skyclient.png",
+        "command": "/damagetint",
+        "creator": "W-OVERFLOW",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "Damage Tint",
+                "link": "https://github.com/W-OVERFLOW/DamageTint"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Particles Enhanced",
+                "link": "https://short.isxander.dev/particlesenhanced"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "BehindYouV3",
+                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+            }
+        ],
+        "categories": [
+            "1;Bundles"
+        ],
+        "packages": [
+            "particlesenhanced",
+            "behindyouv3"
+        ],
+        "discordcode": "qKETDJDsV3"
+    },
+    {
         "id": "scu",
         "nicknames": [
             "skyclientupdater",
@@ -710,6 +756,27 @@
         "hidden": true
     },
     {
+        "id": "behindyouv3",
+        "forge_id": "behindyouv3",
+        "file": "BehindYouV3-3.0.0.jar",
+        "hash": "123ba63306d34dd009d38023859f0eb0e57b0f55b87754bb89be17aa73cdd43f",
+        "url": "https://github.com/W-OVERFLOW/BehindYouV3/releases/download/v3.0.0/BehindYouV3-3.0.0.jar",
+        "display": "BehindYouV3",
+        "description": "Allows you to look behind you with ease.",
+        "icon": "wyvest.png",
+        "command": "/behindyou",
+        "creator": "W-OVERFLOW",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+            }
+        ],
+        "discordcode": "qKETDJDsV3",
+        "hidden": true
+    },
+    {
         "id": "keystrokes",
         "forge_id": "keystrokesmod",
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
@@ -847,6 +914,39 @@
             }
         ],
         "hidden": true
+    },
+    {
+        "id": "particlesenhanced",
+        "nicknames": [
+            "particlemod",
+            "particles"
+        ],
+        "file": "ParticlesEnhanced-1.2.0.jar",
+        "hash": "fe938b2dc2139941cdf39993c536e7e0c3d81a13477864d1f8624b753d8ffab3",
+        "url": "https://cdn.modrinth.com/data/DRIoOeFq/versions/1.2.0/ParticlesEnhanced-1.2.0.jar",
+        "display": "Particles Enhanced",
+        "description": "2021's take at particles in minecraft. Including never-seen-before features such as particle fade.",
+        "creator": "isXander",
+        "command": "particlesenhanced",
+        "discordcode": "AJv5ZnNT8q",
+        "icon": "isxander.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://short.isxander.dev/particlesenhanced"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Hypixel",
+                "link": "https://hypixel.net/threads/4416018/"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
+            }
+        ]
     },
     {
         "id": "minecraft",
