@@ -336,7 +336,7 @@
         "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
         "icon": "sbhlogo.png",
         "creator": "ThatGravyBoat",
-        "discordcode": "moulberry",
+        "discordcode": "jRhkYFmpCa",
         "categories": [
             "3;Skyblock"
         ],
@@ -625,6 +625,11 @@
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md"
             },
             {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sbp.md"
+            },
+            {
                 "icon": "discord icon.png",
                 "text": "Discord",
                 "link": "https://discord.gg/KsqMmBdNBE"
@@ -786,6 +791,10 @@
         "creator": "W-OVERFLOW (Wyvest)",
         "actions": [
             {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md?raw=true"
+            },
+            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Wyvest/Wyvtils"
@@ -810,6 +819,10 @@
         "command": "/wyvtilities",
         "creator": "Wyvest",
         "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md?raw=true"
+            },
             {
                 "icon": "github.png",
                 "text": "Github",
@@ -1056,7 +1069,7 @@
         "description": "Prevents Optifine from logging completely useless information",
         "creator": "ThatGravyBoat",
         "command": "No Commands",
-        "discordcode": "neu",
+        "discordcode": "jRhkYFmpCa",
         "hidden": true
     },
     {
@@ -1072,7 +1085,7 @@
         "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "creator": "ThatGravyBoat",
         "command": "/rewardclaim",
-        "discordcode": "wQfFucgHTX",
+        "discordcode": "jRhkYFmpCa",
         "hidden": true
     },
     {
