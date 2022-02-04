@@ -161,7 +161,8 @@
             }
         ],
         "categories": [
-            "4;Recommended PvP"
+            "4;Recommended PvP",
+            "5;All PvP"
         ],
         "packages": [
             "wyvtils",
@@ -290,7 +291,8 @@
             }
         ],
         "categories": [
-            "4;Recommended PvP"
+            "4;Recommended PvP",
+            "5;All PvP"
         ],
         "packages": [
             "particlesenhanced",
