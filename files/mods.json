@@ -161,8 +161,8 @@
             }
         ],
         "categories": [
-            "4;Recommended PvP",
-            "5;All PvP"
+            "4;All PvP",
+            "5;Recommended PvP"
         ],
         "packages": [
             "wyvtils",
@@ -479,8 +479,8 @@
         ],
         "discordcode": "woverflow",
         "categories": [
-            "4;Recommended PvP",
-            "5;All PvP"
+            "4;All PvP",
+            "5;Recommended PvP"
         ]
     },
     {
@@ -500,8 +500,8 @@
             }
         ],
         "categories": [
-            "4;Recommended PvP",
-            "5;All PvP"
+            "4;All PvP",
+            "5;Recommended PvP"
         ]
     },
     {
@@ -527,7 +527,7 @@
         "discordcode": "sk1er",
         "description": "Hides your nick on Hypixel.",
         "categories": [
-            "5;All PvP"
+            "4;All PvP"
         ]
     },
     {
@@ -572,8 +572,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ]
     },
     {
@@ -592,8 +592,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock"
         ],
         "actions": [
             {
@@ -649,8 +648,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ],
         "config": true,
         "files": [
@@ -695,8 +694,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ]
     },
     {
@@ -736,8 +735,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ]
     },
     {
@@ -779,8 +778,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ],
         "files": [
             "config/Apec/Settings.txt"
@@ -830,8 +829,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ]
     },
     {
@@ -866,8 +865,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ]
     },
     {
@@ -903,8 +902,8 @@
             }
         ],
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ]
     },
     {
@@ -923,8 +922,8 @@
         "command": "/room",
         "discordcode": "7B5RbsArYK",
         "categories": [
-            "3;Recommended Skyblock",
-            "4;All Skyblock"
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
         ],
         "actions": [
             {
