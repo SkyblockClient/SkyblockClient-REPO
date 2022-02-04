@@ -291,8 +291,8 @@
             }
         ],
         "categories": [
-            "4;Recommended PvP",
-            "5;All PvP"
+            "4;All PvP",
+            "5;Recommended PvP"
         ],
         "packages": [
             "particlesenhanced",
@@ -1011,7 +1011,7 @@
         "icon": "monkey.png",
         "discordcode": "sk1er",
         "categories": [
-            "5;All PvP"
+            "4;All PvP"
         ],
         "actions": [
             {
