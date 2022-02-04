@@ -461,6 +461,7 @@
         "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
         "icon": "wyvest.png",
         "command": "/hytilities",
+        "enabled": true,
         "creator": "W-OVERFLOW",
         "actions": [
             {
@@ -507,6 +508,7 @@
             "nickhider"
         ],
         "forge_id": "nick_hider",
+        "icon": "monkey.png",
         "file": "Nick Hider-6.0 (1.8.9).jar",
         "hash": "72f61cbcc69896afb0a2ebf044c035b528fd96badc198e75539488a4a58d8c65",
         "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
@@ -524,44 +526,6 @@
         "description": "Hides your nick on Hypixel.",
         "categories": [
             "5;All PvP"
-        ]
-    },
-    {
-        "id": "craftify",
-        "forge_id": "craftify",
-        "file": "Craftify-1.0.0.jar",
-        "hash": "816cb57890afd490af5270dc05f384e50e14237e107fe4b31594c9ac60d40ac0",
-        "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
-        "display": "Craftify",
-        "description": "Show your Spotify songs ingame!",
-        "icon": "tgb icon.png",
-        "command": "/craftify",
-        "creator": "ThatGravyBoat",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/ThatGravyBoat/Craftify"
-            }
-        ],
-        "discordcode": "wQfFucgHTX"
-    },
-    {
-        "id": "blur",
-        "forge_id": "blur",
-        "file": "Blur-MC1.8.9-1.0.4-2.jar",
-        "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
-        "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
-        "display": "Blur",
-        "description": "Add a blur to all your GUIs!",
-        "icon": "tterrag.png",
-        "creator": "tterrag1098",
-        "actions": [
-            {
-                "icon": "skyclient.png",
-                "text": "Showcase",
-                "link": "https://imgur.com/EmSEKFu"
-            }
         ]
     },
     {
@@ -973,31 +937,6 @@
         ]
     },
     {
-        "id": "soundsubtitles",
-        "nicknames": [
-            "subtitles"
-        ],
-        "forge_id": "subtitles_mod",
-        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
-        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
-        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
-        "display": "Sound Subtitles",
-        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
-        "creator": "Sk1er LLC",
-        "command": "/subtitles_config",
-        "discordcode": "sk1er",
-        "categories": [
-            "5;All PvP"
-        ],
-        "actions": [
-            {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://sk1er.club/mods/subtitles_mod"
-            }
-        ]
-    },
-    {
         "id": "timechanger",
         "forge_id": "timechanger",
         "file": "TimeChanger-2.2.1.jar",
@@ -1014,6 +953,70 @@
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3574261/"
+            }
+        ]
+    },
+    {
+        "id": "craftify",
+        "forge_id": "craftify",
+        "file": "Craftify-1.0.0.jar",
+        "hash": "816cb57890afd490af5270dc05f384e50e14237e107fe4b31594c9ac60d40ac0",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
+        "display": "Craftify",
+        "description": "Show your Spotify songs ingame!",
+        "icon": "tgb icon.png",
+        "command": "/craftify",
+        "creator": "ThatGravyBoat",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/ThatGravyBoat/Craftify"
+            }
+        ],
+        "discordcode": "wQfFucgHTX"
+    },
+    {
+        "id": "blur",
+        "forge_id": "blur",
+        "file": "Blur-MC1.8.9-1.0.4-2.jar",
+        "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
+        "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
+        "display": "Blur",
+        "description": "Add a blur to all your GUIs!",
+        "icon": "tterrag.png",
+        "creator": "tterrag1098",
+        "actions": [
+            {
+                "icon": "skyclient.png",
+                "text": "Showcase",
+                "link": "https://imgur.com/EmSEKFu"
+            }
+        ]
+    },
+    {
+        "id": "soundsubtitles",
+        "nicknames": [
+            "subtitles"
+        ],
+        "forge_id": "subtitles_mod",
+        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
+        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
+        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "display": "Sound Subtitles",
+        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+        "creator": "Sk1er LLC",
+        "command": "/subtitles_config",
+        "icon": "monkey.png",
+        "discordcode": "sk1er",
+        "categories": [
+            "5;All PvP"
+        ],
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/subtitles_mod"
             }
         ]
     },
