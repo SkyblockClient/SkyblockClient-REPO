@@ -7,8 +7,8 @@
         "icon": "mob packet.png",
         "creator": "Viska & Mira_23",
         "categories": [
-            "1;Recommended Skyblock",
-            "2;All Skyblock"
+            "1;All Skyblock",
+            "2;Recommended Skyblock"
         ],
         "actions": [
             {
@@ -31,7 +31,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ]
     },
     {
@@ -54,7 +54,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ]
     },
     {
@@ -68,7 +68,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ]
     },
     {
@@ -81,7 +81,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ]
     },
     {
@@ -93,7 +93,7 @@
         "icon_scaling": "pixel",
         "creators": "TBlazeWarrior & Moulberry",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -113,8 +113,8 @@
         "creator": "Motor & nacrt",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;Recommended Skyblock",
-            "2;All Skyblock"
+            "1;All Skyblock",
+            "2;Recommended Skyblock"
         ],
         "actions": [
             {
@@ -135,7 +135,7 @@
         "icon": "vtays.png",
         "creator": "vTay",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "hidden": true,
         "actions": [
@@ -160,7 +160,7 @@
         "creator": "Rainbowcraft2",
         "discordcode": "dcdsnvG4Q4",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -181,7 +181,7 @@
         "icon": "nameless.png",
         "creator": "Smolegit",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -214,7 +214,7 @@
             }
         ],
         "categories": [
-            "4;All General"
+            "3;All PvP"
         ]
     },
     {
@@ -226,7 +226,7 @@
         "icon_scaling": "pixel",
         "creator": "Sluzeeey",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -244,7 +244,7 @@
         "icon": "kmp.png",
         "creator": "Kiocifer",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -262,7 +262,7 @@
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -285,7 +285,7 @@
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -305,8 +305,8 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "1;Recommended Skyblock",
-            "2;All Skyblock"
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -330,7 +330,7 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -359,7 +359,7 @@
         "creator": "ImperiaL",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -389,7 +389,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "2;All Skyblock"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -416,8 +416,8 @@
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
         "categories": [
-            "1;Recommended Skyblock",
-            "2;All Skyblock"
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -441,8 +441,8 @@
         "display": "Smol icons",
         "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
         "categories": [
-            "1;Recommended Skyblock",
-            "2;All Skyblock"
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
         ],
         "icon": "smol_icons.png",
         "icon_scaling": "pixel",
@@ -463,7 +463,7 @@
         "hidden": false,
         "creator": "Compliance Team",
         "categories": [
-            "4;All General"
+            "3;All PvP"
         ],
         "actions": [
             {
@@ -481,8 +481,8 @@
         "icon": "default.png",
         "creator": "Qwuiblington & Motor",
         "categories": [
-            "3;Recommended General",
-            "4;All General"
+            "4;Recommended PvP",
+            "3;All PvP"
         ],
         "actions": [
             {
@@ -503,7 +503,7 @@
         "icon": "compliance team logo.png",
         "creator": "Compliance Team",
         "categories": [
-            "4;All General"
+            "3;All PvP"
         ],
         "hidden": false,
         "actions": [
