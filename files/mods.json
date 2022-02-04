@@ -513,6 +513,13 @@
         "display": "Nick Hider",
         "creator": "Sk1er LLC",
         "command": "/nickhider",
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/nick_hider"
+            }
+        ],
         "discordcode": "sk1er",
         "description": "Hides your nick on Hypixel.",
         "categories": [
@@ -981,6 +988,13 @@
         "discordcode": "sk1er",
         "categories": [
             "5;All PvP"
+        ],
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/subtitles_mod"
+            }
         ]
     },
     {
