@@ -97,10 +97,10 @@
         ]
     },
     {
-        "id": "wyvtils",
-        "code": "qKETDJDsV3",
+        "id": "woverflow",
+        "code": "woverflow",
         "fancyname": "WWWWWWWWWWWWWWWWWWW",
-        "description": "A server to discuss / get support for Wyvest mods and other things!",
+        "description": "A server to discuss / get support for W-OVERFLOW mods and other things!",
         "icon": "wyvest.png",
         "nicknames": [
             "wyvest",
@@ -109,7 +109,7 @@
             "qalcyo"
         ],
         "mods": [
-            "wyvtilities"
+            "wyvtils"
         ]
     },
     {

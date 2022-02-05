@@ -1,0 +1,19 @@
+
+[general]
+	last_server_joined_button = false
+	server_preview_in_direct_connect = true
+	last_server_joined_ip = "mc.hypixel.net"
+
+[blackbar]
+	blackbar_item_highlight_color = "255,255,255,255"
+	blackbar_update_speed = 10
+	blackbar_color = "85,0,0,0"
+	blackbar = false
+
+[inventory]
+	amount_of_particles = 100
+	add_snow_in_inventory = false
+
+[updater]
+	show_update_notification = true
+

@@ -1,0 +1,16 @@
+
+[general]
+	master_toggle = true
+
+	[general.skins]
+		skin_hiding = true
+		show_real_skin = true
+		hide_player_skins = false
+		global_skin = false
+
+	[general.usernames]
+		hide_your_nick = false
+		nick_prefix = "Player-"
+		hide_other_usernames = true
+		nick_suffix = ""
+

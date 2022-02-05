@@ -26,7 +26,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
             },
             {
-                "icon": "tgb_icon.png",
+                "icon": " optifine.png",
                 "text": "OptiBye",
                 "creator": "ThatGravyBoat",
                 "link": "https:/discord.gg/jRhkYFmpCa"
@@ -98,7 +98,7 @@
                 "link": "https://github.com/W-OVERFLOW/Chatting"
             },
             {
-                "icon": "tgb_icon.png",
+                "icon": "tgb icon.png",
                 "text": "RewardClaim",
                 "creator": "ThatGravyBoat",
                 "link": "https://discord.gg/jRhkYFmpCa"
@@ -142,14 +142,10 @@
                 "link": "https://hypixel.net/threads/3787277/"
             },
             {
-                "icon": "monkey.png",
-                "text": "Bossbar Customizer",
-                "link": "https://sk1er.club/mods/bossbar_customizer"
-            },
-            {
-                "icon": "canelex.jpg",
-                "text": "Sidebar Mod",
-                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
+                "icon": "wyvest.png",
+                "text": "Wyvtils",
+                "creator": "W-OVERFLOW (Wyvest)",
+                "link": "https://github.com/Wyvest/Wyvtils"
             },
             {
                 "icon": "wyvest.png",
@@ -165,12 +161,10 @@
             }
         ],
         "categories": [
-            "4;All PvP",
-            "5;Recommended PvP"
+            "4;Recommended PvP"
         ],
         "packages": [
-            "bossbar_customizer",
-            "sidebarmod",
+            "wyvtils",
             "redaction",
             "keystrokes"
         ]
@@ -180,6 +174,7 @@
         "nicknames": [
             "insomnia"
         ],
+        "enabled": true,
         "forge_id": "insomnia",
         "file": "Insomnia-1.0-REL.jar",
         "hash": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
@@ -243,8 +238,7 @@
             }
         ],
         "categories": [
-            "4;All PvP",
-            "5;Recommended PvP"
+            "1;Recommended"
         ],
         "packages": [
             "popup_events",
@@ -296,8 +290,7 @@
             }
         ],
         "categories": [
-            "4;All PvP",
-            "5;Recommended PvP"
+            "4;Recommended PvP"
         ],
         "packages": [
             "particlesenhanced",
@@ -351,14 +344,14 @@
         "command": "/scc",
         "actions": [
             {
-                "icon": "guide.png",
-                "text": "Features",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
-            },
-            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Featrues",
+                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
             }
         ]
     },
@@ -425,27 +418,33 @@
         ]
     },
     {
-        "id": "crashpatch",
+        "id": "crashhelper",
         "nicknames": [
             "crashhelp",
             "ch",
             "crash"
         ],
-        "forge_id": "crashpatch",
+        "forge_id": "crashhelper",
         "enabled": true,
-        "file": "CrashPatch-1.2.0.jar",
-        "hash": "df9eb39a4587430ad7765ae58babadeb61a1b9566be71b75ecf89a788fcac262",
-        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.2.0/CrashPatch-1.2.0.jar",
-        "display": "CrashPatch",
-        "description": "Stop crashes from closing your game and provide solutions!",
-        "icon": "wyvest.png",
-        "creator": "W-OVERFLOW",
-        "discordcode": "woverflow",
+        "file": "CrashHelper-1.1.2.jar",
+        "hash": "83b9d10713582aefe641cbb0cf78b8954dbd2700fbdaf424d0b33c99806eba0a",
+        "url": "https://short.isxander.dev/qKYfzc",
+        "display": "Crash Helper",
+        "description": "Gives useful information about crashes in minecraft",
+        "icon": "isxander.png",
+        "icon_scaling": "pixel",
+        "creator": "isXander",
+        "discordcode": "AJv5ZnNT8q",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/W-OVERFLOW/CrashPatch"
+                "link": "https://short.isxander.dev/crashhelper"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
             }
         ],
         "categories": [
@@ -462,23 +461,23 @@
         "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
         "icon": "wyvest.png",
         "command": "/hytilities",
-        "enabled": true,
         "creator": "W-OVERFLOW",
         "actions": [
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
-            },
             {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             }
         ],
         "discordcode": "woverflow",
         "categories": [
-            "1;Recommended"
+            "4;Recommended PvP",
+            "5;All PvP"
         ]
     },
     {
@@ -498,8 +497,8 @@
             }
         ],
         "categories": [
-            "4;All PvP",
-            "5;Recommended PvP"
+            "4;Recommended PvP",
+            "5;All PvP"
         ]
     },
     {
@@ -508,7 +507,6 @@
             "nickhider"
         ],
         "forge_id": "nick_hider",
-        "icon": "monkey.png",
         "file": "Nick Hider-6.0 (1.8.9).jar",
         "hash": "72f61cbcc69896afb0a2ebf044c035b528fd96badc198e75539488a4a58d8c65",
         "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
@@ -525,10 +523,45 @@
         "discordcode": "sk1er",
         "description": "Hides your nick on Hypixel.",
         "categories": [
-            "4;All PvP"
+            "5;All PvP"
+        ]
+    },
+    {
+        "id": "craftify",
+        "forge_id": "craftify",
+        "file": "Craftify-1.0.0.jar",
+        "hash": "816cb57890afd490af5270dc05f384e50e14237e107fe4b31594c9ac60d40ac0",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
+        "display": "Craftify",
+        "description": "Show your Spotify songs ingame!",
+        "icon": "tgb icon.png",
+        "command": "/craftify",
+        "creator": "ThatGravyBoat",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/ThatGravyBoat/Craftify"
+            }
         ],
-        "files": [
-            "nickhider.toml"
+        "discordcode": "wQfFucgHTX"
+    },
+    {
+        "id": "blur",
+        "forge_id": "blur",
+        "file": "Blur-MC1.8.9-1.0.4-2.jar",
+        "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
+        "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
+        "display": "Blur",
+        "description": "Add a blur to all your GUIs!",
+        "icon": "tterrag.png",
+        "creator": "tterrag1098",
+        "actions": [
+            {
+                "icon": "skyclient.png",
+                "text": "Showcase",
+                "link": "https://imgur.com/EmSEKFu"
+            }
         ]
     },
     {
@@ -573,8 +606,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ]
     },
     {
@@ -593,7 +626,8 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ],
         "actions": [
             {
@@ -649,8 +683,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ],
         "config": true,
         "files": [
@@ -695,7 +729,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ]
     },
     {
@@ -735,8 +770,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ]
     },
     {
@@ -778,7 +813,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ],
         "files": [
             "config/Apec/Settings.txt"
@@ -828,7 +864,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ]
     },
     {
@@ -863,7 +900,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ]
     },
     {
@@ -899,7 +937,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ]
     },
     {
@@ -918,7 +957,8 @@
         "command": "/room",
         "discordcode": "7B5RbsArYK",
         "categories": [
-            "2;All Skyblock"
+            "3;Recommended Skyblock",
+            "4;All Skyblock"
         ],
         "actions": [
             {
@@ -929,6 +969,31 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Quantizr/DungeonRoomsMod"
+            }
+        ]
+    },
+    {
+        "id": "soundsubtitles",
+        "nicknames": [
+            "subtitles"
+        ],
+        "forge_id": "subtitles_mod",
+        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
+        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
+        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "display": "Sound Subtitles",
+        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+        "creator": "Sk1er LLC",
+        "command": "/subtitles_config",
+        "discordcode": "sk1er",
+        "categories": [
+            "5;All PvP"
+        ],
+        "actions": [
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/subtitles_mod"
             }
         ]
     },
@@ -949,70 +1014,6 @@
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3574261/"
-            }
-        ]
-    },
-    {
-        "id": "craftify",
-        "forge_id": "craftify",
-        "file": "Craftify-1.0.0.jar",
-        "hash": "816cb57890afd490af5270dc05f384e50e14237e107fe4b31594c9ac60d40ac0",
-        "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
-        "display": "Craftify",
-        "description": "Show your Spotify songs ingame!",
-        "icon": "tgb_icon.png",
-        "command": "/craftify",
-        "creator": "ThatGravyBoat",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/ThatGravyBoat/Craftify"
-            }
-        ],
-        "discordcode": "wQfFucgHTX"
-    },
-    {
-        "id": "blur",
-        "forge_id": "blur",
-        "file": "Blur-MC1.8.9-1.0.4-2.jar",
-        "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
-        "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
-        "display": "Blur",
-        "description": "Add a blur to all your GUIs!",
-        "icon": "tterrag.png",
-        "creator": "tterrag1098",
-        "actions": [
-            {
-                "icon": "skyclient.png",
-                "text": "Showcase",
-                "link": "https://imgur.com/EmSEKFu"
-            }
-        ]
-    },
-    {
-        "id": "soundsubtitles",
-        "nicknames": [
-            "subtitles"
-        ],
-        "forge_id": "subtitles_mod",
-        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
-        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
-        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
-        "display": "Sound Subtitles",
-        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
-        "creator": "Sk1er LLC",
-        "command": "/subtitles_config",
-        "icon": "monkey.png",
-        "discordcode": "sk1er",
-        "categories": [
-            "4;All PvP"
-        ],
-        "actions": [
-            {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://sk1er.club/mods/subtitles_mod"
             }
         ]
     },
@@ -1038,7 +1039,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "4;All Skyblock"
         ],
         "warning": {
             "lines": [
@@ -1070,7 +1071,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "4;All Skyblock"
         ],
         "warning": {
             "lines": [
@@ -1166,7 +1167,7 @@
         "file": "Popup Events-1.3.2 (1.8.9).jar",
         "hash": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6",
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
-        "display": "Popup Events",
+        "display": "QOL Bundle",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/popupevents",
@@ -1253,7 +1254,7 @@
         "forge_id": "betterchat",
         "file": "betterchat-1.5.jar",
         "hash": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6",
-        "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065",
         "display": "Betterchat",
         "description": "Allows you to move the chat and makes chat messages animated.",
         "icon": "llamalad.png",
@@ -1276,9 +1277,9 @@
             "stratus"
         ],
         "forge_id": "chatting",
-        "file": "Chatting-1.3.0.jar",
-        "hash": "2632723c7417d9a88d401bac9a4d1ec3b1da966b0f75f57020f91c8e100883fc",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.3.0/Chatting-1.3.0.jar",
+        "file": "Chatting-1.2.0.jar",
+        "hash": "b35be8eb945c50734ab483f53eb23e2795cbafead50e9f2fcdcc7f9847dcb883",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.2.0/Chatting-1.2.0.jar",
         "display": "Chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
@@ -1311,22 +1312,33 @@
         "hidden": true
     },
     {
-        "id": "sidebarmod",
-        "forge_id": "sidebarmod",
-        "hash": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
-        "file": "Sidebar Mod Revamp.jar",
-        "display": "Sidebar Mod",
-        "description": "Allows you to customize the sidebar.",
-        "creator": "canelex & powns",
-        "icon": "canelex.jpg",
+        "id": "wyvtils",
+        "forge_id": "wyvtils",
+        "file": "Wyvtils-1.8.9-2.0.0.jar",
+        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
+        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "display": "Wyvtils",
+        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), sidebar customization, action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
+        "icon": "wyvest.png",
+        "command": "/wyvtils",
+        "creator": "W-OVERFLOW (Wyvest)",
         "actions": [
             {
-                "icon": "youtube.png",
-                "text": "Showcase",
-                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Wyvest/Wyvtils"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
             }
         ],
-        "hidden": true
+        "discordcode": "woverflow",
+        "hidden": true,
+        "files": [
+            "W-OVERFLOW/Wyvtils/1.8.9/wyvtils.toml"
+        ]
     },
     {
         "id": "redaction",
@@ -1400,35 +1412,9 @@
         "hidden": true
     },
     {
-        "id": "bossbar_customizer",
-        "forge_id": "bossbar_customizer",
-        "file": "Bossbar Customizer-1.2.1 (1.8.9).jar",
-        "hash": "03a11d4f087b8743988f393b5129b72249d96ec4d752d2656c37eb20ce027ed6",
-        "url": "https://static.sk1er.club/repo/mods/bossbar_customizer/1.2.1/1.8.9/Bossbar%20Customizer-1.2.1%20(1.8.9).jar",
-        "display": "Bossbar Customizer",
-        "description": "Bossbar Customizer allows for customization of the ingame bossbar to your liking, including size, position, elements, etc.",
-        "icon": "monkey.png",
-        "creator": "Sk1er LLC",
-        "command": "/bossbar",
-        "discordcode": "sk1er",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "Youtube",
-                "link": "https://www.youtube.com/watch?v=tigBu2OyZ4I"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://sk1er.club/mods/bossbar_customizer"
-            }
-        ],
-        "hidden": true
-    },
-    {
         "id": "tnttime",
         "forge_id": "tnttime",
-        "file": "TNT Time-1.1 (1.8.9).jar",
+        "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "hash": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59",
         "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
         "display": "TNT Time",

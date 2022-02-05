@@ -4,11 +4,11 @@
         "file": "Mob Packet 1.8.9 1.4.zip",
         "display": "Mob Packet",
         "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
-        "enabled": true,
         "icon": "mob packet.png",
         "creator": "Viska & Mira_23",
         "categories": [
-            "3;Mobs"
+            "1;All Skyblock",
+            "2;Recommended Skyblock"
         ],
         "actions": [
             {
@@ -31,8 +31,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "3;Mobs",
-            "6;ActuallyAssets"
+            "1;All Skyblock"
         ]
     },
     {
@@ -53,6 +52,9 @@
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3143529/"
             }
+        ],
+        "categories": [
+            "1;All Skyblock"
         ]
     },
     {
@@ -66,7 +68,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "6;ActuallyAssets"
+            "1;All Skyblock"
         ]
     },
     {
@@ -79,8 +81,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "3;Mobs",
-            "6;ActuallyAssets"
+            "1;All Skyblock"
         ]
     },
     {
@@ -92,7 +93,7 @@
         "icon_scaling": "pixel",
         "creators": "TBlazeWarrior & Moulberry",
         "categories": [
-            "3;Mobs"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -111,9 +112,9 @@
         "icon_scaling": "pixel",
         "creator": "Motor & nacrt",
         "discordcode": "ABHrh6K3Fh",
-        "enabled": true,
         "categories": [
-            "6;ActuallyAssets"
+            "1;All Skyblock",
+            "2;Recommended Skyblock"
         ],
         "actions": [
             {
@@ -134,7 +135,7 @@
         "icon": "vtays.png",
         "creator": "vTay",
         "categories": [
-            "2;Mix Packs"
+            "1;All Skyblock"
         ],
         "hidden": true,
         "actions": [
@@ -159,7 +160,7 @@
         "creator": "Rainbowcraft2",
         "discordcode": "dcdsnvG4Q4",
         "categories": [
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -180,7 +181,7 @@
         "icon": "nameless.png",
         "creator": "Smolegit",
         "categories": [
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -211,6 +212,9 @@
                 "icon": "discord icon.png",
                 "link": "https://discord.gg/yu9ykgT8bB"
             }
+        ],
+        "categories": [
+            "3;All PvP"
         ]
     },
     {
@@ -222,7 +226,7 @@
         "icon_scaling": "pixel",
         "creator": "Sluzeeey",
         "categories": [
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -240,7 +244,7 @@
         "icon": "kmp.png",
         "creator": "Kiocifer",
         "categories": [
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -258,7 +262,7 @@
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
         "categories": [
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -281,7 +285,7 @@
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
         "categories": [
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -293,7 +297,6 @@
     },
     {
         "id": "hqdark",
-        "enabled": true,
         "file": "v2 Dark Skyblock UI.zip",
         "display": "PacksHQ dark UI addon",
         "description": "Packs HQ Skyblock Pack dark UI",
@@ -302,8 +305,8 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "5;PacksHQ",
-            "99;Other"
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -327,8 +330,7 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "5;PacksHQ",
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -357,8 +359,7 @@
         "creator": "ImperiaL",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "5;PacksHQ",
-            "1;Full"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -388,8 +389,7 @@
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
         "categories": [
-            "1;Full",
-            "6;ActuallyAssets"
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -409,7 +409,6 @@
     },
     {
         "id": "fsr",
-        "enabled": true,
         "file": "FurfSky Reborn OV [1.4.2].zip",
         "display": "FurfSky Reborn 16x",
         "description": "The continuation of FurfSky+.",
@@ -417,7 +416,8 @@
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
         "categories": [
-            "1;Full"
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
         ],
         "actions": [
             {
@@ -440,7 +440,10 @@
         "file": "Smoll_Icons.zip",
         "display": "Smol icons",
         "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
-        "enabled": true,
+        "categories": [
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
+        ],
         "icon": "smol_icons.png",
         "icon_scaling": "pixel",
         "creator": "_HeroBear_",
@@ -460,7 +463,7 @@
         "hidden": false,
         "creator": "Compliance Team",
         "categories": [
-            "4;Vanilla"
+            "3;All PvP"
         ],
         "actions": [
             {
@@ -472,14 +475,15 @@
     },
     {
         "id": "defaultpackport",
-        "enabled": true,
         "file": "1.14 Packport.zip",
         "display": "1.14 Default 16x",
         "description": "Default 1.14 port.",
         "icon": "default.png",
         "creator": "Qwuiblington & Motor",
+        "enabled": true,
         "categories": [
-            "4;Vanilla"
+            "4;Recommended PvP",
+            "3;All PvP"
         ],
         "actions": [
             {
@@ -500,7 +504,7 @@
         "icon": "compliance team logo.png",
         "creator": "Compliance Team",
         "categories": [
-            "4;Vanilla"
+            "3;All PvP"
         ],
         "hidden": false,
         "actions": [
