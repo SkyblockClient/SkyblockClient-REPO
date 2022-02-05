@@ -26,7 +26,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
             },
             {
-                "icon": " optifine.png",
+                "icon": "tgb icon.png",
                 "text": "OptiBye",
                 "creator": "ThatGravyBoat",
                 "link": "https:/discord.gg/jRhkYFmpCa"
@@ -352,14 +352,14 @@
         "command": "/scc",
         "actions": [
             {
+                "icon": "guide.png",
+                "text": "Features",
+                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
+            },
+            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Featrues",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
             }
         ]
     },
@@ -467,14 +467,14 @@
         "creator": "W-OVERFLOW",
         "actions": [
             {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
-            },
-            {
                 "icon": "guide.png",
                 "text": "Guide",
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
             }
         ],
         "discordcode": "woverflow",
