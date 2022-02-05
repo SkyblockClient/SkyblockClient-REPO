@@ -142,10 +142,14 @@
                 "link": "https://hypixel.net/threads/3787277/"
             },
             {
-                "icon": "wyvest.png",
-                "text": "Wyvtils",
-                "creator": "W-OVERFLOW (Wyvest)",
-                "link": "https://github.com/Wyvest/Wyvtils"
+                "icon": "monkey.png",
+                "text": "Bossbar Customizer",
+                "link": "https://sk1er.club/mods/bossbar_customizer"
+            },
+            {
+                "icon": "canelex.png",
+                "text": "Sidebar Mod",
+                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
             },
             {
                 "icon": "wyvest.png",
@@ -165,7 +169,8 @@
             "5;Recommended PvP"
         ],
         "packages": [
-            "wyvtils",
+            "bossbar_customizer",
+            "sidebarmod",
             "redaction",
             "keystrokes"
         ]
@@ -1310,6 +1315,24 @@
         "hidden": true
     },
     {
+        "id": "sidebarmod",
+        "forge_id": "sidebarmod",
+        "hash": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
+        "file": "Sidebar Mod Revamp.jar",
+        "display": "Sidebar Mod",
+        "description": "Allows you to customize the sidebar.",
+        "creator": "canelex & powns",
+        "icon": "canelex.jpg",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Showcase",
+                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
+            }
+        ],
+        "hidden": true
+    },
+    {
         "id": "wyvtils",
         "forge_id": "wyvtils",
         "file": "Wyvtils-1.8.9-2.0.0.jar",
@@ -1405,6 +1428,32 @@
                 "icon": "monkey.png",
                 "text": "Website",
                 "link": "https://sk1er.club/mods/keystrokesmod"
+            }
+        ],
+        "hidden": true
+    },
+    {
+        "id": "bossbar_customizer",
+        "forge_id": "bossbar_customizer",
+        "file": "Bossbar Customizer-1.2.1 (1.8.9).jar",
+        "hash": "03a11d4f087b8743988f393b5129b72249d96ec4d752d2656c37eb20ce027ed6",
+        "url": "https://static.sk1er.club/repo/mods/bossbar_customizer/1.2.1/1.8.9/Bossbar%20Customizer-1.2.1%20(1.8.9).jar",
+        "display": "Bossbar Customizer",
+        "description": "Bossbar Customizer allows for customization of the ingame bossbar to your liking, including size, position, elements, etc.",
+        "icon": "monkey.png",
+        "creator": "Sk1er LLC",
+        "command": "/bossbar",
+        "discordcode": "sk1er",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Youtube",
+                "link": "https://www.youtube.com/watch?v=tigBu2OyZ4I"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/bossbar_customizer"
             }
         ],
         "hidden": true
