@@ -694,8 +694,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "2;All Skyblock"
         ]
     },
     {
@@ -778,8 +777,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "2;All Skyblock"
         ],
         "files": [
             "config/Apec/Settings.txt"
@@ -829,8 +827,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "2;All Skyblock"
         ]
     },
     {
@@ -865,8 +862,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "2;All Skyblock"
         ]
     },
     {
@@ -902,8 +898,7 @@
             }
         ],
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "2;All Skyblock"
         ]
     },
     {
@@ -922,8 +917,7 @@
         "command": "/room",
         "discordcode": "7B5RbsArYK",
         "categories": [
-            "2;All Skyblock",
-            "3;Recommended Skyblock"
+            "2;All Skyblock"
         ],
         "actions": [
             {
