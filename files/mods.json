@@ -147,7 +147,7 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             },
             {
-                "icon": "canelex.png",
+                "icon": "canelex.jpg",
                 "text": "Sidebar Mod",
                 "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
             },
@@ -244,7 +244,8 @@
             }
         ],
         "categories": [
-            "1;Recommended"
+            "4;All PvP",
+            "5;Recommended PvP"
         ],
         "packages": [
             "popup_events",
@@ -1167,7 +1168,7 @@
         "file": "Popup Events-1.3.2 (1.8.9).jar",
         "hash": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6",
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
-        "display": "QOL Bundle",
+        "display": "Popup Events",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/popupevents",
