@@ -527,6 +527,9 @@
         "description": "Hides your nick on Hypixel.",
         "categories": [
             "4;All PvP"
+        ],
+        "files": [
+            "nickhider.toml"
         ]
     },
     {
@@ -1325,35 +1328,6 @@
             }
         ],
         "hidden": true
-    },
-    {
-        "id": "wyvtils",
-        "forge_id": "wyvtils",
-        "file": "Wyvtils-1.8.9-2.0.0.jar",
-        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
-        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
-        "display": "Wyvtils",
-        "description": "Adds multiple utilities for Hypixel 1.8.9, such as bossbar customization (which isn't made using 2019 code), sidebar customization, action bar customization, title resizer, hitbox customization, a name highlighter, and more.",
-        "icon": "wyvest.png",
-        "command": "/wyvtils",
-        "creator": "W-OVERFLOW (Wyvest)",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/Wyvest/Wyvtils"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/wyvtils.md"
-            }
-        ],
-        "discordcode": "woverflow",
-        "hidden": true,
-        "files": [
-            "W-OVERFLOW/Wyvtils/1.8.9/wyvtils.toml"
-        ]
     },
     {
         "id": "redaction",
