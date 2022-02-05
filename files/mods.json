@@ -1585,6 +1585,17 @@
         "hidden": true
     },
     {
+        "id": "reauth",
+        "forge_id": "reauth",
+        "file": "Hychat-1.12.2-BETA.jar",
+        "url": "https://media.forgecdn.net/files/2433/385/ReAuth-3.5.0.jar",
+        "display": "ReAuth",
+        "description": "Log in from Ingame",
+        "creator": "TechnicianLP",
+        "command": "No commands",
+        "hidden": true
+    },
+    {
         "id": "minecraft",
         "file": "no",
         "display": "no",
