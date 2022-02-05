@@ -26,7 +26,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
             },
             {
-                "icon": "tgb icon.png",
+                "icon": "tgb_icon.png",
                 "text": "OptiBye",
                 "creator": "ThatGravyBoat",
                 "link": "https:/discord.gg/jRhkYFmpCa"
@@ -98,7 +98,7 @@
                 "link": "https://github.com/W-OVERFLOW/Chatting"
             },
             {
-                "icon": "tgb icon.png",
+                "icon": "tgb_icon.png",
                 "text": "RewardClaim",
                 "creator": "ThatGravyBoat",
                 "link": "https://discord.gg/jRhkYFmpCa"
@@ -960,7 +960,7 @@
         "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
         "display": "Craftify",
         "description": "Show your Spotify songs ingame!",
-        "icon": "tgb icon.png",
+        "icon": "tgb_icon.png",
         "command": "/craftify",
         "creator": "ThatGravyBoat",
         "actions": [
