@@ -480,6 +480,7 @@
         "description": "Default 1.14 port.",
         "icon": "default.png",
         "creator": "Qwuiblington & Motor",
+        "enabled": true,
         "categories": [
             "4;Recommended PvP",
             "3;All PvP"
