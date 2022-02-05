@@ -1252,7 +1252,7 @@
         "forge_id": "betterchat",
         "file": "betterchat-1.5.jar",
         "hash": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6",
-        "url": "https://www.curseforge.com/minecraft/mc-mods/better-chat/download/3249065",
+        "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar",
         "display": "Betterchat",
         "description": "Allows you to move the chat and makes chat messages animated.",
         "icon": "llamalad.png",
@@ -1412,7 +1412,7 @@
     {
         "id": "tnttime",
         "forge_id": "tnttime",
-        "file": "Keystrokes-8.1.2 (1.8.9).jar",
+        "file": "TNT Time-1.1 (1.8.9).jar",
         "hash": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59",
         "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
         "display": "TNT Time",
