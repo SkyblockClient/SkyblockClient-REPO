@@ -425,33 +425,27 @@
         ]
     },
     {
-        "id": "crashhelper",
+        "id": "crashpatch",
         "nicknames": [
             "crashhelp",
             "ch",
             "crash"
         ],
-        "forge_id": "crashhelper",
+        "forge_id": "crashpatch",
         "enabled": true,
-        "file": "CrashHelper-1.1.2.jar",
-        "hash": "83b9d10713582aefe641cbb0cf78b8954dbd2700fbdaf424d0b33c99806eba0a",
-        "url": "https://short.isxander.dev/qKYfzc",
-        "display": "Crash Helper",
-        "description": "Gives useful information about crashes in minecraft",
-        "icon": "isxander.png",
-        "icon_scaling": "pixel",
-        "creator": "isXander",
-        "discordcode": "AJv5ZnNT8q",
+        "file": "CrashPatch-1.2.0.jar",
+        "hash": "df9eb39a4587430ad7765ae58babadeb61a1b9566be71b75ecf89a788fcac262",
+        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.2.0/CrashPatch-1.2.0.jar",
+        "display": "CrashPatch",
+        "description": "Stop crashes from closing your game and provide solutions!",
+        "icon": "wyvest.png",
+        "creator": "W-OVERFLOW",
+        "discordcode": "woverflow",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://short.isxander.dev/crashhelper"
-            },
-            {
-                "icon": "isxander.png",
-                "text": "Website",
-                "link": "https://www.isxander.dev"
+                "link": "https://github.com/W-OVERFLOW/CrashPatch"
             }
         ],
         "categories": [
@@ -1280,9 +1274,9 @@
             "stratus"
         ],
         "forge_id": "chatting",
-        "file": "Chatting-1.2.0.jar",
-        "hash": "b35be8eb945c50734ab483f53eb23e2795cbafead50e9f2fcdcc7f9847dcb883",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.2.0/Chatting-1.2.0.jar",
+        "file": "Chatting-1.3.0.jar",
+        "hash": "2632723c7417d9a88d401bac9a4d1ec3b1da966b0f75f57020f91c8e100883fc",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.3.0/Chatting-1.3.0.jar",
         "display": "Chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
