@@ -15,12 +15,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/utility.md?raw=true"
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/utility.md"
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md"
             },
             {
                 "icon": "monkey.png",
@@ -82,6 +82,15 @@
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
         "icon": "skyclient.png",
         "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md"
+            },
             {
                 "icon": "cmm.png",
                 "text": "Custom Main Menu",
@@ -201,12 +210,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md?raw=true"
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/qol.md"
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/packages/guides/qol.md"
             },
             {
                 "icon": "monkey.png",
@@ -271,12 +280,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/pvp.md?raw=true"
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/pvp.md"
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
             },
             {
                 "icon": "wyvest.png",
