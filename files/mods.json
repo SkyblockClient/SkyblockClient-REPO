@@ -147,11 +147,6 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             },
             {
-                "icon": "canelex.jpg",
-                "text": "Sidebar Mod",
-                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
-            },
-            {
                 "icon": "wyvest.png",
                 "text": "REDACTION",
                 "creator": "W-OVERFLOW",
@@ -170,7 +165,6 @@
         ],
         "packages": [
             "bossbar_customizer",
-            "sidebarmod",
             "redaction",
             "keystrokes"
         ]
@@ -228,11 +222,6 @@
                 "text": "TNT Time",
                 "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/tnttime"
-            },
-            {
-                "icon": "monkey.png",
-                "creator": "Powns, Refraction and Sk1er LLC",
-                "link": "https://sk1er.club/mods/refractionoof"
             },
             {
                 "icon": "monkey.png",
