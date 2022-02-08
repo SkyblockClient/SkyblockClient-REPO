@@ -2,57 +2,84 @@
 
 ## Includes:
 
-- Sound Subtitles (Author: Sk1er LLC)
 - Popup Events (Author: Sk1er LLC)
+- Anti-Dream Skin (Author: Moulberry)
+- AutoGG (Author: Sk1er LLC)
+- AutoTip (Author: Sk1er LLC)
 - TNT Time (Author: Sk1er LLC)
-- Insomnia (Author: Moulberry)
+- Levelhead (Author: Sk1er LLC)
+
 
 ## What do the mods do?
-
-### Sound Subtitles
-
-A mod to backport the Sound Subtitles from newer Minecraft versions to 1.8.9
 
 ### Popup Events
 
 Allows you to easily accept/deny a request on Hypixel with the press of a single key
 
+### Anti-Dream Skin
+
+A mod which removes those nasty dream skins you hate
+
+### AutoGG
+
+A mod which automatically says a selected phrase after a game has ended (only on supported servers)
+
+### AutoTip
+
+A mod which automatically tips all active Network Boosters and other Autotip users on the Hypixel Network, allowing the user to collect coins, karma, and experience (earnable currencies) over time
+
 ### TNT Timer
 
-Shows how long until TNT will explode above the TNT
+A mod which shows a countdown timer above the TNT
 
-### Insomnia (Anti-Dream Skin)
+### Levelhead
 
-Removes those nasty dream skins you hate
+A mod which displays the Network Level & other statistics of a player above their head, in chat and in tab (only on Hypixel)
+
+
 
 ## How do I use them?
-
-### Sound Subtitles
-
-Use `/subtitle_config` to configure the subtitles
 
 ### Popup Events
 
 Go to the minecraft controls menu to bind your keys
 
+### Anti-Dream Skin (Insomnia)
+
+Use `/insomnia <on/off>` to turn it on and off
+
+### AutoGG
+
+Use `/autogg` to open the configuration window
+
+### AutoTip
+
+Use `/autotip` to configure the mod
+
 ### TNT Timer
 
 No additional configuration is needed
 
-### Insomnia
+### Levelhead
 
-Use `/insomnia <on/off>` to turn it on and off
+Use `/levelhead` to open the configuration window
+
 
 # Credits
 
 #### Mod links
-[1.8 Sound subtitles](https://sk1er.club/mods/subtitles_mod)
 
 [Popup events](https://sk1er.club/mods/popup_events)
 
+[Anti-Dream Skin](https://github.com/Moulberry/Insomnia)
+
+[AutoGG](https://sk1er.club/mods/autogg)
+
+[AutoTip](https://autotip.pro/)
+
 [TNT Time](https://sk1er.club/mods/tnttime)
 
-[Insomnia](https://github.com/Moulberry/Insomnia/releases/)
+[Levelhead](https://sk1er.club/mods/level_head)
 
 
 #### Discords
