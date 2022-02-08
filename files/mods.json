@@ -111,6 +111,12 @@
                 "text": "RewardClaim",
                 "creator": "ThatGravyBoat",
                 "link": "https://discord.gg/jRhkYFmpCa"
+            },
+            {
+                "icon": "tgb_icon.png",
+                "text": "Report+",
+                "creator": "ThatGravyBoat",
+                "link": "https://discord.gg/jRhkYFmpCa"
             }
         ],
         "categories": [
