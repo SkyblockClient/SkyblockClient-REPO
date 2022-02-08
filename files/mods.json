@@ -160,6 +160,15 @@
         "icon": "skyclient.png",
         "actions": [
             {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
+            },
+            {
                 "icon": "evergreen.png",
                 "text": "EvergreenHUD",
                 "creator": "isXander",
@@ -215,7 +224,7 @@
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/packages/guides/qol.md"
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md"
             },
             {
                 "icon": "monkey.png",
