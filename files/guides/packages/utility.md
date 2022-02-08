@@ -47,7 +47,7 @@ No additional configuration is needed
 
 ### SimpleToggleSprint
 
-Use `/simpletogglesprint`or `/togglesprint` to open the configuration window
+Use `/simpletogglesprint` or `/togglesprint` to open the configuration window
 
 ### Hypixel Autocomplete
 
