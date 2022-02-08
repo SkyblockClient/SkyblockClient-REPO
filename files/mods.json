@@ -231,7 +231,6 @@
             },
             {
                 "icon": "monkey.png",
-                "text": "OofMod",
                 "creator": "Powns, Refraction and Sk1er LLC",
                 "link": "https://sk1er.club/mods/refractionoof"
             },
@@ -251,7 +250,6 @@
             "autogg",
             "autotip",
             "tnttime",
-            "oofmod",
             "levelhead"
         ]
     },
