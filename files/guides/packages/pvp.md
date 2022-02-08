@@ -15,7 +15,7 @@ A mod which changes the color of entities that are hurt
 
 ### Particles Enhanced
 
-A mod which enhances particles in Minecraft. Introduces a Fade option to particles.
+A mod which enhances particles in Minecraft. Introduces a Fade option to particles
 
 ### BehindYouV3
 
@@ -26,15 +26,15 @@ A modern, non-2018 take on the BehindYou mod. It will allow you to press (and ho
 
 ### Damage Tint
 
-Use `/damagetint` to configure the color, chroma and fade of the damage tint.
+Use `/damagetint` to configure the color, chroma and fade of the damage tint
 
 ### Particles Enhanced
 
-Use `/particles` (Or using the button in Minecraft's options menu) to configure the fade, sharpness and critical particles. 
+Use `/particles` (Or using the button in Minecraft's options menu) to configure the fade, sharpness and critical particles
 
 ### BehindYouV3
 
-Go to Minecraft's controls menu to bind your keys. Use `/behindyou` to configure the FOV.
+Go to Minecraft's controls menu to bind your keys. Use `/behindyou` to configure the FOV
 
 
 # Credits
