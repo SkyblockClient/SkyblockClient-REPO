@@ -4,7 +4,7 @@
 
 - Damage Tint (Author: W-OVERFLOW)
 - Particles Enhanced (Author: isXander)
-- BehindYouV3 (Author: W-OVERFLOW)
+- BehindYouV3 (Author: W-OVERFLOW (isXander))
 
 
 ## What do the mods do?
@@ -19,7 +19,7 @@ A mod which enhances particles in Minecraft. Introduces a Fade option to particl
 
 ### BehindYouV3
 
-A modern, non-2018 take on the BehindYou mod. It will allow you to press (and hold) a configurable hotkey to look behind yourself, saving the small amount of valuable time it takes to press F5 twice
+A modern, non-2018 take on the BehindYou mod. It will allow you to press (and hold) a configurable hotkey to look behind (and the front of) yourself as well as modify the FOV when clicked, saving the small amount of valuable time it takes to press F5 twice
 
 
 ## How do I use them?
