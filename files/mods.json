@@ -156,11 +156,6 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             },
             {
-                "icon": "canelex.jpg",
-                "text": "Sidebar Mod",
-                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
-            },
-            {
                 "icon": "wyvest.png",
                 "text": "REDACTION",
                 "creator": "W-OVERFLOW",
@@ -179,7 +174,6 @@
         ],
         "packages": [
             "bossbar_customizer",
-            "sidebarmod",
             "redaction",
             "keystrokes"
         ]
@@ -240,12 +234,6 @@
             },
             {
                 "icon": "monkey.png",
-                "text": "OofMod",
-                "creator": "Powns, Refraction and Sk1er LLC",
-                "link": "https://sk1er.club/mods/refractionoof"
-            },
-            {
-                "icon": "monkey.png",
                 "text": "Levelhead",
                 "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/level_head"
@@ -260,7 +248,6 @@
             "autogg",
             "autotip",
             "tnttime",
-            "oofmod",
             "levelhead"
         ]
     },
