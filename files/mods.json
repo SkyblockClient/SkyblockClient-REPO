@@ -927,9 +927,9 @@
             "dungeonrooms"
         ],
         "forge_id": "dungeonrooms",
-        "file": "Dungeon_Rooms-3.2.4.jar",
-        "hash": "3f0f416a9f167188693f69e1d3e7493b1f6e2d4c71244d28b8ffd2742741a012",
-        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.2.4/Dungeon_Rooms-3.2.4.jar",
+        "file": "Dungeon_Rooms-3.3.0.jar",
+        "hash": "df6fbc7d921ec9d13864398868b6a9d723f547a3b194fa1b63e9df59810a928c",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.0/Dungeon_Rooms-3.3.0.jar",
         "display": "Dungeon Rooms",
         "icon": "drm.png",
         "description": "Displays dungeon room id/name and adds waypoints for secrets.",
