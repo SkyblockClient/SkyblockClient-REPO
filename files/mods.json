@@ -1618,7 +1618,7 @@
         "hidden": true
     },
     {
-        "id": "crashhelper"
+        "id": "crashhelper",
         "forge_id": "crashhelper",
         "enabled": false,
         "file": "CrashHelper-1.1.2.jar",
