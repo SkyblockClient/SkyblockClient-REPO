@@ -1618,6 +1618,19 @@
         "hidden": true
     },
     {
+        "id": "crashhelper"
+        "forge_id": "crashhelper",
+        "enabled": false,
+        "file": "CrashHelper-1.1.2.jar",
+        "url": "https://short.isxander.dev/qKYfzc",
+        "display": "Crash Helper",
+        "description": "Gives useful information about crashes in minecraft",
+        "icon": "isxander.png",
+        "icon_scaling": "pixel",
+        "creator": "isXander",
+        "update_to_id": "crashpatch"
+    },
+    {
         "id": "minecraft",
         "file": "no",
         "display": "no",
