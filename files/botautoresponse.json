@@ -82,6 +82,9 @@
         "triggers": [
             [
                 "reinstal"
+            ],
+            [
+                "sky"
             ]
         ],
         "response": "**If you are trying to reinstall SkyClient because of the Mods throws an error, don't.** It has never helped and will never help. \nTry to actually fix the issue instead of reinstalling for the 10th time."
@@ -119,7 +122,6 @@
     {
         "triggers": [
             [
-                "which",
                 "dungeons guide",
                 "dungeonsguide",
                 "dg"
