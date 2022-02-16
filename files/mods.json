@@ -1621,6 +1621,7 @@
         "id": "crashhelper",
         "forge_id": "crashhelper",
         "enabled": false,
+        "hidden": true,
         "file": "CrashHelper-1.1.2.jar",
         "url": "https://short.isxander.dev/qKYfzc",
         "display": "Crash Helper",
