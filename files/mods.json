@@ -977,9 +977,9 @@
     {
         "id": "craftify",
         "forge_id": "craftify",
-        "file": "Craftify-1.0.0.jar",
-        "hash": "816cb57890afd490af5270dc05f384e50e14237e107fe4b31594c9ac60d40ac0",
-        "url": "https://cdn.discordapp.com/attachments/923979897850966016/931198763173818368/Craftify-1.0.0.jar",
+        "file": "Craftify-1.0.0-beta-2.jar",
+        "hash": "4fbabf2214e156744395572334045183",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/942868456204808222/Craftify-1.0.0-beta-2.jar",
         "display": "Craftify",
         "description": "Show your Spotify songs ingame!",
         "icon": "tgb_icon.png",
