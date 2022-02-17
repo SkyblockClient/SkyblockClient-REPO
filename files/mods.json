@@ -736,7 +736,8 @@
         "discordcode": "skytils",
         "command": "/skytils",
         "update_to_ids": [
-            "patcher"
+            "patcher",
+            "reauth"
         ],
         "actions": [
             {
