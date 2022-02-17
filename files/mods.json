@@ -1475,9 +1475,9 @@
     {
         "id": "levelhead",
         "forge_id": "level_head",
-        "file": "Levelhead-8.0 (1.8.9).jar",
-        "hash": "aaee81a9d0ccf1938c7406c5eb479b1e74d5709a30d0c9df93f0be77dbdafd0c",
-        "url": "https://static.sk1er.club/repo/mods/level_head/8.0/1.8.9/Levelhead-8.0%20(1.8.9).jar",
+        "file": "Levelhead-8.1 (1.8.9).jar",
+        "hash": "7f87d7eca78cb63b806b52806baae4eb78c6b5a415d8a377168c6f0a179f9b7f",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.1/1.8.9/Levelhead-8.1%20(1.8.9).jar",
         "display": "Levelhead",
         "description": "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.",
         "icon": "monkey.png",
