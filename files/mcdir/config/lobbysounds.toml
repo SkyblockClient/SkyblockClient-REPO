@@ -1,0 +1,27 @@
+
+[sounds]
+
+	[sounds.mobs]
+		disable_enderman_sounds = true
+		disable_dragon_sounds = true
+		disable_slime_sounds = true
+		disable_wither_sounds = true
+		disable_bat_sounds = true
+
+	[sounds.blocks]
+		disable_fire_sounds = true
+		disable_primed_tnt_sounds = true
+		disable_explosion_sounds = true
+
+	[sounds.players]
+		disable_mystery_box_sounds = true
+		disable_levelup_sounds = true
+		disable_delivery_man_sounds = true
+		disable_stepping_sounds = false
+
+	[sounds.tile_entities]
+		disable_item_pickup_sounds = true
+		disable_experience_orb_sounds = true
+		disable_arrow_sounds = true
+		disable_firework_sounds = true
+

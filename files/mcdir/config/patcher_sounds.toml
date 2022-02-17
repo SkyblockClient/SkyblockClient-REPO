@@ -1,0 +1,283 @@
+
+[music]
+
+	[music.sounds]
+		music_game = 100
+		music_game_end = 100
+		music_game_nether = 100
+		music_game_end_dragon = 100
+		music_game_end_credits = 100
+		music_menu = 100
+		music_game_creative = 100
+
+[hostile]
+
+	[hostile.sounds]
+		mob_guardian_flop = 100
+		mob_wither_idle = 100
+		mob_zombie_metal = 100
+		mob_enderdragon_wings = 100
+		mob_skeleton_say = 100
+		mob_zombie_step = 100
+		mob_enderdragon_end = 100
+		game_hostile_hurt_fall_small = 100
+		mob_wither_shoot = 100
+		mob_slime_big = 100
+		mob_blaze_breathe = 100
+		mob_creeper_death = 100
+		mob_zombiepig_zpigangry = 100
+		mob_spider_say = 100
+		mob_guardian_curse = 100
+		mob_ghast_charge = 100
+		game_hostile_swim = 100
+		game_hostile_hurt = 100
+		mob_endermen_portal = 100
+		mob_zombiepig_zpig = 100
+		mob_silverfish_step = 100
+		mob_silverfish_say = 100
+		game_hostile_die = 100
+		mob_wither_spawn = 100
+		game_hostile_hurt_fall_big = 100
+		mob_endermen_stare = 100
+		mob_zombie_woodbreak = 100
+		mob_guardian_land_idle = 100
+		mob_silverfish_kill = 100
+		game_hostile_swim_splash = 100
+		mob_enderdragon_hit = 100
+		mob_zombiepig_zpigdeath = 100
+		mob_magmacube_jump = 100
+		mob_zombie_hurt = 100
+		mob_zombie_say = 100
+		mob_slime_attack = 100
+		mob_endermen_scream = 100
+		mob_skeleton_step = 100
+		mob_ghast_death = 100
+		mob_zombie_unfect = 100
+		mob_zombiepig_zpighurt = 100
+		mob_guardian_idle = 100
+		mob_silverfish_hit = 100
+		mob_zombie_infect = 100
+		mob_enderdragon_growl = 100
+		mob_ghast_scream = 100
+		mob_spider_death = 100
+		mob_slime_small = 100
+		mob_guardian_land_death = 100
+		mob_blaze_hit = 100
+		mob_ghast_affectionate_scream = 100
+		mob_magmacube_small = 100
+		mob_endermen_idle = 100
+		mob_wither_death = 100
+		mob_magmacube_big = 100
+		creeper_primed = 100
+		mob_blaze_death = 100
+		mob_skeleton_hurt = 100
+		mob_zombie_remedy = 100
+		mob_guardian_elder_death = 100
+		mob_endermen_hit = 100
+		mob_ghast_fireball = 100
+		mob_guardian_hit = 100
+		mob_creeper_say = 100
+		mob_skeleton_death = 100
+		mob_zombie_wood = 100
+		mob_zombie_death = 100
+		mob_guardian_elder_idle = 100
+		mob_guardian_attack = 100
+		mob_spider_step = 100
+		mob_guardian_land_hit = 100
+		mob_ghast_moan = 100
+		mob_wither_hurt = 100
+		mob_guardian_death = 100
+		mob_guardian_elder_hit = 100
+		mob_endermen_death = 100
+
+[record]
+
+	[record.sounds]
+		records_13 = 100
+		records_stal = 100
+		note_harp = 100
+		note_bd = 100
+		records_11 = 100
+		note_pling = 100
+		records_far = 100
+		records_strad = 100
+		note_hat = 100
+		records_cat = 100
+		note_snare = 100
+		records_chirp = 100
+		note_bass = 100
+		records_ward = 100
+		note_bassattack = 100
+		records_mall = 100
+		records_mellohi = 100
+		records_blocks = 100
+		records_wait = 100
+
+[weather]
+
+	[weather.sounds]
+		ambient_weather_rain = 100
+		ambient_weather_thunder = 100
+
+[neutral]
+
+	[neutral.sounds]
+		mob_bat_idle = 100
+		mob_chicken_plop = 100
+		mob_bat_death = 100
+		mob_horse_angry = 100
+		step_stone = 100
+		mob_horse_idle = 100
+		mob_wolf_growl = 100
+		step_grass = 100
+		mob_rabbit_hop = 100
+		mob_cow_hurt = 100
+		minecart_base = 100
+		mob_rabbit_idle = 100
+		mob_wolf_death = 100
+		mob_horse_armor = 100
+		mob_cat_hitt = 100
+		mob_bat_takeoff = 100
+		mob_horse_zombie_death = 100
+		mob_horse_donkey_angry = 100
+		mob_villager_haggle = 100
+		mob_cat_purreow = 100
+		mob_wolf_bark = 100
+		game_neutral_die = 100
+		mob_horse_gallop = 100
+		random_bow = 100
+		game_neutral_swim = 100
+		mob_cat_meow = 100
+		game_neutral_swim_splash = 100
+		mob_irongolem_throw = 100
+		mob_wolf_panting = 100
+		mob_cat_purr = 100
+		random_bowhit = 100
+		mob_villager_death = 100
+		game_neutral_hurt = 100
+		mob_wolf_shake = 100
+		mob_chicken_hurt = 100
+		mob_cat_hiss = 100
+		mob_wolf_step = 100
+		mob_horse_land = 100
+		step_cloth = 100
+		mob_horse_donkey_hit = 100
+		mob_rabbit_death = 100
+		step_ladder = 100
+		step_snow = 100
+		step_sand = 100
+		mob_horse_hit = 100
+		mob_irongolem_walk = 100
+		mob_horse_zombie_hit = 100
+		mob_wolf_howl = 100
+		mob_pig_say = 100
+		mob_bat_hurt = 100
+		game_potion_smash = 100
+		mob_chicken_say = 100
+		mob_horse_leather = 100
+		game_neutral_hurt_fall_small = 100
+		mob_villager_idle = 100
+		mob_horse_breathe = 100
+		mob_pig_step = 100
+		mob_villager_no = 100
+		mob_horse_skeleton_death = 100
+		mob_sheep_shear = 100
+		mob_horse_zombie_idle = 100
+		mob_sheep_say = 100
+		mob_horse_donkey_idle = 100
+		mob_irongolem_death = 100
+		mob_pig_death = 100
+		game_neutral_hurt_fall_big = 100
+		mob_horse_donkey_death = 100
+		mob_rabbit_hurt = 100
+		mob_villager_yes = 100
+		mob_cow_say = 100
+		mob_wolf_whine = 100
+		mob_cow_step = 100
+		mob_sheep_step = 100
+		step_wood = 100
+		mob_horse_skeleton_idle = 100
+		mob_horse_skeleton_hit = 100
+		mob_horse_wood = 100
+		mob_bat_loop = 100
+		step_gravel = 100
+		mob_villager_hit = 100
+		mob_horse_jump = 100
+		mob_horse_soft = 100
+		mob_wolf_hurt = 100
+		mob_chicken_step = 100
+		mob_irongolem_hit = 100
+		mob_horse_death = 100
+
+[block]
+
+	[block.sounds]
+		liquid_water = 100
+		tile_piston_out = 100
+		dig_grass = 100
+		dig_glass = 100
+		random_anvil_use = 100
+		random_door_close = 100
+		portal_trigger = 100
+		liquid_lavapop = 100
+		dig_wood = 100
+		item_firecharge_use = 100
+		game_tnt_primed = 100
+		portal_portal = 100
+		random_chestopen = 100
+		random_anvil_break = 100
+		random_chestclosed = 100
+		random_door_open = 100
+		game_player_swim_splash = 100
+		dig_gravel = 100
+		dig_cloth = 100
+		random_anvil_land = 100
+		random_explode = 100
+		fire_fire = 100
+		random_click = 100
+		dig_sand = 100
+		dig_snow = 100
+		dig_stone = 100
+		random_fizz = 100
+		fire_ignite = 100
+		liquid_lava = 100
+		random_wood_click = 100
+		tile_piston_in = 100
+
+[ambient]
+
+	[ambient.sounds]
+		fireworks_twinkle_far = 100
+		fireworks_largeblast_far = 100
+		fireworks_twinkle = 100
+		fireworks_blast = 100
+		fireworks_launch = 100
+		ambient_cave_cave = 100
+		fireworks_blast_far = 100
+		fireworks_largeblast = 100
+
+[player]
+
+	[player.sounds]
+		random_levelup = 100
+		minecart_inside = 100
+		random_burp = 100
+		random_orb = 100
+		game_player_swim = 100
+		game_player_hurt_fall_small = 100
+		random_break = 100
+		game_player_die = 100
+		game_player_hurt = 100
+		random_splash = 100
+		random_successful_hit = 100
+		random_eat = 100
+		random_drink = 100
+		portal_travel = 100
+		random_pop = 100
+		game_player_hurt_fall_big = 100
+
+[master]
+
+	[master.sounds]
+		gui_button_press = 100
+

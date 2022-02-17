@@ -1,0 +1,27 @@
+
+[general]
+	inform_for_alternatives = true
+	remove_scroll_bar = false
+	chat_background_color = "50,0,0,0"
+	text_render_type = 1
+	remove_tooltip_background = false
+
+[screenshotting]
+	screenshot_mode = 2
+
+[searching]
+	chat_searching = true
+
+[tabs]
+	chat_tabs = true
+	enable_tabs_only_on_hypixel = true
+
+[shortcuts]
+	chat_shortcuts = true
+	enable_shortcuts_only_on_hypixel = true
+
+[chat_window]
+	custom_chat_height = true
+	unfocused_height = 180
+	focused_height = 180
+

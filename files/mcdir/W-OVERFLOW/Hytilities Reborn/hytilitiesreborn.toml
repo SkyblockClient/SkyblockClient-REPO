@@ -1,0 +1,147 @@
+
+[general]
+
+	[general.potion_effects]
+		notify_mining_fatigue = true
+		disable_mining_fatigue_notification_in_skyblock = true
+
+	[general.tab]
+		highlight_friends_in_tab = 1
+		hide_guild_tags_in_tab = false
+		hide_npcs_in_tab = false
+		hide_player_ranks_in_tab = false
+		hide_ping_in_tab = false
+		cleaner_tab_in_skyblock = false
+		"don't_hide_important_npcs" = false
+
+	[general.guilds]
+		broadcast_achievements = false
+		broadcast_levelup = false
+
+[game]
+
+	[game.sound]
+		notify_when_blocks_run_out = false
+		block_number = 10
+		mute_housing_music = true
+		block_notify_sound = 0
+
+	[game.visual]
+		hide_game_starting_titles = false
+		hide_duels_cosmetics = false
+		height_overlay_tint_multiplier = 300
+		hide_actionbar_in_housing = false
+		hide_actionbar_in_invaders = false
+		highlight_color = "255,255,0,0"
+		hardcore_hearts = true
+		hide_bridges_goal_nametags = false
+		remove_non-npcs_in_skyblock = false
+		height_overlay = false
+		hide_useless_skyblock_nametags = false
+		highlight_opened_chests = false
+		hide_armor = false
+		pit_lag_reducer = true
+		edit_height_overlay_manually = false
+
+[lobby]
+
+	[lobby.general]
+		limbo_limiter_fps = 1
+		limbo_limiter = true
+
+	[lobby.entities]
+		hide_useless_lobby_nametags = false
+		hide_lobby_npcs = false
+
+	[lobby.gui]
+		hide_lobby_bossbars = true
+		mystery_box_star = true
+
+[chat]
+
+	[chat.guild]
+		guild_welcome_message = false
+
+	[chat.watchdog]
+		thank_watchdog = false
+
+	[chat.toggles]
+		remove_bridge_self_goal_death_messages = true
+		remove_duels_no_stats_change_messages = true
+		remove_network_booster_perk_messages = true
+		remove_lobby_statuses = true
+		"remover_other's_mystery_box_rewards" = true
+		remove_grinch_gifts_messages = false
+		hide_locraw_messages = true
+		remove_gifts_message = true
+		"remove_friend/guild_statuses" = false
+		remove_block_trail_disabled_messages = true
+		remove_hype_limit_reminder = true
+		remove_game_announcements = true
+		remove_chat_emojis = false
+		remove_soul_well_announcements = true
+		remove_auto_activated_quest_messages = true
+		remove_bedwars_advertisements = false
+		remove_curse_of_spam_messages = true
+		remove_guild_motd = false
+		remove_the_skyblock_welcome_message = true
+		player_adblocker = false
+		remove_server_connected_messages = true
+
+	[chat.restyler]
+		player_count_on_player_leave = true
+		player_count_before_player_name = false
+		game_status_restyle = true
+		player_count_padding = false
+
+	[chat.parties]
+		remove_all_chat_message = true
+		party_chat_swapper = true
+		chat_swapper_channel = 0
+		chat_swapper = true
+
+	[chat.visual]
+		trim_line_separators = true
+		short_channel_names = false
+		cleaner_game_start_counter = true
+		"colored_friend/guild_statuses" = true
+		white_chat = false
+		white_private_messages = true
+
+	[chat.shout]
+		shout_cooldown = true
+
+[automatic]
+
+	[automatic.general]
+		auto_start = false
+
+	[automatic.game]
+		auto_queue_delay = 0
+		auto_queue = false
+		limbo_play_helper = true
+		auto-complete_play_commands = true
+
+	[automatic.stats]
+		automatically_check_gexp = false
+		automatically_check_winstreak = false
+		gexp_mode = 0
+
+	[automatic.chat]
+		auto_party_warp_confirm = true
+		auto_chat_report_confirm = false
+
+	[automatic.autogl]
+		anti_gl = false
+		auto_gl_phrase = 0
+		auto_gl = false
+
+	[automatic.api]
+		automatically_get_api_key = true
+
+[api]
+	api_key = "c5470686-d694-40bb-be8b-967510dbe3b3"
+
+[updater]
+	do_not_modify_this_value = 2
+
