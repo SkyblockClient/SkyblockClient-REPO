@@ -735,6 +735,7 @@
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
         "command": "/skytils",
+        "update_to_ids": ["patcher"],
         "actions": [
             {
                 "method": "hover",
