@@ -8,21 +8,22 @@
 - Chatting (Author: W-OVERFLOW)
 - RewardClaim (Author: ThatGravyBoat)
 - Report+ (Author: ThatGravyBoat)
+- Controlling (Author: Jaredlll08)
 
 
 ## What do the mods do?
 
 ### Custom Main Menu
 
-A mod which allows you to modify the main menu using a json file, you can modify the content / position of pretty much everything the vanilla menu contains. In addition you can also add new stuff to your menu like a slideshow, web links or completely new sub menus
+A mod which allows you to modify the main menu using a json file, you can modify the content / position of pretty much everything the vanilla menu contains. In addition you can also add new stuff to your menu like a slideshow, web links or completely new sub menus.
 
 ### Smooth Scrolling Everywhere
 
-A mod which adds smooth scrolling to every vanilla list. Which includes smooth scrolling with mouse scroll, and the ability the bounce back when over-scroll
+A mod which adds smooth scrolling to every vanilla list. Which includes smooth scrolling with mouse scroll, and the ability the bounce back when over-scroll.
 
 ### BetterChat
 
-A mod which adds animated chat messages, option to rescale, reposition chat and gives chat a clear background
+A mod which adds animated chat messages, option to rescale, reposition chat and gives chat a clear background.
 
 ### Chatting
 
@@ -30,12 +31,15 @@ A mod which adds chat utilities such as extremely customizable tabs, shortcuts, 
 
 ### RewardClaim
 
-A mod that allows you to claim Hypixel daily rewards in-game rather than through their site and leaving the game
+A mod that allows you to claim Hypixel daily rewards in-game rather than through their site and leaving the game.
 
 ### Report+
 
-A mod that that improves Hypixel's reporting UI to allow the player to stay on 1 screen rather than switch between multiple
+A mod that that improves Hypixel's reporting UI to allow the player to stay on 1 screen rather than switch between multiple.
 
+### Controlling
+
+A mod that that adds the ability to search for keybinds using their name in the KeyBinding menu.
 
 ## How do I use them?
 
@@ -63,6 +67,10 @@ Use `/rewardclaim` to open the configuration window
 
 Use `/reportplus` to open the configuration window
 
+### Controlling
+
+No additional configuration is needed
+
 
 # Credits
 
@@ -79,6 +87,8 @@ Use `/reportplus` to open the configuration window
 [RewardClaim](https://github.com/ThatGravyBoat/RewardClaim)
 
 [Report+](https://github.com/ThatGravyBoat/ReportPlus)
+
+[Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 
 #### Discords
 

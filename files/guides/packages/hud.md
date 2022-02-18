@@ -6,6 +6,7 @@
 - Bossbar Customizer (Author: Sk1er LLC)
 - REDACTION (Author: W-OVERFLOW)
 - Keystrokes (Author: Sk1er LLC)
+- Sidebar Mod (Author: Canelex)
 
 
 ## What do the mods do?
@@ -26,6 +27,10 @@ A mod that adds a translucent black bar and modifies various pre-existing guis t
 
 A mod to display WASD keystrokes, Left & Right clicks, and other miscellaneous items onscreen
 
+### Sidebar Mod
+
+A mod that allows you to customize the sidebar.
+
 
 ## How do I use them?
 
@@ -45,6 +50,10 @@ Use `/redaction` to open the configuration window
 
 Use `/keystrokes` to open the configuration window
 
+### Sidebar Mod
+
+Use `/sidebarmod` to open the configuration window
+
 
 # Credits
 
@@ -57,6 +66,8 @@ Use `/keystrokes` to open the configuration window
 [REDACTION](https://github.com/W-OVERFLOW/REDACTION)
 
 [Keystrokes](https://sk1er.club/mods/keystrokesmod)
+
+[Sidebar Mod](https://www.youtube.com/watch?v=cn9VvT43yRs)
 
 #### Discords
 

@@ -1,0 +1,11 @@
+
+[general]
+	chroma_speed = 5
+	damage_tint_colour = "76,94,0,255"
+	toggle_mod = true
+	fade_damage_tint = false
+	chroma = false
+
+[updater]
+	show_update_notification = true
+

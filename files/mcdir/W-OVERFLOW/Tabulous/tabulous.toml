@@ -1,0 +1,67 @@
+
+[general]
+
+	[general.general]
+		disable_tab = false
+
+	[general.updates]
+		show_update_notification = true
+
+[tab]
+	tab_position = 0
+
+	[tab.general]
+		show_self_at_top = false
+		top_position = 10
+		show_scoreboard_values = true
+		hide_invalid_names = false
+		text_shadow = true
+		"don't_render_bossbar" = true
+
+	[tab.margins]
+		fix_margins = 0
+
+	[tab."headers/footers"]
+		show_header = true
+		show_footer = true
+
+	[tab.ping]
+		hide_ping_ingame = true
+		show_ping = true
+
+	[tab.animations]
+		animations = true
+		animation_speed = 2.0
+
+	[tab.heads]
+		"don't_show_heads" = false
+		head_position = 0
+
+[tabulous_customization]
+
+	[tabulous_customization.custom_text]
+		custom_header_text = "default"
+		custom_name_text = "default"
+		custom_footer_text = "default"
+		hide_custom_name_ingame = false
+
+	[tabulous_customization.colors]
+		tab_color = "128,50,50,50"
+		tab_entry_color = "32,255,255,255"
+
+[hypixel]
+
+	[hypixel.npcs]
+		force_hide_npcs = true
+
+	[hypixel.players]
+		hide_guild_tags_in_tab = false
+		hide_player_ranks_in_tab = false
+
+	[hypixel.bedwars]
+		special_custom_name_in_bedwars = true
+
+	[hypixel.skyblock]
+		default_tab_in_skyblock = false
+		cleaner_tab_in_skyblock = true
+
