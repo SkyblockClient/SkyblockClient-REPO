@@ -4,7 +4,7 @@
 
         "menu":
         {
-            "image" : "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbg_menu.png",
+            "image" : "web:https://raw.githubusercontent.com/Taryro55/SkyblockClient-REPO/main/files/config/cmmbg_menu.png",
             "posX" : 25,
             "posY" : -80,
             "width" : 150,
@@ -14,7 +14,7 @@
 
         "logo":
         {
-           "image" : "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmskyclient.png",
+           "image" : "web:https://raw.githubusercontent.com/Taryro55/SkyblockClient-REPO/main/files/config/cmmskyclient.png",
             "posX" : 77,
             "posY" : 15,
             "width" : 40,
@@ -128,7 +128,7 @@
     
     "other": {
         "background": {
-			"image": "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackground.png"
+			"image": "web:https://raw.githubusercontent.com/Taryro55/SkyblockClient-REPO/main/files/config/cmmbackground.png"
 		}
     }
 }
