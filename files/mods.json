@@ -1025,7 +1025,8 @@
         "categories": [
             "2;GUI"
         ],
-        "hidden": false
+        "hidden": false,
+        "icon": "controlling.png"
     },
     {
         "id": "smoothscrollingeverywhere",
@@ -1058,7 +1059,8 @@
         "categories": [
             "4;QOL"
         ],
-        "hidden": false
+        "hidden": false,
+        "icon": "monkey.png"
     },
     {
         "id": "popup_events",
@@ -1077,7 +1079,8 @@
         "categories": [
             "4;QOL"
         ],
-        "hidden": false
+        "hidden": false,
+        "icon": "monkey.png"
     },
     {
         "id": "optibye",
@@ -1092,7 +1095,8 @@
         "categories": [
             "4;QOL"
         ],
-        "hidden": false
+        "hidden": false,
+        "icon": "tgb_icon.png"
     },
     {
         "id": "rc",
@@ -1111,7 +1115,8 @@
         "categories": [
             "2;GUI"
         ],
-        "hidden": false
+        "hidden": false,
+        "icon": "tgb_icon.png"
     },
     {
         "id": "simpletogglesprint",
@@ -1240,7 +1245,8 @@
         "categories": [
             "2;GUI"
         ],
-        "hidden": false
+        "hidden": false,
+        "icon": "tgb_icon.png"
     },
     {
         "id": "sidebarmod",
