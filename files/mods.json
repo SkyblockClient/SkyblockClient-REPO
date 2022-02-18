@@ -9,60 +9,19 @@
         "file": "itlt-1.8.8-9-1.0.1.jar",
         "hash": "99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04",
         "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
-        "display": "Utility Bundle",
+        "display": "Its the Little Things",
         "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, togglesprint, and a lot more!",
         "icon": "skyclient.png",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
-            {
-                "method": "hover",
-                "document": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Scrollable Tooltips",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/text_overflow_scroll"
-            },
             {
                 "icon": "itlt.png",
                 "text": "It's The Little Things",
                 "creator": "Zlepper and Paint_Ninja",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
-            },
-            {
-                "icon": "tgb_icon.png",
-                "text": "OptiBye",
-                "creator": "ThatGravyBoat",
-                "link": "https:/discord.gg/jRhkYFmpCa"
-            },
-            {
-                "icon": "skyclient.png",
-                "text": "SimpleToggleSprint",
-                "creator": "Lily",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Hypixel Autocomplete",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/hypixel_auto_complete"
             }
-        ],
-        "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
-        ],
-        "packages": [
-            "scrollabletooltips",
-            "optibye",
-            "simpletogglesprint",
-            "hypixel_auto_complete"
         ],
         "config": true,
         "files": [
@@ -80,74 +39,19 @@
         "file": "CustomMainMenu-MC1.8.9-2.0.jar",
         "hash": "f78f8a1e47a1d9a2a9e2d622e8c9383e9b907c6d023ab114b8d04f6207f22920",
         "url": "https://media.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar",
-        "display": "GUI Bundle",
+        "display": "Custom Main Menu",
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
         "icon": "skyclient.png",
+        "categories": [
+            "2;GUI"
+        ],
         "actions": [
-            {
-                "method": "hover",
-                "document": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md"
-            },
             {
                 "icon": "cmm.png",
                 "text": "Custom Main Menu",
                 "creator": "Lumien231",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
-            },
-            {
-                "icon": "smooth scrolling everywhere.png",
-                "text": "Smooth Scrolling Everywhere",
-                "creator": "Shedaniel",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
-            },
-            {
-                "icon": "llamalad.png",
-                "text": "BetterChat",
-                "creator": "LlamaLad7",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
-            },
-            {
-                "icon": "wyvest.png",
-                "text": "Chatting",
-                "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/Chatting"
-            },
-            {
-                "icon": "tgb_icon.png",
-                "text": "RewardClaim",
-                "creator": "ThatGravyBoat",
-                "link": "https://discord.gg/jRhkYFmpCa"
-            },
-            {
-                "icon": "tgb_icon.png",
-                "text": "Report+",
-                "creator": "ThatGravyBoat",
-                "link": "https://discord.gg/jRhkYFmpCa"
-            },
-            {
-                "icon": "controlling.png",
-                "text": "Controlling",
-                "creator": "Jaredlll08",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/controlling"
             }
-        ],
-        "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
-        ],
-        "packages": [
-            "smoothscrollingeverywhere",
-            "betterchat",
-            "chatting",
-            "rc",
-            "reportplus",
-            "controlling"
         ],
         "config": true,
         "files": [
@@ -164,60 +68,21 @@
         "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
         "hash": "b65548499adcd2e69f0855dfdc7636c81d9daa1fb3d05c367904a28d6d5fed01",
         "url": "https://short.isxander.dev/RqjzS4",
-        "display": "HUD Bundle",
+        "display": "EvergreenHUD",
         "description": "Displays every piece of information a Minecraft player could ever need.",
         "command": "/evergreenhud",
         "discordcode": "AJv5ZnNT8q",
         "icon": "skyclient.png",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
-            },
-            {
                 "icon": "evergreen.png",
                 "text": "EvergreenHUD",
                 "creator": "isXander",
                 "link": "https://hypixel.net/threads/3787277/"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Bossbar Customizer",
-                "link": "https://sk1er.club/mods/bossbar_customizer"
-            },
-            {
-                "icon": "wyvest.png",
-                "text": "REDACTION",
-                "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/REDACTION"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Keystrokes",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/keystrokesmod"
-            },
-            {
-                "icon": "canelex.jpg",
-                "text": "Sidebar Mod",
-                "creator": "Canalex",
-                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
             }
         ],
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
-        ],
-        "packages": [
-            "bossbar_customizer",
-            "redaction",
-            "keystrokes",
-            "sidebarmod"
+            "3;HUD"
         ]
     },
     {
@@ -230,67 +95,20 @@
         "hash": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
-        "display": "QOL Bundle",
+        "display": "Insomnia",
         "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
         "command": "/insomnia on/off",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Popup Events",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/popup_events"
-            },
-            {
                 "icon": "moulberrys bush.png",
                 "text": "Anti Dream Skin",
                 "creator": "Moulberry",
                 "link": "https://youtu.be/bZxXrt0T4Lc"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "AutoGG",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/autogg"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "AutoTip",
-                "creator": "Sk1er LLC",
-                "link": "https://autotip.pro/"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "TNT Time",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/tnttime"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Levelhead",
-                "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/level_head"
             }
         ],
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
-        ],
-        "packages": [
-            "popup_events",
-            "autogg",
-            "autotip",
-            "tnttime",
-            "levelhead"
+            "4;QOL"
         ]
     },
     {
@@ -299,7 +117,7 @@
         "file": "DamageTint-3.2.0.jar",
         "hash": "fdfd3bd9feb7719aa2a77edd2901566f5cdf42d8770a7a1f4d954f91ed359aa5",
         "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
-        "display": "PvP Bundle",
+        "display": "Damage Tint",
         "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
         "icon": "skyclient.png",
         "command": "/damagetint",
@@ -309,40 +127,14 @@
         ],
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
-            },
-            {
                 "icon": "wyvest.png",
                 "text": "Damage Tint",
                 "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/DamageTint"
-            },
-            {
-                "icon": "isxander.png",
-                "text": "Particles Enhanced",
-                "creator": "isXander",
-                "link": "https://short.isxander.dev/particlesenhanced"
-            },
-            {
-                "icon": "wyvest.png",
-                "text": "BehindYouV3",
-                "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
             }
         ],
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
-        ],
-        "packages": [
-            "particlesenhanced",
-            "behindyouv3"
+            "5;PvP"
         ],
         "discordcode": "woverflow"
     },
@@ -353,64 +145,19 @@
         "hidden": false,
         "file": "CrosshairV2-0.1.0-beta5.jar",
         "url": "https://cdn.discordapp.com/attachments/929900085465198592/934427912868872222/CrosshairV2-0.1.0-beta5.jar",
-        "display": "Imported",
+        "display": "Crosshair V2",
         "description": "Custom added mods to Skyclient. Some are Betas or Alphas, so expect bugs!",
         "icon": "skyclient.png",
-        "creator": "B3nja_",
+        "creator": "",
         "actions": [
-            {
-                "method": "hover",
-                "document": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/imported.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/Taryro55/SkyblockClient-REPO/blob/main/files/guides/packages/imported.md"
-            },
             {
                 "icon": "wyvest.png",
                 "text": "Crosshair V2 (B)",
-                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
-            },
-            {
-                "icon": "leo3418.png",
-                "text": "Hypixel Bedwars Helper",
-                "link": "https://github.com/Leo3418/HBWHelper"
-            },
-            {
-                "icon": "hystats.png",
-                "text": "Hystats",
-                "link": "https://www.youtube.com/watch?v=_YvgPHob-ow"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Lobby Sounds",
-                "link": "https://sk1er.club/mods/lobby_sounds"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Sk1er Old Animations (B)",
-                "link": "https://discord.gg/d4KFR9H"
-            },
-            {
-                "icon": "mdashlw.png",
-                "text": "Smart Reply",
-                "link": "https://github.com/mdashlw/smart-reply/"
-            },
-            {
-                "icon": "wyvest.png",
-                "text": "Tabulous (B)",
-                "link": "https://github.com/W-OVERFLOW/"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Victory Royale",
-                "link": "https://sk1er.club/mods/victory_royale"
+                "link": "https://github.com/W-OVERFLOW"
             }
         ],
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "3;HUD"
         ],
         "packages": [
             "hbwhelper",
@@ -1286,9 +1033,12 @@
         "file": "Controlling-7.0.0.2.jar",
         "hash": "e88312bde2cd50a53f0d8eaa04afe82026cf45709ab4a35905473e695285a70c",
         "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
-        "display": "GUI Bundle",
+        "display": "Controlling",
         "description": "Adds more options in controls menu to make it easier to navigate.",
-        "hidden": true
+        "categories": [
+            "2;GUI"
+        ],
+        "hidden": false
     },
     {
         "id": "smoothscrollingeverywhere",
@@ -1296,10 +1046,13 @@
         "file": "smooth-scrolling-everywhere-1.2.jar",
         "hash": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
-        "display": "GUI Bundle",
+        "display": "Smooth Scrolling Everywhere",
         "description": "Makes the scrolling in menus smoother",
         "creator": "Shedaniel",
-        "hidden": true,
+        "categories": [
+            "2;GUI"
+        ],
+        "hidden": false,
         "icon": "smooth scrolling everywhere.png"
     },
     {
@@ -1315,7 +1068,10 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "description": "Lets you scroll on item tooltips when their height surpasses the height of your screen.",
-        "hidden": true
+        "categories": [
+            "4;QOL"
+        ],
+        "hidden": false
     },
     {
         "id": "popup_events",
@@ -1331,7 +1087,10 @@
         "discordcode": "sk1er",
         "command": "/popupevents",
         "description": "Accept or deny friend, party, and guild invite requests.",
-        "hidden": true
+        "categories": [
+            "4;QOL"
+        ],
+        "hidden": false
     },
     {
         "id": "optibye",
@@ -1343,7 +1102,10 @@
         "creator": "ThatGravyBoat",
         "command": "No Commands",
         "discordcode": "neu",
-        "hidden": true
+        "categories": [
+            "4;QOL"
+        ],
+        "hidden": false
     },
     {
         "id": "rc",
@@ -1359,7 +1121,10 @@
         "creator": "ThatGravyBoat",
         "command": "/rewardclaim",
         "discordcode": "wQfFucgHTX",
-        "hidden": true
+        "categories": [
+            "2;GUI"
+        ],
+        "hidden": false
     },
     {
         "id": "simpletogglesprint",
@@ -1376,6 +1141,9 @@
         "icon": "skyclient.png",
         "command": "/togglesprint",
         "creator": "Lily",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
             {
                 "icon": "github.png",
@@ -1383,7 +1151,7 @@
                 "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "hypixel_auto_complete",
@@ -1399,6 +1167,9 @@
         "icon": "monkey.png",
         "command": "/hypixelautocomplete",
         "creator": "Sk1er LLC",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
             {
                 "icon": "monkey.png",
@@ -1406,7 +1177,7 @@
                 "link": "https://sk1er.club/mods/hypixel_auto_complete"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "betterchat",
@@ -1419,6 +1190,9 @@
         "icon": "llamalad.png",
         "command": "/betterchat",
         "creator": "LlamaLad7",
+        "categories": [
+            "2;GUI"
+        ],
         "actions": [
             {
                 "icon": "llamalad.png",
@@ -1426,7 +1200,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "chatting",
@@ -1449,6 +1223,9 @@
             "W-OVERFLOW/Chatting/chattabs.json",
             "W-OVERFLOW/Chatting/chatting.toml"
         ],
+        "categories": [
+            "2;GUI"
+        ],
         "actions": [
             {
                 "icon": "github.png",
@@ -1457,7 +1234,7 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "reportplus",
@@ -1473,7 +1250,10 @@
         "creator": "ThatGravyBoat",
         "command": "/reportplus",
         "discordcode": "wQfFucgHTX",
-        "hidden": true
+        "categories": [
+            "2;GUI"
+        ],
+        "hidden": false
     },
     {
         "id": "sidebarmod",
@@ -1484,6 +1264,9 @@
         "description": "Allows you to customize the sidebar.",
         "creator": "canelex & powns",
         "icon": "canelex.jpg",
+        "categories": [
+            "3;HUD"
+        ],
         "actions": [
             {
                 "icon": "youtube.png",
@@ -1494,7 +1277,7 @@
         "files": [
             "config/SidebarMod.config"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "redaction",
@@ -1507,6 +1290,9 @@
         "icon": "wyvest.png",
         "command": "/redaction",
         "creator": "W-OVERFLOW (Wyvest)",
+        "categories": [
+            "3;HUD"
+        ],
         "actions": [
             {
                 "icon": "github.png",
@@ -1515,7 +1301,7 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true,
+        "hidden": false,
         "files": [
             "W-OVERFLOW/REDACTION/redaction.toml"
         ]
@@ -1531,6 +1317,9 @@
         "icon": "wyvest.png",
         "command": "/behindyou",
         "creator": "W-OVERFLOW",
+        "categories": [
+            "5;PvP"
+        ],
         "actions": [
             {
                 "icon": "github.png",
@@ -1539,7 +1328,7 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "keystrokes",
@@ -1553,6 +1342,9 @@
         "creator": "Sk1er LLC",
         "command": "/keystrokes",
         "discordcode": "sk1er",
+        "categories": [
+            "3;HUD"
+        ],
         "actions": [
             {
                 "icon": "youtube.png",
@@ -1568,7 +1360,7 @@
         "files": [
             "config/keystrokes.json"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "bossbar_customizer",
@@ -1582,6 +1374,9 @@
         "creator": "Sk1er LLC",
         "command": "/bossbar",
         "discordcode": "sk1er",
+        "categories": [
+            "3;HUD"
+        ],
         "actions": [
             {
                 "icon": "youtube.png",
@@ -1594,7 +1389,7 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "tnttime",
@@ -1607,6 +1402,9 @@
         "icon": "monkey.png",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
             {
                 "icon": "youtube.png",
@@ -1619,7 +1417,7 @@
                 "link": "https://sk1er.club/mods/tnttime"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "levelhead",
@@ -1632,6 +1430,9 @@
         "icon": "monkey.png",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
             {
                 "icon": "youtube.png",
@@ -1647,7 +1448,7 @@
         "files": [
             "config/levelhead.json"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "autogg",
@@ -1661,6 +1462,9 @@
         "creator": "Sk1er LLC",
         "command": "/autogg",
         "discordcode": "sk1er",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
             {
                 "icon": "monkey.png",
@@ -1668,7 +1472,7 @@
                 "link": "https://sk1er.club/mods/autogg"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "autotip",
@@ -1682,6 +1486,9 @@
         "creator": "Semx11, 2Pi, Sk1er LLC",
         "command": "/autotip",
         "discordcode": "sk1er",
+        "categories": [
+            "4;QOL"
+        ],
         "actions": [
             {
                 "icon": "monkey.png",
@@ -1689,7 +1496,7 @@
                 "link": "https://autotip.pro/"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "oofmod",
@@ -1730,6 +1537,9 @@
         "command": "particlesenhanced",
         "discordcode": "AJv5ZnNT8q",
         "icon": "isxander.png",
+        "categories": [
+            "5;PvP"
+        ],
         "actions": [
             {
                 "icon": "github.png",
@@ -1747,7 +1557,7 @@
                 "link": "https://www.isxander.dev"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "hychat",
@@ -1790,25 +1600,31 @@
         "id": "hbwhelper",
         "forge_id": "hbwhelper",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "hbwhelper-1.8.9-1.2.2.jar",
         "url": "https://github.com/Leo3418/HBWHelper/releases/download/v1.2.2/hbwhelper-1.8.9-1.2.2.jar",
         "display": "Hypixel Bedwars Helper",
         "description": "Shows you information you care about in a Hypixel Bed Wars game at a glance.",
         "icon": "leo3418.png",
+        "categories": [
+            "5;PvP"
+        ],
         "creator": "Leo3418"
     },
     {
         "id": "hystats",
         "forge_id": "hystats",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "HyStats-v4.1_1.8.9.jar",
         "url": "https://download2271.mediafire.com/5uvh43v9notg/so4sw1wn8aso68i/HyStats-v4.1_1.8.9.jar",
         "display": "Hystats",
         "description": "Allows to display stats ingame.",
         "icon": "hystats.png",
         "command": "/hystats",
+        "categories": [
+            "3;HUD"
+        ],
         "creator": "KAD7",
         "discordcode": "dHFXzvh"
     },
@@ -1816,7 +1632,7 @@
         "id": "lobby_sounds",
         "forge_id": "lobby_sounds",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "LobbySounds-1.3.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/lobby_sounds/1.3.1/1.8.9/LobbySounds-1.3.1%20(1.8.9).jar",
         "display": "Lobby Sounds",
@@ -1824,6 +1640,9 @@
         "icon": "monkey.png",
         "command": "/lobbysounds",
         "creator": "Sk1er LLC",
+        "categories": [
+            "4;QOL"
+        ],
         "discordcode": "sk1er",
         "files": [
             "config/lobbysounds.toml"
@@ -1833,13 +1652,16 @@
         "id": "sk1er_old_animations",
         "forge_id": "sk1er_old_animations",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
         "url": "https://cdn.discordapp.com/attachments/819543296765591552/902945128895893564/OldAnimations_1.0.0_-_beta_10.1.jar",
         "display": "Sk1er Old Animations (B)",
         "description": "Use the 1.7 animations on 1.8.9. Beta.",
         "icon": "monkey.png",
         "command": "/oldanimations",
+        "categories": [
+            "5;PvP"
+        ],
         "creator": "Sk1er LLC",
         "discordcode": "sk1er"
     },
@@ -1847,25 +1669,31 @@
         "id": "smartreply",
         "forge_id": "smartreply",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "SmartReply-1.1.0.jar",
         "url": "https://github.com/mdashlw/smart-reply/releases/download/v1.1.0/SmartReply-1.1.0.jar",
         "display": "Smart Reply",
         "description": "Provides a smarter /reply system, so you don't accidentally message a wrong person.",
         "icon": "mdashlw.png",
+        "categories": [
+            "4;QOL"
+        ],
         "creator": "mdashlw"
     },
     {
         "id": "tabulous",
         "forge_id": "tabulous",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "Tabulous-1.1.0-beta1.jar",
         "url": "https://cdn.discordapp.com/attachments/929900085465198592/935515961228927117/Tabulous-1.1.0-beta1.jar",
         "display": "Tabulous (B)",
         "description": "Allows to customise the tab window. Beta.",
         "icon": "wyvest.png",
         "command": "/tabulous",
+        "categories": [
+            "2;GUI"
+        ],
         "creator": "W-OVERFLOW (Wyvest)",
         "discordcode": "woverflow",
         "files": [
@@ -1876,13 +1704,16 @@
         "id": "victory_royale",
         "forge_id": "victory_royale",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "Victory Royale-1.0 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/victory_royale/1.0/1.8.9/Victory%20Royale-1.0%20(1.8.9).jar",
         "display": "Victory Royale",
         "description": "Adds the Fortnite Victory Royale win effect upon winning a game on Hypixel",
         "icon": "monkey.png",
         "command": "/victoryroyale",
+        "categories": [
+            "6;FUN"
+        ],
         "creator": "Sk1er LLC",
         "discordcode": "sk1er"
     },
