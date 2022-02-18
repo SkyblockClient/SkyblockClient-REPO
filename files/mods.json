@@ -975,6 +975,25 @@
         ]
     },
     {
+        "id": "itemphysic",
+        "forge_id": "itemphysic",
+        "file": "ItemPhysic Lite 1.3.jar",
+        "hash": "4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a",
+        "url": "https://media.forgecdn.net/files/2439/695/ItemPhysic+Lite+1.3+mc1.8.9.jar",
+        "display": "Item Physic Lite",
+        "description": "Make dropped items have realistic physics!",
+        "icon": "creativemd.png",
+        "creator": "CreativeMD",
+        "actions": [
+            {
+                "icon": "creativemd.png",
+                "text": "Website",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite"
+            }
+        ],
+        "discordcode": "W9QM3fS"
+    },
+    {
         "id": "craftify",
         "forge_id": "craftify",
         "file": "Craftify-1.0.0.jar",
