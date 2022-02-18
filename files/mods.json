@@ -182,9 +182,7 @@
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
         "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "1;Recommended"
         ],
         "icon": "skyclient.png",
         "creator": "Lily",
@@ -210,9 +208,8 @@
         "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
         "enabled": true,
         "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"        ],
+            "1;Recommended"
+        ],
         "icon": "skyclient.png",
         "creator": "koxx12",
         "command": "/scc",
@@ -252,9 +249,7 @@
             }
         ],
         "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "1;Recommended"
         ],
         "files": [
             "optionsof.txt"
@@ -294,9 +289,7 @@
             "config/patcher_sounds.toml"
         ],
         "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "1;Recommended"
         ]
     },
     {
@@ -324,9 +317,7 @@
             }
         ],
         "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "4;QOL"
         ],
         "files": [
             "W-OVERFLOW/CrashPatch/SKYCLIENT"
@@ -362,9 +353,7 @@
         ],
         "discordcode": "woverflow",
         "categories": [
-            "1;Recommended",
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "4;QOL"
         ]
     },
     {
@@ -387,8 +376,7 @@
             "config/blockoverlay.cfg"
         ],
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "3;HUD"
         ]
     },
     {
@@ -414,7 +402,7 @@
         "discordcode": "sk1er",
         "description": "Hides your nick on Hypixel.",
         "categories": [
-            "4;All Without Skyblock"
+            "4;QOL"
         ],
         "files": [
             "nickhider.toml"
@@ -464,7 +452,8 @@
         "categories": [
             "2;All Skyblock",
             "3;Recommended Skyblock"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "sbhud",
@@ -499,7 +488,8 @@
                 "",
                 "Use anyway?"
             ]
-        }
+        },
+        "hidden": true
     },
     {
         "id": "neu",
@@ -544,7 +534,8 @@
         "config": true,
         "files": [
             "config/notenoughupdates/config.json"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "dsm",
@@ -585,7 +576,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "skytils",
@@ -629,7 +621,8 @@
         "categories": [
             "2;All Skyblock",
             "3;Recommended Skyblock"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "apec",
@@ -674,7 +667,8 @@
         ],
         "files": [
             "config/Apec/Settings.txt"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "cowlection",
@@ -721,7 +715,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "sbp",
@@ -756,7 +751,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "dg",
@@ -792,7 +788,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "drm",
@@ -822,7 +819,8 @@
                 "text": "Github",
                 "link": "https://github.com/Quantizr/DungeonRoomsMod"
             }
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "timechanger",
@@ -837,8 +835,7 @@
         "creator": "Shatterpoint",
         "command": "/timechange",
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "7;Others"
         ],
         "actions": [
             {
@@ -860,7 +857,7 @@
         "command": "/craftify",
         "creator": "ThatGravyBoat",
         "categories": [
-            "4;All Without Skyblock"
+            "3;HUD"
         ],
         "actions": [
             {
@@ -882,8 +879,7 @@
         "icon": "tterrag.png",
         "creator": "tterrag1098",
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "2;GUI"
         ],
         "actions": [
             {
@@ -909,7 +905,7 @@
         "icon": "monkey.png",
         "discordcode": "sk1er",
         "categories": [
-            "4;All Without Skyblock"
+            "3;HUD"
         ],
         "actions": [
             {
@@ -941,7 +937,7 @@
             }
         ],
         "categories": [
-            "4;All Without Skyblock"
+            "7;Others"
         ],
         "warning": {
             "lines": [
@@ -988,7 +984,8 @@
         "packs": [
             "skymobs",
             "actuallymobs"
-        ]
+        ],
+        "hidden": true
     },
     {
         "id": "rpm",
@@ -1003,8 +1000,7 @@
         "creator": "Aycy",
         "icon": "aycy.jpg",
         "categories": [
-            "4;All Without Skyblock",
-            "6;B3nja"
+            "2;GUI"
         ],
         "actions": [
             {
@@ -1511,7 +1507,7 @@
         "command": "/oofmod",
         "discordcode": "XgDZA3pdyT",
         "categories": [
-            "4;All Without Skyblock"
+            "7;Others"
         ],
         "actions": [
             {
@@ -1712,7 +1708,7 @@
         "icon": "monkey.png",
         "command": "/victoryroyale",
         "categories": [
-            "6;FUN"
+            "7;Others"
         ],
         "creator": "Sk1er LLC",
         "discordcode": "sk1er"
