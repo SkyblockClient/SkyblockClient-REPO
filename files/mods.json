@@ -853,7 +853,10 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite"
             }
         ],
-        "discordcode": "W9QM3fS"
+        "discordcode": "W9QM3fS",
+        "categories": [
+            "7;Others"
+        ]
     },
     {
         "id": "craftify",
