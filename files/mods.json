@@ -1292,7 +1292,7 @@
         "files": [
             "config/SidebarMod.config"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "redaction",
@@ -1736,7 +1736,7 @@
         "id": "vanillahud",
         "forge_id": "vanillahud",
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "file": "VanillaHUD-0.1.0.jar",
         "url": "https://cdn.discordapp.com/attachments/929900085465198592/944258437531975761/VanillaHUD-0.1.0.jar",
         "display": "VanillaHUD (B)",
