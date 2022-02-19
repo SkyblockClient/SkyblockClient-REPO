@@ -1310,7 +1310,10 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": false,
+        "categories": [
+            "3;HUD"
+        ]
     },
     {
         "id": "redaction",
