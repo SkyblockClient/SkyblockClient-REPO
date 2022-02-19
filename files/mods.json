@@ -1649,7 +1649,9 @@
         "icon_scaling": "pixel",
         "creator": "isXander",
         "update_to_id": "crashpatch",
-        "update_to_ids": ["crashpatch"]
+        "update_to_ids": [
+            "crashpatch"
+        ]
     },
     {
         "id": "minecraft",
