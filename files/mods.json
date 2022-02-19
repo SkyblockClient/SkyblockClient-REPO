@@ -157,8 +157,8 @@
             "evergreen"
         ],
         "forge_id": "evergreenhud",
-        "file": "EvergreenHUD (1.8.9-2.0-pre12).jar",
-        "hash": "b65548499adcd2e69f0855dfdc7636c81d9daa1fb3d05c367904a28d6d5fed01",
+        "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
+        "hash": "2672fa38eb20d7e370587d7aec9fb07c7a4523bf1f4ae5386f6d48fd3c6a9d66",
         "url": "https://short.isxander.dev/RqjzS4",
         "display": "HUD Bundle",
         "description": "Displays every piece of information a Minecraft player could ever need.",
