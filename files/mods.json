@@ -1285,9 +1285,31 @@
                 "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
             }
         ],
-        "files": [
-            "config/SidebarMod.config"
+        "hidden": true,
+        "update_to_id": "vanillahud",
+        "update_to_ids": [
+            "vanillahud"
+        ]
+    },
+    {
+        "id": "vanillahud",
+        "forge_id": "vanillahud",
+        "file": "VanillaHUD-1.0.0.jar",
+        "hash": "725b0c2f7d3599a2343ceea101149a3e34f75f42a27772b837e97d5ab44f8bc9",
+        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.0.0/VanillaHUD-1.0.0.jar",
+        "display": "VanillaHUD",
+        "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
+        "icon": "wyvest.png",
+        "command": "/vanillahud",
+        "creator": "W-OVERFLOW (Wyvest)",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
+            }
         ],
+        "discordcode": "woverflow",
         "hidden": true
     },
     {
@@ -1400,7 +1422,11 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "update_to_id": "vanillahud",
+        "update_to_ids": [
+            "vanillahud"
+        ]
     },
     {
         "id": "tnttime",
@@ -1730,22 +1756,25 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er"
     },
-    {
-        "id": "vanillahud",
-        "forge_id": "vanillahud",
+    {    "id": "wyvtils",
+        "forge_id": "wyvtils",
         "enabled": false,
-        "hidden": false,
-        "file": "VanillaHUD-0.1.0.jar",
-        "url": "https://cdn.discordapp.com/attachments/929900085465198592/944258437531975761/VanillaHUD-0.1.0.jar",
-        "display": "VanillaHUD (B)",
-        "description": "Actionbar, Bossbar and Sidebar customization!",
+        "file": "Wyvtils-1.8.9-2.0.0.jar",
+        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
+        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "display": "Wyvtils",
+        "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
         "icon": "wyvest.png",
-        "command": "/vanillahud",
-        "categories": [
-            "3;HUD"
-        ],
-        "creator": "W-OVERFLOW",
-        "discordcode": "woverflow"
+        "command": "/wyvtils",
+        "creator": "W-OVERFLOW (Wyvest)",
+        "discordcode": "qKETDJDsV3",
+        "hidden": true,
+        "update_to_ids": [
+            "vanillahud",
+            "redaction",
+            "hytilities-reborn",
+            "itemphysic"
+        ]
     },
     {
         "id": "minecraft",
