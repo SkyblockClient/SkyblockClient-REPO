@@ -167,8 +167,8 @@
             "skyblockclientupdater"
         ],
         "forge_id": "skyblockclientupdater",
-        "file": "SkyblockClient-Updater-1.1.2.jar",
-        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.2/SkyblockClient-Updater-1.1.2.jar",
+        "file": "SkyblockClient-Updater-1.1.3.jar",
+        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.3/SkyblockClient-Updater-1.1.3.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
@@ -584,10 +584,6 @@
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
         "command": "/skytils",
-        "update_to_ids": [
-            "patcher",
-            "reauth"
-        ],
         "actions": [
             {
                 "method": "hover",
@@ -861,9 +857,9 @@
     {
         "id": "craftify",
         "forge_id": "craftify",
-        "file": "Craftify-1.0.0-beta-2.jar",
+        "file": "Craftify-1.0.0-beta-3.jar",
         "hash": "4fbabf2214e156744395572334045183",
-        "url": "https://cdn.discordapp.com/attachments/923979897850966016/942868456204808222/Craftify-1.0.0-beta-2.jar",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/944361645608693770/Craftify-1.0.0-beta-3.jar",
         "display": "Craftify",
         "description": "Show your Spotify songs ingame!",
         "icon": "tgb_icon.png",
@@ -1609,7 +1605,10 @@
         "icon": "isxander.png",
         "icon_scaling": "pixel",
         "creator": "isXander",
-        "update_to_id": "crashpatch"
+        "update_to_id": "crashpatch",
+        "update_to_ids": [
+            "crashpatch"
+        ]
     },
     {
         "id": "hbwhelper",
