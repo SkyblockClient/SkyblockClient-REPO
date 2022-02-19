@@ -1288,7 +1288,7 @@
         "files": [
             "config/SidebarMod.config"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "redaction",
@@ -1400,7 +1400,7 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             }
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "id": "tnttime",
