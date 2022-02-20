@@ -1519,9 +1519,9 @@
     {
         "id": "oofmod",
         "forge_id": "refractionoof",
-        "file": "OofMod-3.0 (1.8.9).jar",
-        "hash": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90",
-        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
+        "file": "OofMod-4.0.0-beta.1.jar",
+        "hash": "8d947afab37023b97a35139a6101a32ed21d5d322a8b97d746468178c8c48228",
+        "url": "https://cdn.discordapp.com/attachments/929900085465198592/944261933840871504/OofMod-4.0.0-beta.1.jar",
         "display": "OofMod",
         "description": "Play a custom sound when killing another player using .wav files.",
         "icon": "monkey.png",
