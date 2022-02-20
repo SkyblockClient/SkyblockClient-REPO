@@ -139,28 +139,6 @@
         "discordcode": "woverflow"
     },
     {
-        "id": "crosshairv2",
-        "forge_id": "crosshairv2",
-        "enabled": false,
-        "hidden": false,
-        "file": "CrosshairV2-0.1.0-beta5.jar",
-        "url": "https://cdn.discordapp.com/attachments/929900085465198592/934427912868872222/CrosshairV2-0.1.0-beta5.jar",
-        "display": "Crosshair V2",
-        "description": "Custom added mods to Skyclient. Some are Betas or Alphas, so expect bugs!",
-        "icon": "wyvest.png",
-        "creator": "",
-        "actions": [
-            {
-                "icon": "wyvest.png",
-                "text": "Crosshair V2 (B)",
-                "link": "https://github.com/W-OVERFLOW"
-            }
-        ],
-        "categories": [
-            "3;HUD"
-        ]
-    },
-    {
         "id": "scu",
         "nicknames": [
             "skyclientupdater",
@@ -168,7 +146,7 @@
         ],
         "forge_id": "skyblockclientupdater",
         "file": "SkyblockClient-Updater-1.1.3.jar",
-        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.1.3/SkyblockClient-Updater-1.1.3.jar",
+        "url": "https://github.com/Taryro55/SkyblockClient-Updater/releases/download/v1.1.3/SkyblockClient-Updater-1.1.3.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
@@ -1637,6 +1615,33 @@
         "update_to_id": "crashpatch",
         "update_to_ids": [
             "crashpatch"
+        ]
+    },
+
+
+
+
+
+    {
+        "id": "crosshairv2",
+        "forge_id": "crosshairv2",
+        "enabled": false,
+        "hidden": false,
+        "file": "CrosshairV2-0.1.0-beta5.jar",
+        "url": "https://cdn.discordapp.com/attachments/929900085465198592/934427912868872222/CrosshairV2-0.1.0-beta5.jar",
+        "display": "Crosshair V2",
+        "description": "Custom added mods to Skyclient. Some are Betas or Alphas, so expect bugs!",
+        "icon": "wyvest.png",
+        "creator": "",
+        "actions": [
+            {
+                "icon": "wyvest.png",
+                "text": "Crosshair V2 (B)",
+                "link": "https://github.com/W-OVERFLOW"
+            }
+        ],
+        "categories": [
+            "3;HUD"
         ]
     },
     {
