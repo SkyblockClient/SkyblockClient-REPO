@@ -10,7 +10,7 @@
 
 	[general.usernames]
 		hide_your_nick = false
-		nick_prefix = "Player-"
+		nick_prefix = "Player---"
 		hide_other_usernames = true
 		nick_suffix = ""
 
