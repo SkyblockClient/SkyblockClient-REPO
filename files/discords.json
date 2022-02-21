@@ -367,5 +367,16 @@
         "packs": [
             "nameless"
         ]
+    },
+    {
+        "id": "deftu",
+        "code": "dFb277Kexf",
+        "icon": "https://cdn.discordapp.com/avatars/432291917645086720/4cfa9668934b4c21ec86a416bae618b1.png",
+        "nicknames": [
+            "oofmod"
+        ],
+        "mods": [
+            "oofmod"
+        ]
     }
 ]
