@@ -89,9 +89,9 @@
 		remove_server_connected_messages = true
 
 	[chat.restyler]
-		player_count_on_player_leave = true
+		player_count_on_player_leave = false
 		player_count_before_player_name = false
-		game_status_restyle = true
+		game_status_restyle = false
 		player_count_padding = false
 
 	[chat.parties]

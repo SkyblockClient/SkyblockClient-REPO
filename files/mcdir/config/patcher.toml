@@ -181,7 +181,7 @@
 
 	[screens.chat]
 		consecutive_compact_chat = false
-		remove_blank_messages = true
+		remove_blank_messages = false
 		safe_chat_clicks = true
 		shift_chat = false
 		transparent_chat = false
