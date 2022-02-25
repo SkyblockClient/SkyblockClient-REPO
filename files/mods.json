@@ -314,12 +314,6 @@
                 "text": "BehindYouV3",
                 "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/BehindYouV3"
-            },
-            {
-                "icon": "deftu.png",
-                "text": "OofMod v4",
-                "creator": "Deftu",
-                "link": "https://github.com/Deftu/OofMod"
             }
         ],
         "categories": [
@@ -328,8 +322,7 @@
         ],
         "packages": [
             "particlesenhanced",
-            "behindyouv3",
-            "oofmod"
+            "behindyouv3"
         ],
         "discordcode": "woverflow"
     },
@@ -1613,8 +1606,7 @@
                 "text": "Github",
                 "link": "https://github.com/Deftu/OofMod"
             }
-        ],
-        "hidden": true
+        ]
     },
     {
         "id": "particlesenhanced",
