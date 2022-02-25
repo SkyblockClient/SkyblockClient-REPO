@@ -314,6 +314,12 @@
                 "text": "BehindYouV3",
                 "creator": "W-OVERFLOW",
                 "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+            },
+            {
+                "icon": "deftu.png",
+                "text": "OofMod v4",
+                "creator": "Deftu",
+                "link": "https://github.com/Deftu/OofMod"
             }
         ],
         "categories": [
@@ -1590,21 +1596,21 @@
     },
     {
         "id": "oofmod",
-        "forge_id": "refractionoof",
-        "file": "OofMod-3.0 (1.8.9).jar",
-        "hash": "9ecf4e8eeaf7d15127c64fae1e3597f2901ead13f60e6deac0c610a97c1d9f90",
-        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
+        "forge_id": "oofmod",
+        "file": "OofMod-4.1.0.jar",
+        "hash": "5d804aeaaa10957fbf137c7cf9bd362108acaf2a",
+        "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",
         "display": "OofMod",
-        "description": "Play a custom sound when killing another player using .wav files.",
-        "icon": "monkey.png",
-        "creator": "Powns, Refraction, Sk1er LLC",
+        "description": "Play custom sounds when killing other players.",
+        "icon": "deftu.png",
+        "creator": "Deftu, Powns, Refraction, Sk1er LLC",
         "command": "/oofmod",
-        "discordcode": "XgDZA3pdyT",
+        "discordcode": "dFb277Kexf",
         "actions": [
             {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://sk1er.club/mods/refractionoof"
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Deftu/OofMod"
             }
         ],
         "hidden": true
