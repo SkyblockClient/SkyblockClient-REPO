@@ -1640,41 +1640,41 @@
         "hidden": true
     },
     {
-    "id": "synthesis",
-    "nicknames": [
-        "synth"
-    ],
-    "forge_id": "synthesis",
-    "file": "Synthesis-0.2.0.jar",
-    "hash": "be178ec3525487a3a52f8867647a2d9630fad1e7511913202c4b2ac2cc7a43bf",
-    "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
-    "display": "Synthesis",
-    "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
-    "enabled": false,
-    "categories": [
-        "2;All Skyblock"
-    ],
-    "icon": "github.png",
-    "creator": "SirDesco, Antonio32A",
-    "discord": "vAUuKSwbp6",
-    "actions": [
-        {
-            "icon": "guide.png",
-            "text": "guide",
-            "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
-        },
-        {
-            "icon": "github.png",
-            "text": "github",
-            "link": "https://github.com/SynthesisMod/Synthesis"
-        },
-        {
-            "icon": "discord icon.png",
-            "text": "discord",
-            "link": "https://discord.com/invite/vAUuKSwbp6"
-        }
-            ]
-        },
+        "id": "synthesis",
+        "nicknames": [
+            "synth"
+        ],
+        "forge_id": "synthesis",
+        "file": "Synthesis-0.2.0.jar",
+        "hash": "be178ec3525487a3a52f8867647a2d9630fad1e7511913202c4b2ac2cc7a43bf",
+        "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
+        "display": "Synthesis",
+        "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
+        "enabled": false,
+        "categories": [
+            "2;All Skyblock"
+        ],
+        "icon": "github.png",
+        "creator": "SirDesco, Antonio32A",
+        "discord": "vAUuKSwbp6",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "guide",
+                "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "github",
+                "link": "https://github.com/SynthesisMod/Synthesis"
+            },
+            {
+                "icon": "discord icon.png",
+                "text": "discord",
+                "link": "https://discord.com/invite/vAUuKSwbp6"
+            }
+        ]
+    },
     {
         "id": "hychat",
         "forge_id": "hychat",
