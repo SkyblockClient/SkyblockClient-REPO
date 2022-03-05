@@ -107,7 +107,7 @@
                 "icon": "wyvest.png",
                 "text": "VanillaHUD",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/REDACVanillaHUDTION"
+                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
             },
             {
                 "icon": "llamalad.png",
@@ -1371,8 +1371,8 @@
     {
         "id": "vanillahud",
         "forge_id": "vanillahud",
-        "file": "VanillaHUD-1.1.0.jar",
-        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.1.0/VanillaHUD-1.1.0.jar",
+        "file": "VanillaHUD-1.1.1.jar",
+        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
         "display": "VanillaHUD",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
         "icon": "wyvest.png",
