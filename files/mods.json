@@ -107,7 +107,7 @@
                 "icon": "wyvest.png",
                 "text": "VanillaHUD",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/REDACVanillaHUDTION"
+                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
             },
             {
                 "icon": "llamalad.png",
@@ -454,8 +454,9 @@
         ],
         "forge_id": "crashpatch",
         "enabled": true,
-        "file": "CrashPatch-1.3.2.jar",
-        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.3.2/CrashPatch-1.3.2.jar",
+        "file": "CrashPatch-1.3.1.jar",
+        "hash": "fe451fb2da266604ff1785698eeba1e6",
+        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.3.1/CrashPatch-1.3.1.jar",
         "display": "CrashPatch",
         "description": "Stop crashes from closing your game and provide solutions!",
         "icon": "wyvest.png",
@@ -478,8 +479,9 @@
     {
         "id": "hytilities-reborn",
         "forge_id": "hytilities-reborn",
-        "file": "Hytilities-Reborn-1.4.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
+        "file": "Hytilities-Reborn-1.4.0.jar",
+        "hash": "137be9b4739e69b320a97d8f6113858118fd1071ead152ccaf83a067b2f56544",
+        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.0/Hytilities-Reborn-1.4.0.jar",
         "display": "Hytilities Reborn",
         "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
         "icon": "wyvest.png",
@@ -1313,8 +1315,9 @@
             "stratus"
         ],
         "forge_id": "chatting",
-        "file": "Chatting-1.3.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.3.1/Chatting-1.3.1.jar",
+        "file": "Chatting-1.3.0.jar",
+        "hash": "2632723c7417d9a88d401bac9a4d1ec3b1da966b0f75f57020f91c8e100883fc",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.3.0/Chatting-1.3.0.jar",
         "display": "Chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
@@ -1371,8 +1374,9 @@
     {
         "id": "vanillahud",
         "forge_id": "vanillahud",
-        "file": "VanillaHUD-1.1.0.jar",
-        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.1.0/VanillaHUD-1.1.0.jar",
+        "file": "VanillaHUD-1.0.0.jar",
+        "hash": "725b0c2f7d3599a2343ceea101149a3e34f75f42a27772b837e97d5ab44f8bc9",
+        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.0.0/VanillaHUD-1.0.0.jar",
         "display": "VanillaHUD",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
         "icon": "wyvest.png",
@@ -1391,8 +1395,9 @@
     {
         "id": "redaction",
         "forge_id": "redaction",
-        "file": "REDACTION-1.2.1.jar",
-        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.2.1/REDACTION-1.2.1.jar",
+        "file": "REDACTION-1.1.0.jar",
+        "hash": "bd7403275c15ec024409108034e63557c037bcc4cee8ea6b354bea47efb12a86",
+        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.1.0/REDACTION-1.1.0.jar",
         "display": "REDACTION",
         "description": "Adds useful GUI additions to the game.",
         "icon": "wyvest.png",
