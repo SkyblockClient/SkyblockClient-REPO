@@ -72,24 +72,6 @@
         ]
     },
     {
-        "id": "xcyni",
-        "file": "xCynis Skyblock Pack - v3.0.zip",
-        "url": "https://github.com/xCyni/xCynis-Skyblock-Pack/releases/download/3.0/Overlay.-.xCynis.Skyblock.Pack.v3.0.zip",
-        "display": "xCynis Skyblock Pack",
-        "description": "This pack is a mashup of a lot of different packs. All textures used from other packs have been revamped or converted from 16x to 32x.",
-        "icon": "xcyni.png",
-        "creator": "xCyni (forge>badlion)",
-        "categories": [
-            "1;All Skyblock"
-        ],
-    "actions": [
-        {
-            "text": "Forum",
-            "link": "https://hypixel.net/threads/3379991/"
-        }
-    ]
-},
-    {
         "id": "actuallymobs",
         "file": "ActuallyMobsv0.1.zip",
         "display": "ActuallyMobs v0.1",
@@ -168,6 +150,24 @@
         ],
         "outdated": true
     },
+    {
+        "id": "xcyni",
+        "file": "xCynis Skyblock Pack - v3.0.zip",
+        "url": "https://github.com/xCyni/xCynis-Skyblock-Pack/releases/download/3.0/Overlay.-.xCynis.Skyblock.Pack.v3.0.zip",
+        "display": "xCynis Skyblock Pack",
+        "description": "This pack is a mashup of a lot of different packs. All textures used from other packs have been revamped or converted from 16x to 32x.",
+        "icon": "xcyni.png",
+        "creator": "xCyni (forge>badlion)",
+        "categories": [
+            "1;All Skyblock"
+        ],
+    "actions": [
+        {
+            "text": "Forum",
+            "link": "https://hypixel.net/threads/3379991/"
+        }
+    ]
+},
     {
         "id": "rnbw",
         "file": "RNBW+ v0.7.0.zip",
