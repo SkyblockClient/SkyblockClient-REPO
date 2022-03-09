@@ -161,13 +161,13 @@
         "categories": [
             "1;All Skyblock"
         ],
-    "actions": [
-        {
-            "text": "Forum",
-            "link": "https://hypixel.net/threads/3379991/"
-        }
-    ]
-},
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3379991/"
+            }
+        ]
+    },
     {
         "id": "rnbw",
         "file": "RNBW+ v0.7.0.zip",
