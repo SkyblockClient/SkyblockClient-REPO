@@ -12,28 +12,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  Validatejson:
-    name: Validate jsons
-    runs-on: ubuntu-latest
-    steps:
-      - name: checkout
-        uses: actions/checkout@v2
-      - name: validate
-        run: |
-          #!/bin/bash
-          echo "Linting contents..."
-          for filename in **/*.json; do
-            if ! python -mjson.tool "$filename" &> /dev/null ; then
-                echo "Linting $filename failed:"
-                python -mjson.tool "$filename" > /dev/null
-            fi
-          done
-          echo "Linted."
-          echo "Event Type ${{ github.event_name }}"
-          
-  Prettifyjson:
-    needs: Validatejson
-    name: Prettify jsons
+  format_json:
+    name: Format JSON
     runs-on: ubuntu-latest
     if: ${{ github.event_name == 'push' }}
     steps:
@@ -43,21 +23,15 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-      - name: Prettify Json
+      - name: Grab Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "18.x"
+      - name: Run Prettier
         run: |
-          #!/bin/bash
-          echo "Prettifying contents..."
-          touch "tmp.json"
-          for filename in **/*.json; do
-            if ! python -mjson.tool "$filename" &> "tmp.json" ; mv "tmp.json" "$filename" ; then
-                echo "editing $filename failed:"
-                python -mjson.tool "$filename" > /dev/null
-            fi
-          done
-          echo "Done."
+          npx prettier **/*.json --write
       - name: Commit
         run: |
-          #!/bin/bash 
           set +e
           git commit -am "Automatically prettify json"
           set -e
