@@ -15,7 +15,6 @@ jobs:
   format_json:
     name: Format JSON
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'push' }}
     steps:
       - name: checkout
         uses: actions/checkout@v2
@@ -30,14 +29,20 @@ jobs:
       - name: Run Prettier
         run: |
           npx prettier **/*.json --write
+        if: ${{ github.event_name == 'push' }}
+      - name: Check Prettier
+        run: |
+          npx prettier **/*.json --check
+        if: ${{ github.event_name == 'pull_request' }}
       - name: Commit
         run: |
           set +e
           git commit -am "Automatically prettify json"
           set -e
+        if: ${{ github.event_name == 'push' }}
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-        if: ${{ always() }}
+        if: ${{ github.event_name == 'push' }}
