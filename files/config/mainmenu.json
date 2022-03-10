@@ -115,7 +115,7 @@
 
   "other": {
     "background": {
-      "image": "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackground.png"
+      "image": "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmmbackgrounddark.png"
     }
   }
 }
