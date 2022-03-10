@@ -33,7 +33,7 @@ jobs:
       - name: Check Prettier
         run: |
           npx prettier **/*.json --check
-        if: ${{ github.event_name == 'pull_request' }}
+        if: ${{ github.event_name != 'push' }}
       - name: Commit
         run: |
           set +e
