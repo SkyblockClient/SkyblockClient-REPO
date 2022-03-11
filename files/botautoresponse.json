@@ -1,95 +1,244 @@
 [
-  {
-    "triggers": [["invalid"], ["session"]],
-    "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
-  },
-  {
-    "triggers": [["<:rain:935918014262550558>"]],
-    "response": "HI!"
-  },
-  {
-    "triggers": [["<@435443705055543306>", "<@!435443705055543306>"]],
-    "response": "https://cdn.discordapp.com/attachments/780181693553704973/921822406945955881/unknown-91.png"
-  },
-  {
-    "triggers": [[".rainstatus fine"]],
-    "response": "https://cdn.discordapp.com/attachments/874366364809297940/912642116558143499/IMG_20211031_091822228.jpg"
-  },
-  {
-    "triggers": [["log4"]],
-    "response": "The Log4j exploit never affected 1.8.9\nPlease read <#843909942658596874> for more info."
-  },
-  {
-    "triggers": [["not"], ["enoug"], ["coin"]],
-    "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins."
-  },
-  {
-    "triggers": [
-      ["griffin", "diana"],
-      ["burrow", "event"]
-    ],
-    "response": "https://youtu.be/9im-NYGcwDM"
-  },
-  {
-    "triggers": [["perspective mod"]],
-    "response": "**PERSPECTIVE MOD IS CURRENTLY BANNABLE!**"
-  },
-  {
-    "triggers": [["reinstal"], ["sky"]],
-    "response": "**If you are trying to reinstall SkyClient because of the Mods throws an error, don't.** It has never helped and will never help. \nTry to actually fix the issue instead of reinstalling for the 10th time."
-  },
-  {
-    "triggers": [
-      ["how", "where", "mac", "download"],
-      ["download", "client"]
-    ],
-    "response": "Windows 10 SkyClient Download: <#780940408175853609>\nUniversal (requires Java) SkyClient Download: <#782998702289059860>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
-  },
-  {
-    "triggers": [
-      ["add", "how", "mod"],
-      ["mod", "add", "folder"]
-    ],
-    "response": "https://youtu.be/E6lwqIo0-Ms"
-  },
-  {
-    "triggers": [["dungeons guide", "dungeonsguide", "dg"], ["ban"]],
-    "response": "Dungeons Guide is not bannable, like every other mod in SkyClient. https://media.discordapp.net/attachments/781913473872560194/867454697387065354/image0.png"
-  },
-  {
-    "triggers": [["mac", "linux"], ["universal"]],
-    "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
-  },
-  {
-    "triggers": [["need", "install"], ["forge"]],
-    "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
-  },
-  {
-    "triggers": [["exit"], ["code"]],
-    "response": "**`How to access the SkyClient folder:`**\n**Windows**: Hit `Windows Key + R` and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**: if you use Linux and you don't know this, stop using Linux.\n\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
-  },
-  {
-    "triggers": [["skyclient", "crash", "why"], ["crash"]],
-    "response": "If you are crashing, we need the following:\n\n``How to access the SkyClient folder:``\nWindows: Hit ``Windows Key + R`` and type in ``%appdata%``. Open the ``.minecraft`` folder, then go to the ``skyclient`` folder.\nMac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type ``~/Library/Application Support/Minecraft/skyclient``, then hit enter.\nLinux: if you use Linux and you don't know this, there's something wrong with you\n\n\n``Exit Code 0:``\nGo into the ``logs`` folder and upload ``latest.log``\nIf you don't see that file, look for it. Any other file will be useless.\n\n``Exit Code 1 (or anything other than 0):``\nGo into the crash-reports folder and upload the latest current crashlog."
-  },
-  {
-    "triggers": [["1.7", "old"], ["anim"]],
-    "response": "Use sk1ers old animations https://sk1er.club/beta"
-  },
-  {
-    "triggers": [["tessellating"], ["block"], ["model"]],
-    "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
-  },
-  {
-    "triggers": [["buying", "selling", "carry", "/ah"]],
-    "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skyblock"
-  },
-  {
-    "triggers": [["new", "updated"], ["launcher"]],
-    "response": "For the new launcher, you have to set your profile manually. \nCreate a new installation with the version `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` and the game directory `C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient` https://cdn.discordapp.com/attachments/780206481596350486/814935220637794365/unknown.png \n\nThe icon for the profile if you\u2019d like can be found in <https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/images/skyclient128apng.png>\n\nFor video instructions, watch this video:\nhttps://cdn.discordapp.com/attachments/887818760126345246/919984824733794354/how_to_add_an_installation_profile.mp4"
-  },
-  {
-    "triggers": [["old", "outdated"], ["launcher"]],
-    "response": "The old launcher can be installed from here: \n<https://launcher.mojang.com/download/MinecraftInstaller.msi>"
-  }
+    {
+        "triggers": [
+            [
+                "invalid"
+            ],
+            [
+                "session"
+            ]
+        ],
+        "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
+    },
+    {
+        "triggers": [
+            [
+                "<:rain:935918014262550558>"
+            ]
+        ],
+        "response": "HI!"
+    },
+    {
+        "triggers": [
+            [
+                "<@435443705055543306>",
+                "<@!435443705055543306>"
+            ]
+        ],
+        "response": "https://cdn.discordapp.com/attachments/780181693553704973/921822406945955881/unknown-91.png"
+    },
+    {
+        "triggers": [
+            [
+                ".rainstatus fine"
+            ]
+        ],
+        "response": "https://cdn.discordapp.com/attachments/874366364809297940/912642116558143499/IMG_20211031_091822228.jpg"
+    },
+    {
+        "triggers": [
+            [
+                "log4"
+            ]
+        ],
+        "response": "The Log4j exploit never affected 1.8.9\nPlease read <#843909942658596874> for more info."
+    },
+    {
+        "triggers": [
+            [
+                "not"
+            ],
+            [
+                "enoug"
+            ],
+            [
+                "coin"
+            ]
+        ],
+        "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins."
+    },
+    {
+        "triggers": [
+            [
+                "griffin",
+                "diana"
+            ],
+            [
+                "burrow",
+                "event"
+            ]
+        ],
+        "response": "https://youtu.be/9im-NYGcwDM"
+    },
+    {
+        "triggers": [
+            [
+                "perspective mod"
+            ]
+        ],
+        "response": "**PERSPECTIVE MOD IS CURRENTLY BANNABLE!**"
+    },
+    {
+        "triggers": [
+            [
+                "reinstal"
+            ],
+            [
+                "sky"
+            ]
+        ],
+        "response": "**If you are trying to reinstall SkyClient because of the Mods throws an error, don't.** It has never helped and will never help. \nTry to actually fix the issue instead of reinstalling for the 10th time."
+    },
+    {
+        "triggers": [
+            [
+                "how",
+                "where",
+                "mac",
+                "download"
+            ],
+            [
+                "download",
+                "client"
+            ]
+        ],
+        "response": "Windows 10 SkyClient Download: <#780940408175853609>\nUniversal (requires Java) SkyClient Download: <#782998702289059860>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
+    },
+    {
+        "triggers": [
+            [
+                "add",
+                "how",
+                "mod"
+            ],
+            [
+                "mod",
+                "add",
+                "folder"
+            ]
+        ],
+        "response": "https://youtu.be/E6lwqIo0-Ms"
+    },
+    {
+        "triggers": [
+            [
+                "dungeons guide",
+                "dungeonsguide",
+                "dg"
+            ],
+            [
+                "ban"
+            ]
+        ],
+        "response": "Dungeons Guide is not bannable, like every other mod in SkyClient. https://media.discordapp.net/attachments/781913473872560194/867454697387065354/image0.png"
+    },
+    {
+        "triggers": [
+            [
+                "mac",
+                "linux"
+            ],
+            [
+                "universal"
+            ]
+        ],
+        "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
+    },
+    {
+        "triggers": [
+            [
+                "need",
+                "install"
+            ],
+            [
+                "forge"
+            ]
+        ],
+        "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
+    },
+    {
+        "triggers": [
+            [
+                "exit"
+            ],
+            [
+                "code"
+            ]
+        ],
+        "response": "**`How to access the SkyClient folder:`**\n**Windows**: Hit `Windows Key + R` and type in `%appdata%`. Open the `.minecraft` folder, then go to the `skyclient` folder.\n**Mac**: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type `~/Library/Application Support/Minecraft/skyclient`, then hit enter.\n**Linux**: if you use Linux and you don't know this, stop using Linux.\n\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
+    },
+    {
+        "triggers": [
+            [
+                "skyclient",
+                "crash",
+                "why"
+            ],
+            [
+                "crash"
+            ]
+        ],
+        "response": "If you are crashing, we need the following:\n\n``How to access the SkyClient folder:``\nWindows: Hit ``Windows Key + R`` and type in ``%appdata%``. Open the ``.minecraft`` folder, then go to the ``skyclient`` folder.\nMac: On the bar at the top of your screen in Finder, click Go, then click Go to Folder and type ``~/Library/Application Support/Minecraft/skyclient``, then hit enter.\nLinux: if you use Linux and you don't know this, there's something wrong with you\n\n\n``Exit Code 0:``\nGo into the ``logs`` folder and upload ``latest.log``\nIf you don't see that file, look for it. Any other file will be useless.\n\n``Exit Code 1 (or anything other than 0):``\nGo into the crash-reports folder and upload the latest current crashlog."
+    },
+    {
+        "triggers": [
+            [
+                "1.7",
+                "old"
+            ],
+            [
+                "anim"
+            ]
+        ],
+        "response": "Use sk1ers old animations https://sk1er.club/beta"
+    },
+    {
+        "triggers": [
+            [
+                "tessellating"
+            ],
+            [
+                "block"
+            ],
+            [
+                "model"
+            ]
+        ],
+        "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
+    },
+    {
+        "triggers": [
+            [
+                "buying",
+                "selling",
+                "carry",
+                "/ah"
+            ]
+        ],
+        "response": "we are not really a skyblock discord go to any of these servers for that stuff \ndiscord.gg/sbs discord.gg/sbm discord.gg/skyblock"
+    },
+    {
+        "triggers": [
+            [
+                "new",
+                "updated"
+            ],
+            [
+                "launcher"
+            ]
+        ],
+        "response": "For the new launcher, you have to set your profile manually. \nCreate a new installation with the version `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` and the game directory `C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient` https://cdn.discordapp.com/attachments/780206481596350486/814935220637794365/unknown.png \n\nThe icon for the profile if you\u2019d like can be found in <https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/images/skyclient128apng.png>\n\nFor video instructions, watch this video:\nhttps://cdn.discordapp.com/attachments/887818760126345246/919984824733794354/how_to_add_an_installation_profile.mp4"
+    },
+    {
+        "triggers": [
+            [
+                "old",
+                "outdated"
+            ],
+            [
+                "launcher"
+            ]
+        ],
+        "response": "The old launcher can be installed from here: \n<https://launcher.mojang.com/download/MinecraftInstaller.msi>"
+    }
 ]

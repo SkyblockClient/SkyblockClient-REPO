@@ -1,32 +1,52 @@
 [
-  {
-    "id": "neusouls-notenoughupdates",
-    "mod": "neu",
-    "command": "/neusouls",
-    "type": "toggle",
-    "params": ["on", "off"],
-    "tags": ["Fairy Souls"],
-    "desc": ["## /neusouls <on/off>", "Shows Fairy Soul Waypoints"]
-  },
-  {
-    "id": "stalk-cowlection",
-    "mod": "cowlection",
-    "command": "/moo stalk",
-    "type": "toggle",
-    "params": ["<player>"],
-    "tags": ["Info"],
-    "desc": ["## /stalk <player>", "Get info of player's status"]
-  },
-  {
-    "id": "waila-cowlection",
-    "mod": "cowlection",
-    "command": "/moo waila",
-    "type": "once",
-    "params": ["all", "main"],
-    "tags": ["Info"],
-    "desc": [
-      "## /moo stalk <player>",
-      "Copy the 'thing' you're looking at (optional keybinding: Minecraft controls > Cowlection)"
-    ]
-  }
+    {
+        "id": "neusouls-notenoughupdates",
+        "mod": "neu",
+        "command": "/neusouls",
+        "type": "toggle",
+        "params": [
+            "on",
+            "off"
+        ],
+        "tags": [
+            "Fairy Souls"
+        ],
+        "desc": [
+            "## /neusouls <on/off>",
+            "Shows Fairy Soul Waypoints"
+        ]
+    },
+    {
+        "id": "stalk-cowlection",
+        "mod": "cowlection",
+        "command": "/moo stalk",
+        "type": "toggle",
+        "params": [
+            "<player>"
+        ],
+        "tags": [
+            "Info"
+        ],
+        "desc": [
+            "## /stalk <player>",
+            "Get info of player's status"
+        ]
+    },
+    {
+        "id": "waila-cowlection",
+        "mod": "cowlection",
+        "command": "/moo waila",
+        "type": "once",
+        "params": [
+            "all",
+            "main"
+        ],
+        "tags": [
+            "Info"
+        ],
+        "desc": [
+            "## /moo stalk <player>",
+            "Copy the 'thing' you're looking at (optional keybinding: Minecraft controls > Cowlection)"
+        ]
+    }
 ]

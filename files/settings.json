@@ -1,6 +1,6 @@
 {
-  "sourceFile": "https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs",
-  "ignoreOutdatedVersion": false,
-  "version": "1.3.11",
-  "enableUpdateButton": false
+    "sourceFile": "https://github.com/nacrt/SkyblockClient/blob/main/SkyblockClient/GlobalSettings.cs",
+    "ignoreOutdatedVersion": false,
+    "version": "1.3.11",
+    "enableUpdateButton": false
 }
