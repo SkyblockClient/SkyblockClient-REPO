@@ -142,7 +142,7 @@
       "images": "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmm_assets/panorama_%c.png",
       "animate": true,
       "animationSpeed": 1,
-      "blur": false,
+      "blur": true,
       "gradient": false
     }
   }
