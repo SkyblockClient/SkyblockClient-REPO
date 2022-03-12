@@ -11,10 +11,10 @@
 
     "logo": {
       "image": "web:https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/config/cmm_assets/logo_new.png",
-      "posX": 33,
-      "posY": 15,
-      "width": 128,
-      "height": 128,
+      "posX": 48,
+      "posY": 30,
+      "width": 100,
+      "height": 100,
       "imageWidth": 128,
       "imageHeight": 128,
       "alignment": "top_left"
@@ -54,6 +54,15 @@
         "type": "openGui",
         "gui": "mods"
       }
+    },
+    "replayviewer": {
+      "text": "Replays",
+      "posX": 185,
+      "posY": 10,
+      "width": 50,
+      "height": 20,
+      "alignment": "upper_left",
+      "wrappedButton": 17890234
     },
 
     "singleplayer": {
