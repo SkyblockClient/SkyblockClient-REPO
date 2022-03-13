@@ -147,8 +147,7 @@
         ],
         "config": true,
         "files": [
-            "config/CustomMainMenu/mainmenu.json",
-            "config/CustomMainMenu/play.json"
+            "config/CustomMainMenu/mainmenu.json"
         ]
     },
     {
