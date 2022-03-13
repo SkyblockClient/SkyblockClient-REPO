@@ -86,7 +86,7 @@
       "alignment": "left_center",
       "action": {
         "type": "connectToServer",
-        "ip": "mc.hypixel.io"
+        "ip": "mc.hypixel.net"
       }
     },
     "multiplayer": {
