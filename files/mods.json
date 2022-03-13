@@ -1078,12 +1078,12 @@
         ],
         "warning": {
             "lines": [
-                "A better alternative to this mod would be Cowlection, Dankers, and Skytils.",
-                "This mod doesn't ship with modules.\n The recommended module is:",
-                "  /ct import DungeonUtilities",
-                "You can import the module by typing the command in-game. No restart required.",
+                "ChatTriggers, unlike most mods here, is actually a module loader.",
+                "It allows devs to create \"modules\" with JavaScript, which can do everything a normal mod can do.",
+                "It won't do anything if it has no modules to run. Import modules by using /ct import [name].",
                 "",
-                "",
+                "Due to having to run another language inside of Minecraft, it may lower performance, especially when using badly written modules.",
+                "View the modules available at https://www.chattriggers.com/modules.",
                 "Use anyway?"
             ]
         }
