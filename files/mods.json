@@ -725,8 +725,8 @@
             "st"
         ],
         "forge_id": "skytils",
-        "file": "Skytils-1.2.0-pre6.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0-pre6/Skytils-1.2.0-pre6.jar",
+        "file": "Skytils-1.2.0.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.0/Skytils-1.2.0.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
@@ -757,7 +757,8 @@
         "categories": [
             "2;All Skyblock",
             "3;Recommended Skyblock"
-        ]
+        ],
+        "hash": "63ad3a0ce1e9ec90e85a7363327a1573"
     },
     {
         "id": "apec",
