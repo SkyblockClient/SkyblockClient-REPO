@@ -214,6 +214,18 @@
         ]
     },
     {
+        "id": "apbridgeoverlay",
+        "file": "§9§lBridge §c§lOverlay§0.zip",
+        "display": "ApplePies Bridge Overlay",
+        "description": "The original bridge overlay, by ApplePies. Please note that Hytilities Reborn has the same feature but as a mod, so if this pack does not work, we recommend using that instead.",
+        "icon": "apbridgeoverlay.png",
+        "creator": "ApplePies",
+        "categories": [
+            "4;Recommended PvP",
+            "3;All PvP"
+        ]
+    },
+    {
         "id": "hp+",
         "file": "Hypixel+ 1.8.9.zip",
         "display": "Hypixel+ 16x",
