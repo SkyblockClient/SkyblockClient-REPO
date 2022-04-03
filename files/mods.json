@@ -1444,9 +1444,9 @@
     {
         "id": "behindyouv3",
         "forge_id": "behindyouv3",
-        "file": "BehindYouV3-3.0.0.jar",
-        "hash": "123ba63306d34dd009d38023859f0eb0e57b0f55b87754bb89be17aa73cdd43f",
-        "url": "https://github.com/W-OVERFLOW/BehindYouV3/releases/download/v3.0.0/BehindYouV3-3.0.0.jar",
+        "file": "BehindYouV3-3.1.0.jar",
+        "hash": "cb08e4783b4014371e093818164995d8",
+        "url": "https://github.com/W-OVERFLOW/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
         "display": "BehindYouV3",
         "description": "Allows you to look behind you with ease.",
         "icon": "wyvest.png",
