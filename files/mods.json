@@ -1023,8 +1023,8 @@
     {
         "id": "craftify",
         "forge_id": "craftify",
-        "file": "Craftify-1.0.0-beta-7.jar",
-        "url": "https://cdn.discordapp.com/attachments/923979897850966016/951907355656863784/Craftify-1.0.0-beta-7.jar",
+        "file": "Craftify-1.0.0-beta-8.jar",
+        "url": "https://cdn.discordapp.com/attachments/923979897850966016/960125452113027152/Craftify-1.0.0-beta-8.jar",
         "display": "Craftify",
         "description": "Show your Spotify songs ingame!",
         "icon": "tgb_icon.png",
@@ -1037,7 +1037,8 @@
                 "link": "https://github.com/ThatGravyBoat/Craftify"
             }
         ],
-        "discordcode": "wQfFucgHTX"
+        "discordcode": "wQfFucgHTX",
+        "hash": "c6a506ba0ee239fbca194b60b0f7dbeb"
     },
     {
         "id": "blur",
