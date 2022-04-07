@@ -332,8 +332,8 @@
             "skyblockclientupdater"
         ],
         "forge_id": "skyblockclientupdater",
-        "file": "SkyblockClient-Updater-1.2.0.jar",
-        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.0/SkyblockClient-Updater-1.2.0.jar",
+        "file": "SkyblockClient-Updater-1.2.1.jar",
+        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.1/SkyblockClient-Updater-1.2.1.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
@@ -348,7 +348,8 @@
                 "text": "Github",
                 "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
             }
-        ]
+        ],
+        "hash": "fd1aea1e8bc59bdc7f945d946e2bb427"
     },
     {
         "id": "scc",
