@@ -1190,18 +1190,6 @@
         "hidden": true
     },
     {
-        "id": "smoothscrollingeverywhere",
-        "forge_id": "smooth-scrolling-everywhere",
-        "file": "smooth-scrolling-everywhere-1.2.jar",
-        "hash": "0a203853fad22d9685698dd14d3351fe3b08bf63e37a78aab5bf06ec8c12af06",
-        "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
-        "display": "GUI Bundle",
-        "description": "Makes the scrolling in menus smoother",
-        "creator": "Shedaniel",
-        "hidden": true,
-        "icon": "smooth scrolling everywhere.png"
-    },
-    {
         "id": "scrollabletooltips",
         "nicknames": [
             "text_overflow_scroll"
