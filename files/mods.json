@@ -358,9 +358,9 @@
             "skyblockclientcosmetics"
         ],
         "forge_id": "skyclientcosmetics",
-        "file": "SkyblockClient-Cosmetics-BETA-7.0.6.jar",
-        "hash": "0efc1148bb72db248a931c2c9b42e8a2d3e2b4b251d78a183cf6197ee9c91cd2",
-        "url": "https://github.com/koxx12-dev/Skyclient-Cosmetics/releases/download/0.7.0.6-beta/SkyClient.Cosmetics-0.7.0.6-beta.jar",
+        "file": "SkyClient_Cosmetics-0.7.0.6-beta.jar",
+        "hash": "75e31fab99f5d10623ba67a0fbb6d0bd",
+        "url": "https://cdn.discordapp.com/attachments/887818760126345246/962446089263398992/SkyClient_Cosmetics-0.7.0.6-beta.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
         "enabled": true,
