@@ -23,6 +23,7 @@
     },
     {
         "id": "actuallymobpacket",
+        "hidden", true,
         "file": "ActuallyPacketsv0.1.zip",
         "display": "ActuallyPacket v0.1",
         "description": "Branch of Mob Packet with ActuallyMobs textures.",
@@ -86,6 +87,7 @@
     },
     {
         "id": "skymobs",
+        "hidden": true,
         "file": "SkyMobs.zip",
         "display": "SkyMobs",
         "description": "Resource Pack for the SBCustomMobTex Mod.",
