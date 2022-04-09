@@ -23,7 +23,7 @@
     },
     {
         "id": "actuallymobpacket",
-        "hidden", true,
+        "hidden": true,
         "file": "ActuallyPacketsv0.1.zip",
         "display": "ActuallyPacket v0.1",
         "description": "Branch of Mob Packet with ActuallyMobs textures.",
