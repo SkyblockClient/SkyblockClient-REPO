@@ -1123,6 +1123,7 @@
     },
     {
         "id": "sbcustommobtex",
+        "hidden": true,
         "file": "SBCustomMobTex-1.4.jar",
         "hash": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade",
         "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
