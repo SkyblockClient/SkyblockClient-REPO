@@ -496,7 +496,7 @@
     {
         "id": "blockoverlay",
         "forge_id": "blockoverlay",
-        "hash": "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9",
+        "hash": "b41e79d2d5f817e94a3498929411cdfc",
         "file": "Block_Overlay_4.0.3.jar",
         "display": "Block Overlay",
         "description": "A custom overlay on blocks.",
@@ -512,7 +512,8 @@
         "categories": [
             "4;All PvP",
             "5;Recommended PvP"
-        ]
+        ],
+        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar"
     },
     {
         "id": "betterhurtcam",
