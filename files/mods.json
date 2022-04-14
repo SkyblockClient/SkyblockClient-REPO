@@ -521,15 +521,15 @@
         "icon": "wyvest.png",
         "file": "BetterHurtCam-2.1.3.jar",
         "hash": "3afaf5b1c2472bb03c2f1b7885f61d0c5fa6196c79259b443effcb47c46b521f",
-        "url": "https://github.com/W-OVERFLOW/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
+        "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
         "display": "BetterHurtCam",
-        "creator": "W-OVERFLOW (Salmon)",
+        "creator": "Salmon",
         "command": "/betterhurtcam",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/W-OVERFLOW/BetterHurtCam"
+                "link": "https://github.com/Scherso/BetterHurtCam"
             },
             {
                 "icon": "youtube.png",
