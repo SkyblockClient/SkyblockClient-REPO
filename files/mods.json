@@ -1153,7 +1153,7 @@
             "resourcepackmanager"
         ],
         "forge_id": "resourcepackmanager",
-        "hash": "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2",
+        "hash": "b334cd4cb15e3610ac47387a66c19dfb",
         "file": "Resource_Pack_Manager_1.2.jar",
         "display": "Resource Pack Manager",
         "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
@@ -1178,7 +1178,8 @@
                 "",
                 "Use anyway?"
             ]
-        }
+        },
+        "url": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/mods/Resource_Pack_Manager_1.2.jar?raw=true"
     },
     {
         "id": "controlling",
