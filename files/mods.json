@@ -1050,7 +1050,7 @@
         ],
         "config": true,
         "files": [
-            "config/blur.cfg",
+            "config/blur.cfg"
         ]
     },
     {
