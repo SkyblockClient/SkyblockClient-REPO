@@ -1047,6 +1047,10 @@
                 "text": "Showcase",
                 "link": "https://imgur.com/EmSEKFu"
             }
+        ],
+        "config": true,
+        "files": [
+            "config/blur.cfg",
         ]
     },
     {
