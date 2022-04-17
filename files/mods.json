@@ -201,7 +201,7 @@
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
         "display": "QOL Bundle",
-        "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
+        "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
         "command": "/insomnia on/off",
         "actions": [
@@ -920,7 +920,7 @@
         "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.7/dungeonsguide-3.7.7.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
-        "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
         "icon": "dungeonsguide.jpg",
         "discordcode": "dg",
         "command": "/dg",
