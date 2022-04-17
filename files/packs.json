@@ -6,13 +6,19 @@
         "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
         "icon": "mob packet.png",
         "creator": "Viska & Mira_23",
-        "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
+        "categories": [
+            "1;All Skyblock",
+            "2;Recommended Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/mobpacket.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3606096/" }
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3606096/"
+            }
         ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/Mob%20Packet%201.8.9%201.4.zip",
         "hash": "8569e9a4a5a30f760af6f8f4b9f07076"
@@ -27,7 +33,9 @@
         "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "categories": ["1;All Skyblock"]
+        "categories": [
+            "1;All Skyblock"
+        ]
     },
     {
         "id": "dungeontexturepack",
@@ -43,9 +51,14 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3143529/" }
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3143529/"
+            }
         ],
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/DUNGEONS_TEXTURE_PACK_V1.2.zip",
         "hash": "9c92dc0aa03b3331b4cf73e89c402133"
     },
@@ -59,7 +72,9 @@
         "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "hash": "99fa588462013e5afd319c81529a2ca3"
     },
     {
@@ -71,7 +86,9 @@
         "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/ActuallyMobsv0.1.zip",
         "hash": "6b596189f5a103488b5cfc4014eb0a73"
     },
@@ -84,7 +101,9 @@
         "icon": "skymobs.png",
         "icon_scaling": "pixel",
         "creators": "TBlazeWarrior & Moulberry",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "text": "Github",
@@ -102,13 +121,19 @@
         "icon_scaling": "pixel",
         "creator": "Motor & nacrt",
         "discordcode": "ABHrh6K3Fh",
-        "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
+        "categories": [
+            "1;All Skyblock",
+            "2;Recommended Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3797121/" }
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3797121/"
+            }
         ],
         "hash": "89355bc55119a70097a026baa0a12022"
     },
@@ -119,14 +144,19 @@
         "description": "vTays's mix of different Skyblock packs. In vTays' terms, \"A refreshing taste of Skyblock texture packs\"",
         "icon": "vtays.png",
         "creator": "vTay",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "hidden": true,
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3178679/" }
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3178679/"
+            }
         ],
         "outdated": true
     },
@@ -138,8 +168,15 @@
         "description": "This pack is a mashup of a lot of different packs. All textures used from other packs have been revamped or converted from 16x to 32x.",
         "icon": "xcyni.png",
         "creator": "xCyni (forge>badlion)",
-        "categories": ["1;All Skyblock"],
-        "actions": [{ "text": "Forum", "link": "https://hypixel.net/threads/3379991/" }],
+        "categories": [
+            "1;All Skyblock"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3379991/"
+            }
+        ],
         "hash": "37474ba6cbb7282321e50d3928547cbe"
     },
     {
@@ -151,13 +188,18 @@
         "icon_scaling": "pixel",
         "creator": "Rainbowcraft2",
         "discordcode": "dcdsnvG4Q4",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/rnbw.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3470904/" }
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3470904/"
+            }
         ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/RNBW+%20v0.7.0.zip",
         "hash": "f7a86b0ed08154b683d0d8d1fd183b1a"
@@ -169,9 +211,14 @@
         "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
         "icon": "nameless.png",
         "creator": "Smolegit",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
-            { "text": "Forum", "link": "https://hypixel.net/threads/4189235/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/4189235/"
+            },
             {
                 "text": "Discord",
                 "icon": "discord icon.png",
@@ -188,7 +235,10 @@
         "description": "The original bridge overlay, by ApplePies. Please note that Hytilities Reborn has the same feature but as a mod, so if this pack does not work, we recommend using that instead.",
         "icon": "apbridgeoverlay.png",
         "creator": "ApplePies",
-        "categories": ["4;Recommended PvP", "3;All PvP"],
+        "categories": [
+            "4;Recommended PvP",
+            "3;All PvP"
+        ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/\u00a79\u00a7lBridge%20\u00a7c\u00a7lOverlay\u00a70.zip",
         "hash": "840b205f1bf9a9f1114673faf34792e7"
     },
@@ -201,14 +251,19 @@
         "icon": "hypixelplus.png",
         "creator": "ic22487",
         "actions": [
-            { "text": "Forum", "link": "https://hypixel.net/threads/4174260/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/4174260/"
+            },
             {
                 "text": "Discord",
                 "icon": "discord icon.png",
                 "link": "https://discord.gg/yu9ykgT8bB"
             }
         ],
-        "categories": ["3;All PvP"],
+        "categories": [
+            "3;All PvP"
+        ],
         "hash": "b08a2dc0ef9f57398d8c9d671e6bbe50"
     },
     {
@@ -219,8 +274,15 @@
         "icon": "hsb.png",
         "icon_scaling": "pixel",
         "creator": "Sluzeeey",
-        "categories": ["1;All Skyblock"],
-        "actions": [{ "text": "Forum", "link": "https://hypixel.net/threads/3527502/" }],
+        "categories": [
+            "1;All Skyblock"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3527502/"
+            }
+        ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/HSB%20Texturepack%20V1.7.zip",
         "hash": "6dbc6ff84454ec142a396777a152218f"
     },
@@ -232,8 +294,15 @@
         "description": "Wynncraft-Esque 3D Models for Your Skyblock Items",
         "icon": "kmp.png",
         "creator": "Kiocifer",
-        "categories": ["1;All Skyblock"],
-        "actions": [{ "text": "Forum", "link": "https://hypixel.net/threads/3604212/" }],
+        "categories": [
+            "1;All Skyblock"
+        ],
+        "actions": [
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3604212/"
+            }
+        ],
         "hash": "ab5786162b21c153bca0c4fa1a7e5385"
     },
     {
@@ -244,13 +313,18 @@
         "icon": "worldsandbeyond.png",
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3597207/" }
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3597207/"
+            }
         ],
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/packs/Worlds and%20Beyond%20[16x]%20-%20Release%201.5.zip",
         "hash": "b892df7339b82326fbe9f24641af422d"
@@ -264,7 +338,9 @@
         "icon": "sbov.png",
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "text": "Discord",
@@ -283,9 +359,15 @@
         "icon": "phq dark overlay.png",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
-        "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
+        "categories": [
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
+        ],
         "actions": [
-            { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2103515/"
+            },
             {
                 "icon": "packshq.png",
                 "text": "Website",
@@ -303,13 +385,18 @@
         "icon": "packshq.png",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2103515/"
+            },
             {
                 "icon": "packshq.png",
                 "text": "Website",
@@ -327,13 +414,18 @@
         "icon": "packshq.png",
         "creator": "ImperiaL",
         "discordcode": "KwvMQ4T",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2103515/"
+            },
             {
                 "icon": "packshq.png",
                 "text": "Website",
@@ -352,13 +444,18 @@
         "icon_scaling": "pixel",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "categories": ["1;All Skyblock"],
+        "categories": [
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3129905/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3129905/"
+            },
             {
                 "icon": "planetminecraft.png",
                 "text": "Planet Minecraft",
@@ -375,13 +472,19 @@
         "icon": "fsr.png",
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
-        "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
+        "categories": [
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
+        ],
         "actions": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/furfreborn.md"
             },
-            { "text": "Forum", "link": "https://hypixel.net/threads/3482676/" },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3482676/"
+            },
             {
                 "icon": "furfskywebsite.png",
                 "text": "Website",
@@ -396,7 +499,10 @@
         "file": "Smoll_Icons.zip",
         "display": "Smol icons",
         "description": "Simple pack that replaces the icons in the Skyblock menu UI text with minimal and smaller icons.",
-        "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
+        "categories": [
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
+        ],
         "icon": "smol_icons.png",
         "icon_scaling": "pixel",
         "creator": "_HeroBear_",
@@ -417,7 +523,10 @@
         "icon": "default.png",
         "creator": "Qwuiblington & Motor",
         "enabled": true,
-        "categories": ["4;Recommended PvP", "3;All PvP"],
+        "categories": [
+            "4;Recommended PvP",
+            "3;All PvP"
+        ],
         "actions": [
             {
                 "method": "hover",
@@ -438,7 +547,9 @@
         "description": "Compliance 1.8.9.",
         "icon": "compliance team logo.png",
         "creator": "Compliance Team",
-        "categories": ["3;All PvP"],
+        "categories": [
+            "3;All PvP"
+        ],
         "hidden": false,
         "actions": [
             {
