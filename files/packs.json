@@ -373,10 +373,10 @@
     },
     {
         "id": "hq16f",
-        "file": "v13 16x Skyblock Pack.zip",
-        "display": "Packs HQ v14 16x",
+        "file": "v14.1 16x Skyblock Pack.zip",
+        "display": "Packs HQ v14.1 16x",
         "description": "Packs HQ Skyblock Pack 16x. Standalone",
-        "url": "https://packshq.com/assets/packs/v14/v14_16x_Hypixel_Skyblock_Pack.zip",
+        "url": "https://packshq.com/assets/packs/v14/v14.1_16x_Hypixel_Skyblock_Pack.zip",
         "icon": "packshq.png",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
@@ -398,8 +398,7 @@
                 "link": "https://packshq.com/content/packs/"
             }
         ],
-        "outdated": true,
-        "hash": "32c3553e5709b4457eb5c70705ddec25"
+        "outdated": true
     },
     {
         "id": "hq32f",
