@@ -8,49 +8,49 @@
         "enabled": true,
         "file": "itlt-1.8.8-9-1.0.1.jar",
         "hash": "1ef2245e9e04e7eb0b234538532c78fb",
-        "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/3330\/8\/itlt-1.8.8-9-1.0.1.jar",
         "display": "Utility Bundle",
         "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, togglesprint, and a lot more!",
         "icon": "skyclient.png",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/utility.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/utility.md"
             },
             {
                 "icon": "monkey.png",
                 "text": "Scrollable Tooltips",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/text_overflow_scroll"
+                "link": "https:\/\/sk1er.club\/mods\/text_overflow_scroll"
             },
             {
                 "icon": "itlt.png",
                 "text": "It's The Little Things",
                 "creator": "Zlepper and Paint_Ninja",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
+                "link": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/its-the-little-things"
             },
             {
                 "icon": "tgb_icon.png",
                 "text": "OptiBye",
                 "creator": "ThatGravyBoat",
-                "link": "https:/discord.gg/jRhkYFmpCa"
+                "link": "https:\/discord.gg\/jRhkYFmpCa"
             },
             {
                 "icon": "skyclient.png",
                 "text": "SimpleToggleSprint",
                 "creator": "Lily",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+                "link": "https:\/\/github.com\/My-Name-Is-Jeff\/SimpleToggleSprint"
             },
             {
                 "icon": "monkey.png",
                 "text": "Hypixel Autocomplete",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/hypixel_auto_complete"
+                "link": "https:\/\/sk1er.club\/mods\/hypixel_auto_complete"
             }
         ],
         "categories": [
@@ -64,8 +64,8 @@
         ],
         "config": true,
         "files": [
-            "config/itlt.cfg",
-            "config/itlt/icon.png"
+            "config\/itlt.cfg",
+            "config\/itlt\/icon.png"
         ]
     },
     {
@@ -77,55 +77,55 @@
         "enabled": true,
         "file": "smooth-scrolling-everywhere-1.2.jar",
         "hash": "a0855299552a5d166386bd75b5fad90e",
-        "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/2895\/468\/smooth-scrolling-everywhere-1.2.jar",
         "display": "GUI Bundle",
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
         "icon": "skyclient.png",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/gui.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/gui.md"
             },
             {
                 "icon": "smooth scrolling everywhere.png",
                 "text": "Smooth Scrolling Everywhere",
                 "creator": "Shedaniel",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
+                "link": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/smooth-scrolling-everywhere"
             },
             {
                 "icon": "wyvest.png",
                 "text": "VanillaHUD",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/VanillaHUD"
             },
             {
                 "icon": "llamalad.png",
                 "text": "BetterChat",
                 "creator": "LlamaLad7",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
+                "link": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/better-chat"
             },
             {
                 "icon": "wyvest.png",
                 "text": "Chatting",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/Chatting"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/Chatting"
             },
             {
                 "icon": "tgb_icon.png",
                 "text": "RewardClaim",
                 "creator": "ThatGravyBoat",
-                "link": "https://discord.gg/jRhkYFmpCa"
+                "link": "https:\/\/discord.gg\/jRhkYFmpCa"
             },
             {
                 "icon": "tgb_icon.png",
                 "text": "Report+",
                 "creator": "ThatGravyBoat",
-                "link": "https://discord.gg/jRhkYFmpCa"
+                "link": "https:\/\/discord.gg\/jRhkYFmpCa"
             }
         ],
         "categories": [
@@ -147,39 +147,39 @@
         "forge_id": "evergreenhud",
         "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
         "hash": "63f4007274c69d5698bc7ade40b90ebf",
-        "url": "https://short.isxander.dev/RqjzS4",
+        "url": "https:\/\/short.isxander.dev\/RqjzS4",
         "display": "HUD Bundle",
         "description": "Displays every piece of information a Minecraft player could ever need.",
-        "command": "/evergreenhud",
+        "command": "\/evergreenhud",
         "discordcode": "AJv5ZnNT8q",
         "icon": "skyclient.png",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/hud.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/hud.md"
             },
             {
                 "icon": "evergreen.png",
                 "text": "EvergreenHUD",
                 "creator": "isXander",
-                "link": "https://hypixel.net/threads/3787277/"
+                "link": "https:\/\/hypixel.net\/threads\/3787277\/"
             },
             {
                 "icon": "wyvest.png",
                 "text": "REDACTION",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/REDACTION"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/REDACTION"
             },
             {
                 "icon": "monkey.png",
                 "text": "Keystrokes",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/keystrokesmod"
+                "link": "https:\/\/sk1er.club\/mods\/keystrokesmod"
             }
         ],
         "categories": [
@@ -199,57 +199,57 @@
         "forge_id": "insomnia",
         "file": "Insomnia-1.0-REL.jar",
         "hash": "16e4fa2d54f32a2008cd0d1999d9c842",
-        "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+        "url": "https:\/\/github.com\/Moulberry\/Insomnia\/releases\/download\/1.0\/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
         "display": "QOL Bundle",
         "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
-        "command": "/insomnia on/off",
+        "command": "\/insomnia on\/off",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/qol.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/qol.md"
             },
             {
                 "icon": "monkey.png",
                 "text": "Popup Events",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/popup_events"
+                "link": "https:\/\/sk1er.club\/mods\/popup_events"
             },
             {
                 "icon": "moulberrys bush.png",
                 "text": "Anti Dream Skin",
                 "creator": "Moulberry",
-                "link": "https://youtu.be/bZxXrt0T4Lc"
+                "link": "https:\/\/youtu.be\/bZxXrt0T4Lc"
             },
             {
                 "icon": "monkey.png",
                 "text": "AutoGG",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/autogg"
+                "link": "https:\/\/sk1er.club\/mods\/autogg"
             },
             {
                 "icon": "monkey.png",
                 "text": "AutoTip",
                 "creator": "Sk1er LLC",
-                "link": "https://autotip.pro/"
+                "link": "https:\/\/autotip.pro\/"
             },
             {
                 "icon": "monkey.png",
                 "text": "TNT Time",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/tnttime"
+                "link": "https:\/\/sk1er.club\/mods\/tnttime"
             },
             {
                 "icon": "monkey.png",
                 "text": "Levelhead",
                 "creator": "Sk1er LLC",
-                "link": "https://sk1er.club/mods/level_head"
+                "link": "https:\/\/sk1er.club\/mods\/level_head"
             }
         ],
         "categories": [
@@ -269,39 +269,39 @@
         "forge_id": "damagetint",
         "file": "DamageTint-3.2.0.jar",
         "hash": "abfae9b9f1660ce0bdea20c2949fb435",
-        "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/DamageTint\/releases\/download\/v3.2.0\/DamageTint-3.2.0.jar",
         "display": "PvP Bundle",
         "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
         "icon": "skyclient.png",
-        "command": "/damagetint",
+        "command": "\/damagetint",
         "creator": "W-OVERFLOW",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/pvp.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/packages\/pvp.md"
             },
             {
                 "icon": "wyvest.png",
                 "text": "Damage Tint",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/DamageTint"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/DamageTint"
             },
             {
                 "icon": "isxander.png",
                 "text": "Particles Enhanced",
                 "creator": "isXander",
-                "link": "https://short.isxander.dev/particlesenhanced"
+                "link": "https:\/\/short.isxander.dev\/particlesenhanced"
             },
             {
                 "icon": "wyvest.png",
                 "text": "BehindYouV3",
                 "creator": "W-OVERFLOW",
-                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/BehindYouV3"
             }
         ],
         "categories": [
@@ -322,7 +322,7 @@
         ],
         "forge_id": "skyblockclientupdater",
         "file": "SkyblockClient-Updater-1.2.1.jar",
-        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.1/SkyblockClient-Updater-1.2.1.jar",
+        "url": "https:\/\/github.com\/nacrt\/SkyblockClient-Updater\/releases\/download\/v1.2.1\/SkyblockClient-Updater-1.2.1.jar",
         "display": "SkyClient Updater",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "enabled": true,
@@ -335,7 +335,7 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
+                "link": "https:\/\/github.com\/My-Name-Is-Jeff\/SkyblockClient-Updater"
             }
         ],
         "hash": "fd1aea1e8bc59bdc7f945d946e2bb427"
@@ -349,7 +349,7 @@
         "forge_id": "skyclientcosmetics",
         "file": "SkyClient_Cosmetics-0.7.0.6-beta.jar",
         "hash": "75e31fab99f5d10623ba67a0fbb6d0bd",
-        "url": "https://cdn.discordapp.com/attachments/887818760126345246/962446089263398992/SkyClient_Cosmetics-0.7.0.6-beta.jar",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/887818760126345246\/962446089263398992\/SkyClient_Cosmetics-0.7.0.6-beta.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
         "enabled": true,
@@ -358,17 +358,17 @@
         ],
         "icon": "skyclient.png",
         "creator": "koxx12",
-        "command": "/scc",
+        "command": "\/scc",
         "actions": [
             {
                 "icon": "guide.png",
                 "text": "Features",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
+                "link": "https:\/\/github.com\/koxx12-dev\/Skyclient-Cosmetics\/wiki"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
+                "link": "https:\/\/github.com\/koxx12-dev\/Skyclient-Cosmetics"
             }
         ]
     },
@@ -380,7 +380,7 @@
         "enabled": true,
         "file": "OptiFine_1.8.9_HD_U_M5.jar",
         "hash": "0765dc1bcbe5baa83f7c261ac2c133ed",
-        "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
+        "url": "https:\/\/optifine.net\/download?f=OptiFine_1.8.9_HD_U_M5.jar",
         "display": "OptiFine M5",
         "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
         "icon": "optifine.png",
@@ -391,7 +391,7 @@
             {
                 "icon": "optifine.png",
                 "text": "Website",
-                "link": "https://optifine.net/home"
+                "link": "https:\/\/optifine.net\/home"
             }
         ],
         "categories": [
@@ -407,27 +407,27 @@
         "enabled": true,
         "file": "Patcher-1.8.1 (1.8.9).jar",
         "hash": "d9fb141ffea188a09f1ddd62eb7e7976",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.1/1.8.9/Patcher-1.8.1%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/patcher\/1.8.1\/1.8.9\/Patcher-1.8.1%20(1.8.9).jar",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "display": "Patcher",
-        "command": "/patcher",
+        "command": "\/patcher",
         "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
         "icon": "monkey.png",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
+                "document": "https:\/\/raw.githubusercontent.com\/nacrt\/SkyblockClient-REPO\/main\/files\/guides\/patcher.md"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/patcher.md"
             },
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/patcher"
+                "link": "https:\/\/sk1er.club\/mods\/patcher"
             }
         ],
         "categories": [
@@ -444,7 +444,7 @@
         "forge_id": "crashpatch",
         "enabled": true,
         "file": "CrashPatch-1.3.7.jar",
-        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.3.7/CrashPatch-1.3.7.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/CrashPatch\/releases\/download\/v1.3.7\/CrashPatch-1.3.7.jar",
         "display": "CrashPatch",
         "description": "Stop crashes from closing your game and provide solutions!",
         "icon": "wyvest.png",
@@ -454,14 +454,14 @@
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/W-OVERFLOW/CrashPatch"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/CrashPatch"
             }
         ],
         "categories": [
             "1;Recommended"
         ],
         "files": [
-            "W-OVERFLOW/CrashPatch/SKYCLIENT"
+            "W-OVERFLOW\/CrashPatch\/SKYCLIENT"
         ],
         "hash": "3a8a63e593992a0ee325316bbbcbe75e"
     },
@@ -469,23 +469,23 @@
         "id": "hytilities-reborn",
         "forge_id": "hytilities-reborn",
         "file": "Hytilities-Reborn-1.4.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/Hytilities-Reborn\/releases\/download\/v1.4.1\/Hytilities-Reborn-1.4.1.jar",
         "display": "Hytilities Reborn",
-        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for \/play and plenty others to discover on your own!",
         "icon": "wyvest.png",
-        "command": "/hytilities",
+        "command": "\/hytilities",
         "enabled": true,
         "creator": "W-OVERFLOW",
         "actions": [
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/hytilities-reborn.md"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/Hytilities-Reborn"
             }
         ],
         "discordcode": "woverflow",
@@ -507,14 +507,14 @@
             {
                 "icon": "youtube.png",
                 "text": "Showcase",
-                "link": "https://www.youtube.com/watch?v=7B8v384K0fM"
+                "link": "https:\/\/www.youtube.com\/watch?v=7B8v384K0fM"
             }
         ],
         "categories": [
             "4;All PvP",
             "5;Recommended PvP"
         ],
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar"
+        "url": "https:\/\/raw.githubusercontent.com\/nacrt\/SkyblockClient-REPO\/main\/files\/mods\/Block_Overlay_4.0.3.jar"
     },
     {
         "id": "betterhurtcam",
@@ -522,20 +522,20 @@
         "icon": "wyvest.png",
         "file": "BetterHurtCam-2.1.3.jar",
         "hash": "f5b96b7062ebefcd62c39a1798eab219",
-        "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
+        "url": "https:\/\/github.com\/Scherso\/BetterHurtCam\/releases\/download\/v2.1.3\/BetterHurtCam-2.1.3.jar",
         "display": "BetterHurtCam",
         "creator": "Salmon",
-        "command": "/betterhurtcam",
+        "command": "\/betterhurtcam",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/Scherso/BetterHurtCam"
+                "link": "https:\/\/github.com\/Scherso\/BetterHurtCam"
             },
             {
                 "icon": "youtube.png",
                 "text": "Showcase",
-                "link": "https://www.youtube.com/watch?v=F3Mg3-FPvQs"
+                "link": "https:\/\/www.youtube.com\/watch?v=F3Mg3-FPvQs"
             }
         ],
         "discordcode": "woverflow",
@@ -554,15 +554,15 @@
         "icon": "monkey.png",
         "file": "Nick Hider-6.0 (1.8.9).jar",
         "hash": "ee980cf0c8ea75a754aca18c05d0b2e9",
-        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/nick_hider\/6.0\/1.8.9\/Nick%20Hider-6.0%20(1.8.9).jar",
         "display": "Nick Hider",
         "creator": "Sk1er LLC",
-        "command": "/nickhider",
+        "command": "\/nickhider",
         "actions": [
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/nick_hider"
+                "link": "https:\/\/sk1er.club\/mods\/nick_hider"
             }
         ],
         "discordcode": "sk1er",
@@ -582,37 +582,37 @@
         "forge_id": "skyblockaddons",
         "file": "SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
         "hash": "160e21dc2511c0d7744f54ab2c73141a",
-        "url": "https://cdn.discordapp.com/attachments/661779636983955466/954223267625963520/SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/661779636983955466\/954223267625963520\/SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
         "display": "SkyblockAddons",
         "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover!",
         "icon": "bisquit.png",
         "creator": "Biscuit",
-        "command": "/sba",
+        "command": "\/sba",
         "discordcode": "qBkzcgdPqU",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/sba.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/sba.md"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/2109217/"
+                "link": "https:\/\/hypixel.net\/threads\/2109217\/"
             },
             {
                 "icon": "bisquit.png",
                 "text": "Website",
-                "link": "https://biscuit.codes/mods/skyblockaddons/"
+                "link": "https:\/\/biscuit.codes\/mods\/skyblockaddons\/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases"
+                "link": "https:\/\/github.com\/BiscuitDevelopment\/SkyblockAddons\/releases"
             }
         ],
         "categories": [
@@ -629,7 +629,7 @@
         "forge_id": "skyblockhud",
         "file": "SkyblockHud-1.13-beta7.jar",
         "hash": "8b270674cb08720a2e52960c7a2b7dac",
-        "url": "https://cdn.discordapp.com/attachments/845306740957642782/868401557874573342/SkyBlockHud-1.13-beta-test-7.jar",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/845306740957642782\/868401557874573342\/SkyBlockHud-1.13-beta-test-7.jar",
         "display": "SkyblockHUD",
         "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
         "icon": "sbhlogo.png",
@@ -642,7 +642,7 @@
             {
                 "icon": "direct_download.png",
                 "text": "Download",
-                "link": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar"
+                "link": "https:\/\/cdn.discordapp.com\/attachments\/760875791638331402\/810392867478306816\/SkyblockHud-1.12.jar"
             }
         ],
         "warning": {
@@ -660,12 +660,12 @@
         "forge_id": "notenoughupdates",
         "file": "NotEnoughUpdates-2.0.0.jar",
         "hash": "a18ffe0a2a911d849aefb86d9c9227ef",
-        "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/2.0.0/NotEnoughUpdates-2.0.0.jar",
+        "url": "https:\/\/github.com\/Moulberry\/NotEnoughUpdates\/releases\/download\/2.0.0\/NotEnoughUpdates-2.0.0.jar",
         "display": "NotEnoughUpdates",
         "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
         "icon": "neulogo.png",
         "creator": "Moulberry",
-        "command": "/neu",
+        "command": "\/neu",
         "discordcode": "moulberry",
         "nicknames": [
             "notenoughupdates"
@@ -673,22 +673,22 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/neu.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/neu.md"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3135465/"
+                "link": "https:\/\/hypixel.net\/threads\/3135465\/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/Moulberry/NotEnoughUpdates/releases"
+                "link": "https:\/\/github.com\/Moulberry\/NotEnoughUpdates\/releases"
             }
         ],
         "categories": [
@@ -697,7 +697,7 @@
         ],
         "config": true,
         "files": [
-            "config/notenoughupdates/config.json"
+            "config\/notenoughupdates\/config.json"
         ]
     },
     {
@@ -709,32 +709,32 @@
         "forge_id": "Danker's Skyblock Mod",
         "file": "Dankers_Skyblock_Mod-1.8.7-beta4.jar",
         "hash": "6bb7ebd7196c6a0177b1ee5edfc794aa",
-        "url": "https://cdn.discordapp.com/attachments/742114256555606106/871202865069322270/Dankers_Skyblock_Mod-1.8.7-beta4.jar",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/742114256555606106\/871202865069322270\/Dankers_Skyblock_Mod-1.8.7-beta4.jar",
         "display": "Danker's Skyblock Mod",
         "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself!",
         "icon": "dsm logo cropped.png",
         "creator": "DankerWanker",
         "discordcode": "BUmywXX47M",
-        "command": "/dsm",
+        "command": "\/dsm",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/dsm.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/dsm.md"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3577020/"
+                "link": "https:\/\/hypixel.net\/threads\/3577020\/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/bowser0000/SkyblockMod/releases"
+                "link": "https:\/\/github.com\/bowser0000\/SkyblockMod\/releases"
             }
         ],
         "categories": [
@@ -748,32 +748,32 @@
         ],
         "forge_id": "skytils",
         "file": "BSMod-1.2.3.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.3/BSMod-1.2.3.jar",
+        "url": "https:\/\/github.com\/Skytils\/SkytilsMod\/releases\/download\/v1.2.3\/BSMod-1.2.3.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
-        "command": "/skytils",
+        "command": "\/skytils",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/skytils.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/skytils.md"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3856202/"
+                "link": "https:\/\/hypixel.net\/threads\/3856202\/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/Skytils/SkytilsMod/releases"
+                "link": "https:\/\/github.com\/Skytils\/SkytilsMod\/releases"
             }
         ],
         "categories": [
@@ -787,44 +787,44 @@
         "forge_id": "apec",
         "file": "Apec-1.10.1.jar",
         "hash": "3e5de61af6a40aa69bc47056425fb1dd",
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.1/Apec-1.10.1.jar",
+        "url": "https:\/\/github.com\/BananaFructa\/Apec\/releases\/download\/1.10.1\/Apec-1.10.1.jar",
         "display": "Apec",
         "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG.",
         "icon": "apec.png",
         "creator": "BananaFructa",
-        "command": "/apec",
+        "command": "\/apec",
         "discordcode": "HyvcR9a3x9",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/BananaFructa/Apec/blob/master/README.md?raw=true"
+                "document": "https:\/\/github.com\/BananaFructa\/Apec\/blob\/master\/README.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/BananaFructa/Apec/blob/master/README.md"
+                "link": "https:\/\/github.com\/BananaFructa\/Apec\/blob\/master\/README.md"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3076465/"
+                "link": "https:\/\/hypixel.net\/threads\/3076465\/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/BananaFructa/Apec/releases"
+                "link": "https:\/\/github.com\/BananaFructa\/Apec\/releases"
             },
             {
                 "icon": "curseforge.png",
                 "text": "Curseforge",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/apec"
+                "link": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/apec"
             }
         ],
         "categories": [
             "2;All Skyblock"
         ],
         "files": [
-            "config/Apec/Settings.txt"
+            "config\/Apec\/Settings.txt"
         ]
     },
     {
@@ -836,38 +836,38 @@
         "forge_id": "cowlection",
         "file": "Cowlection-1.8.9-0.14.0.jar",
         "hash": "91d4acc88d17aa7560808dbc96b8fae1",
-        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.14.0/Cowlection-1.8.9-0.14.0.jar",
+        "url": "https:\/\/github.com\/cow-mc\/Cowlection\/releases\/download\/v1.8.9-0.14.0\/Cowlection-1.8.9-0.14.0.jar",
         "display": "Cowlection",
         "description": "A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all Hypixel players.",
         "icon": "cowlection-logo.png",
         "icon_scaling": "pixel",
         "creator": "Cow",
         "discordcode": "HyvcR9a3x9",
-        "command": "/moo config",
+        "command": "\/moo config",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/cow-mc/Cowlection/blob/master/README.md?raw=true"
+                "document": "https:\/\/github.com\/cow-mc\/Cowlection\/blob\/master\/README.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/cow-mc/Cowlection/blob/master/README.md"
+                "link": "https:\/\/github.com\/cow-mc\/Cowlection\/blob\/master\/README.md"
             },
             {
                 "icon": "cowlection-logo.png",
                 "text": "Website",
-                "link": "https://cowtipper.de/"
+                "link": "https:\/\/cowtipper.de\/"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3087259/"
+                "link": "https:\/\/hypixel.net\/threads\/3087259\/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/cow-mc/Cowlection/releases"
+                "link": "https:\/\/github.com\/cow-mc\/Cowlection\/releases"
             }
         ],
         "categories": [
@@ -882,27 +882,27 @@
         "forge_id": "sbp",
         "file": "1.8.9 SkyblockPersonalized 1.6.0.1.jar",
         "hash": "e7c5f477bb35ea5b07a8825f85dd03ce",
-        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.1/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
+        "url": "https:\/\/github.com\/Cobble8\/SkyblockPersonalized\/releases\/download\/1.6.0.1\/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
         "display": "SkyblockPersonalized",
         "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
         "icon": "sbp.png",
         "creator": "Cobble8",
         "discordcode": "KsqMmBdNBE",
-        "command": "/sbp",
+        "command": "\/sbp",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md"
+                "document": "https:\/\/raw.githubusercontent.com\/nacrt\/SkyblockClient-REPO\/main\/files\/guides\/sbp.md"
             },
             {
                 "icon": "discord icon.png",
                 "text": "Discord",
-                "link": "https://discord.gg/KsqMmBdNBE"
+                "link": "https:\/\/discord.gg\/KsqMmBdNBE"
             },
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3963451/"
+                "link": "https:\/\/hypixel.net\/threads\/3963451\/"
             }
         ],
         "categories": [
@@ -917,27 +917,27 @@
         ],
         "forge_id": "skyblock_dungeons_guide",
         "file": "dungeonsguide-3.7.7.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.7/dungeonsguide-3.7.7.jar",
+        "url": "https:\/\/github.com\/Dungeons-Guide\/Skyblock-Dungeons-Guide\/releases\/download\/3.7.7\/dungeonsguide-3.7.7.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
         "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
         "icon": "dungeonsguide.jpg",
         "discordcode": "dg",
-        "command": "/dg",
+        "command": "\/dg",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+                "document": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/dungeonsguide.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/blob\/main\/files\/guides\/dungeonsguide.md"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
+                "link": "https:\/\/github.com\/cyoung06\/Skyblock-Dungeons-Guide"
             }
         ],
         "categories": [
@@ -952,12 +952,12 @@
         ],
         "forge_id": "dungeonrooms",
         "file": "Dungeon_Rooms-3.3.1.jar",
-        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.1/Dungeon_Rooms-3.3.1.jar",
+        "url": "https:\/\/github.com\/Quantizr\/DungeonRoomsMod\/releases\/download\/v3.3.1\/Dungeon_Rooms-3.3.1.jar",
         "display": "Dungeon Rooms",
         "icon": "drm.png",
-        "description": "Displays dungeon room id/name and adds waypoints for secrets.",
+        "description": "Displays dungeon room id\/name and adds waypoints for secrets.",
         "creator": "_risk",
-        "command": "/room",
+        "command": "\/room",
         "discordcode": "7B5RbsArYK",
         "categories": [
             "2;All Skyblock"
@@ -965,12 +965,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/drm.md"
+                "document": "https:\/\/raw.githubusercontent.com\/nacrt\/SkyblockClient-REPO\/main\/files\/guides\/drm.md"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/Quantizr/DungeonRoomsMod"
+                "link": "https:\/\/github.com\/Quantizr\/DungeonRoomsMod"
             }
         ],
         "hash": "edec543a11bcc2a53b2fe3972b29d1fa"
@@ -980,18 +980,18 @@
         "forge_id": "timechanger",
         "file": "TimeChanger-2.2.1.jar",
         "hash": "157240f650762d46394b2cc1f052758b",
-        "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
+        "url": "https:\/\/github.com\/shatter-point\/Revamped-TimeChanger\/releases\/download\/v1.2.1\/TimeChanger-2.2.1.jar",
         "display": "TimeChanger",
         "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
         "icon": "clock.png",
         "icon_scaling": "pixel",
         "creator": "Shatterpoint",
-        "command": "/timechange",
+        "command": "\/timechange",
         "actions": [
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/3574261/"
+                "link": "https:\/\/hypixel.net\/threads\/3574261\/"
             }
         ]
     },
@@ -1000,7 +1000,7 @@
         "forge_id": "itemphysic",
         "file": "ItemPhysic Lite 1.3.jar",
         "hash": "fabc8804c785279018cc14e5128b5147",
-        "url": "https://media.forgecdn.net/files/2439/695/ItemPhysic+Lite+1.3+mc1.8.9.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/2439\/695\/ItemPhysic+Lite+1.3+mc1.8.9.jar",
         "display": "Item Physic Lite",
         "description": "Make dropped items have realistic physics!",
         "icon": "creativemd.png",
@@ -1009,7 +1009,7 @@
             {
                 "icon": "creativemd.png",
                 "text": "Website",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite"
+                "link": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/itemphysic-lite"
             }
         ],
         "discordcode": "W9QM3fS"
@@ -1018,17 +1018,17 @@
         "id": "craftify",
         "forge_id": "craftify",
         "file": "Craftify-1.8.9-1.0.0.jar",
-        "url": "https://media.forgecdn.net/files/3741/86/Craftify-1.8.9-1.0.0.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/3741\/86\/Craftify-1.8.9-1.0.0.jar",
         "display": "Craftify",
         "description": "Show your Spotify songs ingame!",
         "icon": "tgb_icon.png",
-        "command": "/craftify",
+        "command": "\/craftify",
         "creator": "ThatGravyBoat",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/ThatGravyBoat/Craftify"
+                "link": "https:\/\/github.com\/ThatGravyBoat\/Craftify"
             }
         ],
         "discordcode": "wQfFucgHTX",
@@ -1039,7 +1039,7 @@
         "forge_id": "blur",
         "file": "Blur-MC1.8.9-1.0.4-2.jar",
         "hash": "f224341c91b88a69fff3b0de6b7f744c",
-        "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/2665\/186\/Blur-MC1.8.9-1.0.4-2.jar",
         "display": "Blur",
         "description": "Add a blur to all your GUIs!",
         "icon": "tterrag.png",
@@ -1048,7 +1048,7 @@
             {
                 "icon": "skyclient.png",
                 "text": "Showcase",
-                "link": "https://imgur.com/EmSEKFu"
+                "link": "https:\/\/imgur.com\/EmSEKFu"
             }
         ]
     },
@@ -1060,11 +1060,11 @@
         "forge_id": "subtitles_mod",
         "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
         "hash": "a60ff71e9e28f45635248f4475f39188",
-        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/subtitles_mod\/1.2.2\/1.8.9\/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
         "display": "Sound Subtitles",
         "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
         "creator": "Sk1er LLC",
-        "command": "/subtitles_config",
+        "command": "\/subtitles_config",
         "icon": "monkey.png",
         "discordcode": "sk1er",
         "categories": [
@@ -1074,7 +1074,7 @@
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/subtitles_mod"
+                "link": "https:\/\/sk1er.club\/mods\/subtitles_mod"
             }
         ]
     },
@@ -1086,7 +1086,7 @@
         "forge_id": "ct.js",
         "file": "ctjs-2.0.4-1.8.9.jar",
         "hash": "7d54e3aac8cb31d16806ce58b026ca14",
-        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.4/ctjs-2.0.4-1.8.9.jar",
+        "url": "https:\/\/github.com\/ChatTriggers\/ChatTriggers\/releases\/download\/2.0.4\/ctjs-2.0.4-1.8.9.jar",
         "display": "Chat Triggers",
         "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
         "icon": "chattriggers 48x.png",
@@ -1096,7 +1096,7 @@
             {
                 "icon": "chattriggers 48x.png",
                 "text": "Website",
-                "link": "https://www.chattriggers.com/"
+                "link": "https:\/\/www.chattriggers.com\/"
             }
         ],
         "categories": [
@@ -1106,10 +1106,10 @@
             "lines": [
                 "ChatTriggers, unlike most mods here, is actually a module loader.",
                 "It allows devs to create \"modules\" with JavaScript, which can do everything a normal mod can do.",
-                "It won't do anything if it has no modules to run. Import modules by using /ct import [name].",
+                "It won't do anything if it has no modules to run. Import modules by using \/ct import [name].",
                 "",
                 "Due to having to run another language inside of Minecraft, it may lower performance, especially when using badly written modules.",
-                "View the modules available at https://www.chattriggers.com/modules.",
+                "View the modules available at https:\/\/www.chattriggers.com\/modules.",
                 "Use anyway?"
             ]
         }
@@ -1119,7 +1119,7 @@
         "hidden": true,
         "file": "SBCustomMobTex-1.4.jar",
         "hash": "d5f64ef19330be7601f3538b386cde82",
-        "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
+        "url": "https:\/\/github.com\/Moulberry\/SBCustomMobTex\/releases\/download\/v1.4\/SBCustomMobTex-1.4.jar",
         "display": "SBCustomMobTex",
         "description": "Allows resource packs to view the NBT data of mobs in Skyblock and provides the possiblity of changing custom mob textures with the use of resource packs.",
         "icon": "moulberrys bush.png",
@@ -1129,7 +1129,7 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/Moulberry/SBCustomMobTex/releases"
+                "link": "https:\/\/github.com\/Moulberry\/SBCustomMobTex\/releases"
             }
         ],
         "categories": [
@@ -1166,7 +1166,7 @@
             {
                 "icon": "direct_download.png",
                 "text": "Download",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
+                "link": "https:\/\/github.com\/nacrt\/SkyblockClient-REPO\/raw\/main\/files\/mods\/Resource_Pack_Manager_1.2.jar"
             }
         ],
         "warning": {
@@ -1182,14 +1182,14 @@
                 "Use anyway?"
             ]
         },
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar"
+        "url": "https:\/\/raw.githubusercontent.com\/nacrt\/SkyblockClient-REPO\/main\/files\/mods\/Resource_Pack_Manager_1.2.jar"
     },
     {
         "id": "controlling",
         "forge_id": "controlling",
         "file": "Controlling-7.0.0.2.jar",
         "hash": "34aba2ccb959752601cac37d6020dfae",
-        "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/3071\/182\/Controlling-7.0.0.2.jar",
         "display": "GUI Bundle",
         "description": "Adds more options in controls menu to make it easier to navigate.",
         "hidden": true
@@ -1202,7 +1202,7 @@
         "forge_id": "text_overflow_scroll",
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "hash": "05cc200b46c6eea4d918300aacd74ea1",
-        "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/text_overflow_scroll\/1.4\/1.8.9\/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "display": "Scrollable Tooltips",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -1217,11 +1217,11 @@
         "forge_id": "popup_events",
         "file": "Popup Events-1.3.2 (1.8.9).jar",
         "hash": "7c780fa81a62b500d33bb8210bcbc9a0",
-        "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/popup_events\/1.3.2\/1.8.9\/Popup%20Events-1.3.2%20(1.8.9).jar",
         "display": "Popup Events",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
-        "command": "/popupevents",
+        "command": "\/popupevents",
         "description": "Accept or deny friend, party, and guild invite requests.",
         "hidden": true
     },
@@ -1235,8 +1235,7 @@
         "creator": "ThatGravyBoat",
         "command": "No Commands",
         "discordcode": "neu",
-        "hidden": true,
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Optibye-1.0.0-dep.jar"
+        "hidden": true
     },
     {
         "id": "rc",
@@ -1246,11 +1245,11 @@
         "forge_id": "gravyrewardclaim",
         "file": "RewardClaim-1.0.4.jar",
         "hash": "6618896b9236226ddae468d6fdeaed69",
-        "url": "https://github.com/ThatGravyBoat/RewardClaim/releases/download/v1.0.4/RewardClaim-1.0.4.jar",
+        "url": "https:\/\/github.com\/ThatGravyBoat\/RewardClaim\/releases\/download\/v1.0.4\/RewardClaim-1.0.4.jar",
         "display": "RewardClaim",
         "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "creator": "ThatGravyBoat",
-        "command": "/rewardclaim",
+        "command": "\/rewardclaim",
         "discordcode": "wQfFucgHTX",
         "hidden": true
     },
@@ -1263,17 +1262,17 @@
         "forge_id": "simpletogglesprint",
         "file": "SimpleToggleSprint-2.2.0.jar",
         "hash": "203479f689b9baccb6d77380be22ed86",
-        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
+        "url": "https:\/\/github.com\/My-Name-Is-Jeff\/SimpleToggleSprint\/releases\/download\/v2.2.0\/SimpleToggleSprint-2.2.0.jar",
         "display": "Toggle Sprint",
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
-        "command": "/togglesprint",
+        "command": "\/togglesprint",
         "creator": "Lily",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+                "link": "https:\/\/github.com\/My-Name-Is-Jeff\/SimpleToggleSprint"
             }
         ],
         "hidden": true
@@ -1286,17 +1285,17 @@
         "forge_id": "hypixel_auto_complete",
         "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
         "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e",
-        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/hypixel_auto_complete\/1.1\/1.8.9\/Hypixel%20Autocomplete-1.1%20(1.8.9).jar",
         "display": "Hypixel Autocomplete",
         "description": "Hypixel Autocomplete Mod allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players.",
         "icon": "monkey.png",
-        "command": "/hypixelautocomplete",
+        "command": "\/hypixelautocomplete",
         "creator": "Sk1er LLC",
         "actions": [
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/hypixel_auto_complete"
+                "link": "https:\/\/sk1er.club\/mods\/hypixel_auto_complete"
             }
         ],
         "hidden": true
@@ -1306,17 +1305,17 @@
         "forge_id": "betterchat",
         "file": "betterchat-1.5.jar",
         "hash": "7c790782172fcd7629fe8824b16ed7a6",
-        "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/3249\/65\/betterchat-1.5.jar",
         "display": "Betterchat",
         "description": "Allows you to move the chat and makes chat messages animated.",
         "icon": "llamalad.png",
-        "command": "/betterchat",
+        "command": "\/betterchat",
         "creator": "LlamaLad7",
         "actions": [
             {
                 "icon": "llamalad.png",
                 "text": "Website",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
+                "link": "https:\/\/www.curseforge.com\/minecraft\/mc-mods\/better-chat"
             }
         ],
         "hidden": true
@@ -1330,17 +1329,17 @@
         ],
         "forge_id": "chatting",
         "file": "Chatting-1.3.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.3.1/Chatting-1.3.1.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/Chatting\/releases\/download\/v1.3.1\/Chatting-1.3.1.jar",
         "display": "Chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
-        "command": "/chatting",
+        "command": "\/chatting",
         "creator": "W-OVERFLOW",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Chatting"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/Chatting"
             }
         ],
         "discordcode": "woverflow",
@@ -1355,11 +1354,11 @@
         "forge_id": "reportplus",
         "file": "ReportPlus-1.0.0.jar",
         "hash": "252f86fdac615ea501811c53343649e1",
-        "url": "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar",
+        "url": "https:\/\/github.com\/ThatGravyBoat\/ReportPlus\/releases\/download\/1.0.1\/ReportPlus-1.0.0.jar",
         "display": "ReportPlus",
         "description": "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. ",
         "creator": "ThatGravyBoat",
-        "command": "/reportplus",
+        "command": "\/reportplus",
         "discordcode": "wQfFucgHTX",
         "hidden": true
     },
@@ -1376,31 +1375,30 @@
             {
                 "icon": "youtube.png",
                 "text": "Showcase",
-                "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
+                "link": "https:\/\/www.youtube.com\/watch?v=cn9VvT43yRs"
             }
         ],
         "hidden": true,
         "update_to_id": "vanillahud",
         "update_to_ids": [
             "vanillahud"
-        ],
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Sidebar Mod Revamp.jar"
+        ]
     },
     {
         "id": "vanillahud",
         "forge_id": "vanillahud",
         "file": "VanillaHUD-1.1.1.jar",
-        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/VanillaHUD\/releases\/download\/v1.1.1\/VanillaHUD-1.1.1.jar",
         "display": "VanillaHUD",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
         "icon": "wyvest.png",
-        "command": "/vanillahud",
+        "command": "\/vanillahud",
         "creator": "W-OVERFLOW (Wyvest)",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/VanillaHUD"
             }
         ],
         "discordcode": "woverflow",
@@ -1411,23 +1409,23 @@
         "id": "redaction",
         "forge_id": "redaction",
         "file": "REDACTION-1.2.1.jar",
-        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.2.1/REDACTION-1.2.1.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/REDACTION\/releases\/download\/v1.2.1\/REDACTION-1.2.1.jar",
         "display": "REDACTION",
         "description": "Adds useful GUI additions to the game.",
         "icon": "wyvest.png",
-        "command": "/redaction",
+        "command": "\/redaction",
         "creator": "W-OVERFLOW (Wyvest)",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/REDACTION"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/REDACTION"
             }
         ],
         "discordcode": "woverflow",
         "hidden": true,
         "files": [
-            "W-OVERFLOW/REDACTION/redaction.toml"
+            "W-OVERFLOW\/REDACTION\/redaction.toml"
         ],
         "hash": "e4338f690384bb178176201109a44c8f"
     },
@@ -1436,17 +1434,17 @@
         "forge_id": "behindyouv3",
         "file": "BehindYouV3-3.1.0.jar",
         "hash": "cb08e4783b4014371e093818164995d8",
-        "url": "https://github.com/W-OVERFLOW/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
+        "url": "https:\/\/github.com\/W-OVERFLOW\/BehindYouV3\/releases\/download\/v3.1.0\/BehindYouV3-3.1.0.jar",
         "display": "BehindYouV3",
         "description": "Allows you to look behind you with ease.",
         "icon": "wyvest.png",
-        "command": "/behindyou",
+        "command": "\/behindyou",
         "creator": "W-OVERFLOW",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+                "link": "https:\/\/github.com\/W-OVERFLOW\/BehindYouV3"
             }
         ],
         "discordcode": "woverflow",
@@ -1457,23 +1455,23 @@
         "forge_id": "keystrokesmod",
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "hash": "fb1a2c0daf43d3235e43b6e8190243bb",
-        "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/keystrokesmod\/8.1.2\/1.8.9\/Keystrokes-8.1.2%20(1.8.9).jar",
         "display": "Keystrokes",
         "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
         "icon": "monkey.png",
         "creator": "Sk1er LLC",
-        "command": "/keystrokes",
+        "command": "\/keystrokes",
         "discordcode": "sk1er",
         "actions": [
             {
                 "icon": "youtube.png",
                 "text": "Youtube",
-                "link": "https://youtu.be/u--cnSTFqDE"
+                "link": "https:\/\/youtu.be\/u--cnSTFqDE"
             },
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/keystrokesmod"
+                "link": "https:\/\/sk1er.club\/mods\/keystrokesmod"
             }
         ],
         "hidden": true
@@ -1483,23 +1481,23 @@
         "forge_id": "bossbar_customizer",
         "file": "Bossbar Customizer-1.2.1 (1.8.9).jar",
         "hash": "a95b60f1d6ef91cdffb0f05836e3b7cc",
-        "url": "https://static.sk1er.club/repo/mods/bossbar_customizer/1.2.1/1.8.9/Bossbar%20Customizer-1.2.1%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/bossbar_customizer\/1.2.1\/1.8.9\/Bossbar%20Customizer-1.2.1%20(1.8.9).jar",
         "display": "Bossbar Customizer",
         "description": "Bossbar Customizer allows for customization of the ingame bossbar to your liking, including size, position, elements, etc.",
         "icon": "monkey.png",
         "creator": "Sk1er LLC",
-        "command": "/bossbar",
+        "command": "\/bossbar",
         "discordcode": "sk1er",
         "actions": [
             {
                 "icon": "youtube.png",
                 "text": "Youtube",
-                "link": "https://www.youtube.com/watch?v=tigBu2OyZ4I"
+                "link": "https:\/\/www.youtube.com\/watch?v=tigBu2OyZ4I"
             },
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/bossbar_customizer"
+                "link": "https:\/\/sk1er.club\/mods\/bossbar_customizer"
             }
         ],
         "hidden": true,
@@ -1513,7 +1511,7 @@
         "forge_id": "tnttime",
         "file": "TNT Time-1.1 (1.8.9).jar",
         "hash": "0319acf44a552bc39c92ff84cec85929",
-        "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/tnttime\/1.1\/1.8.9\/TNT%20Time-1.1%20(1.8.9).jar",
         "display": "TNT Time",
         "description": "TNT Time displays TNT's time until detonation.",
         "icon": "monkey.png",
@@ -1523,12 +1521,12 @@
             {
                 "icon": "youtube.png",
                 "text": "Youtube",
-                "link": "https://www.youtube.com/watch?v=dV3UYspr6jc"
+                "link": "https:\/\/www.youtube.com\/watch?v=dV3UYspr6jc"
             },
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/tnttime"
+                "link": "https:\/\/sk1er.club\/mods\/tnttime"
             }
         ],
         "hidden": true
@@ -1538,7 +1536,7 @@
         "forge_id": "level_head",
         "file": "Levelhead-8.1 (1.8.9).jar",
         "hash": "222daa6b06978cbe10c2a8d255174a5b",
-        "url": "https://static.sk1er.club/repo/mods/level_head/8.1/1.8.9/Levelhead-8.1%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/level_head\/8.1\/1.8.9\/Levelhead-8.1%20(1.8.9).jar",
         "display": "Levelhead",
         "description": "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.",
         "icon": "monkey.png",
@@ -1548,12 +1546,12 @@
             {
                 "icon": "youtube.png",
                 "text": "Youtube",
-                "link": "https://www.youtube.com/watch?v=LiAaFdyqLho"
+                "link": "https:\/\/www.youtube.com\/watch?v=LiAaFdyqLho"
             },
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/level_head"
+                "link": "https:\/\/sk1er.club\/mods\/level_head"
             }
         ],
         "hidden": true
@@ -1563,18 +1561,18 @@
         "forge_id": "autogg",
         "file": "AutoGG-4.1.3 (1.8.9).jar",
         "hash": "ded8229d58537c4f4b170c112123c84e",
-        "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3%20(1.8.9).jar",
+        "url": "https:\/\/static.sk1er.club\/repo\/mods\/autogg\/4.1.3\/1.8.9\/AutoGG-4.1.3%20(1.8.9).jar",
         "display": "AutoGG",
         "description": "Automatically say a selected phrase after a game has ended on supported servers.",
         "icon": "monkey.png",
         "creator": "Sk1er LLC",
-        "command": "/autogg",
+        "command": "\/autogg",
         "discordcode": "sk1er",
         "actions": [
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://sk1er.club/mods/autogg"
+                "link": "https:\/\/sk1er.club\/mods\/autogg"
             }
         ],
         "hidden": true
@@ -1584,18 +1582,18 @@
         "forge_id": "autotip",
         "file": "Autotip-3.0.1 [1.8-1.12.2].jar",
         "hash": "f3333eabbfb73231108cd421f1a935d5",
-        "url": "https://dl.autotip.pro/3.0.1",
+        "url": "https:\/\/dl.autotip.pro\/3.0.1",
         "display": "AutoTip",
         "description": "Autotipper for mc.hypixel.net.",
         "icon": "monkey.png",
         "creator": "Semx11, 2Pi, Sk1er LLC",
-        "command": "/autotip",
+        "command": "\/autotip",
         "discordcode": "sk1er",
         "actions": [
             {
                 "icon": "monkey.png",
                 "text": "Website",
-                "link": "https://autotip.pro/"
+                "link": "https:\/\/autotip.pro\/"
             }
         ],
         "hidden": true
@@ -1605,18 +1603,18 @@
         "forge_id": "oofmod",
         "file": "OofMod-4.1.0.jar",
         "hash": "f50b6f42d6fdac6ff174cef582ccd79d",
-        "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",
+        "url": "https:\/\/github.com\/Deftu\/OofMod\/releases\/download\/4.1.0\/OofMod-4.1.0.jar",
         "display": "OofMod",
         "description": "Play custom sounds when killing other players.",
         "icon": "deftu.png",
         "creator": "Deftu, Powns, Refraction, Sk1er LLC",
-        "command": "/oofmod",
+        "command": "\/oofmod",
         "discordcode": "dFb277Kexf",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/Deftu/OofMod"
+                "link": "https:\/\/github.com\/Deftu\/OofMod"
             }
         ]
     },
@@ -1628,7 +1626,7 @@
         ],
         "file": "ParticlesEnhanced-1.2.0.jar",
         "hash": "0be55dd62501ae1355142a135f72593a",
-        "url": "https://cdn.modrinth.com/data/DRIoOeFq/versions/1.2.0/ParticlesEnhanced-1.2.0.jar",
+        "url": "https:\/\/cdn.modrinth.com\/data\/DRIoOeFq\/versions\/1.2.0\/ParticlesEnhanced-1.2.0.jar",
         "display": "Particles Enhanced",
         "description": "2021's take at particles in minecraft. Including never-seen-before features such as particle fade.",
         "creator": "isXander",
@@ -1639,17 +1637,17 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://short.isxander.dev/particlesenhanced"
+                "link": "https:\/\/short.isxander.dev\/particlesenhanced"
             },
             {
                 "icon": "forum.png",
                 "text": "Hypixel",
-                "link": "https://hypixel.net/threads/4416018/"
+                "link": "https:\/\/hypixel.net\/threads\/4416018\/"
             },
             {
                 "icon": "isxander.png",
                 "text": "Website",
-                "link": "https://www.isxander.dev"
+                "link": "https:\/\/www.isxander.dev"
             }
         ],
         "hidden": true
@@ -1662,7 +1660,7 @@
         "forge_id": "synthesis",
         "file": "Synthesis-0.2.0.jar",
         "hash": "ea984a29cc24c57c1ae6023b259c4529",
-        "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/931696052724203550\/937623068715651092\/Synthesis-0.2.0.jar",
         "display": "Synthesis",
         "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
         "enabled": false,
@@ -1676,17 +1674,17 @@
             {
                 "icon": "guide.png",
                 "text": "guide",
-                "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
+                "link": "https:\/\/github.com\/SynthesisMod\/Synthesis\/blob\/main\/README.md"
             },
             {
                 "icon": "github.png",
                 "text": "github",
-                "link": "https://github.com/SynthesisMod/Synthesis"
+                "link": "https:\/\/github.com\/SynthesisMod\/Synthesis"
             },
             {
                 "icon": "discord icon.png",
                 "text": "discord",
-                "link": "https://discord.com/invite/vAUuKSwbp6"
+                "link": "https:\/\/discord.com\/invite\/vAUuKSwbp6"
             }
         ]
     },
@@ -1700,14 +1698,13 @@
         "creator": "Moulberry",
         "command": "No commands",
         "discordcode": "neu",
-        "hidden": true,
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Hychat-1.12.2-BETA.jar"
+        "hidden": true
     },
     {
         "id": "reauth",
         "forge_id": "reauth",
         "file": "ReAuth-3.5.0.jar",
-        "url": "https://media.forgecdn.net/files/2433/385/ReAuth-3.5.0.jar",
+        "url": "https:\/\/media.forgecdn.net\/files\/2433\/385\/ReAuth-3.5.0.jar",
         "display": "ReAuth",
         "description": "Log in from Ingame",
         "creator": "TechnicianLP",
@@ -1721,7 +1718,7 @@
         "enabled": false,
         "hidden": true,
         "file": "CrashHelper-1.1.2.jar",
-        "url": "https://short.isxander.dev/qKYfzc",
+        "url": "https:\/\/short.isxander.dev\/qKYfzc",
         "display": "Crash Helper",
         "description": "Gives useful information about crashes in minecraft",
         "icon": "isxander.png",
@@ -1739,11 +1736,11 @@
         "enabled": false,
         "file": "Wyvtils-1.8.9-2.0.0.jar",
         "hash": "8f8dd187dea01447ef354ef0d9cd7afc",
-        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "url": "https:\/\/github.com\/Wyvest\/Wyvtils\/releases\/download\/v2.0.0\/Wyvtils-1.8.9-2.0.0.jar",
         "display": "Wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
         "icon": "wyvest.png",
-        "command": "/wyvtils",
+        "command": "\/wyvtils",
         "creator": "W-OVERFLOW (Wyvest)",
         "discordcode": "qKETDJDsV3",
         "hidden": true,
@@ -1762,7 +1759,6 @@
         "creator": "Mojang",
         "hidden": true,
         "ignored": true,
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/no",
         "hash": "3be7b8b182ccd96e48989b4e57311193"
     }
 ]
