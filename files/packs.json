@@ -63,8 +63,8 @@
     },
     {
         "id": "actuallycompliment",
-        "file": "Compliment.zip",
-        "url": "https://github.com/ActuallyAssets/Compliment/releases/download/ReleaseV1/Compliment.zip",
+        "file": "Compliment-V1.1.zip",
+        "url": "https://github.com/ActuallyAssets/Compliment/releases/download/ReleaseV2/Compliment-V1.1.zip",
         "display": "Compliment",
         "description": "Compliment backports new item textures from 1.9 and above into 1.8 using Optifine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures!",
         "icon": "compliment.png",
