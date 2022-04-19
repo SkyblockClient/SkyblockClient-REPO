@@ -7,7 +7,6 @@
         "forge_id": "itlt",
         "enabled": true,
         "file": "itlt-1.8.8-9-1.0.1.jar",
-        "hash": "99a4955bd8f94229f28fb3f9b648625e1d278ce96044a5b04ea77379c294fb04",
         "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
         "display": "Utility Bundle",
         "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, togglesprint, and a lot more!",
@@ -66,7 +65,8 @@
         "files": [
             "config/itlt.cfg",
             "config/itlt/icon.png"
-        ]
+        ],
+        "hash": "1ef2245e9e04e7eb0b234538532c78fb"
     },
     {
         "id": "smoothscrollingeverywhere",
@@ -76,7 +76,6 @@
         "forge_id": "smooth-scrolling-everywhere",
         "enabled": true,
         "file": "smooth-scrolling-everywhere-1.2.jar",
-        "hash": "f78f8a1e47a1d9a2a9e2d622e8c9383e9b907c6d023ab114b8d04f6207f22920",
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
         "display": "GUI Bundle",
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
@@ -137,7 +136,8 @@
             "chatting",
             "rc",
             "reportplus"
-        ]
+        ],
+        "hash": "a0855299552a5d166386bd75b5fad90e"
     },
     {
         "id": "evergreenhud",
@@ -146,7 +146,6 @@
         ],
         "forge_id": "evergreenhud",
         "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
-        "hash": "2672fa38eb20d7e370587d7aec9fb07c7a4523bf1f4ae5386f6d48fd3c6a9d66",
         "url": "https://short.isxander.dev/RqjzS4",
         "display": "HUD Bundle",
         "description": "Displays every piece of information a Minecraft player could ever need.",
@@ -189,7 +188,8 @@
         "packages": [
             "redaction",
             "keystrokes"
-        ]
+        ],
+        "hash": "63f4007274c69d5698bc7ade40b90ebf"
     },
     {
         "id": "antidreamskin",
@@ -198,11 +198,10 @@
         ],
         "forge_id": "insomnia",
         "file": "Insomnia-1.0-REL.jar",
-        "hash": "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "creator": "Moulberry",
         "display": "QOL Bundle",
-        "description": " A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
+        "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
         "command": "/insomnia on/off",
         "actions": [
@@ -262,13 +261,13 @@
             "autotip",
             "tnttime",
             "levelhead"
-        ]
+        ],
+        "hash": "16e4fa2d54f32a2008cd0d1999d9c842"
     },
     {
         "id": "damagetint",
         "forge_id": "damagetint",
         "file": "DamageTint-3.2.0.jar",
-        "hash": "fdfd3bd9feb7719aa2a77edd2901566f5cdf42d8770a7a1f4d954f91ed359aa5",
         "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
         "display": "PvP Bundle",
         "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
@@ -312,7 +311,8 @@
             "particlesenhanced",
             "behindyouv3"
         ],
-        "discordcode": "woverflow"
+        "discordcode": "woverflow",
+        "hash": "abfae9b9f1660ce0bdea20c2949fb435"
     },
     {
         "id": "scu",
@@ -348,7 +348,6 @@
         ],
         "forge_id": "skyclientcosmetics",
         "file": "SkyClient_Cosmetics-0.7.0.6-beta.jar",
-        "hash": "75e31fab99f5d10623ba67a0fbb6d0bd",
         "url": "https://cdn.discordapp.com/attachments/887818760126345246/962446089263398992/SkyClient_Cosmetics-0.7.0.6-beta.jar",
         "display": "SkyClient Cosmetics [BETA]",
         "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
@@ -370,7 +369,8 @@
                 "text": "Github",
                 "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
             }
-        ]
+        ],
+        "hash": "75e31fab99f5d10623ba67a0fbb6d0bd"
     },
     {
         "id": "optifine",
@@ -379,7 +379,6 @@
         ],
         "enabled": true,
         "file": "OptiFine_1.8.9_HD_U_M5.jar",
-        "hash": "2739760a70fca6ae5c7dc817bcc6283f18f55e38fa23778da7f387a6b724b2c4",
         "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
         "display": "OptiFine M5",
         "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
@@ -399,14 +398,14 @@
         ],
         "files": [
             "optionsof.txt"
-        ]
+        ],
+        "hash": "0765dc1bcbe5baa83f7c261ac2c133ed"
     },
     {
         "id": "patcher",
         "forge_id": "patcher",
         "enabled": true,
         "file": "Patcher-1.8.1 (1.8.9).jar",
-        "hash": "c89142adccbe833081a61ac0b09ab936859de826150d25a0719fc1603b8ce83b",
         "url": "https://static.sk1er.club/repo/mods/patcher/1.8.1/1.8.9/Patcher-1.8.1%20(1.8.9).jar",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -432,7 +431,8 @@
         ],
         "categories": [
             "1;Recommended"
-        ]
+        ],
+        "hash": "d9fb141ffea188a09f1ddd62eb7e7976"
     },
     {
         "id": "crashpatch",
@@ -491,12 +491,12 @@
         "discordcode": "woverflow",
         "categories": [
             "1;Recommended"
-        ]
+        ],
+        "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
     },
     {
         "id": "blockoverlay",
         "forge_id": "blockoverlay",
-        "hash": "b41e79d2d5f817e94a3498929411cdfc",
         "file": "Block_Overlay_4.0.3.jar",
         "display": "Block Overlay",
         "description": "A custom overlay on blocks.",
@@ -513,14 +513,14 @@
             "4;All PvP",
             "5;Recommended PvP"
         ],
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar"
+        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar",
+        "hash": "b41e79d2d5f817e94a3498929411cdfc"
     },
     {
         "id": "betterhurtcam",
         "forge_id": "betterhurtcam",
         "icon": "wyvest.png",
         "file": "BetterHurtCam-2.1.3.jar",
-        "hash": "3afaf5b1c2472bb03c2f1b7885f61d0c5fa6196c79259b443effcb47c46b521f",
         "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
         "display": "BetterHurtCam",
         "creator": "Salmon",
@@ -542,7 +542,8 @@
         "categories": [
             "4;All PvP",
             "5;Recommended PvP"
-        ]
+        ],
+        "hash": "f5b96b7062ebefcd62c39a1798eab219"
     },
     {
         "id": "nick_hider",
@@ -552,7 +553,6 @@
         "forge_id": "nick_hider",
         "icon": "monkey.png",
         "file": "Nick Hider-6.0 (1.8.9).jar",
-        "hash": "72f61cbcc69896afb0a2ebf044c035b528fd96badc198e75539488a4a58d8c65",
         "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
         "display": "Nick Hider",
         "creator": "Sk1er LLC",
@@ -571,7 +571,8 @@
         ],
         "files": [
             "nickhider.toml"
-        ]
+        ],
+        "hash": "ee980cf0c8ea75a754aca18c05d0b2e9"
     },
     {
         "id": "sba",
@@ -580,7 +581,6 @@
         ],
         "forge_id": "skyblockaddons",
         "file": "SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
-        "hash": "160e21dc2511c0d7744f54ab2c73141a",
         "url": "https://cdn.discordapp.com/attachments/661779636983955466/954223267625963520/SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
         "display": "SkyblockAddons",
         "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover!",
@@ -617,7 +617,8 @@
         "categories": [
             "2;All Skyblock",
             "3;Recommended Skyblock"
-        ]
+        ],
+        "hash": "160e21dc2511c0d7744f54ab2c73141a"
     },
     {
         "id": "sbhud",
@@ -627,7 +628,6 @@
         ],
         "forge_id": "skyblockhud",
         "file": "SkyblockHud-1.13-beta7.jar",
-        "hash": "abe885e56e794493046a6d97020eb7814ae4b47e622e3faac1e7344c2d6cd5b6",
         "url": "https://cdn.discordapp.com/attachments/845306740957642782/868401557874573342/SkyBlockHud-1.13-beta-test-7.jar",
         "display": "SkyblockHUD",
         "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
@@ -652,13 +652,13 @@
                 "",
                 "Use anyway?"
             ]
-        }
+        },
+        "hash": "8b270674cb08720a2e52960c7a2b7dac"
     },
     {
         "id": "neu",
         "forge_id": "notenoughupdates",
         "file": "NotEnoughUpdates-2.0.0.jar",
-        "hash": "b8bfbf95c1b6d37e32002f1fdecb9699300a8b821adf4472ca8df764ae1c4d60",
         "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/2.0.0/NotEnoughUpdates-2.0.0.jar",
         "display": "NotEnoughUpdates",
         "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
@@ -697,7 +697,8 @@
         "config": true,
         "files": [
             "config/notenoughupdates/config.json"
-        ]
+        ],
+        "hash": "a18ffe0a2a911d849aefb86d9c9227ef"
     },
     {
         "id": "dsm",
@@ -707,7 +708,6 @@
         ],
         "forge_id": "Danker's Skyblock Mod",
         "file": "Dankers_Skyblock_Mod-1.8.7-beta4.jar",
-        "hash": "6bb7ebd7196c6a0177b1ee5edfc794aa",
         "url": "https://cdn.discordapp.com/attachments/742114256555606106/871202865069322270/Dankers_Skyblock_Mod-1.8.7-beta4.jar",
         "display": "Danker's Skyblock Mod",
         "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself!",
@@ -738,7 +738,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hash": "6bb7ebd7196c6a0177b1ee5edfc794aa"
     },
     {
         "id": "skytils",
@@ -785,7 +786,6 @@
         "id": "apec",
         "forge_id": "apec",
         "file": "Apec-1.10.1.jar",
-        "hash": "05f1739ca7f6a53fd3f1330228eba1153d05142515bf1d947b8cafaa0ebbee9a",
         "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.1/Apec-1.10.1.jar",
         "display": "Apec",
         "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG.",
@@ -824,7 +824,8 @@
         ],
         "files": [
             "config/Apec/Settings.txt"
-        ]
+        ],
+        "hash": "3e5de61af6a40aa69bc47056425fb1dd"
     },
     {
         "id": "cowlection",
@@ -834,7 +835,6 @@
         ],
         "forge_id": "cowlection",
         "file": "Cowlection-1.8.9-0.14.0.jar",
-        "hash": "3c2f0c7ade9f5dc4cb66a2f1d22f9f71a3a1fe426f0e57ac093ca2f434068929",
         "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.14.0/Cowlection-1.8.9-0.14.0.jar",
         "display": "Cowlection",
         "description": "A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all Hypixel players.",
@@ -871,7 +871,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hash": "91d4acc88d17aa7560808dbc96b8fae1"
     },
     {
         "id": "sbp",
@@ -880,7 +881,6 @@
         ],
         "forge_id": "sbp",
         "file": "1.8.9 SkyblockPersonalized 1.6.0.1.jar",
-        "hash": "8d226aa72f8d9f89a6ded6f1821f4964e2f210a96b4eb49e4c9a5f62746ed7c6",
         "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.1/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
         "display": "SkyblockPersonalized",
         "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
@@ -906,7 +906,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hash": "e7c5f477bb35ea5b07a8825f85dd03ce"
     },
     {
         "id": "dg",
@@ -919,7 +920,7 @@
         "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.7/dungeonsguide-3.7.7.jar",
         "creator": "Syeyoung",
         "display": "Dungeons Guide",
-        "description": " A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
         "icon": "dungeonsguide.jpg",
         "discordcode": "dg",
         "command": "/dg",
@@ -941,7 +942,8 @@
         ],
         "categories": [
             "2;All Skyblock"
-        ]
+        ],
+        "hash": "bb7df7f056cfe9f3bfdb8a81bbf43613"
     },
     {
         "id": "drm",
@@ -970,13 +972,13 @@
                 "text": "Github",
                 "link": "https://github.com/Quantizr/DungeonRoomsMod"
             }
-        ]
+        ],
+        "hash": "edec543a11bcc2a53b2fe3972b29d1fa"
     },
     {
         "id": "timechanger",
         "forge_id": "timechanger",
         "file": "TimeChanger-2.2.1.jar",
-        "hash": "6b0abfef3c927fd3011b80bf42de4114028db1f0c3c588dc8d131a6dc0b5bf7b",
         "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
         "display": "TimeChanger",
         "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
@@ -990,13 +992,13 @@
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/3574261/"
             }
-        ]
+        ],
+        "hash": "157240f650762d46394b2cc1f052758b"
     },
     {
         "id": "itemphysic",
         "forge_id": "itemphysic",
         "file": "ItemPhysic Lite 1.3.jar",
-        "hash": "4178c32389ec9b7cd75b7b110be5715475ea1be00f649ec0f728e5169a0f650a",
         "url": "https://media.forgecdn.net/files/2439/695/ItemPhysic+Lite+1.3+mc1.8.9.jar",
         "display": "Item Physic Lite",
         "description": "Make dropped items have realistic physics!",
@@ -1009,7 +1011,8 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite"
             }
         ],
-        "discordcode": "W9QM3fS"
+        "discordcode": "W9QM3fS",
+        "hash": "fabc8804c785279018cc14e5128b5147"
     },
     {
         "id": "craftify",
@@ -1035,7 +1038,6 @@
         "id": "blur",
         "forge_id": "blur",
         "file": "Blur-MC1.8.9-1.0.4-2.jar",
-        "hash": "895ab00da22925bc9d50bd2c78d253c7015c3214c4493fda387429e4911981db",
         "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
         "display": "Blur",
         "description": "Add a blur to all your GUIs!",
@@ -1047,7 +1049,8 @@
                 "text": "Showcase",
                 "link": "https://imgur.com/EmSEKFu"
             }
-        ]
+        ],
+        "hash": "f224341c91b88a69fff3b0de6b7f744c"
     },
     {
         "id": "soundsubtitles",
@@ -1056,7 +1059,6 @@
         ],
         "forge_id": "subtitles_mod",
         "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
-        "hash": "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b",
         "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
         "display": "Sound Subtitles",
         "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
@@ -1073,7 +1075,8 @@
                 "text": "Website",
                 "link": "https://sk1er.club/mods/subtitles_mod"
             }
-        ]
+        ],
+        "hash": "a60ff71e9e28f45635248f4475f39188"
     },
     {
         "id": "ctjs",
@@ -1082,7 +1085,6 @@
         ],
         "forge_id": "ct.js",
         "file": "ctjs-2.0.4-1.8.9.jar",
-        "hash": "7d54e3aac8cb31d16806ce58b026ca14",
         "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.4/ctjs-2.0.4-1.8.9.jar",
         "display": "Chat Triggers",
         "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
@@ -1109,13 +1111,13 @@
                 "View the modules available at https://www.chattriggers.com/modules.",
                 "Use anyway?"
             ]
-        }
+        },
+        "hash": "7d54e3aac8cb31d16806ce58b026ca14"
     },
     {
         "id": "sbcustommobtex",
         "hidden": true,
         "file": "SBCustomMobTex-1.4.jar",
-        "hash": "c6f1bc086e802b6de209decb3edcef8be31a88fd306fec59e7ac6709bbe2bade",
         "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
         "display": "SBCustomMobTex",
         "description": "Allows resource packs to view the NBT data of mobs in Skyblock and provides the possiblity of changing custom mob textures with the use of resource packs.",
@@ -1145,7 +1147,8 @@
         "packs": [
             "skymobs",
             "actuallymobs"
-        ]
+        ],
+        "hash": "d5f64ef19330be7601f3538b386cde82"
     },
     {
         "id": "rpm",
@@ -1153,7 +1156,6 @@
             "resourcepackmanager"
         ],
         "forge_id": "resourcepackmanager",
-        "hash": "b334cd4cb15e3610ac47387a66c19dfb",
         "file": "Resource_Pack_Manager_1.2.jar",
         "display": "Resource Pack Manager",
         "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
@@ -1179,17 +1181,18 @@
                 "Use anyway?"
             ]
         },
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar"
+        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
+        "hash": "b334cd4cb15e3610ac47387a66c19dfb"
     },
     {
         "id": "controlling",
         "forge_id": "controlling",
         "file": "Controlling-7.0.0.2.jar",
-        "hash": "e88312bde2cd50a53f0d8eaa04afe82026cf45709ab4a35905473e695285a70c",
         "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
         "display": "GUI Bundle",
         "description": "Adds more options in controls menu to make it easier to navigate.",
-        "hidden": true
+        "hidden": true,
+        "hash": "34aba2ccb959752601cac37d6020dfae"
     },
     {
         "id": "scrollabletooltips",
@@ -1198,13 +1201,13 @@
         ],
         "forge_id": "text_overflow_scroll",
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
-        "hash": "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "display": "Scrollable Tooltips",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "description": "Lets you scroll on item tooltips when their height surpasses the height of your screen.",
-        "hidden": true
+        "hidden": true,
+        "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
         "id": "popup_events",
@@ -1213,26 +1216,26 @@
         ],
         "forge_id": "popup_events",
         "file": "Popup Events-1.3.2 (1.8.9).jar",
-        "hash": "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6",
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
         "display": "Popup Events",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/popupevents",
         "description": "Accept or deny friend, party, and guild invite requests.",
-        "hidden": true
+        "hidden": true,
+        "hash": "7c780fa81a62b500d33bb8210bcbc9a0"
     },
     {
         "id": "optibye",
         "forge_id": "optibye",
         "file": "Optibye-1.0.0-dep.jar",
-        "hash": "263daafd53e41960f5117d818599536ada781d26a568f5a999e4225740a34fb7",
         "display": "Optibye",
         "description": "Prevents Optifine from logging completely useless information",
         "creator": "ThatGravyBoat",
         "command": "No Commands",
         "discordcode": "neu",
-        "hidden": true
+        "hidden": true,
+        "hash": "12b4642b21c887e5e121a949e9b9d7a0"
     },
     {
         "id": "rc",
@@ -1241,14 +1244,14 @@
         ],
         "forge_id": "gravyrewardclaim",
         "file": "RewardClaim-1.0.4.jar",
-        "hash": "8e9d668b1cca3d86bab89ec1dbcb6aca36a51280e3ec2a1830b48e12e4491380",
         "url": "https://github.com/ThatGravyBoat/RewardClaim/releases/download/v1.0.4/RewardClaim-1.0.4.jar",
         "display": "RewardClaim",
         "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "creator": "ThatGravyBoat",
         "command": "/rewardclaim",
         "discordcode": "wQfFucgHTX",
-        "hidden": true
+        "hidden": true,
+        "hash": "6618896b9236226ddae468d6fdeaed69"
     },
     {
         "id": "simpletogglesprint",
@@ -1258,7 +1261,6 @@
         ],
         "forge_id": "simpletogglesprint",
         "file": "SimpleToggleSprint-2.2.0.jar",
-        "hash": "7c69e59c00d11a36b6a59e534a6aaf945992b688b7706220703dd57ff2e06785",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
         "display": "Toggle Sprint",
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
@@ -1272,7 +1274,8 @@
                 "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "203479f689b9baccb6d77380be22ed86"
     },
     {
         "id": "hypixel_auto_complete",
@@ -1281,7 +1284,6 @@
         ],
         "forge_id": "hypixel_auto_complete",
         "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
-        "hash": "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d",
         "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar",
         "display": "Hypixel Autocomplete",
         "description": "Hypixel Autocomplete Mod allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players.",
@@ -1295,13 +1297,13 @@
                 "link": "https://sk1er.club/mods/hypixel_auto_complete"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e"
     },
     {
         "id": "betterchat",
         "forge_id": "betterchat",
         "file": "betterchat-1.5.jar",
-        "hash": "b498f3081bf4e5d695bde0be2319d54293037ae2858b57add6a37e5df04c4fb6",
         "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar",
         "display": "Betterchat",
         "description": "Allows you to move the chat and makes chat messages animated.",
@@ -1315,7 +1317,8 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "7c790782172fcd7629fe8824b16ed7a6"
     },
     {
         "id": "chatting",
@@ -1340,7 +1343,8 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": true,
+        "hash": "3fc59a647e3ddf0b778a4558cfead2ed"
     },
     {
         "id": "reportplus",
@@ -1349,19 +1353,18 @@
         ],
         "forge_id": "reportplus",
         "file": "ReportPlus-1.0.0.jar",
-        "hash": "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614",
         "url": "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar",
         "display": "ReportPlus",
         "description": "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. ",
         "creator": "ThatGravyBoat",
         "command": "/reportplus",
         "discordcode": "wQfFucgHTX",
-        "hidden": true
+        "hidden": true,
+        "hash": "252f86fdac615ea501811c53343649e1"
     },
     {
         "id": "sidebarmod",
         "forge_id": "sidebarmod",
-        "hash": "7dd2fac02ee9b4dd9cd608330aa4428ea096462923f4a5cc3b60467ffc2cf2ff",
         "file": "Sidebar Mod Revamp.jar",
         "display": "Sidebar Mod",
         "description": "Allows you to customize the sidebar.",
@@ -1398,7 +1401,8 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": true,
+        "hash": "2ad42c5a0bdc35e1b48b30e819234324"
     },
     {
         "id": "redaction",
@@ -1421,13 +1425,13 @@
         "hidden": true,
         "files": [
             "W-OVERFLOW/REDACTION/redaction.toml"
-        ]
+        ],
+        "hash": "e4338f690384bb178176201109a44c8f"
     },
     {
         "id": "behindyouv3",
         "forge_id": "behindyouv3",
         "file": "BehindYouV3-3.1.0.jar",
-        "hash": "cb08e4783b4014371e093818164995d8",
         "url": "https://github.com/W-OVERFLOW/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
         "display": "BehindYouV3",
         "description": "Allows you to look behind you with ease.",
@@ -1442,13 +1446,13 @@
             }
         ],
         "discordcode": "woverflow",
-        "hidden": true
+        "hidden": true,
+        "hash": "cb08e4783b4014371e093818164995d8"
     },
     {
         "id": "keystrokes",
         "forge_id": "keystrokesmod",
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
-        "hash": "06bb0915ea3f16d3d821009b9fc46ba9abfe1e23bdebd56e75763c192074d5e2",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
         "display": "Keystrokes",
         "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
@@ -1468,13 +1472,13 @@
                 "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
     },
     {
         "id": "bossbar_customizer",
         "forge_id": "bossbar_customizer",
         "file": "Bossbar Customizer-1.2.1 (1.8.9).jar",
-        "hash": "03a11d4f087b8743988f393b5129b72249d96ec4d752d2656c37eb20ce027ed6",
         "url": "https://static.sk1er.club/repo/mods/bossbar_customizer/1.2.1/1.8.9/Bossbar%20Customizer-1.2.1%20(1.8.9).jar",
         "display": "Bossbar Customizer",
         "description": "Bossbar Customizer allows for customization of the ingame bossbar to your liking, including size, position, elements, etc.",
@@ -1498,13 +1502,13 @@
         "update_to_id": "vanillahud",
         "update_to_ids": [
             "vanillahud"
-        ]
+        ],
+        "hash": "a95b60f1d6ef91cdffb0f05836e3b7cc"
     },
     {
         "id": "tnttime",
         "forge_id": "tnttime",
         "file": "TNT Time-1.1 (1.8.9).jar",
-        "hash": "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59",
         "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
         "display": "TNT Time",
         "description": "TNT Time displays TNT's time until detonation.",
@@ -1523,13 +1527,13 @@
                 "link": "https://sk1er.club/mods/tnttime"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "0319acf44a552bc39c92ff84cec85929"
     },
     {
         "id": "levelhead",
         "forge_id": "level_head",
         "file": "Levelhead-8.1 (1.8.9).jar",
-        "hash": "7f87d7eca78cb63b806b52806baae4eb78c6b5a415d8a377168c6f0a179f9b7f",
         "url": "https://static.sk1er.club/repo/mods/level_head/8.1/1.8.9/Levelhead-8.1%20(1.8.9).jar",
         "display": "Levelhead",
         "description": "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.",
@@ -1548,13 +1552,13 @@
                 "link": "https://sk1er.club/mods/level_head"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "222daa6b06978cbe10c2a8d255174a5b"
     },
     {
         "id": "autogg",
         "forge_id": "autogg",
         "file": "AutoGG-4.1.3 (1.8.9).jar",
-        "hash": "7ad843d6d95f4654febbf410ec389d48078f874437bb51b5cc94e68221379b32",
         "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3%20(1.8.9).jar",
         "display": "AutoGG",
         "description": "Automatically say a selected phrase after a game has ended on supported servers.",
@@ -1569,13 +1573,13 @@
                 "link": "https://sk1er.club/mods/autogg"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "ded8229d58537c4f4b170c112123c84e"
     },
     {
         "id": "autotip",
         "forge_id": "autotip",
         "file": "Autotip-3.0.1 [1.8-1.12.2].jar",
-        "hash": "85f9c0124e6ac143635476f30107582bb44951c2bb0d383a78fbda7988566d47",
         "url": "https://dl.autotip.pro/3.0.1",
         "display": "AutoTip",
         "description": "Autotipper for mc.hypixel.net.",
@@ -1590,14 +1594,14 @@
                 "link": "https://autotip.pro/"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "f3333eabbfb73231108cd421f1a935d5"
     },
     {
         "id": "oofmod",
         "forge_id": "oofmod",
         "file": "OofMod-4.1.0.jar",
-        "hash": "5d804aeaaa10957fbf137c7cf9bd362108acaf2a",
-        "url": "https://github.com/Deftu/OofMod/releases/download/4.1.0/OofMod-4.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/9TE1LEsK/versions/4.1.0/OofMod-4.1.0.jar",
         "display": "OofMod",
         "description": "Play custom sounds when killing other players.",
         "icon": "deftu.png",
@@ -1610,7 +1614,8 @@
                 "text": "Github",
                 "link": "https://github.com/Deftu/OofMod"
             }
-        ]
+        ],
+        "hash": "f50b6f42d6fdac6ff174cef582ccd79d"
     },
     {
         "id": "particlesenhanced",
@@ -1619,7 +1624,6 @@
             "particles"
         ],
         "file": "ParticlesEnhanced-1.2.0.jar",
-        "hash": "fe938b2dc2139941cdf39993c536e7e0c3d81a13477864d1f8624b753d8ffab3",
         "url": "https://cdn.modrinth.com/data/DRIoOeFq/versions/1.2.0/ParticlesEnhanced-1.2.0.jar",
         "display": "Particles Enhanced",
         "description": "2021's take at particles in minecraft. Including never-seen-before features such as particle fade.",
@@ -1644,7 +1648,8 @@
                 "link": "https://www.isxander.dev"
             }
         ],
-        "hidden": true
+        "hidden": true,
+        "hash": "0be55dd62501ae1355142a135f72593a"
     },
     {
         "id": "synthesis",
@@ -1653,7 +1658,6 @@
         ],
         "forge_id": "synthesis",
         "file": "Synthesis-0.2.0.jar",
-        "hash": "be178ec3525487a3a52f8867647a2d9630fad1e7511913202c4b2ac2cc7a43bf",
         "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
         "display": "Synthesis",
         "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
@@ -1680,19 +1684,20 @@
                 "text": "discord",
                 "link": "https://discord.com/invite/vAUuKSwbp6"
             }
-        ]
+        ],
+        "hash": "ea984a29cc24c57c1ae6023b259c4529"
     },
     {
         "id": "hychat",
         "forge_id": "hychat",
         "file": "Hychat-1.12.2-BETA.jar",
-        "hash": "4270f20da8c4ac8f72d06153064ca3fbe559482dd0b7918f8da658cb4e918b93",
         "display": "Hychat",
         "description": "Hychat is a beta mod developed by Moulberry to improve chat on hypixel. The dev doesn't care about it anymore, so there are probably some massive bugs.",
         "creator": "Moulberry",
         "command": "No commands",
         "discordcode": "neu",
-        "hidden": true
+        "hidden": true,
+        "hash": "4a5124a8b6ca2b0feb453117292587cd"
     },
     {
         "id": "reauth",
@@ -1703,7 +1708,8 @@
         "description": "Log in from Ingame",
         "creator": "TechnicianLP",
         "command": "No commands",
-        "hidden": true
+        "hidden": true,
+        "hash": "14963aa6af1db696e7bf31f96e0cd104"
     },
     {
         "id": "crashhelper",
@@ -1720,14 +1726,14 @@
         "update_to_id": "crashpatch",
         "update_to_ids": [
             "crashpatch"
-        ]
+        ],
+        "hash": "1662607fdad6fa24d7abfce4aeb3b6c9"
     },
     {
         "id": "wyvtils",
         "forge_id": "wyvtils",
         "enabled": false,
         "file": "Wyvtils-1.8.9-2.0.0.jar",
-        "hash": "269c15619b471c6be4d7d7b111ed0b110e8e4b36669d6232fa71f21bd966a75a",
         "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
         "display": "Wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
@@ -1741,7 +1747,8 @@
             "redaction",
             "hytilities-reborn",
             "itemphysic"
-        ]
+        ],
+        "hash": "8f8dd187dea01447ef354ef0d9cd7afc"
     },
     {
         "id": "minecraft",
