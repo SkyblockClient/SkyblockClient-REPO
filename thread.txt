@@ -1,0 +1,129 @@
+[CENTER]Since Nacrt isn't going to bother updating the old thread for SkyClient, I've made a new one that showcases all the updates we did.
+[SIZE=5][URL='https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/']Old Thread[/URL][/SIZE]
+[ATTACH type="full" width="813px" alt="Ugntitled.png"]2915875[/ATTACH]
+
+[SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
+
+Over a year ago, Nacrt sat with Skye, one of the former Moulberry Staff members,
+and started working on a program that installs Forge, Optifine and every other mod and pack that you might need to play Skyblock (or just the game in general).
+
+This is the result of that project. Designed to be a great alternative to clients like Badlion and Lunar,
+and have a lot of convenience for the end user.
+
+[ATTACH type="full" width="361px" alt="feat.png"]2915880[/ATTACH]
+[ATTACH type="full" width="595px" alt="cool thing.png"]2915881[/ATTACH]
+
+[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
+Just choose your mods and packs, and click "Install SkyClient" to install.
+You also won't need to install Java, as Minecraft comes with its own version by default.[/SIZE][/COLOR]
+
+[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]A wide selection of mods and packs[/B][/U][/SIZE][/COLOR]
+[SPOILER="Mods"]
+[COLOR=rgb(0, 0, 0)][SIZE=6][B]Important Mods[/B][/SIZE]
+[SIZE=4]Optifine, Patcher, CrashPatch[/SIZE]
+
+[SIZE=6][B]Utility Mods [/B][/SIZE]
+[SIZE=4]SimpleToggleSprint, Scrollable Tooltips, Hypixel Autocomplete[/SIZE][/COLOR]
+
+[SIZE=6][B]GUI Mods[/B][/SIZE]
+Custom Main Menu, Smooth Scrolling Everywhere, Chatting, BetterChat, RewardClaim, Report+, Craftify
+
+[SIZE=6][B]HUD Mods[/B][/SIZE]
+VanillaHUD, EvergreenHUD, REDACTION, Keystrokes, Sound Subtitles
+
+[SIZE=6][B]QOL Mods[/B][/SIZE]
+Popup Events, Anti Dream Skin, AutoGG, AutoTip, TNT Time, LevelHead, SkyClient Updater, Aycy Resource Pack Manager, NickHider
+
+[SIZE=6][B]Visual Mods[/B][/SIZE]
+Item Physic Lite, Blur, TimeChanger
+
+[SIZE=6][B]PVP Mods[/B][/SIZE]
+Damage Tint, Particles Enhanced, BehindYouV3, Block Overlay, Hytilities Reborn
+
+[SIZE=6][B]Skyblock Mods[/B][/SIZE]
+Skytils, SBA, NEU, DSM, DRM, DG, SBPersonalized, SBHud, Apec, Cowlection, SBCustomTex, Synthesis
+
+[SIZE=6][B]Miscellanious Mods[/B][/SIZE]
+ChatTriggers, It's The Little Things, OptiBye
+[/SPOILER]
+[SPOILER="Packs"]
+[SIZE=6][B]Skyblock Packs[/B][/SIZE]
+MobPacket, ActuallyPacket, Dungeons Texturepack, Compliment, ActuallyMobs, SkyMobs, DwavenAddetsm RNBW+, Nameless, Sluz's HSB Pack, Kio's HSB Model Pack, Worlds And Beyond, SkyblockOverhaul, PacksHQ 16x & 32x (with a dark UI addon), ActuallyAssets, FurfSky Reborn, Smol Icons and xCyni's 32x Skyblock Pack.
+
+[SIZE=6][B]PVP (General)[/B][/SIZE][B][SIZE=6] Packs[/SIZE][/B]
+[SIZE=4]Hypixel+, Compliance (and Compliance with a Dark UI), and Henry's 1.14 Pack.[/SIZE]
+[/SPOILER]
+
+[COLOR=rgb(184, 49, 47)][U][SIZE=5][B]Choose your mods and packs[/B][/SIZE][/U]
+[COLOR=rgb(0, 0, 0)][SIZE=4]You're able to choose what packs and mods you want to use. Choice, baby![/SIZE][/COLOR][/COLOR]
+[COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]You can go completely bland with only Optifine and Patcher, or install every mod we have![/SIZE][/COLOR][/COLOR]
+[COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]Most mods come pre-configured, so you don't have to worry about potential conflicts.[/SIZE][/COLOR][/COLOR]
+[COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]If a mod causes issues, it will tell you when you try to enable it, but it will not stop you from installing the mod.[/SIZE][/COLOR][/COLOR]
+
+[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Update your mods and packs with very minimal effort[/B][/U][/SIZE][/COLOR]
+We know how annoying it is to check your mods and packs for updates.
+Simply click the "Update" button, and it will find your mods and packs that are outdated and update them for you!
+We also have a mod called "SkyClient Updater" that installs all the mods you have outdated as soon as you start up.
+[B][SIZE=3]DISCLAIMER: THE UPDATE FUNCTION ON THE INSTALLER DOES NOT WORK DUE TO IT BEING BROKEN. IT SHOULD BE FIXED IN A LATER UPDATE.[/SIZE][/B]
+
+[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Add your own mods and packs[/B][/U][/SIZE][/COLOR]
+Many people like to use things like SBE (no matter how wrong they are), and while we obviously didn't get to include it, you can still add it to your installation:
+Simply put everything in [B].minecraft/skyclient [/B]instead of [B].minecraft[/B] (or whatever custom installation you put it in),and they will work just like they did before.
+You can also access the mods folder quickly by clicking a button in the "Advanced Settings" menu.
+[B][SIZE=3]Note: You need to have SkyClient installed before you do this.[/SIZE][/B]
+
+[COLOR=rgb(184, 49, 47)][U][SIZE=5][B]Understand what your mods do and where they come from[/B][/SIZE][/U][/COLOR]
+Many people simply do not know what the mods they have installed actually do, and download them just because a YouTuber recommended them.
+That's why we've added a little guide for every single mod we include in our installer to understand if you want the features in the mod or not.
+Along with that, you can easily access the Github page, website, video, or whatever source the mod is from, by simply pressing the buttons next to it.
+
+[ATTACH type="full" width="705px" alt="1645935835234.png"]2915903[/ATTACH]
+
+
+[ATTACH type="full" width="447px" alt="dl.png"]2915904[/ATTACH]
+
+[ATTACH type="full" width="604px" alt="cool thing.png"]2915905[/ATTACH]
+
+[SIZE=6][COLOR=rgb(184, 49, 47)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
+The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
+It simply means it isn't a Microsoft certified program (like all other software).
+This isn't an issue for Java devs or mod makers because Windows doesn't run the Jar file. Java does.
+
+[SIZE=5][U][URL='https://github.com/SkyblockClient/SkyblockClient/releases/latest']Windows Only[/URL]
+[URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal (requires Java)[/URL][/U][/SIZE]
+
+[SIZE=6]TL;DR:[/SIZE][B][SIZE=6] Feather "Client" is now invalid.[/SIZE][/B]
+
+[MEDIA=youtube]Iqat98crdg8[/MEDIA]
+
+[SPOILER="Credits"]
+[B][SIZE=6]Credits[/SIZE][/B]
+
+The first SkyClient thread: [USER=3202789]@nacrt[/USER]
+Forum post textures: [USER=3520533]@MotorGorilla1[/USER]
+Icon: [USER=3001877]@motion_blue[/USER]
+Design ideas: [USER=3661636]@oVinter[/USER]
+[/SPOILER]
+[SPOILER="Usage Instructions"]
+[SPOILER="Windows"]
+Simply run the .exe from the [URL='https://github.com/SkyblockClient/SkyblockClient/releases/latest']Windows download.[/URL] The command prompt is there to show useful information to the developers (in case something goes wrong).
+[/SPOILER]
+[SPOILER="MacOS and Linux"]
+Simply run the Jar file from the [URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal download.[/URL] Make sure you have [URL='https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot']Java 8 (and optionally 11/17)[/URL] installed here.
+[SPOILER="Linux Specific Instructions (from the old thread)"]
+[CODE=bash]# make sure you have Java 8 installed
+sudo apt-get install openjdk-8-jdk
+# check if java 8 is in path
+java -version
+# if this says 1.8.0_xxx, it is set up correctly. otherwise execute
+# update-alternatives --config java
+# and select java 8
+# download the installer
+curl -L -O https://github.com/koxx12-dev/Skyclient-installer-Java/releases/download/2.0.1/Skyclien.t-Universal-Installer-2.0.1.jar
+# run the installer
+java -jar Skyclien.t-Universal-Installer-2.0.1.jar[/CODE]
+
+[/SPOILER]
+[/SPOILER]
+[/SPOILER][/CENTER]
