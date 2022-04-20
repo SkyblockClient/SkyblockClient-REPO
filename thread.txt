@@ -1,6 +1,5 @@
-[CENTER]Since Nacrt isn't going to bother updating the old thread for SkyClient, I've made a new one that showcases all the updates we did.
-[SIZE=5][URL='https://hypixel.net/threads/skyclient-easily-install-and-update-skyblock-mods-and-packs.3731617/']Old Thread[/URL][/SIZE]
-[ATTACH type="full" width="813px" alt="Ugntitled.png"]2915875[/ATTACH]
+[CENTER]
+[ATTACH type="full" alt="scthreadhead.png"]2965068[/ATTACH]
 
 [SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
 
@@ -10,8 +9,8 @@ and started working on a program that installs Forge, Optifine and every other m
 This is the result of that project. Designed to be a great alternative to clients like Badlion and Lunar,
 and have a lot of convenience for the end user.
 
-[ATTACH type="full" width="361px" alt="feat.png"]2915880[/ATTACH]
-[ATTACH type="full" width="595px" alt="cool thing.png"]2915881[/ATTACH]
+[ATTACH type="full" alt="scthreadfeaturesf.png"]2965071[/ATTACH]
+[ATTACH type="full" alt="scthreaddivider.png"]2965072[/ATTACH]
 
 [COLOR=rgb(184, 49, 47)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
 [COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
@@ -78,12 +77,13 @@ Many people simply do not know what the mods they have installed actually do, an
 That's why we've added a little guide for every single mod we include in our installer to understand if you want the features in the mod or not.
 Along with that, you can easily access the Github page, website, video, or whatever source the mod is from, by simply pressing the buttons next to it.
 
-[ATTACH type="full" width="705px" alt="1645935835234.png"]2915903[/ATTACH]
+[ATTACH type="full" alt="scthreadscreenshot.png"]2965076[/ATTACH]
 
 
-[ATTACH type="full" width="447px" alt="dl.png"]2915904[/ATTACH]
 
-[ATTACH type="full" width="604px" alt="cool thing.png"]2915905[/ATTACH]
+[ATTACH type="full" alt="scthreaddownload.png"]2965077[/ATTACH]
+
+[ATTACH type="full" alt="scthreaddivider.png"]2965078[/ATTACH]
 
 [SIZE=6][COLOR=rgb(184, 49, 47)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
 The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
