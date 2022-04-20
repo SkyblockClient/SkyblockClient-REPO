@@ -3,7 +3,7 @@
 
 [SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
 
-Over almost two yearsago, Skye, one of the former Moulberry Staff members, and I started working on a program that installs Forge, Optifine and every other mod and pack that you might need to play Skyblock (or just the game in general).
+Over almost two years ago, Skye, one of the former Moulberry Staff members, and I started working on a program that installs Forge, Optifine and every other mod and pack that you might need to play Skyblock (or just the game in general).
 
 This is the result of that project. Designed to be a great alternative to clients like Badlion and Lunar,
 and have a lot of convenience for the end user.
