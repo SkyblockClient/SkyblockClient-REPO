@@ -52,6 +52,7 @@ Despite the name, this actually decreases FPS substantially most of the time and
 - Sets Vignette to Fast (off)
 - Turns off Swamp Colors
 - Sets Rain to Fast
+- Turns off Shaders
 
 
 # Patcher Settings
@@ -61,4 +62,11 @@ Despite the name, this actually decreases FPS substantially most of the time and
 - Turns on Disable Achievements
 - Turns on Auto Title Scale
 - Turns on Unfocused FPS
-(todo: put the rest in)
+- Turns on Clean Projectiles
+- Turns on Numerical Enchants
+- Turns on Static Items
+- Turns on Limit Chunks
+- Turns on Player Backface Culling
+- Sets Open To LAN Replacement to "Server List" (replaces Open to LAN with Server List)
+
+A full explanation of these Patcher settings can be found here: https://github.com/Sk1erLLC/Patcher/blob/master/README.md
