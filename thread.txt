@@ -109,7 +109,7 @@ Simply run the .exe from the [URL='https://github.com/SkyblockClient/SkyblockCli
 [/SPOILER]
 [SPOILER="MacOS and Linux"]
 Simply run the Jar file from the [URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal download.[/URL] Make sure you have [URL='https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot']Java 8 (and optionally 11/17)[/URL] installed here.
-[SPOILER="Linux Specific Instructions (from the old thread)"]
+[SPOILER="Linux Specific Instructions"]
 [CODE=bash]# make sure you have Java 8 installed
 sudo apt-get install openjdk-8-jdk
 # check if java 8 is in path
