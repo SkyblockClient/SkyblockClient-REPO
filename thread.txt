@@ -99,7 +99,6 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 [SPOILER="Credits"]
 [B][SIZE=6]Credits[/SIZE][/B]
 
-The first SkyClient thread: [USER=3202789]@nacrt[/USER]
 Forum post textures: [USER=3520533]@MotorGorilla1[/USER]
 Icon: [USER=3001877]@motion_blue[/USER]
 Design ideas: [USER=3661636]@oVinter[/USER]
