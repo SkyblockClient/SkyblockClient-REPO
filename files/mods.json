@@ -347,27 +347,22 @@
             "skyblockclientcosmetics"
         ],
         "forge_id": "skyclientcosmetics",
-        "file": "SkyClient_Cosmetics-0.7.0.6-beta.jar",
-        "url": "https://cdn.discordapp.com/attachments/887818760126345246/962446089263398992/SkyClient_Cosmetics-0.7.0.6-beta.jar",
-        "display": "SkyClient Cosmetics [BETA]",
-        "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
+        "file": "SkyClientCosmetics-1.0.0.jar",
+        "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.0.0/SkyClientCosmetics-1.0.0.jar",
+        "display": "SkyClient Cosmetics",
+        "description": "Adds cosmetics, a greeting menu, a custom loading screen, custom main menu, custom display icon and title, Discord RPC, and more.",
         "enabled": true,
         "categories": [
             "1;Recommended"
         ],
         "icon": "skyclient.png",
-        "creator": "koxx12",
+        "creator": "SkyClient Team",
         "command": "/scc",
         "actions": [
             {
-                "icon": "guide.png",
-                "text": "Features",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
-            },
-            {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
+                "link": "https://github.com/Wyvest/Skyclient-Cosmetics"
             }
         ],
         "hash": "75e31fab99f5d10623ba67a0fbb6d0bd"
