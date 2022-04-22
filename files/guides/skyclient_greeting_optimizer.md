@@ -1,8 +1,8 @@
-## SkyClient Greeting Optimizer
+# SkyClient Greeting Optimizer
 
 The SkyClient greeting asks if the user wants to apply "pre-optimized" settings. If the user agrees, SkyClient modifies various options to improve your FPS. This includes...
 
-# Vanilla Video Settings
+## Vanilla Video Settings
 
 - Turns off Entity Shadows
 
@@ -21,7 +21,7 @@ VSync caps your FPS to your current monitor's FPS. Although this can be useful i
 
 The maximum render distance in Hypixel is 10, and you usually don't need more than at 12 in almost all cases anyways.
 
-# OptiFine Video Settings
+## OptiFine Video Settings
 
 - Turns off Fast Render
 
@@ -55,7 +55,7 @@ Despite the name, this actually decreases FPS substantially most of the time and
 - Turns off Shaders
 
 
-# Patcher Settings
+## Patcher Settings
 
 - Turns on Culling Fix
 - Turns on Separate Resource Loading
