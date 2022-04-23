@@ -1,15 +1,16 @@
 [
     {
-        "id": "itlt",
+        "id": "scrollabletooltips",
         "nicknames": [
-            "itsthelittlethings"
+            "text_overflow_scroll"
         ],
-        "forge_id": "itlt",
+        "forge_id": "text_overflow_scroll",
+        "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
+        "creator": "Sk1er LLC",
         "enabled": true,
-        "file": "itlt-1.8.8-9-1.0.1.jar",
-        "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
         "display": "Utility Bundle",
-        "description": "Useful bundle of utilities for scrolling through tooltips, making Hypixel the default server, togglesprint, and a lot more!",
+        "description": "Useful bundle of utilities for scrolling through tooltips, togglesprint, and a lot more!",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -26,12 +27,6 @@
                 "text": "Scrollable Tooltips",
                 "creator": "Sk1er LLC",
                 "link": "https://sk1er.club/mods/text_overflow_scroll"
-            },
-            {
-                "icon": "itlt.png",
-                "text": "It's The Little Things",
-                "creator": "Zlepper and Paint_Ninja",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things"
             },
             {
                 "icon": "tgb_icon.png",
@@ -56,17 +51,11 @@
             "1;Recommended"
         ],
         "packages": [
-            "scrollabletooltips",
             "optibye",
             "simpletogglesprint",
             "hypixel_auto_complete"
         ],
-        "config": true,
-        "files": [
-            "config/itlt.cfg",
-            "config/itlt/icon.png"
-        ],
-        "hash": "1ef2245e9e04e7eb0b234538532c78fb"
+        "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
         "id": "smoothscrollingeverywhere",
@@ -347,30 +336,25 @@
             "skyblockclientcosmetics"
         ],
         "forge_id": "skyclientcosmetics",
-        "file": "SkyClient_Cosmetics-0.7.0.6-beta.jar",
-        "url": "https://cdn.discordapp.com/attachments/887818760126345246/962446089263398992/SkyClient_Cosmetics-0.7.0.6-beta.jar",
-        "display": "SkyClient Cosmetics [BETA]",
-        "description": "Adds some cool tags (mostly for people who have boosted our server), a discord RPC, and more!",
+        "file": "SkyClientCosmetics-1.1.0.jar",
+        "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.1.0/SkyClientCosmetics-1.1.0.jar",
+        "display": "SkyClient Cosmetics",
+        "description": "Adds cosmetics, a greeting menu, a custom loading screen, custom main menu, custom display icon and title, Discord RPC, and more.",
         "enabled": true,
         "categories": [
             "1;Recommended"
         ],
         "icon": "skyclient.png",
-        "creator": "koxx12",
+        "creator": "SkyClient Team",
         "command": "/scc",
         "actions": [
             {
-                "icon": "guide.png",
-                "text": "Features",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics/wiki"
-            },
-            {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/koxx12-dev/Skyclient-Cosmetics"
+                "link": "https://github.com/Wyvest/Skyclient-Cosmetics"
             }
         ],
-        "hash": "75e31fab99f5d10623ba67a0fbb6d0bd"
+        "hash": "db97c3092c8ce3907dcccd8fda4542da"
     },
     {
         "id": "optifine",
@@ -1195,21 +1179,6 @@
         "hash": "34aba2ccb959752601cac37d6020dfae"
     },
     {
-        "id": "scrollabletooltips",
-        "nicknames": [
-            "text_overflow_scroll"
-        ],
-        "forge_id": "text_overflow_scroll",
-        "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
-        "display": "Scrollable Tooltips",
-        "creator": "Sk1er LLC",
-        "discordcode": "sk1er",
-        "description": "Lets you scroll on item tooltips when their height surpasses the height of your screen.",
-        "hidden": true,
-        "hash": "05cc200b46c6eea4d918300aacd74ea1"
-    },
-    {
         "id": "popup_events",
         "nicknames": [
             "popupevents"
@@ -1403,6 +1372,21 @@
         "discordcode": "woverflow",
         "hidden": true,
         "hash": "2ad42c5a0bdc35e1b48b30e819234324"
+    },
+    {
+        "id": "itlt",
+        "nicknames": [
+            "itsthelittlethings"
+        ],
+        "forge_id": "itlt",
+        "file": "itlt-1.8.8-9-1.0.1.jar",
+        "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
+        "display": "It's The Little Things",
+        "description": "",
+        "icon": "skyclient.png",
+        "hash": "1ef2245e9e04e7eb0b234538532c78fb",
+	    "hidden": true,
+	    "update_to_ids": [ "scc" ]
     },
     {
         "id": "redaction",
