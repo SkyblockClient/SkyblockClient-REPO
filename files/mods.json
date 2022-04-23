@@ -336,8 +336,8 @@
             "skyblockclientcosmetics"
         ],
         "forge_id": "skyclientcosmetics",
-        "file": "SkyClientCosmetics-1.1.0.jar",
-        "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.1.0/SkyClientCosmetics-1.1.0.jar",
+        "file": "SkyClientCosmetics-1.1.1.jar",
+        "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.1.1/SkyClientCosmetics-1.1.1.jar",
         "display": "SkyClient Cosmetics",
         "description": "Adds cosmetics, a greeting menu, a custom loading screen, custom main menu, custom display icon and title, Discord RPC, and more.",
         "enabled": true,
@@ -354,7 +354,7 @@
                 "link": "https://github.com/Wyvest/Skyclient-Cosmetics"
             }
         ],
-        "hash": "db97c3092c8ce3907dcccd8fda4542da"
+        "hash": "6dcc8d64badef0c996d85811b3e623f4"
     },
     {
         "id": "optifine",
