@@ -1385,8 +1385,10 @@
         "description": "",
         "icon": "skyclient.png",
         "hash": "1ef2245e9e04e7eb0b234538532c78fb",
-	    "hidden": true,
-	    "update_to_ids": [ "scc" ]
+        "hidden": true,
+        "update_to_ids": [
+            "scc"
+        ]
     },
     {
         "id": "redaction",
