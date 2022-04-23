@@ -747,8 +747,8 @@
             "st"
         ],
         "forge_id": "skytils",
-        "file": "BSMod-1.2.3.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.3/BSMod-1.2.3.jar",
+        "file": "Skytils-1.2.4.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.4/Skytils-1.2.4.jar",
         "display": "Skytils",
         "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
         "icon": "skytils.png",
@@ -780,7 +780,7 @@
             "2;All Skyblock",
             "3;Recommended Skyblock"
         ],
-        "hash": "2a6623798d9d29e2bec855b48af9e268"
+        "hash": "5ca93da47d3d6cae619d9208987d9cb3"
     },
     {
         "id": "apec",
