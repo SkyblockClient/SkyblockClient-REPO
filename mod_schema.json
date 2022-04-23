@@ -9,62 +9,57 @@
         "properties": {
             "id": {
                 "type": "string",
-                "description": "The ID of the mod or pack."
+                "description": "The ID of the mod."
             },
             "nicknames": {
                 "type": "array",
-                "description": "A list of nicknames for the mod or pack.",
+                "description": "A list of nicknames for the mod. Used by the Discord bot.",
                 "items": {
                     "type": "string"
                 }
             },
-            "forge_id": {
+            "display": {
                 "type": "string",
-                "description": "The Forge ID of the mod or pack."
+                "description": "The display name of the mod."
             },
             "enabled": {
                 "type": "boolean",
-                "description": "Whether or not the mod or pack is enabled by default."
-            },
-            "file": {
-                "type": "string",
-                "description": "The file name of the mod or pack."
-            },
-            "url": {
-                "type": "string",
-                "description": "The URL of the mod or pack."
-            },
-            "hash": {
-                "type": "string",
-                "description": "The hash of the file."
-            },
-            "display": {
-                "type": "string",
-                "description": "The display name of the mod or pack."
+                "description": "Whether or not the mod is enabled by default."
             },
             "creator": {
                 "type": "string",
-                "description": "The creator of the mod or pack."
+                "description": "The creator of the mod."
             },
             "discordcode": {
                 "type": "string",
-                "description": "The Discord code (discord.gg/[code]) of the mod or pack."
+                "description": "The Discord code (discord.gg/[code]) of the mod."
             },
             "command": {
                 "type": "string",
                 "description": "The command to open the mod's config page."
             },
+            "update_to_ids": {
+                "type": "array",
+                "description": "A list of mod IDs that this mod is replaced by. Used by SCU.",
+                "items": {
+                    "type": "string"
+                }
+            },
             "description": {
                 "type": "string",
-                "description": "The description of the mod or pack."
+                "description": "The description of the mod."
             },
             "icon": {
                 "type": "string",
-                "description": "The icon file name of the mod or pack."
+                "description": "The icon file name of the mod."
+            },
+            "icon_scaling": {
+                "type": "string",
+                "description": "The scaling used in the icon. Used by the Java installer."
             },
             "actions": {
                 "type": "array",
-                "description": "A list of actions for the mod or pack.",
+                "description": "A list of actions for the mod.",
                 "items": {
                     "oneOf": [
                         {
@@ -106,42 +101,65 @@
             },
             "categories": {
                 "type": "array",
-                "description": "A list of categories for the mod or pack.",
+                "description": "A list of categories for the mod.",
                 "items": {
                     "enum": [
                         "1;Recommended",
                         "2;All Skyblock",
                         "3;Recommended Skyblock",
-                        "4;All PVP",
-                        "5;Recommended PVP"
+                        "4;All PvP",
+                        "5;Recommended PvP"
                     ]
                 }
             },
             "hidden": {
                 "type": "boolean",
-                "description": "Whether or not the mod or pack is hidden."
+                "description": "Whether or not the mod is hidden."
             },
-            "update_to_ids": {
+            "file": {
+                "type": "string",
+                "description": "The file name of the mod."
+            },
+            "files": {
                 "type": "array",
-                "description": "A list of mod IDs that this mod is replaced by.",
+                "description": "Additional config files for the mod.",
                 "items": {
                     "type": "string"
                 }
+            },
+            "url": {
+                "type": "string",
+                "description": "The URL of the mod."
+            },
+            "forge_id": {
+                "type": "string",
+                "description": "The Forge ID of the mod."
+            },
+            "packages": {
+                "type": "array",
+                "description": "A list of mods to include.",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "hash": {
+                "type": "string",
+                "description": "The hash of the file."
             }
         },
         "required": [
             "id",
-            "forge_id",
-            "file",
-            "url",
-            "hash",
             "display",
             "creator",
             "discordcode",
             "command",
             "description",
             "icon",
-            "actions"
+            "actions",
+            "categories",
+            "file",
+            "url",
+            "hash"
         ],
         "additionalProperties": false
     }
