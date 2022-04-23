@@ -1,0 +1,148 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/mod_schema.json",
+    "title": "Mod/Pack List",
+    "description": "A list of all the mods or a list of all the packs. Used internally in SkyClient.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "The ID of the mod or pack."
+            },
+            "nicknames": {
+                "type": "array",
+                "description": "A list of nicknames for the mod or pack.",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "forge_id": {
+                "type": "string",
+                "description": "The Forge ID of the mod or pack."
+            },
+            "enabled": {
+                "type": "boolean",
+                "description": "Whether or not the mod or pack is enabled by default."
+            },
+            "file": {
+                "type": "string",
+                "description": "The file name of the mod or pack."
+            },
+            "url": {
+                "type": "string",
+                "description": "The URL of the mod or pack."
+            },
+            "hash": {
+                "type": "string",
+                "description": "The hash of the file."
+            },
+            "display": {
+                "type": "string",
+                "description": "The display name of the mod or pack."
+            },
+            "creator": {
+                "type": "string",
+                "description": "The creator of the mod or pack."
+            },
+            "discordcode": {
+                "type": "string",
+                "description": "The Discord code (discord.gg/[code]) of the mod or pack."
+            },
+            "command": {
+                "type": "string",
+                "description": "The command to open the mod's config page."
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of the mod or pack."
+            },
+            "icon": {
+                "type": "string",
+                "description": "The icon file name of the mod or pack."
+            },
+            "actions": {
+                "type": "array",
+                "description": "A list of actions for the mod or pack.",
+                "items": {
+                    "oneOf": [
+                        {
+                            "type": "object",
+                            "properties": {
+                                "method": {
+                                    "type": "string",
+                                    "description": "The method of the action (hover)."
+                                },
+                                "document": {
+                                    "type": "string",
+                                    "description": "The document to show when hovered."
+                                }
+                            },
+                            "required": ["method", "document"],
+                            "additionalProperties": false
+                        },
+                        {
+                            "type": "object",
+                            "properties": {
+                                "icon": {
+                                    "type": "string",
+                                    "description": "The icon file name of the action."
+                                },
+                                "text": {
+                                    "type": "string",
+                                    "description": "The text of the action."
+                                },
+                                "link": {
+                                    "type": "string",
+                                    "description": "The link for the action."
+                                }
+                            },
+                            "required": ["icon", "text", "link"],
+                            "additionalProperties": false
+                        }
+                    ]
+                }
+            },
+            "categories": {
+                "type": "array",
+                "description": "A list of categories for the mod or pack.",
+                "items": {
+                    "enum": [
+                        "1;Recommended",
+                        "2;All Skyblock",
+                        "3;Recommended Skyblock",
+                        "4;All PVP",
+                        "5;Recommended PVP"
+                    ]
+                }
+            },
+            "hidden": {
+                "type": "boolean",
+                "description": "Whether or not the mod or pack is hidden."
+            },
+            "update_to_ids": {
+                "type": "array",
+                "description": "A list of mod IDs that this mod is replaced by.",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "required": [
+            "id",
+            "forge_id",
+            "file",
+            "url",
+            "hash",
+            "display",
+            "creator",
+            "discordcode",
+            "command",
+            "description",
+            "icon",
+            "actions"
+        ],
+        "additionalProperties": false
+    }
+}
