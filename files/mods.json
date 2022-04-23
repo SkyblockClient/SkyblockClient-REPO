@@ -1,7 +1,9 @@
 [
     {
         "id": "scrollabletooltips",
-        "nicknames": ["text_overflow_scroll"],
+        "nicknames": [
+            "text_overflow_scroll"
+        ],
         "display": "Utility Bundle",
         "enabled": true,
         "creator": "Sk1er LLC",
@@ -39,16 +41,24 @@
                 "link": "https://sk1er.club/mods/hypixel_auto_complete"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "forge_id": "text_overflow_scroll",
-        "packages": ["optibye", "simpletogglesprint", "hypixel_auto_complete"],
+        "packages": [
+            "optibye",
+            "simpletogglesprint",
+            "hypixel_auto_complete"
+        ],
         "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
         "id": "smoothscrollingeverywhere",
-        "nicknames": ["smoothscrolling"],
+        "nicknames": [
+            "smoothscrolling"
+        ],
         "display": "GUI Bundle",
         "enabled": true,
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
@@ -94,7 +104,9 @@
                 "link": "https://discord.gg/jRhkYFmpCa"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "smooth-scrolling-everywhere-1.2.jar",
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
         "forge_id": "smooth-scrolling-everywhere",
@@ -109,7 +121,9 @@
     },
     {
         "id": "evergreenhud",
-        "nicknames": ["evergreen"],
+        "nicknames": [
+            "evergreen"
+        ],
         "display": "HUD Bundle",
         "discordcode": "AJv5ZnNT8q",
         "command": "/evergreenhud",
@@ -141,16 +155,24 @@
                 "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
-        "categories": ["4;All PvP", "5;Recommended PvP"],
+        "categories": [
+            "4;All PvP",
+            "5;Recommended PvP"
+        ],
         "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
         "url": "https://short.isxander.dev/RqjzS4",
         "forge_id": "evergreenhud",
-        "packages": ["redaction", "keystrokes"],
+        "packages": [
+            "redaction",
+            "keystrokes"
+        ],
         "hash": "63f4007274c69d5698bc7ade40b90ebf"
     },
     {
         "id": "antidreamskin",
-        "nicknames": ["insomnia"],
+        "nicknames": [
+            "insomnia"
+        ],
         "display": "QOL Bundle",
         "creator": "Moulberry",
         "command": "/insomnia on/off",
@@ -197,7 +219,10 @@
                 "link": "https://sk1er.club/mods/level_head"
             }
         ],
-        "categories": ["4;All PvP", "5;Recommended PvP"],
+        "categories": [
+            "4;All PvP",
+            "5;Recommended PvP"
+        ],
         "file": "Insomnia-1.0-REL.jar",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "forge_id": "insomnia",
@@ -244,16 +269,25 @@
                 "link": "https://github.com/W-OVERFLOW/BehindYouV3"
             }
         ],
-        "categories": ["4;All PvP", "5;Recommended PvP"],
+        "categories": [
+            "4;All PvP",
+            "5;Recommended PvP"
+        ],
         "file": "DamageTint-3.2.0.jar",
         "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
         "forge_id": "damagetint",
-        "packages": ["particlesenhanced", "behindyouv3"],
+        "packages": [
+            "particlesenhanced",
+            "behindyouv3"
+        ],
         "hash": "abfae9b9f1660ce0bdea20c2949fb435"
     },
     {
         "id": "scu",
-        "nicknames": ["skyclientupdater", "skyblockclientupdater"],
+        "nicknames": [
+            "skyclientupdater",
+            "skyblockclientupdater"
+        ],
         "display": "SkyClient Updater",
         "enabled": true,
         "creator": "Lily",
@@ -266,7 +300,9 @@
                 "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "SkyblockClient-Updater-1.2.1.jar",
         "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.1/SkyblockClient-Updater-1.2.1.jar",
         "forge_id": "skyblockclientupdater",
@@ -274,7 +310,10 @@
     },
     {
         "id": "scc",
-        "nicknames": ["skyclientcosmetics", "skyblockclientcosmetics"],
+        "nicknames": [
+            "skyclientcosmetics",
+            "skyblockclientcosmetics"
+        ],
         "display": "SkyClient Cosmetics",
         "enabled": true,
         "creator": "SkyClient Team",
@@ -288,7 +327,9 @@
                 "link": "https://github.com/Wyvest/Skyclient-Cosmetics"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "SkyClientCosmetics-1.1.0.jar",
         "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.1.0/SkyClientCosmetics-1.1.0.jar",
         "forge_id": "skyclientcosmetics",
@@ -296,7 +337,9 @@
     },
     {
         "id": "optifine",
-        "nicknames": ["of"],
+        "nicknames": [
+            "of"
+        ],
         "display": "OptiFine M5",
         "enabled": true,
         "creator": "sp614x",
@@ -311,9 +354,13 @@
                 "link": "https://optifine.net/home"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "OptiFine_1.8.9_HD_U_M5.jar",
-        "files": ["optionsof.txt"],
+        "files": [
+            "optionsof.txt"
+        ],
         "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
         "hash": "0765dc1bcbe5baa83f7c261ac2c133ed"
     },
@@ -342,7 +389,9 @@
                 "link": "https://sk1er.club/mods/patcher"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "Patcher-1.8.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/patcher/1.8.1/1.8.9/Patcher-1.8.1%20(1.8.9).jar",
         "forge_id": "patcher",
@@ -350,7 +399,11 @@
     },
     {
         "id": "crashpatch",
-        "nicknames": ["crashhelp", "ch", "crash"],
+        "nicknames": [
+            "crashhelp",
+            "ch",
+            "crash"
+        ],
         "display": "CrashPatch",
         "enabled": true,
         "creator": "W-OVERFLOW",
@@ -364,9 +417,13 @@
                 "link": "https://github.com/W-OVERFLOW/CrashPatch"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "CrashPatch-1.3.7.jar",
-        "files": ["W-OVERFLOW/CrashPatch/SKYCLIENT"],
+        "files": [
+            "W-OVERFLOW/CrashPatch/SKYCLIENT"
+        ],
         "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.3.7/CrashPatch-1.3.7.jar",
         "forge_id": "crashpatch",
         "hash": "3a8a63e593992a0ee325316bbbcbe75e"
@@ -392,7 +449,9 @@
                 "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
             }
         ],
-        "categories": ["1;Recommended"],
+        "categories": [
+            "1;Recommended"
+        ],
         "file": "Hytilities-Reborn-1.4.1.jar",
         "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
         "forge_id": "hytilities-reborn",
@@ -411,7 +470,10 @@
                 "link": "https://www.youtube.com/watch?v=7B8v384K0fM"
             }
         ],
-        "categories": ["4;All PvP", "5;Recommended PvP"],
+        "categories": [
+            "4;All PvP",
+            "5;Recommended PvP"
+        ],
         "file": "Block_Overlay_4.0.3.jar",
         "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar",
         "forge_id": "blockoverlay",
@@ -437,7 +499,10 @@
                 "link": "https://www.youtube.com/watch?v=F3Mg3-FPvQs"
             }
         ],
-        "categories": ["4;All PvP", "5;Recommended PvP"],
+        "categories": [
+            "4;All PvP",
+            "5;Recommended PvP"
+        ],
         "file": "BetterHurtCam-2.1.3.jar",
         "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
         "forge_id": "betterhurtcam",
@@ -445,7 +510,9 @@
     },
     {
         "id": "nick_hider",
-        "nicknames": ["nickhider"],
+        "nicknames": [
+            "nickhider"
+        ],
         "display": "Nick Hider",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -459,16 +526,22 @@
                 "link": "https://sk1er.club/mods/nick_hider"
             }
         ],
-        "categories": ["4;All PvP"],
+        "categories": [
+            "4;All PvP"
+        ],
         "file": "Nick Hider-6.0 (1.8.9).jar",
-        "files": ["nickhider.toml"],
+        "files": [
+            "nickhider.toml"
+        ],
         "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0/1.8.9/Nick%20Hider-6.0%20(1.8.9).jar",
         "forge_id": "nick_hider",
         "hash": "ee980cf0c8ea75a754aca18c05d0b2e9"
     },
     {
         "id": "sba",
-        "nicknames": ["skyblockaddons"],
+        "nicknames": [
+            "skyblockaddons"
+        ],
         "display": "SkyblockAddons",
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
@@ -501,7 +574,10 @@
                 "link": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases"
             }
         ],
-        "categories": ["2;All Skyblock", "3;Recommended Skyblock"],
+        "categories": [
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
+        ],
         "file": "SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
         "url": "https://cdn.discordapp.com/attachments/661779636983955466/954223267625963520/SkyblockAddons-1.7.0-beta.37064-for-MC-1.8.9.jar",
         "forge_id": "skyblockaddons",
@@ -509,7 +585,10 @@
     },
     {
         "id": "sbhud",
-        "nicknames": ["sbh", "skyblockhud"],
+        "nicknames": [
+            "sbh",
+            "skyblockhud"
+        ],
         "display": "SkyblockHUD",
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
@@ -522,7 +601,9 @@
                 "link": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "SkyblockHud-1.13-beta7.jar",
         "url": "https://cdn.discordapp.com/attachments/845306740957642782/868401557874573342/SkyBlockHud-1.13-beta-test-7.jar",
         "forge_id": "skyblockhud",
@@ -530,7 +611,9 @@
     },
     {
         "id": "neu",
-        "nicknames": ["notenoughupdates"],
+        "nicknames": [
+            "notenoughupdates"
+        ],
         "display": "NotEnoughUpdates",
         "creator": "Moulberry",
         "discordcode": "moulberry",
@@ -558,16 +641,24 @@
                 "link": "https://github.com/Moulberry/NotEnoughUpdates/releases"
             }
         ],
-        "categories": ["2;All Skyblock", "3;Recommended Skyblock"],
+        "categories": [
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
+        ],
         "file": "NotEnoughUpdates-2.0.0.jar",
-        "files": ["config/notenoughupdates/config.json"],
+        "files": [
+            "config/notenoughupdates/config.json"
+        ],
         "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/2.0.0/NotEnoughUpdates-2.0.0.jar",
         "forge_id": "notenoughupdates",
         "hash": "a18ffe0a2a911d849aefb86d9c9227ef"
     },
     {
         "id": "dsm",
-        "nicknames": ["dankers", "dankersskyblockmod"],
+        "nicknames": [
+            "dankers",
+            "dankersskyblockmod"
+        ],
         "display": "Danker's Skyblock Mod",
         "creator": "DankerWanker",
         "discordcode": "BUmywXX47M",
@@ -595,7 +686,9 @@
                 "link": "https://github.com/bowser0000/SkyblockMod/releases"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "Dankers_Skyblock_Mod-1.8.7-beta5.jar",
         "url": "https://cdn.discordapp.com/attachments/742114256555606106/966937072202027058/Dankers_Skyblock_Mod-1.8.7-beta5.jar",
         "forge_id": "Danker's Skyblock Mod",
@@ -603,7 +696,9 @@
     },
     {
         "id": "skytils",
-        "nicknames": ["st"],
+        "nicknames": [
+            "st"
+        ],
         "display": "Skytils",
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
@@ -631,7 +726,10 @@
                 "link": "https://github.com/Skytils/SkytilsMod/releases"
             }
         ],
-        "categories": ["2;All Skyblock", "3;Recommended Skyblock"],
+        "categories": [
+            "2;All Skyblock",
+            "3;Recommended Skyblock"
+        ],
         "file": "Skytils-1.2.5.jar",
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.5/Skytils-1.2.5.jar",
         "forge_id": "skytils",
@@ -671,16 +769,23 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/apec"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "Apec-1.10.1.jar",
-        "files": ["config/Apec/Settings.txt"],
+        "files": [
+            "config/Apec/Settings.txt"
+        ],
         "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.1/Apec-1.10.1.jar",
         "forge_id": "apec",
         "hash": "3e5de61af6a40aa69bc47056425fb1dd"
     },
     {
         "id": "cowlection",
-        "nicknames": ["cow", "moo"],
+        "nicknames": [
+            "cow",
+            "moo"
+        ],
         "display": "Cowlection",
         "creator": "Cow",
         "discordcode": "HyvcR9a3x9",
@@ -714,7 +819,9 @@
                 "link": "https://github.com/cow-mc/Cowlection/releases"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "Cowlection-1.8.9-0.14.0.jar",
         "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.14.0/Cowlection-1.8.9-0.14.0.jar",
         "forge_id": "cowlection",
@@ -722,7 +829,9 @@
     },
     {
         "id": "sbp",
-        "nicknames": ["skyblockpersonalized"],
+        "nicknames": [
+            "skyblockpersonalized"
+        ],
         "display": "SkyblockPersonalized",
         "creator": "Cobble8",
         "discordcode": "KsqMmBdNBE",
@@ -740,7 +849,9 @@
                 "link": "https://hypixel.net/threads/3963451/"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "1.8.9 SkyblockPersonalized 1.6.0.1.jar",
         "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.1/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
         "forge_id": "sbp",
@@ -748,7 +859,10 @@
     },
     {
         "id": "dg",
-        "nicknames": ["dungeonsguide", "dg"],
+        "nicknames": [
+            "dungeonsguide",
+            "dg"
+        ],
         "display": "Dungeons Guide",
         "creator": "Syeyoung",
         "discordcode": "dg",
@@ -771,7 +885,9 @@
                 "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "dungeonsguide-3.7.7.jar",
         "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.7/dungeonsguide-3.7.7.jar",
         "forge_id": "skyblock_dungeons_guide",
@@ -779,7 +895,9 @@
     },
     {
         "id": "drm",
-        "nicknames": ["dungeonrooms"],
+        "nicknames": [
+            "dungeonrooms"
+        ],
         "display": "Dungeon Rooms",
         "creator": "_risk",
         "discordcode": "7B5RbsArYK",
@@ -797,7 +915,9 @@
                 "link": "https://github.com/Quantizr/DungeonRoomsMod"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "Dungeon_Rooms-3.3.1.jar",
         "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.1/Dungeon_Rooms-3.3.1.jar",
         "forge_id": "dungeonrooms",
@@ -882,7 +1002,9 @@
     },
     {
         "id": "soundsubtitles",
-        "nicknames": ["subtitles"],
+        "nicknames": [
+            "subtitles"
+        ],
         "display": "Sound Subtitles",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -896,7 +1018,9 @@
                 "link": "https://sk1er.club/mods/subtitles_mod"
             }
         ],
-        "categories": ["4;All PvP"],
+        "categories": [
+            "4;All PvP"
+        ],
         "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
         "forge_id": "subtitles_mod",
@@ -904,7 +1028,9 @@
     },
     {
         "id": "ctjs",
-        "nicknames": ["chattriggers"],
+        "nicknames": [
+            "chattriggers"
+        ],
         "display": "Chat Triggers",
         "creator": "Kerbybit",
         "discordcode": "chattriggers",
@@ -917,7 +1043,9 @@
                 "link": "https://www.chattriggers.com/"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "ctjs-2.0.4-1.8.9.jar",
         "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.0.4/ctjs-2.0.4-1.8.9.jar",
         "forge_id": "chattriggers",
@@ -937,7 +1065,9 @@
                 "link": "https://github.com/Moulberry/SBCustomMobTex/releases"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "hidden": true,
         "file": "SBCustomMobTex-1.4.jar",
         "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
@@ -946,7 +1076,9 @@
     },
     {
         "id": "rpm",
-        "nicknames": ["resourcepackmanager"],
+        "nicknames": [
+            "resourcepackmanager"
+        ],
         "display": "Resource Pack Manager",
         "creator": "Aycy",
         "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
@@ -975,7 +1107,9 @@
     },
     {
         "id": "popup_events",
-        "nicknames": ["popupevents"],
+        "nicknames": [
+            "popupevents"
+        ],
         "display": "Popup Events",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -1001,7 +1135,9 @@
     },
     {
         "id": "rc",
-        "nicknames": ["rewardclaim"],
+        "nicknames": [
+            "rewardclaim"
+        ],
         "display": "RewardClaim",
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
@@ -1015,7 +1151,10 @@
     },
     {
         "id": "simpletogglesprint",
-        "nicknames": ["togglesprint", "sts"],
+        "nicknames": [
+            "togglesprint",
+            "sts"
+        ],
         "display": "Toggle Sprint",
         "creator": "Lily",
         "command": "/togglesprint",
@@ -1036,7 +1175,9 @@
     },
     {
         "id": "hypixel_auto_complete",
-        "nicknames": ["autocomplete"],
+        "nicknames": [
+            "autocomplete"
+        ],
         "display": "Hypixel Autocomplete",
         "creator": "Sk1er LLC",
         "command": "/hypixelautocomplete",
@@ -1077,7 +1218,11 @@
     },
     {
         "id": "chatting",
-        "nicknames": ["l ratio better chat", "chattils", "stratus"],
+        "nicknames": [
+            "l ratio better chat",
+            "chattils",
+            "stratus"
+        ],
         "display": "Chatting",
         "creator": "W-OVERFLOW",
         "discordcode": "woverflow",
@@ -1099,7 +1244,9 @@
     },
     {
         "id": "reportplus",
-        "nicknames": ["report"],
+        "nicknames": [
+            "report"
+        ],
         "display": "ReportPlus",
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
@@ -1151,7 +1298,9 @@
     },
     {
         "id": "itlt",
-        "nicknames": ["itsthelittlethings"],
+        "nicknames": [
+            "itsthelittlethings"
+        ],
         "display": "It's The Little Things",
         "description": "",
         "icon": "skyclient.png",
@@ -1178,7 +1327,9 @@
         ],
         "hidden": true,
         "file": "REDACTION-1.2.1.jar",
-        "files": ["W-OVERFLOW/REDACTION/redaction.toml"],
+        "files": [
+            "W-OVERFLOW/REDACTION/redaction.toml"
+        ],
         "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.2.1/REDACTION-1.2.1.jar",
         "forge_id": "redaction",
         "hash": "e4338f690384bb178176201109a44c8f"
@@ -1370,7 +1521,10 @@
     },
     {
         "id": "particlesenhanced",
-        "nicknames": ["particlemod", "particles"],
+        "nicknames": [
+            "particlemod",
+            "particles"
+        ],
         "display": "Particles Enhanced",
         "creator": "isXander",
         "discordcode": "AJv5ZnNT8q",
@@ -1402,7 +1556,9 @@
     },
     {
         "id": "synthesis",
-        "nicknames": ["synth"],
+        "nicknames": [
+            "synth"
+        ],
         "display": "Synthesis",
         "enabled": false,
         "creator": "SirDesco, Antonio32A",
@@ -1420,7 +1576,9 @@
                 "link": "https://github.com/SynthesisMod/Synthesis"
             }
         ],
-        "categories": ["2;All Skyblock"],
+        "categories": [
+            "2;All Skyblock"
+        ],
         "file": "Synthesis-0.2.0.jar",
         "url": "https://cdn.discordapp.com/attachments/931696052724203550/937623068715651092/Synthesis-0.2.0.jar",
         "forge_id": "synthesis",
