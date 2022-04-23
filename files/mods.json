@@ -148,11 +148,6 @@
                 "icon": "wyvest.png",
                 "text": "REDACTION",
                 "link": "https://github.com/W-OVERFLOW/REDACTION"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "Keystrokes",
-                "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
         "categories": [
@@ -291,7 +286,7 @@
         "display": "SkyClient Updater",
         "enabled": true,
         "creator": "Lily",
-        "description": "Adds in-game updater for the mods in SkyClient.",
+        "description": "An automatic way to update mods in SkyClient whenever your game starts.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -318,7 +313,7 @@
         "enabled": true,
         "creator": "SkyClient Team",
         "command": "/scc",
-        "description": "Adds cosmetics, a greeting menu, a custom loading screen, custom main menu, custom display icon and title, Discord RPC, and more.",
+        "description": "This is the mod that features all of the stereotypical 'Client' things, like a custom loading screen, discord status, cosmetics, and other cool stuff like that.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -371,7 +366,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/patcher",
-        "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
+        "description": "Patcher is the ultimate Minecraft mod for framerate and performance, fixing over 70 issues within the games code and increasing your performance as a result.",
         "icon": "monkey.png",
         "actions": [
             {
@@ -408,7 +403,7 @@
         "enabled": true,
         "creator": "W-OVERFLOW",
         "discordcode": "woverflow",
-        "description": "Stop crashes from closing your game and provide solutions!",
+        "description": "Stop crashes from closing your game and (mostly) provides solutions!",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -517,7 +512,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/nickhider",
-        "description": "Hides your nick on Hypixel.",
+        "description": "Hides your nickname on Hypixel, in case you don't want stream viewers or video watchers to figure it out.",
         "icon": "monkey.png",
         "actions": [
             {
@@ -546,7 +541,7 @@
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
         "command": "/sba",
-        "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover!",
+        "description": "QOL Skyblock mod with a plethora of (outdated) features, like slot locking, timers, and other stuff!",
         "icon": "bisquit.png",
         "actions": [
             {
@@ -618,7 +613,7 @@
         "creator": "Moulberry",
         "discordcode": "moulberry",
         "command": "/neu",
-        "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
+        "description": "NotEnoughUpdates (NEU) is the most important skyblock mod, featuring essential features like slot locking, dungeon profit calculation, fishing helpers, a list of all items, a profile viewer, and hundreds more!",
         "icon": "neulogo.png",
         "actions": [
             {
@@ -703,7 +698,7 @@
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
         "command": "/skytils",
-        "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
+        "description": "Best used in tandem with NEU, Skytils provides bleeding-edge features and is almost always up to date with the latest dungeon and slayer solvers, as well as having Crystal Hollows Waypoints, useful utilities for Dungeons, and a whole lot more incredibly advanced and useful features!",
         "icon": "skytils.png",
         "actions": [
             {
@@ -867,7 +862,7 @@
         "creator": "Syeyoung",
         "discordcode": "dg",
         "command": "/dg",
-        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things. (Also, it can turn every player into a penguin. Who wouldn't want that??!!)",
         "icon": "dungeonsguide.jpg",
         "actions": [
             {
