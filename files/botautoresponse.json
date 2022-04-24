@@ -240,5 +240,25 @@
             ]
         ],
         "response": "The old launcher can be installed from here: \n<https://launcher.mojang.com/download/MinecraftInstaller.msi>"
+    },
+    {
+        "triggers": [
+            [
+                "low",
+                "terrible",
+                "bad",
+                "die",
+                "drops",
+                "lag",
+                "freeze"
+            ],
+            [
+                "dungeon"
+            ],
+            [
+                "fps"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
     }
 ]
