@@ -246,17 +246,53 @@
             [
                 "low",
                 "terrible",
-                "bad",
-                "die",
-                "drops",
-                "lag",
-                "freeze"
+                "bad"
             ],
             [
                 "dungeon"
             ],
             [
-                "fps"
+                "fps",
+                "lag",
+                "freeze"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
+    },
+    {
+        "triggers": [
+            [
+                "dungeon"
+            ],
+            [
+                "fps",
+                "lag",
+                "freeze"
+            ],
+            [
+                "drop",
+                "die",
+                "low",
+                "bad"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
+    },
+    {
+        "triggers": [
+            [
+                "fps",
+                "lag",
+                "freeze"
+            ],
+            [
+                "drop",
+                "die",
+                "low",
+                "bad"
+            ],
+            [
+                "dungeon"
             ]
         ],
         "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
