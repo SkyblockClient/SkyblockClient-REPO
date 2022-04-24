@@ -330,10 +330,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "SkyClientCosmetics-1.1.1.jar",
-        "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.1.1/SkyClientCosmetics-1.1.1.jar",
+        "file": "SkyClientCosmetics-1.1.2.jar",
+        "url": "https://github.com/Wyvest/Skyclient-Cosmetics/releases/download/v1.1.2/SkyClientCosmetics-1.1.2.jar",
         "forge_id": "skyclientcosmetics",
-        "hash": "6dcc8d64badef0c996d85811b3e623f4"
+        "hash": "414100419b2b43553ad9efa2fd3db348"
     },
     {
         "id": "optifine",
