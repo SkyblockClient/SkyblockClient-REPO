@@ -558,7 +558,7 @@
             }
         ],
         "categories": [
-            "4;All PvP"
+            "6;For Creators"
         ],
         "file": "Nick Hider-6.0 (1.8.9).jar",
         "files": [
@@ -992,6 +992,36 @@
         "url": "https://media.forgecdn.net/files/2439/695/ItemPhysic+Lite+1.3+mc1.8.9.jar",
         "forge_id": "itemphysic",
         "hash": "fabc8804c785279018cc14e5128b5147"
+    },
+ {
+        "id": "twitcher",
+        "nicknames": [
+            "twitcher"
+        ],
+        "display": "Twitcher",
+        "enabled": false,
+        "creator": "Llamabit",
+        "description": "Enables Twitch chat in your Minecraft with moderation options.",
+        "icon": "twitcher.png",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "guide",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/twitcher"
+            },
+            {
+                "icon": "github.png",
+                "text": "github",
+                "link": "https://github.com/BackendLlama/Twitcher"
+            }
+        ],
+        "categories": [
+            "6;For Creators"
+        ],
+        "file": "twitcher-1.0.jar",
+        "url": "https://media.forgecdn.net/files/3096/385/twitcher-1.0.jar",
+        "forge_id": "twitcher",
+        "hash": "ee328d94afe4a469f4c1954cf8acd61f"
     },
     {
         "id": "craftify",
