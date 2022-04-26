@@ -558,7 +558,7 @@
             }
         ],
         "categories": [
-            "4;All PvP"
+            "6;For Creators"
         ],
         "file": "Nick Hider-6.0 (1.8.9).jar",
         "files": [
@@ -1001,7 +1001,7 @@
         "display": "Twitcher",
         "enabled": false,
         "creator": "Llamabit",
-        "description": "Mod for connecting your Minecraft chat with Twitch chat.",
+        "description": "Enables Twitch chat in your Minecraft with moderation options.",
         "icon": "twitcher.png",
         "actions": [
             {
