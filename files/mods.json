@@ -462,7 +462,7 @@
         "display": "Replay Mod",
         "creator": "CrushedPixel and johni0702",
         "description": "A Minecraft Mod to record, relive and share your experience.",
-        "icon": "replaymod.jpg",
+        "icon": "replaymod.png",
         "actions": [
             {
                 "icon": "replaymod.png",
@@ -470,7 +470,7 @@
                 "link": "https://www.replaymod.com/"
             },
             {
-                "icon": "discord.png",
+                "icon": "discordsmall.png",
                 "text": "Discord",
                 "link": "https://discord.gg/5GR7RSb"
             },
