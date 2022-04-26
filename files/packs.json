@@ -378,15 +378,11 @@
         "display": "Essential Theme 16x",
         "description": "Essential Themed UI",
         "icon": "essentialtheme.png",
-        "creator": "Packs HQ Team",
-        "discordcode": "KwvMQ4T",
-        "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
-        ],
+        "creator": "Reforced",
+        "discordcode": "None thus far",
         "actions": [
             {
-                "icon": "packshq.png",
+                "icon": "essentialtheme.png",
                 "text": "Website",
                 "link": "NEEDS CHANGING"
             }
