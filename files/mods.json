@@ -458,6 +458,37 @@
         "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
     },
     {
+        "id": "replaymod",
+        "display": "Replay Mod",
+        "creator": "CrushedPixel and johni0702",
+        "description": "A Minecraft Mod to record, relive and share your experience.",
+        "icon": "replaymod.jpg",
+        "actions": [
+            {
+                "icon": "replaymod.png",
+                "text": "Website",
+                "link": "https://www.replaymod.com/"
+            },
+            {
+                "icon": "discord.png",
+                "text": "Discord",
+                "link": "https://discord.gg/5GR7RSb"
+            },
+            {
+                "icon": "patreon.png",
+                "text": "Patreon",
+                "link": "https://www.patreon.com/replaymod"
+            }
+        ],
+        "categories": [
+            "6;For Creators"
+        ],
+        "file": "replaymod-1.8.9-2.6.4.jar",
+        "url": "https://www.replaymod.com/download/download_new.php?version=1.8.9-2.6.4",
+        "forge_id": "replaymod",
+        "hash": "2888c1c111107aa03d5318210243ebdb"
+    },
+    {
         "id": "blockoverlay",
         "display": "Block Overlay",
         "creator": "Aycy",
