@@ -372,6 +372,28 @@
         "hash": "bed2c0f60940feacad1c52a8db3f1c99"
     },
     {
+        "id": "essentialtheme",
+        "hidden": true,
+        "file": "Essential Theme 16x.zip",
+        "display": "Essential Theme 16x",
+        "description": "Essential Themed UI",
+        "icon": "essentialtheme.png",
+        "creator": "Packs HQ Team",
+        "discordcode": "KwvMQ4T",
+        "categories": [
+            "2;Recommended Skyblock",
+            "1;All Skyblock"
+        ],
+        "actions": [
+            {
+                "icon": "packshq.png",
+                "text": "Website",
+                "link": "NEEDS CHANGING"
+            }
+        ],
+        "hash": "2b9012a77071fa96bcff57a55b98f1c7"
+    },
+    {
         "id": "hq16f",
         "file": "v14.1 16x Skyblock Pack.zip",
         "display": "Packs HQ v14.1 16x",
