@@ -355,8 +355,7 @@
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
+            "5;Hud"
         ],
         "actions": [
             {
@@ -379,6 +378,9 @@
         "icon": "essentialtheme.png",
         "creator": "Reforced",
         "discordcode": "aqSEzgWnYy",
+        "categories": [
+            "5;Hud"
+        ],
         "actions": [
             {
                 "icon": "discordsmall.png",
