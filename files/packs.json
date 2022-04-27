@@ -348,7 +348,7 @@
     {
         "id": "hqdark",
         "file": "v2 Dark Skyblock UI.zip",
-        "display": "PacksHQ dark UI addon",
+        "display": "PacksHQ Dark UI",
         "description": "Packs HQ Skyblock Pack dark UI",
         "url": "https://packshq.com/assets/packs/v2_Dark_Skyblock_UI.zip",
         "icon": "phq dark overlay.png",
@@ -373,7 +373,7 @@
     {
         "id": "essentialtheme",
         "file": "Essential Theme 16x.zip",
-        "display": "Essential Theme 16x",
+        "display": "Essential Theme",
         "description": "Essential Themed UI",
         "icon": "essentialtheme.png",
         "creator": "Reforced",
