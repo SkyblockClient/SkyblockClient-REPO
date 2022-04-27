@@ -373,18 +373,17 @@
     },
     {
         "id": "essentialtheme",
-        "hidden": true,
         "file": "Essential Theme 16x.zip",
         "display": "Essential Theme 16x",
         "description": "Essential Themed UI",
         "icon": "essentialtheme.png",
         "creator": "Reforced",
-        "discordcode": "None thus far",
+        "discordcode": "aqSEzgWnYy",
         "actions": [
             {
-                "icon": "essentialtheme.png",
-                "text": "Website",
-                "link": "NEEDS CHANGING"
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://discord.gg/aqSEzgWnYy"
             }
         ],
         "hash": "2b9012a77071fa96bcff57a55b98f1c7"
