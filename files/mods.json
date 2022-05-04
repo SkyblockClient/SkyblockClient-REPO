@@ -594,7 +594,7 @@
                 "icon": "curseforge.png",
                 "text": "CurseForge Page",
                 "link": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d"
-            },
+            }
         ],
         "categories": [
             "4;All PvP",
