@@ -761,10 +761,10 @@
             "2;All Skyblock",
             "3;Recommended Skyblock"
         ],
-        "file": "Skytils-1.2.5.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.5/Skytils-1.2.5.jar",
+        "file": "Skytils-1.2.6.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.2.6/Skytils-1.2.6.jar",
         "forge_id": "skytils",
-        "hash": "22044239031946f6263f6b352a0bf0d1"
+        "hash": "6e6ae4fb6521f134efbddc52e8eb1d72"
     },
     {
         "id": "apec",
