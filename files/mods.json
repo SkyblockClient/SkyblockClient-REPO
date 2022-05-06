@@ -547,7 +547,7 @@
         "display": "Raw Mouse Input",
         "creator": "xCuri0, port by Mixces",
         "discordcode": "None",
-        "command": "None",
+        "command": "/rescan",
         "description": "Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system.",
         "icon": "mixces.png",
         "actions": [
