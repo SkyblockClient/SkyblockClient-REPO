@@ -542,7 +542,7 @@
     {
         "id": "rawinput",
         "hidden": true,
-        "nicknames":  [
+        "nicknames": [
             "rawmouseinput"
         ],
         "display": "Raw Mouse Input",
