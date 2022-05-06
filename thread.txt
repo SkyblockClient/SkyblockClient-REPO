@@ -1,5 +1,5 @@
 [CENTER]
-[ATTACH=full]2965068[/ATTACH]
+[ATTACH type="full" alt="scthreadhead.png"]2965068[/ATTACH]
 
 [SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
 
@@ -8,8 +8,8 @@ Over almost two years ago, Skye, one of the former Moulberry Staff members, and 
 This is the result of that project. Designed to be a great alternative to clients like Badlion and Lunar,
 and have a lot of convenience for the end user.
 
-[ATTACH=full]2965071[/ATTACH]
-[ATTACH=full]2965072[/ATTACH]
+[ATTACH type="full" alt="scthreadfeaturesf.png"]2965071[/ATTACH]
+[ATTACH type="full" alt="scthreaddivider.png"]2965072[/ATTACH]
 
 [COLOR=rgb(184, 49, 47)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
 [COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
@@ -76,13 +76,13 @@ Many people simply do not know what the mods they have installed actually do, an
 That's why we've added a little guide for every single mod we include in our installer to understand if you want the features in the mod or not.
 Along with that, you can easily access the Github page, website, video, or whatever source the mod is from, by simply pressing the buttons next to it.
 
-[ATTACH=full]2965076[/ATTACH]
+[ATTACH type="full" alt="scthreadscreenshot.png"]2965076[/ATTACH]
 
 
 
-[ATTACH=full]2965077[/ATTACH]
+[ATTACH type="full" alt="scthreaddownload.png"]2965077[/ATTACH]
 
-[ATTACH=full]2965078[/ATTACH]
+[ATTACH type="full" alt="scthreaddivider.png"]2965078[/ATTACH]
 
 [SIZE=6][COLOR=rgb(184, 49, 47)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
 The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
@@ -98,7 +98,6 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [SPOILER="Credits"]
 [B][SIZE=6]Credits[/SIZE][/B]
-
 Forum post textures: [USER=3520533]@MotorGorilla1[/USER]
 Icon: [USER=3001877]@motion_blue[/USER]
 Design ideas: [USER=3661636]@oVinter[/USER]
@@ -118,9 +117,9 @@ java -version
 # update-alternatives --config java
 # and select java 8
 # download the installer
-curl -L -O https://github.com/koxx12-dev/Skyclient-installer-Java/releases/download/2.0.1/Skyclien.t-Universal-Installer-2.0.1.jar
+curl -L -O https://github.com/SkyblockClient/Skyclient-installer-Java/releases/download/2.0.2/Skyclient-Universal-Installer-2.0.2.jar
 # run the installer
-java -jar Skyclien.t-Universal-Installer-2.0.1.jar[/CODE]
+java -jar Skyclient-Universal-Installer-2.0.2.jar[/CODE]
 
 [/SPOILER]
 [/SPOILER]
