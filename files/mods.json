@@ -541,7 +541,6 @@
     },
     {
         "id": "rawinput",
-        "hidden": true,
         "nicknames": [
             "rawmouseinput"
         ],
