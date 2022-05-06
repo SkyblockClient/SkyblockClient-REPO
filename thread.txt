@@ -101,6 +101,8 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 Forum post textures: [USER=3520533]@MotorGorilla1[/USER]
 Icon: [USER=3001877]@motion_blue[/USER]
 Design ideas: [USER=3661636]@oVinter[/USER]
+SkyClient Thread Rewrite: [USER=3378290]@Zetvue[/USER]
+SkyClient Code: [USER=1400625]@Microcontrollers[/USER], [USER=5110162]@KTibow[/USER], [URL='https://github.com/Lisenaaaa']Skye[/URL], and many, many others.
 [/SPOILER]
 [SPOILER="Usage Instructions"]
 [SPOILER="Windows"]
