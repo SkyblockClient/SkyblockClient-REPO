@@ -1,5 +1,5 @@
 [CENTER]
-[ATTACH type="full" alt="scthreadhead.png"]2965068[/ATTACH]
+[ATTACH=full]2965068[/ATTACH]
 
 [SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
 
@@ -8,8 +8,8 @@ Over almost two years ago, Skye, one of the former Moulberry Staff members, and 
 This is the result of that project. Designed to be a great alternative to clients like Badlion and Lunar,
 and have a lot of convenience for the end user.
 
-[ATTACH type="full" alt="scthreadfeaturesf.png"]2965071[/ATTACH]
-[ATTACH type="full" alt="scthreaddivider.png"]2965072[/ATTACH]
+[ATTACH=full]2965071[/ATTACH]
+[ATTACH=full]2965072[/ATTACH]
 
 [COLOR=rgb(184, 49, 47)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
 [COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
@@ -25,25 +25,25 @@ You also won't need to install Java, as Minecraft comes with its own version by 
 [SIZE=4]SimpleToggleSprint, Scrollable Tooltips, Hypixel Autocomplete[/SIZE][/COLOR]
 
 [SIZE=6][B]GUI Mods[/B][/SIZE]
-Custom Main Menu, Smooth Scrolling Everywhere, Chatting, BetterChat, RewardClaim, Report+, Craftify
+Custom Main Menu, Smooth Scrolling Everywhere, Chatting, BetterChat, RewardClaim, Report+, Craftify, SkyClient Cosmetics
 
 [SIZE=6][B]HUD Mods[/B][/SIZE]
-VanillaHUD, EvergreenHUD, REDACTION, Keystrokes, Sound Subtitles
+VanillaHUD, EvergreenHUD, REDACTION, Keystrokes, Sound Subtitles, Craftify
 
 [SIZE=6][B]QOL Mods[/B][/SIZE]
 Popup Events, Anti Dream Skin, AutoGG, AutoTip, TNT Time, LevelHead, SkyClient Updater, Aycy Resource Pack Manager, NickHider
 
 [SIZE=6][B]Visual Mods[/B][/SIZE]
-Item Physic Lite, Blur, TimeChanger
+Item Physic Lite, Blur, TimeChanger, 3D Skin Layers
 
 [SIZE=6][B]PVP Mods[/B][/SIZE]
-Damage Tint, Particles Enhanced, BehindYouV3, Block Overlay, Hytilities Reborn
+Damage Tint, Particles Enhanced, BehindYouV3, Block Overlay, Hytilities Reborn, BetterHurtCam
 
 [SIZE=6][B]Skyblock Mods[/B][/SIZE]
 Skytils, SBA, NEU, DSM, DRM, DG, SBPersonalized, SBHud, Apec, Cowlection, SBCustomTex, Synthesis
 
 [SIZE=6][B]Miscellanious Mods[/B][/SIZE]
-ChatTriggers, It's The Little Things, OptiBye
+ChatTriggers, Twitcher, OofMod
 [/SPOILER]
 [SPOILER="Packs"]
 [SIZE=6][B]Skyblock Packs[/B][/SIZE]
@@ -76,13 +76,13 @@ Many people simply do not know what the mods they have installed actually do, an
 That's why we've added a little guide for every single mod we include in our installer to understand if you want the features in the mod or not.
 Along with that, you can easily access the Github page, website, video, or whatever source the mod is from, by simply pressing the buttons next to it.
 
-[ATTACH type="full" alt="scthreadscreenshot.png"]2965076[/ATTACH]
+[ATTACH=full]2965076[/ATTACH]
 
 
 
-[ATTACH type="full" alt="scthreaddownload.png"]2965077[/ATTACH]
+[ATTACH=full]2965077[/ATTACH]
 
-[ATTACH type="full" alt="scthreaddivider.png"]2965078[/ATTACH]
+[ATTACH=full]2965078[/ATTACH]
 
 [SIZE=6][COLOR=rgb(184, 49, 47)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
 The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
