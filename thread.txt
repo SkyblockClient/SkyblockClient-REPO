@@ -25,25 +25,25 @@ You also won't need to install Java, as Minecraft comes with its own version by 
 [SIZE=4]SimpleToggleSprint, Scrollable Tooltips, Hypixel Autocomplete[/SIZE][/COLOR]
 
 [SIZE=6][B]GUI Mods[/B][/SIZE]
-Custom Main Menu, Smooth Scrolling Everywhere, Chatting, BetterChat, RewardClaim, Report+, Craftify
+Custom Main Menu, Smooth Scrolling Everywhere, Chatting, BetterChat, RewardClaim, Report+, Craftify, SkyClient Cosmetics
 
 [SIZE=6][B]HUD Mods[/B][/SIZE]
-VanillaHUD, EvergreenHUD, REDACTION, Keystrokes, Sound Subtitles
+VanillaHUD, EvergreenHUD, REDACTION, Keystrokes, Sound Subtitles, Craftify
 
 [SIZE=6][B]QOL Mods[/B][/SIZE]
 Popup Events, Anti Dream Skin, AutoGG, AutoTip, TNT Time, LevelHead, SkyClient Updater, Aycy Resource Pack Manager, NickHider
 
 [SIZE=6][B]Visual Mods[/B][/SIZE]
-Item Physic Lite, Blur, TimeChanger
+Item Physic Lite, Blur, TimeChanger, 3D Skin Layers
 
 [SIZE=6][B]PVP Mods[/B][/SIZE]
-Damage Tint, Particles Enhanced, BehindYouV3, Block Overlay, Hytilities Reborn
+Damage Tint, Particles Enhanced, BehindYouV3, Block Overlay, Hytilities Reborn, BetterHurtCam
 
 [SIZE=6][B]Skyblock Mods[/B][/SIZE]
 Skytils, SBA, NEU, DSM, DRM, DG, SBPersonalized, SBHud, Apec, Cowlection, SBCustomTex, Synthesis
 
 [SIZE=6][B]Miscellanious Mods[/B][/SIZE]
-ChatTriggers, It's The Little Things, OptiBye
+ChatTriggers, Twitcher, OofMod
 [/SPOILER]
 [SPOILER="Packs"]
 [SIZE=6][B]Skyblock Packs[/B][/SIZE]
@@ -98,7 +98,6 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [SPOILER="Credits"]
 [B][SIZE=6]Credits[/SIZE][/B]
-
 Forum post textures: [USER=3520533]@MotorGorilla1[/USER]
 Icon: [USER=3001877]@motion_blue[/USER]
 Design ideas: [USER=3661636]@oVinter[/USER]
@@ -118,9 +117,9 @@ java -version
 # update-alternatives --config java
 # and select java 8
 # download the installer
-curl -L -O https://github.com/koxx12-dev/Skyclient-installer-Java/releases/download/2.0.1/Skyclien.t-Universal-Installer-2.0.1.jar
+curl -L -O https://github.com/SkyblockClient/Skyclient-installer-Java/releases/download/2.0.2/Skyclient-Universal-Installer-2.0.2.jar
 # run the installer
-java -jar Skyclien.t-Universal-Installer-2.0.1.jar[/CODE]
+java -jar Skyclient-Universal-Installer-2.0.2.jar[/CODE]
 
 [/SPOILER]
 [/SPOILER]
