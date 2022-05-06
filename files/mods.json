@@ -540,6 +540,33 @@
         "hash": "f5b96b7062ebefcd62c39a1798eab219"
     },
     {
+        "id": "rawinput",
+        "hidden": true,
+        "nicknames":  [
+            "rawmouseinput"
+        ],
+        "display": "Raw Mouse Input",
+        "creator": "xCuri0, port by Mixces",
+        "discordcode": "None",
+        "command": "None",
+        "description": "Raw Mouse Input mod",
+        "icon": "mixces.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Mixces/RawInputMod"
+            }
+        ],
+        "categories": [
+            "4;All PvP"
+        ],
+        "file": "RawInput-1.1.1.jar",
+        "url": "https://github.com/Mixces/RawInputMod/releases/download/1.1.1/RawInput-1.1.1.jar",
+        "forge_id": "rawinput",
+        "hash": "34e5023c3d464e813f3756919e1c8425"
+    },
+    {
         "id": "nick_hider",
         "nicknames": [
             "nickhider"
