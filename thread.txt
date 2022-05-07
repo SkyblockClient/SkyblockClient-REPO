@@ -101,7 +101,7 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [SIZE=5]Developers[/SIZE][/B]
 
-[URL='https://github.com/koxx12-dev/']Koxx12[/URL] (SkyClient Updater Developer)
+[URL='https://github.com/koxx12-dev/']Koxx12[/URL] (SkyClient Installer Developer)
 [SIZE=4][URL='https://github.com/Wyvest']Wyvest [/URL](SkyClient Cosmetics and Updater Developer)[/SIZE]
 [URL='https://github.com/My-Name-Is-Jeff']Lily[/URL] (SkyClient Updater Developer)
 [SIZE=4][URL='https://github.com/KTibow/']KTibow[/URL] (SkyClient Installer Contributor, Bot Developer)
