@@ -945,10 +945,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "dungeonsguide-3.7.7.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.7/dungeonsguide-3.7.7.jar",
+        "file": "dungeonsguide-3.7.8.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.8/dungeonsguide-3.7.8.jar",
         "forge_id": "skyblock_dungeons_guide",
-        "hash": "bb7df7f056cfe9f3bfdb8a81bbf43613"
+        "hash": "08981e8760389c18cc11837724c8674e"
     },
     {
         "id": "drm",
