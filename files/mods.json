@@ -534,10 +534,10 @@
             "5;All PvP",
             "6;Recommended PvP"
         ],
-        "file": "BetterHurtCam-2.1.3.jar",
-        "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.3/BetterHurtCam-2.1.3.jar",
+        "file": "BetterHurtCam.v2.1.5.jar",
+        "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.5/BetterHurtCam.v2.1.5.jar",
         "forge_id": "betterhurtcam",
-        "hash": "f5b96b7062ebefcd62c39a1798eab219"
+        "hash": "33921cec5ce3d2839924b8c7241fc6db"
     },
     {
         "id": "rawinput",
