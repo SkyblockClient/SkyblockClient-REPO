@@ -517,7 +517,7 @@
         "discordcode": "woverflow",
         "command": "/betterhurtcam",
         "description": "Increase or decrease the hurtcam when hit.",
-        "icon": "wyvest.png",
+        "icon": "shceros.png",
         "actions": [
             {
                 "icon": "github.png",
