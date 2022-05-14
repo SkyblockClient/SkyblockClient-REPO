@@ -58,11 +58,10 @@ MobPacket, ActuallyPacket, Dungeons Texturepack, Compliment, ActuallyMobs, SkyMo
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]Most mods come pre-configured, so you don't have to worry about potential conflicts.[/SIZE][/COLOR][/COLOR]
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]If a mod causes issues, it will tell you when you try to enable it, but it will not stop you from installing the mod.[/SIZE][/COLOR][/COLOR]
 
-[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Update your mods and packs with very minimal effort[/B][/U][/SIZE][/COLOR]
-We know how annoying it is to check your mods and packs for updates.
-Simply click the "Update" button, and it will find your mods and packs that are outdated and update them for you!
-We also have a mod called "SkyClient Updater" that installs all the mods you have outdated as soon as you start up.
-[B][SIZE=3]DISCLAIMER: THE UPDATE FUNCTION ON THE INSTALLER DOES NOT WORK DUE TO IT BEING BROKEN. IT SHOULD BE FIXED IN A LATER UPDATE.[/SIZE][/B]
+[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Update your mods with very minimal effort[/B][/U][/SIZE][/COLOR]
+We know how annoying it is to check your mods for updates.
+Simply install SkyClient Updater and it will install all mods that are outdated for you as soon as you start up.
+[B][SIZE=3]DISCLAIMER: THE UPDATE FUNCTION ON THE INSTALLER IS DEPRECATED AND DOES NOT WORK.[/SIZE][/B]
 
 [COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Add your own mods and packs[/B][/U][/SIZE][/COLOR]
 Many people like to use things like SBE (no matter how wrong they are), and while we obviously didn't get to include it, you can still add it to your installation:
