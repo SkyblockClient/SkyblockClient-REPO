@@ -9,7 +9,6 @@ This is the result of that project. Designed to be a great alternative to client
 and have a lot of convenience for the end user.
 
 [ATTACH type="full" alt="scthreadfeaturesf.png"]2965071[/ATTACH]
-[ATTACH type="full" alt="scthreaddivider.png"]2965072[/ATTACH]
 
 [COLOR=rgb(184, 49, 47)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
 [COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
@@ -59,11 +58,10 @@ MobPacket, ActuallyPacket, Dungeons Texturepack, Compliment, ActuallyMobs, SkyMo
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]Most mods come pre-configured, so you don't have to worry about potential conflicts.[/SIZE][/COLOR][/COLOR]
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]If a mod causes issues, it will tell you when you try to enable it, but it will not stop you from installing the mod.[/SIZE][/COLOR][/COLOR]
 
-[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Update your mods and packs with very minimal effort[/B][/U][/SIZE][/COLOR]
-We know how annoying it is to check your mods and packs for updates.
-Simply click the "Update" button, and it will find your mods and packs that are outdated and update them for you!
-We also have a mod called "SkyClient Updater" that installs all the mods you have outdated as soon as you start up.
-[B][SIZE=3]DISCLAIMER: THE UPDATE FUNCTION ON THE INSTALLER DOES NOT WORK DUE TO IT BEING BROKEN. IT SHOULD BE FIXED IN A LATER UPDATE.[/SIZE][/B]
+[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Update your mods with very minimal effort[/B][/U][/SIZE][/COLOR]
+We know how annoying it is to check your mods for updates.
+Simply install SkyClient Updater and it will install all mods that are outdated for you as soon as you start up.
+[B][SIZE=3]DISCLAIMER: THE UPDATE FUNCTION ON THE INSTALLER IS DEPRECATED AND DOES NOT WORK.[/SIZE][/B]
 
 [COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Add your own mods and packs[/B][/U][/SIZE][/COLOR]
 Many people like to use things like SBE (no matter how wrong they are), and while we obviously didn't get to include it, you can still add it to your installation:
@@ -81,8 +79,6 @@ Along with that, you can easily access the Github page, website, video, or whate
 
 
 [ATTACH type="full" alt="scthreaddownload.png"]2965077[/ATTACH]
-
-[ATTACH type="full" alt="scthreaddivider.png"]2965078[/ATTACH]
 
 [SIZE=6][COLOR=rgb(184, 49, 47)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
 The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
@@ -110,9 +106,9 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [SIZE=5][B]Contributors[/B][/SIZE]
 
-[URL='https://github.com/MotorGorilla1']MotorGorilla1[/URL] (Various textures, including SkyClient Thread textures)
+[URL='https://github.com/MotorGorilla1']MotorGorilla1[/URL] (Various textures, including the old SkyClient Thread textures)
 [URL='https://hypixel.net/members/motion_blue.3001877/']motion_blue[/URL] (Original pixelated logo)
-[URL='https://zetvue.carrd.co']Zetvue[/URL] (Thread, mod requests, current logo)
+[URL='https://zetvue.carrd.co']Zetvue[/URL] (Thread rewrite & current textures, mod requests, current logo)
 [URL='https://hypixel.net/members/ovinter.3661636/']oVinter[/URL] (Design ideas)
 [URL='https://github.com/Deftu']Deftu[/URL] (SkyClient Updater Contributor)
 [URL='https://github.com/moontidez']MoonTidez[/URL] (Capes)
