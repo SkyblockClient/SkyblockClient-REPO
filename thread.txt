@@ -10,12 +10,12 @@ and have a lot of convenience for the end user.
 
 [ATTACH type="full" alt="scthreadfeaturesf.png"]2965071[/ATTACH]
 
-[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(112, 203, 68)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
 [COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
 Just choose your mods and packs, and click "Install SkyClient" to install.
 You also won't need to install Java, as Minecraft comes with its own version by default.[/SIZE][/COLOR]
 
-[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]A wide selection of mods and packs[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(112, 203, 68)][SIZE=5][U][B]A wide selection of mods and packs[/B][/U][/SIZE][/COLOR]
 [SPOILER="Mods"]
 [COLOR=rgb(0, 0, 0)][SIZE=6][B]Important Mods[/B][/SIZE]
 [SIZE=4]Optifine, Patcher, CrashPatch[/SIZE]
@@ -52,24 +52,24 @@ MobPacket, ActuallyPacket, Dungeons Texturepack, Compliment, ActuallyMobs, SkyMo
 [SIZE=4]Hypixel+, Compliance (and Compliance with a Dark UI), and Henry's 1.14 Pack.[/SIZE]
 [/SPOILER]
 
-[COLOR=rgb(184, 49, 47)][U][SIZE=5][B]Choose your mods and packs[/B][/SIZE][/U]
+[COLOR=rgb(112, 203, 68)][U][SIZE=5][B]Choose your mods and packs[/B][/SIZE][/U]
 [COLOR=rgb(0, 0, 0)][SIZE=4]You're able to choose what packs and mods you want to use. Choice, baby![/SIZE][/COLOR][/COLOR]
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]You can go completely bland with only Optifine and Patcher, or install every mod we have![/SIZE][/COLOR][/COLOR]
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]Most mods come pre-configured, so you don't have to worry about potential conflicts.[/SIZE][/COLOR][/COLOR]
 [COLOR=rgb(184, 49, 47)][COLOR=rgb(0, 0, 0)][SIZE=4]If a mod causes issues, it will tell you when you try to enable it, but it will not stop you from installing the mod.[/SIZE][/COLOR][/COLOR]
 
-[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Update your mods with very minimal effort[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(112, 203, 68)][SIZE=5][U][B]Update your mods with very minimal effort[/B][/U][/SIZE][/COLOR]
 We know how annoying it is to check your mods for updates.
 Simply install SkyClient Updater and it will install all mods that are outdated for you as soon as you start up.
 [B][SIZE=3]DISCLAIMER: THE UPDATE FUNCTION ON THE INSTALLER IS DEPRECATED AND DOES NOT WORK.[/SIZE][/B]
 
-[COLOR=rgb(184, 49, 47)][SIZE=5][U][B]Add your own mods and packs[/B][/U][/SIZE][/COLOR]
+[COLOR=rgb(112, 203, 68)][SIZE=5][U][B]Add your own mods and packs[/B][/U][/SIZE][/COLOR]
 Many people like to use things like SBE (no matter how wrong they are), and while we obviously didn't get to include it, you can still add it to your installation:
 Simply put everything in [B].minecraft/skyclient [/B]instead of [B].minecraft[/B] (or whatever custom installation you put it in),and they will work just like they did before.
 You can also access the mods folder quickly by clicking a button in the "Advanced Settings" menu.
 [B][SIZE=3]Note: You need to have SkyClient installed before you do this.[/SIZE][/B]
 
-[COLOR=rgb(184, 49, 47)][U][SIZE=5][B]Understand what your mods do and where they come from[/B][/SIZE][/U][/COLOR]
+[COLOR=rgb(112, 203, 68)][U][SIZE=5][B]Understand what your mods do and where they come from[/B][/SIZE][/U][/COLOR]
 Many people simply do not know what the mods they have installed actually do, and download them just because a YouTuber recommended them.
 That's why we've added a little guide for every single mod we include in our installer to understand if you want the features in the mod or not.
 Along with that, you can easily access the Github page, website, video, or whatever source the mod is from, by simply pressing the buttons next to it.
@@ -80,7 +80,7 @@ Along with that, you can easily access the Github page, website, video, or whate
 
 [ATTACH type="full" alt="scthreaddownload.png"]2965077[/ATTACH]
 
-[SIZE=6][COLOR=rgb(184, 49, 47)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
+[SIZE=6][COLOR=rgb(112, 203, 68)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
 The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
 It simply means it isn't a Microsoft certified program (like all other software).
 This isn't an issue for Java devs or mod makers because Windows doesn't run the Jar file. Java does.
