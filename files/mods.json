@@ -420,13 +420,13 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "CrashPatch-1.3.9.jar",
+        "file": "CrashPatch-1.4.0.jar",
         "files": [
             "W-OVERFLOW/CrashPatch/SKYCLIENT"
         ],
-        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.3.9/CrashPatch-1.3.9.jar",
+        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
         "forge_id": "crashpatch",
-        "hash": "990e7470665cba8adfd3249f5d9f72ff"
+        "hash": "d73016f46937b3d5644aae5feacf2240"
     },
     {
         "id": "hytilities-reborn",
