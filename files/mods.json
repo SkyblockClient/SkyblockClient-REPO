@@ -1019,11 +1019,11 @@
     {
         "id": "bazaarnotifier",
         "display": "BazaarNotifier",
-        "creator": "symt",
+        "creator": "meyi",
         "discordcode": "wjpJSVSwvD",
         "command": "/bazaarnotifier",
         "description": "Mod for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements.",
-        "icon": "symt.png",
+        "icon": "meyi.png",
         "actions": [
             {
                 "icon": "github.png",
