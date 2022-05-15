@@ -1017,6 +1017,29 @@
         "hash": "edec543a11bcc2a53b2fe3972b29d1fa"
     },
     {
+        "id": "bazaarnotifier",
+        "display": "BazaarNotifier",
+        "creator": "meyi",
+        "discordcode": "wjpJSVSwvD",
+        "command": "/bazaarnotifier",
+        "description": "Mod for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements.",
+        "icon": "meyi.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/symt/BazaarNotifier"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock"
+        ],
+        "file": "BazaarNotifier-1.4.11.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.4.11/BazaarNotifier-1.4.11.jar",
+        "forge_id": "BazaarNotifier",
+        "hash": "9e995e94c27364d70b9284344d7fa6be"
+    },
+    {
         "id": "timechanger",
         "display": "TimeChanger",
         "creator": "Shatterpoint",
