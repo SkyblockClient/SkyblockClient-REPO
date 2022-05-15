@@ -86,7 +86,8 @@ It simply means it isn't a Microsoft certified program (like all other software)
 This isn't an issue for Java devs or mod makers because Windows doesn't run the Jar file. Java does.
 
 [SIZE=5][U][URL='https://github.com/SkyblockClient/SkyblockClient/releases/latest']Windows Only[/URL]
-[URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal (requires Java)[/URL][/U][/SIZE]
+[URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal (requires Java)[/URL]
+[URL='https://skyclient.co/cloudclient']Web Installer (requires Chromium)[/URL][/U][/SIZE]
 
 [SIZE=6]TL;DR:[/SIZE][B][SIZE=6] Feather "Client" is now invalid.[/SIZE][/B]
 
