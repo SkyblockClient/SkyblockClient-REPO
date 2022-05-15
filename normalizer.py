@@ -19,6 +19,7 @@ for mod in all_mods:
         "icon_scaling",
         "actions",
         "categories",
+        "update_to_ids",
         "hidden",
         "file",
         "files",
