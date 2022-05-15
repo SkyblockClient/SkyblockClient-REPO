@@ -1361,10 +1361,10 @@
             }
         ],
         "hidden": true,
-        "file": "stop.jar",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/tag/v1.4.0",
+        "file": "Chatting-1.4.0.jar",
+        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.4.0/Chatting-1.4.0.jar",
         "forge_id": "chatting",
-        "hash": "fc489194ea91ad367a6223800cf1186e"
+        "hash": "72c7d797f408a75716ba603733ff5a9e"
     },
     {
         "id": "reportplus",
