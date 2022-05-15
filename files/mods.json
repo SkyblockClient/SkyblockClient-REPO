@@ -431,7 +431,6 @@
     {
         "id": "hytilities-reborn",
         "display": "Hytilities Reborn",
-        "hidden": true,
         "creator": "W-OVERFLOW",
         "discordcode": "woverflow",
         "command": "/hytilities",
@@ -452,14 +451,14 @@
         "categories": [
             "1;Recommended"
         ],
+        "update_to_ids": [
+            "hytils-reborn"
+        ],
+        "hidden": true,
         "file": "Hytilities-Reborn-1.4.1.jar",
         "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
         "forge_id": "hytilities-reborn",
-        "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268",
-        "update_to_id": "hytils-reborn",
-        "update_to_ids": [
-            "hytils-reborn"
-        ]
+        "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
     },
     {
         "id": "hytils-reborn",
@@ -1451,13 +1450,12 @@
                 "link": "https://www.youtube.com/watch?v=cn9VvT43yRs"
             }
         ],
-        "hidden": true,
-        "file": "Sidebar Mod Revamp.jar",
-        "forge_id": "sidebarmod",
-        "update_to_id": "vanillahud",
         "update_to_ids": [
             "vanillahud"
-        ]
+        ],
+        "hidden": true,
+        "file": "Sidebar Mod Revamp.jar",
+        "forge_id": "sidebarmod"
     },
     {
         "id": "vanillahud",
@@ -1488,14 +1486,14 @@
         "display": "It's The Little Things",
         "description": "",
         "icon": "skyclient.png",
+        "update_to_ids": [
+            "scc"
+        ],
         "hidden": true,
         "file": "itlt-1.8.8-9-1.0.1.jar",
         "url": "https://media.forgecdn.net/files/3330/8/itlt-1.8.8-9-1.0.1.jar",
         "forge_id": "itlt",
-        "hash": "1ef2245e9e04e7eb0b234538532c78fb",
-        "update_to_ids": [
-            "scc"
-        ]
+        "hash": "1ef2245e9e04e7eb0b234538532c78fb"
     },
     {
         "id": "redaction",
@@ -1588,15 +1586,14 @@
                 "link": "https://sk1er.club/mods/bossbar_customizer"
             }
         ],
+        "update_to_ids": [
+            "vanillahud"
+        ],
         "hidden": true,
         "file": "Bossbar Customizer-1.2.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/bossbar_customizer/1.2.1/1.8.9/Bossbar%20Customizer-1.2.1%20(1.8.9).jar",
         "forge_id": "bossbar_customizer",
-        "hash": "a95b60f1d6ef91cdffb0f05836e3b7cc",
-        "update_to_id": "vanillahud",
-        "update_to_ids": [
-            "vanillahud"
-        ]
+        "hash": "a95b60f1d6ef91cdffb0f05836e3b7cc"
     },
     {
         "id": "tnttime",
@@ -1806,15 +1803,14 @@
         "description": "Gives useful information about crashes in minecraft",
         "icon": "isxander.png",
         "icon_scaling": "pixel",
+        "update_to_ids": [
+            "crashpatch"
+        ],
         "hidden": true,
         "file": "CrashHelper-1.1.2.jar",
         "url": "https://short.isxander.dev/qKYfzc",
         "forge_id": "crashhelper",
-        "hash": "1662607fdad6fa24d7abfce4aeb3b6c9",
-        "update_to_id": "crashpatch",
-        "update_to_ids": [
-            "crashpatch"
-        ]
+        "hash": "1662607fdad6fa24d7abfce4aeb3b6c9"
     },
     {
         "id": "wyvtils",
@@ -1825,17 +1821,17 @@
         "command": "/wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
         "icon": "wyvest.png",
-        "hidden": true,
-        "file": "Wyvtils-1.8.9-2.0.0.jar",
-        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
-        "forge_id": "wyvtils",
-        "hash": "8f8dd187dea01447ef354ef0d9cd7afc",
         "update_to_ids": [
             "vanillahud",
             "redaction",
             "hytils-reborn",
             "itemphysic"
-        ]
+        ],
+        "hidden": true,
+        "file": "Wyvtils-1.8.9-2.0.0.jar",
+        "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
+        "forge_id": "wyvtils",
+        "hash": "8f8dd187dea01447ef354ef0d9cd7afc"
     },
     {
         "id": "minecraft",
