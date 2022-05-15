@@ -87,7 +87,7 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [SIZE=5][U][URL='https://github.com/SkyblockClient/SkyblockClient/releases/latest']Windows Only[/URL]
 [URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal (requires Java)[/URL]
-[URL='https://skyclient.co/cloudclient']Web Installer (requires Chromium)[/URL][/U][/SIZE]
+[URL='https://skyclient.co/cloudclient']Web Installer (requires a modern web browser)[/URL][/U][/SIZE]
 
 [SIZE=6]TL;DR:[/SIZE][B][SIZE=6] Feather "Client" is now invalid.[/SIZE][/B]
 
