@@ -452,10 +452,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "Hytilities-Reborn-1.4.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
+        "file": "Hytils-Reborn-1.5.0.jar",
+        "url": "https://github.com/W-OVERFLOW/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
         "forge_id": "hytilities-reborn",
-        "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
+        "hash": "59d055e70c270df5794686c33d09cc97"
     },
     {
         "id": "replaymod",
