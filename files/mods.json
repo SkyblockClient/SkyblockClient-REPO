@@ -431,7 +431,7 @@
     {
         "id": "hytilities-reborn",
         "display": "Hytilities Reborn",
-        "enabled": true,
+        "hidden": true,
         "creator": "W-OVERFLOW",
         "discordcode": "woverflow",
         "command": "/hytilities",
