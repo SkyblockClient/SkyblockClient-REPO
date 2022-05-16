@@ -1767,7 +1767,7 @@
     {
         "id": "pitstats",
         "nicknames": [
-            "pit",
+            "pit"
         ],
         "display": "Pit Stats",
         "creator": "mdashlw",
@@ -1796,7 +1796,7 @@
     {
         "id": "smartreply",
         "nicknames": [
-            "smart-reply",
+            "smart-reply"
         ],
         "display": "Smart Reply",
         "creator": "mdashlw",
