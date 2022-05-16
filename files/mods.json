@@ -1765,6 +1765,58 @@
         "hash": "0be55dd62501ae1355142a135f72593a"
     },
     {
+        "id": "pitstats",
+        "nicknames": [
+            "pit",
+        ],
+        "display": "Pit Stats",
+        "creator": "mdashlw",
+        "command": "pitstats",
+        "description": "Advanced Stats Viewer for The Hypixel Pit.",
+        "icon": "mdashlw.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/mdashlw/pit-stats"
+            },
+            {
+                "icon": "youtube.png",
+                "text": "Showcase",
+                "link": "https://youtu.be/RQRD0_a83fI"
+            }
+        ],
+        "hidden": true,
+        "file": "The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
+        "url": "https://github.com/mdashlw/pit-stats/releases/download/v1.5.2/The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
+        "forge_id": "pitstats",
+        "hash": "23936c569000412659b3d37e9279110d"
+    },
+    
+    {
+        "id": "smartreply",
+        "nicknames": [
+            "smart-reply",
+        ],
+        "display": "Smart Reply",
+        "creator": "mdashlw",
+        "command": "smartreply",
+        "description": "A simple mod for Hypixel Network that provides a smarter `/reply` system, so you don't accidentally message a wrong person.",
+        "icon": "mdashlw.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/mdashlw/smart-reply"
+            }
+        ],
+        "hidden": true,
+        "file": "SmartReply-1.1.0.jar",
+        "url": "https://github.com/mdashlw/smart-reply/releases/download/v1.1.0/SmartReply-1.1.0.jar",
+        "forge_id": "smartreply",
+        "hash": "3fd8e0cbf24305d13c898c6991c56db7"
+    },
+    {
         "id": "synthesis",
         "nicknames": [
             "synth"
