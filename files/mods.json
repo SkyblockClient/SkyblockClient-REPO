@@ -943,10 +943,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "1.8.9 SkyblockPersonalized 1.6.0.1.jar",
-        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.6.0.1/1.8.9.SkyblockPersonalized.1.6.0.1.jar",
+        "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar",
+        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.7.0.0/1.8.9.SkyblockPersonalized.1.7.0.0.jar",
         "forge_id": "sbp",
-        "hash": "e7c5f477bb35ea5b07a8825f85dd03ce"
+        "hash": "69afa1544e61982922af643d5ea99df0"
     },
     {
         "id": "dg",
