@@ -392,10 +392,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "Patcher-1.8.1 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.1/1.8.9/Patcher-1.8.1%20(1.8.9).jar",
+        "file": "Patcher-1.8.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.2/1.8.9/Patcher-1.8.2 (1.8.9).jar",
         "forge_id": "patcher",
-        "hash": "d9fb141ffea188a09f1ddd62eb7e7976"
+        "hash": "89194ba6d62b878199a9bda42e1d0294"
     },
     {
         "id": "crashpatch",
