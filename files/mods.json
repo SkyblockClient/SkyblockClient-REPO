@@ -1041,14 +1041,14 @@
     },
     {
         "id": "oam",
-        "enabled": false,
+        "enabled": true,
         "nicknames": [
             "sk1eroam"
         ],
-        "display": "Sk1er Old Animations",
-        "creator": "Sk1erLLC",
+        "display": "Old Animations",
+        "creator": "Sk1erLLC & W-OVERFLOW",
         "command": "/oldanimations",
-        "description": ">1.7 Sword Animations",
+        "description": "1.7 Animations, in 1.8.9.",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
         "categories": [
@@ -1064,7 +1064,10 @@
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
         "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
         "forge_id": "sk1er_old_animations",
-        "hash": "29f27f7c447af3cbfce724411a649240"
+        "hash": "29f27f7c447af3cbfce724411a649240",
+        "packages": [
+            "overflowanimations"
+        ]
     },
     {
         "id": "timechanger",
@@ -1883,6 +1886,19 @@
         "file": "Hychat-1.12.2-BETA.jar",
         "forge_id": "hychat",
         "hash": "4a5124a8b6ca2b0feb453117292587cd"
+    },
+    {
+        "id": "overflowanimations",
+        "display": "Overflow Animations",
+        "creator": "W-OVERFLOW",
+        "discordcode": "overflowanimations",
+        "command": "/overflowanimations",
+        "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
+        "hidden": true,
+        "file": "OverflowAnimations-1.0.0.jar",
+        "url": "https://github.com/W-OVERFLOW/OverflowAnimations/releases/download/v1.0.0/OverflowAnimations-1.0.0.jar",
+        "forge_id": "overflowanimations",
+        "hash": "d361f417dffd57443eec40d9bce91936"
     },
     {
         "id": "reauth",
