@@ -1041,15 +1041,19 @@
     },
     {
         "id": "oam",
+        "enabled": true,
         "nicknames": [
             "sk1eroam"
         ],
         "display": "Sk1er Old Animations",
         "creator": "Sk1erLLC",
-        "command": "None",
+        "command": "/oldanimations",
         "description": ">1.7 Sword Animations",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
+        "categories": [
+            "1;Recommended"
+        ],
         "actions": [
             {
                 "icon": "discord.png",
