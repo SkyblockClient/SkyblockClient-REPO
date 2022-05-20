@@ -1041,7 +1041,7 @@
     },
     {
         "id": "oam",
-        "enabled": true,
+        "enabled": false,
         "nicknames": [
             "sk1eroam"
         ],
