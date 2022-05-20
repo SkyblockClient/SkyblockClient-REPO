@@ -1040,6 +1040,26 @@
         "hash": "9e995e94c27364d70b9284344d7fa6be"
     },
     {
+        "id": "sk1eroam",
+        "display": "Sk1er Old Animations",
+        "creator": "Sk1erLLC",
+        "command": "None",
+        "description": ">1.7 Sword Animations",
+        "icon": "sk1er.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "icon": "discord.png",
+                "text": "Discord",
+                "link": "discord.gg/sk1er"
+            }
+        ],
+        "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
+        "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
+        "forge_id": "sk1er_old_animations",
+        "hash": "29f27f7c447af3cbfce724411a649240"
+    },
+    {
         "id": "timechanger",
         "display": "TimeChanger",
         "creator": "Shatterpoint",
