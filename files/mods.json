@@ -1040,7 +1040,10 @@
         "hash": "9e995e94c27364d70b9284344d7fa6be"
     },
     {
-        "id": "sk1eroam",
+        "id": "oam",
+        "nicknames": [
+            "sk1eroam"
+        ],
         "display": "Sk1er Old Animations",
         "creator": "Sk1erLLC",
         "command": "None",
