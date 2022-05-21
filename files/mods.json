@@ -303,10 +303,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "SkyblockClient-Updater-1.2.2.jar",
-        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.2/SkyblockClient-Updater-1.2.2.jar",
+        "file": "SkyblockClient-Updater-1.2.3.jar",
+        "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.2.3/SkyblockClient-Updater-1.2.3.jar",
         "forge_id": "skyblockclientupdater",
-        "hash": "8c5bd00e4e7ed8f354446566065a1d2a"
+        "hash": "0b6a03befadfa66b5d5ec78e89cb0f75"
     },
     {
         "id": "scc",
