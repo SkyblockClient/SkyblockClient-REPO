@@ -573,7 +573,7 @@
     },
     {
         "id": "sakamata",
-        "file": "! §c§lsaka§4§lmata §8[§f16x§8].zip",
+        "file": "! clsaka4lmata 8[f16x8].zip",
         "display": "Sakamata 16x",
         "description": "One of the many 16x texture packs by zshyne. Note that this variant is the original variant featuring a distinct night sky, unlike its \"non weeb\" counterpart.",
         "icon": "sakamata.png",
@@ -602,7 +602,7 @@
     },
     {
         "id": "sakamatanonweeb",
-        "file": "! §c§lsaka§4§lmata §8[§f16x§8] (non weeb).zip",
+        "file": "! clsaka4lmata 8[f16x8] (non weeb).zip",
         "display": "Sakamata 16x (non weeb)",
         "description": "One of the many 16x texture packs by zshyne. Note that this variant's night sky does not feature any specific characters, as its name suggests.",
         "icon": "sakamata.png",
