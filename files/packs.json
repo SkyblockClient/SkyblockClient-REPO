@@ -578,6 +578,7 @@
         "description": "One of the many 16x texture packs by zshyne. Note that this variant is the original variant featuring a distinct night sky, unlike its \"non weeb\" counterpart.",
         "icon": "sakamata.png",
         "creator": "zshyne",
+        "discordcode": "fktzQa2qQ7",
         "categories": [
             "3;All PvP"
         ],
@@ -587,11 +588,6 @@
                 "icon": "zshyne.png",
                 "text": "PVPRP Profile",
                 "link": "https://pvprp.com/profile/Zshyne"
-            },
-            {
-                "icon": "discord.png",
-                "text": "Discord",
-                "link": "https://discord.gg/fktzQa2qQ7"
             },
             {
                 "text": "YouTube",
@@ -611,6 +607,7 @@
         "description": "One of the many 16x texture packs by zshyne. Note that this variant's night sky does not feature any specific characters, as its name suggests.",
         "icon": "sakamata.png",
         "creator": "zshyne",
+        "discordcode": "fktzQa2qQ7",
         "categories": [
             "3;All PvP"
         ],
@@ -620,11 +617,6 @@
                 "icon": "zshyne.png",
                 "text": "PVPRP Profile",
                 "link": "https://pvprp.com/profile/Zshyne"
-            },
-            {
-                "icon": "discord.png",
-                "text": "Discord",
-                "link": "https://discord.gg/fktzQa2qQ7"
             },
             {
                 "text": "YouTube",
