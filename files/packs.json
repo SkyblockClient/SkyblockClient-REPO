@@ -573,16 +573,11 @@
     },
     {
         "id": "sakamata",
-        "file": "! clsaka4lmata 8[f16x8].zip",
-        "display": "Sakamata 16x",
-        "description": "One of the many 16x texture packs by zshyne. Note that this variant is the original variant featuring a distinct night sky, unlike its \"non weeb\" counterpart.",
-        "icon": "sakamata.png",
+        "display": "Sakamata 16x (weeb night sky)",
         "creator": "zshyne",
         "discordcode": "fktzQa2qQ7",
-        "categories": [
-            "3;All PvP"
-        ],
-        "hidden": false,
+        "description": "One of the many 16x texture packs by zshyne. Note that this variant is the original variant featuring a distinct night sky, unlike its \"non weeb\" counterpart.",
+        "icon": "sakamata.png",
         "actions": [
             {
                 "icon": "zshyne.png",
@@ -598,20 +593,20 @@
                 "link": "https://twitter.com/whoszshyne"
             }
         ],
+        "categories": [
+            "3;All PvP"
+        ],
+        "url": "https://pvprp.com/assets/packs/Zshyne/7549/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78].zip",
+        "file": "sakamata [16x].zip",
         "hash": "20108e101f5f1d4d7e78b8054472d5b9"
     },
     {
         "id": "sakamatanonweeb",
-        "file": "! clsaka4lmata 8[f16x8] (non weeb).zip",
-        "display": "Sakamata 16x (non weeb)",
-        "description": "One of the many 16x texture packs by zshyne. Note that this variant's night sky does not feature any specific characters, as its name suggests.",
-        "icon": "sakamata.png",
+        "display": "Sakamata 16x (non weeb night sky)",
         "creator": "zshyne",
         "discordcode": "fktzQa2qQ7",
-        "categories": [
-            "3;All PvP"
-        ],
-        "hidden": false,
+        "description": "One of the many 16x texture packs by zshyne. Note that this variant's night sky does not feature any fictional characters.",
+        "icon": "sakamata.png",
         "actions": [
             {
                 "icon": "zshyne.png",
@@ -627,6 +622,11 @@
                 "link": "https://twitter.com/whoszshyne"
             }
         ],
+        "categories": [
+            "3;All PvP"
+        ],
+        "url": "https://pvprp.com/assets/packs/Zshyne/7550/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78]%20(non%20weeb).zip",
+        "file": "sakamata [16x] (non weeb).zip",
         "hash": "125d3884c4f1d54463e480481913cefd"
     }
 ]
