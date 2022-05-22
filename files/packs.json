@@ -554,111 +554,98 @@
         "creator": "Compliance Team",
         "description": "Compliance 1.8.9.",
         "icon": "compliance team logo.png",
-        "actions": [
-            {
-                "icon": "compliance team logo.png",
-                "text": "Website",
-                "link": "https://compliancepack.net/"
-            }
-        ],
-        "categories": [
-            "3;All PvP"
-        ],
-        "hidden": false,
-        "file": "Compliance-32x-1.8.9.zip",
-        "hash": "ee7b9c4c942fe277c2d3d18530d9e99d"
-    },
-    {
-        "id": "fishfault",
-        "display": "FishFault",
-        "creator": "Sean0806",
-        "discordcode": "e4Nm95u9ys",
-        "description": "A PvP pack with a collection of textures from various packs.",
-        "icon": "fishfault.png",
-        "icon_scaling": "pixel",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/fishfault.md"
-            }
-        ],
-        "categories": [
-            "3;All PvP"
-        ],
-        "file": "FishFault.zip",
-        "url": "https://github.com/Sean2739/Fishfault/releases/download/3.0.1/FishFault.zip",
-        "hash": "3d18da8f7df7d1feae62e27058aad760"
-    },
-    {
-        "id": "beheaded",
-        "display": "Beheaded",
-        "creator": "Motor",
-        "discordcode": "uxmruk7rtp",
-        "description": "Replaces Skyblock items represented by heads with vanilla item counterparts.",
-        "icon": "beheaded.png",
-        "actions": [
-            {
-                "icon": "forum.png",
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/v1-0-beheaded-skyblock-skulls-to-minecraft-items.4956456/"
-            }
-        ],
-        "categories": [
-            "1;All Skyblock"
-        ],
-        "file": "Beheaded.zip",
-        "hash": "a977364cf8b42ecacf792ddbab1c57f7"
-    },
-    {
-        "id": "sakamata_weeb",
-        "display": "Sakamata (weeb sky version)",
-        "creator": "zshyne",
-        "discordcode": "kZnYxCMjuJ",
-        "description": "[WIP]",
-        "icon": "zshyne.jpg",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "YouTube",
-                "link": "https://www.youtube.com/watch?v=Zx35OqumEp4"
-            },
-            {
-                "icon": "twitter.png",
-                "text": "Twitter",
-                "link": "https://twitter.com/whoszshyne"
-            }
-        ],
-        "categories": [
-            "3;All PvP"
-        ],
-        "url": "https://pvprp.com/assets/packs/Zshyne/7549/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78].zip",
-        "file": "sakamata [16x].zip",
-        "hash": "20108e101f5f1d4d7e78b8054472d5b9"
-    },
-    {
-        "id": "sakamata_noweeb",
-        "display": "Sakamata (normal sky version)",
-        "creator": "zshyne",
-        "discordcode": "kZnYxCMjuJ",
-        "description": "[WIP]",
-        "icon": "zshyne.jpg",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "YouTube",
-                "link": "https://www.youtube.com/watch?v=Zx35OqumEp4"
-            },
-            {
-                "icon": "twitter.png",
-                "text": "Twitter",
-                "link": "https://twitter.com/whoszshyne"
-            }
-        ],
-        "categories": [
-            "3;All PvP"
-        ],
-        "url": "https://pvprp.com/assets/packs/Zshyne/7550/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78]%20(non%20weeb).zip",
-        "file": "sakamata [16x] (non weeb).zip",
-        "hash": "125d3884c4f1d54463e480481913cefd"
-    }
+        "text": "Website",
+        "link": "https://compliancepack.net/"
+      }
+    ],
+    "categories": ["3;All PvP"],
+    "hidden": false,
+    "file": "Compliance-32x-1.8.9.zip",
+    "hash": "ee7b9c4c942fe277c2d3d18530d9e99d"
+  },
+  {
+    "id": "fishfault",
+    "display": "FishFault",
+    "creator": "Sean0806",
+    "discordcode": "e4Nm95u9ys",
+    "description": "A PvP pack with a collection of textures from various packs.",
+    "icon": "fishfault.png",
+    "icon_scaling": "pixel",
+    "actions": [
+      {
+        "method": "hover",
+        "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/fishfault.md"
+      }
+    ],
+    "categories": ["3;All PvP"],
+    "file": "FishFault.zip",
+    "url": "https://github.com/Sean2739/Fishfault/releases/download/3.0.1/FishFault.zip",
+    "hash": "3d18da8f7df7d1feae62e27058aad760"
+  },
+  {
+    "id": "beheaded",
+    "display": "Beheaded",
+    "creator": "Motor",
+    "discordcode": "uxmruk7rtp",
+    "description": "Replaces Skyblock items represented by heads with vanilla item counterparts.",
+    "icon": "beheaded.png",
+    "actions": [
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/v1-0-beheaded-skyblock-skulls-to-minecraft-items.4956456/"
+      }
+    ],
+    "categories": ["1;All Skyblock"],
+    "file": "Beheaded.zip",
+    "hash": "a977364cf8b42ecacf792ddbab1c57f7"
+  },
+  {
+    "id": "sakamata_weeb",
+    "display": "Sakamata 16x (weeb sky version)",
+    "creator": "zshyne",
+    "discordcode": "kZnYxCMjuJ",
+    "description": "One of the many 16x texture packs by zshyne. Note that this version features a distinct character in the night sky.",
+    "icon": "sakamata.png",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "YouTube",
+        "link": "https://www.youtube.com/watch?v=Zx35OqumEp4"
+      },
+      {
+        "icon": "twitter.png",
+        "text": "Twitter",
+        "link": "https://twitter.com/whoszshyne"
+      }
+    ],
+    "categories": ["3;All PvP"],
+    "url": "https://pvprp.com/assets/packs/Zshyne/7549/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78].zip",
+    "file": "sakamata [16x].zip",
+    "hash": "20108e101f5f1d4d7e78b8054472d5b9"
+  },
+  {
+    "id": "sakamata_noweeb",
+    "display": "Sakamata 16x (normal sky version)",
+    "creator": "zshyne",
+    "discordcode": "kZnYxCMjuJ",
+    "description": "One of the many 16x texture packs by zshyne. Note that this version has a plain night sky.",
+    "icon": "sakamata.png",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "YouTube",
+        "link": "https://www.youtube.com/watch?v=Zx35OqumEp4"
+      },
+      {
+        "icon": "twitter.png",
+        "text": "Twitter",
+        "link": "https://twitter.com/whoszshyne"
+      }
+    ],
+    "categories": ["3;All PvP"],
+    "url": "https://pvprp.com/assets/packs/Zshyne/7550/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78]%20(non%20weeb).zip",
+    "file": "sakamata [16x] (non weeb).zip",
+    "hash": "125d3884c4f1d54463e480481913cefd"
+  }
 ]
