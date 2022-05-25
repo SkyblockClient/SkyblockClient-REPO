@@ -1236,6 +1236,10 @@
                 "link": "https://imgur.com/EmSEKFu"
             }
         ],
+        "config": true,
+        "files": [
+            "config/blur.cfg"
+        ],
         "file": "Blur-MC1.8.9-1.0.4-2.jar",
         "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
         "forge_id": "blur",
