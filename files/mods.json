@@ -1141,6 +1141,39 @@
         "hash": "a33703e7a95ff781748daeaca9ea911a"
     },
     {
+        "id": "wavey_capes",
+        "nicknames": [
+            "waveycapes"
+        ],
+        "display": "Wavey Capes",
+        "creator": "tr7zw",
+        "discordcode": "RzRZVV8aQd",
+        "command": "Access config via mod list",
+        "description": "Makes the cape wavey, similar to the Lunar Client cloth capes. The cape shouldn't be a static slab.",
+        "icon": "waveycapes.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/tr7zw/waveycapes"
+            },
+            {
+                "icon": "discord icon.png",
+                "text": "Discord",
+                "link": "https://discord.gg/RzRZVV8aQd"
+            },
+            {
+                "icon": "curseforge.png",
+                "text": "CurseForge",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/waveycapes"
+            }
+        ],
+        "file": "waveycapes-forge-mc1.8.9-1.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/1.2.0-forge-1.8/waveycapes-forge-mc1.8.9-1.2.0.jar",
+        "forge_id": "waveycapes",
+        "hash": "c9c27bf437c0b6e6f30a3ababcabf61c"
+    },
+    {
         "id": "twitcher",
         "nicknames": [
             "twitcher"
