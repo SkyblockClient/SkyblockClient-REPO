@@ -201,7 +201,7 @@
                 "anim"
             ]
         ],
-        "response": "Use sk1ers old animations https://sk1er.club/beta"
+        "response": "Use sk1ers old animations, as it's the one of the best *(if not best)* mod for 1.7 animations.\nAfter joining head to <#958820675106267207> to get access, and then head to <#958820495631999046> to find the installation for the 1.7 animations mod.  *the channels should show up as `#deleted-channel` if you're not in the server* \n discord.gg/sk1er"
     },
     {
         "triggers": [
@@ -240,5 +240,79 @@
             ]
         ],
         "response": "The old launcher can be installed from here: \n<https://launcher.mojang.com/download/MinecraftInstaller.msi>"
+    },
+    {
+        "triggers": [
+            [
+                "low",
+                "terrible",
+                "bad"
+            ],
+            [
+                "dungeon"
+            ],
+            [
+                "fps",
+                "lag",
+                "freeze"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
+    },
+    {
+        "triggers": [
+            [
+                "low",
+                "terrible",
+                "bad"
+            ],
+            [
+                "fps",
+                "lag",
+                "freeze"
+            ],
+            [
+                "dungeon"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
+    },
+    {
+        "triggers": [
+            [
+                "dungeon"
+            ],
+            [
+                "fps",
+                "lag",
+                "freeze"
+            ],
+            [
+                "drop",
+                "die",
+                "low",
+                "bad"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
+    },
+    {
+        "triggers": [
+            [
+                "fps",
+                "lag",
+                "freeze"
+            ],
+            [
+                "drop",
+                "die",
+                "low",
+                "bad"
+            ],
+            [
+                "dungeon"
+            ]
+        ],
+        "response": "To fix low dungeon FPS:\n1. Make sure you don't have the mod SBCustomMobTex installed.\n2. Disable the dungeon map in `/neumap`. If you still want a dungeon map, use the one from `/skytils` > Dungeons > Dungeon Map.\n3. Please make a ticket in <#931624995522773032>, instead of asking for help in general chat."
     }
 ]
