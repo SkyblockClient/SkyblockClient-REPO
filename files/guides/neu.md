@@ -4,6 +4,9 @@ https://github.com/Moulberry/NotEnoughUpdates/releases
 #### Discord
 https://discord.gg/moulberry
 
+### Fairy Soul Waypoints 
+## /neusouls on/off
+
 # Not Enough Updates - How do I use it?
 
 The main command is 
