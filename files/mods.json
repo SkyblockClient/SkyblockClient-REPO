@@ -987,7 +987,9 @@
     {
         "id": "drm",
         "nicknames": [
-            "dungeonrooms"
+            "dungeonrooms",
+            "dr",
+            "digitalrightsmanagement"
         ],
         "display": "Dungeon Rooms",
         "creator": "_risk",
