@@ -1602,13 +1602,13 @@
             }
         ],
         "hidden": true,
-        "file": "REDACTION-1.3.1.jar",
+        "file": "REDACTION-1.3.2.jar",
         "files": [
             "W-OVERFLOW/REDACTION/redaction.toml"
         ],
-        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.3.1/REDACTION-1.3.1.jar",
+        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.3.2/REDACTION-1.3.2.jar",
         "forge_id": "redaction",
-        "hash": "81fa9006845364080575649c2e7b8ce7"
+        "hash": "a9b582204711f046356ab060130453ae"
     },
     {
         "id": "behindyouv3",
