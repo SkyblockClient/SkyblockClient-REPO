@@ -1932,10 +1932,10 @@
         "command": "/overflowanimations",
         "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
         "hidden": true,
-        "file": "OverflowAnimations-1.0.0.jar",
-        "url": "https://github.com/W-OVERFLOW/OverflowAnimations/releases/download/v1.0.0/OverflowAnimations-1.0.0.jar",
+        "file": "OverflowAnimations-1.1.0.jar",
+        "url": "https://github.com/W-OVERFLOW/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
         "forge_id": "overflowanimations",
-        "hash": "d361f417dffd57443eec40d9bce91936"
+        "hash": "cdce7e1ee42770bc66153ee6abc70787"
     },
     {
         "id": "reauth",
