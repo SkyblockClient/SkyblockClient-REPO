@@ -5,6 +5,7 @@
         "creator": "Viska & Mira_23",
         "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
         "icon": "mob packet.png",
+        "screenshot": "https://i.imgur.com/k2c3s2Cm.png",
         "actions": [
             {
                 "method": "hover",
@@ -21,21 +22,6 @@
         ],
         "file": "Mob Packet 1.8.9 1.4.zip",
         "hash": "8569e9a4a5a30f760af6f8f4b9f07076"
-    },
-    {
-        "id": "actuallymobpacket",
-        "display": "ActuallyPacket v0.1",
-        "creator": "Motor",
-        "discordcode": "ABHrh6K3Fh",
-        "description": "Branch of Mob Packet with ActuallyMobs textures.",
-        "icon": "actuallyassets.png",
-        "icon_scaling": "pixel",
-        "categories": [
-            "1;All Skyblock"
-        ],
-        "hidden": true,
-        "file": "ActuallyPacketsv0.1.zip",
-        "hash": "fbe0a40d899774d772d8fc2cbfa7a689"
     },
     {
         "id": "dungeontexturepack",
@@ -90,26 +76,6 @@
         "hash": "6b596189f5a103488b5cfc4014eb0a73"
     },
     {
-        "id": "skymobs",
-        "display": "SkyMobs",
-        "creator": "TBlazeWarrior & Moulberry",
-        "description": "Resource Pack for the SBCustomMobTex Mod.",
-        "icon": "skymobs.png",
-        "icon_scaling": "pixel",
-        "actions": [
-            {
-                "text": "Github",
-                "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
-            }
-        ],
-        "categories": [
-            "1;All Skyblock"
-        ],
-        "hidden": true,
-        "file": "SkyMobs.zip",
-        "hash": "f226121d849d529fd2c23c47dd9b552b"
-    },
-    {
         "id": "dwarvenassets",
         "display": "DwarvenAssets",
         "creator": "Motor & nacrt",
@@ -134,29 +100,6 @@
         "file": "DwarvenAssets v1.1.zip",
         "url": "https://github.com/ActuallyAssets/DwarvenAssets/releases/download/1.1/DwarvenAssets_v1.1.zip",
         "hash": "89355bc55119a70097a026baa0a12022"
-    },
-    {
-        "id": "vtay",
-        "display": "vTay's Skyblock Smoothie 16x",
-        "creator": "vTay",
-        "description": "vTays's mix of different Skyblock packs. In vTays' terms, \"A refreshing taste of Skyblock texture packs\"",
-        "icon": "vtays.png",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
-            },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3178679/"
-            }
-        ],
-        "categories": [
-            "1;All Skyblock"
-        ],
-        "hidden": true,
-        "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
-        "hash": "b97a95945cae94cdddb24e3c4a1a41f6"
     },
     {
         "id": "xcyni",
@@ -563,7 +506,6 @@
         "categories": [
             "3;All PvP"
         ],
-        "hidden": false,
         "file": "Compliance-32x-1.8.9.zip",
         "hash": "ee7b9c4c942fe277c2d3d18530d9e99d"
     },
@@ -667,5 +609,63 @@
         "url": "https://pvprp.com/assets/packs/Zshyne/7550/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78]%20(non%20weeb).zip",
         "file": "sakamata [16x] (non weeb).zip",
         "hash": "125d3884c4f1d54463e480481913cefd"
+    },
+    {
+        "id": "actuallymobpacket",
+        "display": "ActuallyPacket v0.1",
+        "creator": "Motor",
+        "discordcode": "ABHrh6K3Fh",
+        "description": "Branch of Mob Packet with ActuallyMobs textures.",
+        "icon": "actuallyassets.png",
+        "icon_scaling": "pixel",
+        "categories": [
+            "1;All Skyblock"
+        ],
+        "hidden": true,
+        "file": "ActuallyPacketsv0.1.zip",
+        "hash": "fbe0a40d899774d772d8fc2cbfa7a689"
+    },
+    {
+        "id": "skymobs",
+        "display": "SkyMobs",
+        "creator": "TBlazeWarrior & Moulberry",
+        "description": "Resource Pack for the SBCustomMobTex Mod.",
+        "icon": "skymobs.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "text": "Github",
+                "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
+            }
+        ],
+        "categories": [
+            "1;All Skyblock"
+        ],
+        "hidden": true,
+        "file": "SkyMobs.zip",
+        "hash": "f226121d849d529fd2c23c47dd9b552b"
+    },
+    {
+        "id": "vtay",
+        "display": "vTay's Skyblock Smoothie 16x",
+        "creator": "vTay",
+        "description": "vTays's mix of different Skyblock packs. In vTays' terms, \"A refreshing taste of Skyblock texture packs\"",
+        "icon": "vtays.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
+            },
+            {
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3178679/"
+            }
+        ],
+        "categories": [
+            "1;All Skyblock"
+        ],
+        "hidden": true,
+        "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
+        "hash": "b97a95945cae94cdddb24e3c4a1a41f6"
     }
 ]
