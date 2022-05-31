@@ -1044,7 +1044,14 @@
         "id": "oam",
         "enabled": true,
         "nicknames": [
-            "sk1eroam"
+            "sk1eroam",
+            "oldanimations",
+            "oldanims",
+            "1.7anims",
+            "1.7 anims",
+            "1.7 animations",
+            "old animations",
+            "animations"
         ],
         "display": "Old Animations",
         "creator": "Sk1erLLC & W-OVERFLOW",
