@@ -330,10 +330,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "SkyClientCosmetics-1.1.8.jar",
-        "url": "https://cdn.discordapp.com/attachments/887818760126345246/980951683192459364/SkyClientCosmetics-1.1.8.jar",
+        "file": "SkyClientCosmetics-1.1.9.jar",
+        "url": "https://cdn.discordapp.com/attachments/887818760126345246/981613450511908954/SkyClientCosmetics-1.1.9.jar",
         "forge_id": "skyclientcosmetics",
-        "hash": "7333cb92a6e7713512b669b6ffc6b0fa"
+        "hash": "15291770846e034ff5958008646317ab"
     },
     {
         "id": "optifine",
