@@ -434,7 +434,7 @@
         "creator": "W-OVERFLOW",
         "discordcode": "ekmdrVDQXC",
         "command": "/hytilities",
-        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!\n***Note: please see Hytils Reborn by W-OVERFLOW for a more up-to-date version instead by running `-mod hytils`.***",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -462,6 +462,14 @@
     },
     {
         "id": "hytils-reborn",
+        "nicknames": [
+            "hytils",
+            "hytils reborn",
+            "hytilsreborn",
+            "hytilitiesreborn",
+            "hytilities reborn",
+            "hytilities"
+        ],
         "display": "Hytils Reborn",
         "enabled": true,
         "creator": "W-OVERFLOW",
