@@ -1981,6 +1981,26 @@
         "hash": "1662607fdad6fa24d7abfce4aeb3b6c9"
     },
     {
+        "id": "arrowpath",
+        "display": "Arrow Path",
+        "creator": "Aycy",
+        "description": "Visual trajectory of arrows.",
+        "icon": "aycy.jpg",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Showcase",
+                "link": "https://www.youtube.com/watch?v=f3iP-lzobxk"
+            }
+        ],
+        "categories": [
+            "5;All PvP"
+        ],
+        "file": "ArrowPath-v1.0.jar",
+        "forge_id": "arrowpath",
+        "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
+    },
+    {
         "id": "wyvtils",
         "display": "Wyvtils",
         "enabled": false,
