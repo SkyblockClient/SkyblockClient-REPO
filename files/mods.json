@@ -1994,8 +1994,7 @@
             }
         ],
         "categories": [
-            "5;All PvP",
-            "6;Recommended PvP"
+            "5;All PvP"
         ],
         "file": "ArrowPath-v1.0.jar",
         "forge_id": "arrowpath",
