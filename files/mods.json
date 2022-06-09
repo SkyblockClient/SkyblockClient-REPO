@@ -688,6 +688,7 @@
         "display": "SkyblockHUD",
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
+        "command": "/sbh",
         "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
         "icon": "sbhlogo.png",
         "actions": [
