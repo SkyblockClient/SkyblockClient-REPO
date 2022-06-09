@@ -741,13 +741,13 @@
             "2;All Skyblock",
             "4;Recommended Skyblock"
         ],
-        "file": "NotEnoughUpdates-2.0.0.jar",
+        "file": "NotEnoughUpdates-2.1-Systemless.jar",
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "url": "https://github.com/Moulberry/NotEnoughUpdates/releases/download/2.0.0/NotEnoughUpdates-2.0.0.jar",
+        "url": "https://cdn.discordapp.com/attachments/837679819487313971/972282770019721316/NotEnoughUpdates-2.1-Systemless.jar",
         "forge_id": "notenoughupdates",
-        "hash": "a18ffe0a2a911d849aefb86d9c9227ef"
+        "hash": "b75bc712f6e85d8d86b7402bc761d8fc"
     },
     {
         "id": "dsm",
