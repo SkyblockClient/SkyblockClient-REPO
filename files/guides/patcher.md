@@ -8,7 +8,7 @@ https://discord.gg/sk1er
 
 # Patcher - How do I use it?
 
-The main commands for patcher is:
+The main command for patcher is:
 > /patcher
 
 The other commands for patcher are:
