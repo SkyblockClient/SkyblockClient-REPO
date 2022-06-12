@@ -52,7 +52,7 @@
                 "log4"
             ]
         ],
-        "response": "The Log4j exploit never affected 1.8.9\nPlease read <#843909942658596874> for more info."
+        "response": "The Log4j exploit never affected 1.8.9\nPlease read https://discord.com/channels/780181693100982273/843909942658596874/918665205339291669 in <#843909942658596874> for more info."
     },
     {
         "triggers": [
