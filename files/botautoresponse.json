@@ -71,19 +71,6 @@
     {
         "triggers": [
             [
-                "griffin",
-                "diana"
-            ],
-            [
-                "burrow",
-                "event"
-            ]
-        ],
-        "response": "https://youtu.be/9im-NYGcwDM"
-    },
-    {
-        "triggers": [
-            [
                 "perspective mod"
             ]
         ],
