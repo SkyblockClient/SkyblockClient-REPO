@@ -1,5 +1,13 @@
 [
     {
+        "id": "synth",
+        "code": "vAUuKSwbp6",
+        "fancyname": "Synthesis",
+        "nicknames": [
+            "synthesis"
+        ]
+    },
+    {
         "id": "ctjs",
         "code": "chattriggers",
         "fancyname": "Chat Triggers",
