@@ -241,7 +241,7 @@
                 "launcher"
             ]
         ],
-        "response": "The old launcher can be installed from here:\n<https://launcher.mojang.com/download/MinecraftInstaller.msi>\__If you don't use Microsoft Windows, this message does not apply to you as `.msi` files cannot be opened outside of Microsoft Windows.__"
+        "response": "The old launcher can be installed from here:\n<https://launcher.mojang.com/download/MinecraftInstaller.msi>\n__If you don't use Microsoft Windows, this message does not apply to you as `.msi` files cannot be opened outside of Microsoft Windows.__"
     },
     {
         "triggers": [
