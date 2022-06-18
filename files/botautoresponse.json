@@ -19,7 +19,7 @@
                 "session"
             ]
         ],
-        "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojangs side of things.**"
+        "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojang's side of things.**"
     },
     {
         "triggers": [
@@ -219,6 +219,21 @@
     {
         "triggers": [
             [
+                "griffin",
+                "grifin",
+                "diana",
+                "diane"
+            ],
+            [
+                "burro",
+                "event"
+            ]
+        ],
+        "response": "Hypixel has removed the locations of Griffin Burrows from the public API. As such, any and all mods that formerly touted features of finding Griffin Burrows via an API search (Skytils most significantly) no longer does so, and any mods that claim to do so (regardless of distribution method) should be considered too good to be true until Griffin Burrows locations are confirmed to return to the public Hypixel API.\n\nIn the meantime, you can enable Skytils' Griffin Burrows ***particle-based*** waypoints via `/st config`."
+    },
+    {
+        "triggers": [
+            [
                 "old",
                 "outdated"
             ],
@@ -226,7 +241,7 @@
                 "launcher"
             ]
         ],
-        "response": "The old launcher can be installed from here: \n<https://launcher.mojang.com/download/MinecraftInstaller.msi>"
+        "response": "The old launcher can be installed from here:\n<https://launcher.mojang.com/download/MinecraftInstaller.msi>\n__If you don't use Microsoft Windows, this message does not apply to you as `.msi` files cannot be opened outside of Microsoft Windows.__"
     },
     {
         "triggers": [
