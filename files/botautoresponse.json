@@ -66,7 +66,20 @@
                 "coin"
             ]
         ],
-        "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins."
+        "response": "NotEnoughCoins will ***never*** be added to SkyClient.\n__We will also not provide any support for NotEnoughCoins.__\n\nThe same applies for other Forge mods that either accomplishes a task along the veins of auction house flipping __and/or__ has premium subscriptions on the side (such as SkyHouse, Aspect of the Flipper, and SimpleSnipes).\nAuction house flipping mods also tend to be prime opportunities for belligerents to include their own malicious code inside modified versions of those mods for subsequent distribution."
+    },
+    {
+        "triggers": [
+            [
+                "auction",
+                "house",
+                "ah"
+            ],
+            [
+                "flip"
+            ]
+        ],
+        "response": "Forge mods that either accomplishes a task along the veins of auction house flipping __and/or__ has premium subscriptions on the side (such as SkyHouse, Aspect of the Flipper, and SimpleSnipes) will ***never*** be added to SkyClient.\nAuction house flipping mods also tend to be prime opportunities for belligerents to include their own malicious code inside modified versions of those mods for subsequent distribution."
     },
     {
         "triggers": [
@@ -75,6 +88,14 @@
             ]
         ],
         "response": "**PERSPECTIVE MOD IS CURRENTLY BANNABLE IN HYPIXEL!**"
+    },
+    {
+        "triggers": [
+            [
+                "freelo"
+            ]
+        ],
+        "response": "**FREELOOK IS CURRENTLY BANNABLE IN HYPIXEL!**"
     },
     {
         "triggers": [
