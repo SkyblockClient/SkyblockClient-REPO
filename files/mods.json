@@ -742,13 +742,13 @@
             "2;All Skyblock",
             "4;Recommended Skyblock"
         ],
-        "file": "NotEnoughUpdates-2.1-Systemless.jar",
+        "file": "NotEnoughUpdates-2.1-Wynncraft.jar",
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "url": "https://cdn.discordapp.com/attachments/837679819487313971/972282770019721316/NotEnoughUpdates-2.1-Systemless.jar",
+        "url": "https://cdn.discordapp.com/attachments/837679819487313971/985469662529749052/NotEnoughUpdates-2.1-Wynncraft.jar",
         "forge_id": "notenoughupdates",
-        "hash": "b75bc712f6e85d8d86b7402bc761d8fc"
+        "hash": "e93846932bfc2a801a2be4dd25248e6c"
     },
     {
         "id": "dsm",
