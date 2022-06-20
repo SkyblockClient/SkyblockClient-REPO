@@ -687,14 +687,14 @@
     {
         "id": "nosplashtexts",
         "display": "NoSplashTexts",
-        "creator": "BlockyRick, multiverison port by Erymanthus",
-        "description": "Multiversion resource pack to remove title screen splash text.",
+        "creator": "BlockyRick, port by Erymanthus",
+        "description": "Resource pack to remove title screen splash text.",
         "icon": "nosplashtexts.png",
         "icon_scaling": "pixel",
         "actions": [
             {
                 "text": "Github",
-                "link": "https://github.com/RayDeeUx/NoSplashTexts/releases/download/v1.0.0/NoSplashTexts.zip"
+                "link": "https://github.com/RayDeeUx/NoSplashTexts/"
             }
         ],
         "hidden": false,
