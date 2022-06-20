@@ -698,10 +698,11 @@
             }
         ],
         "categories": [
-            "5;Utilities / QoL"
+            "3;All PvP"
         ],
         "hidden": false,
         "file": "NoSplashTexts.zip",
+        "url": "https://github.com/RayDeeUx/NoSplashTexts/releases/download/v1.0.0/NoSplashTexts.zip",
         "hash": "aa4024e276a26f9ff08876a190ad3a9a"
     },
     {
