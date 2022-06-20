@@ -685,6 +685,26 @@
         "hash": "f226121d849d529fd2c23c47dd9b552b"
     },
     {
+        "id": "nosplashtext",
+        "display": "NoSplashText",
+        "creator": "BlockyRick, multiverison port by Erymanthus",
+        "description": "Multiversion resource pack to remove title screen splash text.",
+        "icon": "nosplashtext.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "text": "Github",
+                "link": "https://github.com/RayDeeUx/NoSplashTexts/releases/download/v1.0.0/NoSplashTexts.zip"
+            }
+        ],
+        "categories": [
+            "5;Utilities / QoL"
+        ],
+        "hidden": false,
+        "file": "NoSplashTexts.zip",
+        "hash": "aa4024e276a26f9ff08876a190ad3a9a"
+    },
+    {
         "id": "vtay",
         "display": "vTay's Skyblock Smoothie 16x",
         "creator": "vTay",
