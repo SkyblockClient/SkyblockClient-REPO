@@ -685,11 +685,11 @@
         "hash": "f226121d849d529fd2c23c47dd9b552b"
     },
     {
-        "id": "nosplashtext",
-        "display": "NoSplashText",
+        "id": "nosplashtexts",
+        "display": "NoSplashTexts",
         "creator": "BlockyRick, multiverison port by Erymanthus",
         "description": "Multiversion resource pack to remove title screen splash text.",
-        "icon": "nosplashtext.png",
+        "icon": "nosplashtexts.png",
         "icon_scaling": "pixel",
         "actions": [
             {
