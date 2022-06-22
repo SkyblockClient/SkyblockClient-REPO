@@ -2010,7 +2010,7 @@
         ],
         "display": "Music Player",
         "creator": "HyCraftHD",
-        "discordcode" : "QXbWS36",
+        "discordcode": "QXbWS36",
         "command": "None, press `F8` in-game to access all related menus",
         "description": "With this mod you can listen to music and manage your playlist without using external programs. Supports YouTube, Soundcloud, Bandcamp, Vimeo, Twitch streams, `http://` URLs, and local files from `.mp3` to `.wav`, and more! Player controls range from Shuffle, Skip Forwards/Backwards, Pause/Play, Loop Playlist, and Single Song Playlist, as well as seek bar support.",
         "icon": "hycrafthd.png",
