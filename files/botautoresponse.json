@@ -321,6 +321,28 @@
     {
         "triggers": [
             [
+                "pause menu",
+                "disconnect",
+                "server list",
+                "pause",
+                "smart disconnect",
+                "open to lan"
+            ],
+            [
+                "button",
+                "buttons",
+                "broken",
+                "not working",
+                "disabled",
+                "greyed out",
+                "grayed out"
+            ]
+        ],
+        "response": "MusicPlayer's option called \"Toggle menue overlay\" overrides Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs. Please disable MusicPlayer's \"Toggle menue overlay\" by pressing `F8` in-game, pressing the cog on the upper right corner, and pressing the button labeled \"Toggle menue overlay\" until it is not highlighted green. Then exit MusicPlayer's menus and go back to the pause screen to confirm that everything is back to normal.\n\nIf you do not have MusicPlayer, make sure Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs are enabled in the first place. Otherwise, if none of the above situations apply to you, disregard this message—another mod outside of SkyClient is probably causing this issue."
+    }
+    {
+        "triggers": [
+            [
                 ".1.18fps"
             ]
         ],
