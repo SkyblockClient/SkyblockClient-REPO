@@ -343,6 +343,14 @@
     {
         "triggers": [
             [
+                ".musicplayer"
+            ]
+        ],
+        "response": "Here's a list of what MusicPlayer supports, as well as the instruction manual after you press `F8` in-game to access its menus. ***__And no, Spotify (free or Premium) is not on that list__***: https://media.discordapp.net/attachments/887818760126345246/989211814753632346/Screen_Shot_2022-06-22_at_12.53.05629_PM_Eastern_Daylight_Time_GMT-04.00.png"
+    },
+    {
+        "triggers": [
+            [
                 ".1.18fps"
             ]
         ],
