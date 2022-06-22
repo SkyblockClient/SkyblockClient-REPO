@@ -2002,6 +2002,36 @@
         "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
     },
     {
+        "id": "musicplayer",
+        "nicknames": [
+            "music player",
+            "music_player",
+            "music-player"
+        ],
+        "display": "Music Player",
+        "creator": "HyCraftHD",
+        "discordcode" : "QXbWS36",
+        "command": "None, press `F8` in-game to access all related menus",
+        "description": "With this mod you can listen to music and manage your playlist without using external programs. Supports YouTube, Soundcloud, Bandcamp, Vimeo, Twitch streams, `http://` URLs, and local files from `.mp3` to `.wav`, and more! Player controls range from Shuffle, Skip Forwards/Backwards, Pause/Play, Loop Playlist, and Single Song Playlist, as well as seek bar support.",
+        "icon": "hycrafthd.png",
+        "actions": [
+            {
+                "icon": "curseforge.png",
+                "text": "CurseForge",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/music-player"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock",
+            "5;All PvP",
+            "7;For Creators"
+        ],
+        "file": "music_player-1.8.9-2.1.1.153.jar",
+        "url": "https://media.forgecdn.net/files/3841/508/music_player-1.8.9-2.1.1.153.jar",
+        "forge_id": "musicplayer",
+        "hash": "d988ed3971a8fa009ce54da6693b53fd"
+    },
+    {
         "id": "wyvtils",
         "display": "Wyvtils",
         "enabled": false,
