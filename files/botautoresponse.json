@@ -601,9 +601,7 @@
         "triggers": [
             [
                 ".multimc",
-                "multimc",
-                ".polymc",
-                "polymc"
+                ".polymc"
             ]
         ],
         "response": "Before doing anything, we recommend using PolyMC over MultiMC. PolyMC is an improved fork with an actually decent group of people owning it, and should be getting very good improvements very soon.\n\nFirstly, create a PolyMC instance and click Install Forge on the instance settings. You should already know how to do this if you're using PolyMC. After that, select the instance you just created in the PolyMC main menu and click \"Instance Folder\". This folder you just opened will be referred to as POLYMC PATH/INSTANCE NAME for the rest of this tutorial. There should be a folder called .minecraft in that folder. If there is not, launch Minecraft before following the rest of this tutorial.\nThen...\nWindows:\nType in cmd: `mklink /J \"POLYMC PATH/INSTANCE NAME/.minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n\nLinux:\nType in Terminal: `ln -s \"~/.minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/minecraft\"`\n\nmacOS:\nType in Terminal: `ln -s \"~/Library/Application Support/minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/.minecraft\"`\n\nIf it worked correctly, a new `.minecraft` folder linked to the Skyclient folder should be in `POLYMC PATH/INSTANCE NAME`.\n\nThat's it! Just run your new instance and have fun using SkyClient in PolyMC / MultiMC!"
@@ -701,8 +699,7 @@
     {
         "triggers": [
             [
-                ".amongus",
-                "amongus"
+                ".amongus"
             ]
         ],
         "response": "test"
@@ -710,8 +707,7 @@
     {
         "triggers": [
             [
-                ".forge",
-                "forge"
+                ".forge"
             ]
         ],
         "response": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar"
