@@ -669,7 +669,7 @@
     {
         "triggers": [
             [
-                ".amongus",
+                ".amongus"
             ]
         ],
         "response": "test"
