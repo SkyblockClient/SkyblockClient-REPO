@@ -72,14 +72,6 @@
     {
         "triggers": [
             [
-                "nec"
-            ]
-        ],
-        "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins.\nThe same applies to all auction flipping mods—here's why:\nhttps://media.discordapp.net/attachments/728977460737081454/989924420388814928/Screen_Shot_2022-06-24_at_12.06.07968_PM_Eastern_Daylight_Time_GMT-04.00.png"
-    },
-    {
-        "triggers": [
-            [
                 "perspective mod"
             ]
         ],
