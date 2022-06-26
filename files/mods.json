@@ -1924,10 +1924,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "Synthesis-0.3.0.jar",
-        "url": "https://cdn.discordapp.com/attachments/931696052724203550/983466080259440680/Synthesis-0.3.0.jar",
+        "file": "Synthesis-0.3.1.jar",
+        "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
         "forge_id": "synthesis",
-        "hash": "7f0241f266df90cd3e041dca308e8c78"
+        "hash": "8deff2754507cd57d983dbc563e01a21"
     },
     {
         "id": "hychat",
