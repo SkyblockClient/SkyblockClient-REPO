@@ -1223,6 +1223,7 @@
     },
     {
         "id": "craftify",
+        "enabled": true,
         "display": "Craftify",
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
