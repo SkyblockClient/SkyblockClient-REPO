@@ -657,7 +657,7 @@
                 ".onecore"
             ]
         ],
-        "response": "If you\u2019re getting the \u201cW-CORE or OneCore has failed to download message\u201d, please send your `latest.log` and confirm you can visit the following websites: https://repo.woverflow.cc/ and https://woverflow.cc/ (make sure you\u2019re not using a VPN and your AntiVirus isn\u2019t blocking it)"
+        "response": "If you\u2019re getting the \u201cW-CORE or OneCore has failed to download message\u201d, please send your `latest.log` and confirm you can visit the following websites: https://repo.woverflow.cc/ and https://woverflow.cc/ (make sure you\u2019re not using a VPN and your Antivirus isn\u2019t blocking it)"
     },
     {
         "unclebot": true,
