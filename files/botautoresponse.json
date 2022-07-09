@@ -101,7 +101,7 @@
                 "client"
             ]
         ],
-        "response": "Download skyclient from: <#780940408175853609>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
+        "response": "Download SkyClient from: <#780940408175853609>\n\nForum (more information): <https://hypixel.net/threads/3731617/>"
     },
     {
         "triggers": [
@@ -338,7 +338,7 @@
                 "grayed out"
             ]
         ],
-        "response": "MusicPlayer's option called \"Toggle menue overlay\" overrides Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs. Please disable MusicPlayer's \"Toggle menue overlay\" by pressing `F8` in-game, pressing the cog on the upper right corner, and pressing the button labeled \"Toggle menue overlay\" until it is not highlighted green. Then exit MusicPlayer's menus and go back to the pause screen to confirm that everything is back to normal.\n\nIf you do not have MusicPlayer, make sure Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs are enabled in the first place. Otherwise, if none of the above situations apply to you, disregard this message\u2014another mod outside of SkyClient is probably causing this issue."
+        "response": "Music Player's option called \"Toggle menue overlay\" overrides Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs. Please disable Music Player's \"Toggle menue overlay\" by pressing `F8` in-game, pressing the cog on the upper right corner, and pressing the button labeled \"Toggle menue overlay\" until it is not highlighted green. Then exit MusicPlayer's menus and go back to the pause screen to confirm that everything is back to normal.\n\nIf you do not have Music Player, make sure Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs are enabled in the first place. Otherwise, if none of the above situations apply to you, disregard this message\u2014another mod outside of SkyClient is probably causing this issue."
     },
     {
         "unclebot": true,
@@ -347,7 +347,7 @@
                 ".musicplayer"
             ]
         ],
-        "response": "Here's a list of what MusicPlayer supports, as well as the instruction manual after you press `F8` in-game to access its menus. ***__And no, support for Spotify (free or Premium) is not on that list\u2014please check `-mod craftify` for an in-game Spotify player__***: https://media.discordapp.net/attachments/887818760126345246/989211814753632346/Screen_Shot_2022-06-22_at_12.53.05629_PM_Eastern_Daylight_Time_GMT-04.00.png"
+        "response": "Here's a list of what Music Player supports, as well as the instruction manual after you press `F8` in-game to access its menus. ***__And no, support for Spotify (free or Premium) is not on that list\u2014please check `-mod craftify` for an in-game Spotify player__***: https://media.discordapp.net/attachments/887818760126345246/989211814753632346/Screen_Shot_2022-06-22_at_12.53.05629_PM_Eastern_Daylight_Time_GMT-04.00.png"
     },
     {
         "unclebot": true,
@@ -428,7 +428,7 @@
                 ".disablecrab"
             ]
         ],
-        "response": "crab has been disabled\nhttps://media.discordapp.net/attachments/745114603528257586/969838724986839051/unknown.png"
+        "response": "Crab has been disabled\nhttps://media.discordapp.net/attachments/745114603528257586/969838724986839051/unknown.png"
     },
     {
         "unclebot": true,
@@ -455,7 +455,7 @@
                 ".enablecrab"
             ]
         ],
-        "response": "crab has been enabled\nhttps://media.discordapp.net/attachments/553645576390967297/969960856270041118/unknown.png"
+        "response": "Crab has been enabled\nhttps://media.discordapp.net/attachments/553645576390967297/969960856270041118/unknown.png"
     },
     {
         "unclebot": true,
@@ -482,7 +482,7 @@
                 ".flashing"
             ]
         ],
-        "response": "disable fast renderer and shaders"
+        "response": "Disable Fast Renderer and Shaders"
     },
     {
         "unclebot": true,
@@ -627,7 +627,7 @@
                 ".maybefeather"
             ]
         ],
-        "response": "upload `.minecraft` -> `versions` -> `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` -> `1.8.9-forge1.8.9-11.15.1.2318-1.8.9.json`"
+        "response": "Upload `.minecraft` -> `versions` -> `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` -> `1.8.9-forge1.8.9-11.15.1.2318-1.8.9.json`"
     },
     {
         "unclebot": true,
@@ -639,7 +639,7 @@
                 "polymc"
             ]
         ],
-        "response": "Before doing anything, we recommend using PolyMC over MultiMC. PolyMC is an improved fork with an actually decent group of people owning it, and should be getting very good improvements very soon.\n\nFirstly, create a PolyMC instance and click Install Forge on the instance settings. You should already know how to do this if you're using PolyMC. After that, select the instance you just created in the PolyMC main menu and click \"Instance Folder\". This folder you just opened will be referred to as POLYMC PATH/INSTANCE NAME for the rest of this tutorial. There should be a folder called .minecraft in that folder. If there is not, launch Minecraft before following the rest of this tutorial.\nThen...\nWindows:\nType in cmd: `mklink /J \"POLYMC PATH/INSTANCE NAME/.minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n\nLinux:\nType in Terminal: `ln -s \"~/.minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/minecraft\"`\n\nmacOS:\nType in Terminal: `ln -s \"~/Library/Application Support/minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/.minecraft\"`\n\nIf it worked correctly, a new `.minecraft` folder linked to the Skyclient folder should be in `POLYMC PATH/INSTANCE NAME`.\n\nThat's it! Just run your new instance and have fun using SkyClient in PolyMC / MultiMC!"
+        "response": "Before doing anything, we recommend using PolyMC over MultiMC. PolyMC is an improved fork with an actually decent group of people owning it, and should be getting very good improvements very soon.\n\nFirstly, create a PolyMC instance and click Install Forge on the instance settings. You should already know how to do this if you're using PolyMC. After that, select the instance you just created in the PolyMC main menu and click \"Instance Folder\". This folder you just opened will be referred to as POLYMC PATH/INSTANCE NAME for the rest of this tutorial. There should be a folder called .minecraft in that folder. If there is not, launch Minecraft before following the rest of this tutorial.\nThen...\nWindows:\nType in cmd: `mklink /J \"POLYMC PATH/INSTANCE NAME/.minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n\nLinux:\nType in Terminal: `ln -s \"~/.minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/minecraft\"`\n\nmacOS:\nType in Terminal: `ln -s \"~/Library/Application Support/minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/.minecraft\"`\n\nIf it worked correctly, a new `.minecraft` folder linked to the SkyClient folder should be in `POLYMC PATH/INSTANCE NAME`.\n\nThat's it! Just run your new instance and have fun using SkyClient in PolyMC / MultiMC!"
     },
     {
         "unclebot": true,
@@ -648,7 +648,7 @@
                 ".null"
             ]
         ],
-        "response": "To fix the problem:\n1. Go to <https://account.xbox.com/en-us/settings>\n2. Navigate to the `Xbox One/Windows 10 Online Safety` tab. If you are under 18, you may need a parent or guardian to help by getting them to create a family and add you to it.\n3. From there, they should be able to enable multiplayer for your account.\n4. Relaunch Minecraft and you should be able to join any multiplayer server."
+        "response": "To fix the problem:\n1. Go to <https://account.xbox.com/en-us/settings>\n2. Navigate to the `Xbox One/Windows 10 Online Safety` tab. If you are under 18, you may need a parent or guardian to help by getting them to create a family and adding you to it.\n3. From there, they should be able to enable multiplayer for your account.\n4. Relaunch Minecraft and you should be able to join any multiplayer server."
     },
     {
         "unclebot": true,
@@ -657,7 +657,7 @@
                 ".onecore"
             ]
         ],
-        "response": "If you\u2019re getting the \u201cW-CORE or OneCore has failed to download message\u201d, please send your `latest.log` and confirm you can visit the following websites: https://repo.woverflow.cc/ and https://woverflow.cc/ (make sure you\u2019re not using a VPN and your Antivirus isn\u2019t blocking it)"
+        "response": "If you\u2019re getting the \u201cW-CORE or OneCore has failed to download message\u201d, please send your `latest.log` and confirm you can visit the following websites: https://repo.woverflow.cc/ and https://woverflow.cc/ (make sure you\u2019re not using a VPN and your AntiVirus isn\u2019t blocking it)"
     },
     {
         "unclebot": true,
@@ -666,7 +666,7 @@
                 ".partner"
             ]
         ],
-        "response": ">at least 500 members\n>has a product (texturepack or mod)\n>not a guild discord\n>not a youtuber discord\n>no drama\n>product must be in skyclient"
+        "response": ">at least 500 members\n>has a product (texturepack or mod)\n>not a guild discord\n>not a youtuber discord\n>no drama\n>product must be in SkyClient"
     },
     {
         "unclebot": true,
@@ -675,7 +675,7 @@
                 ".partner"
             ]
         ],
-        "response": ">at least 500 members\n>has a product (texturepack or mod)\n>not a guild discord\n>not a youtuber discord\n>no drama\n>product must be in skyclient"
+        "response": ">at least 500 members\n>has a product (texturepack or mod)\n>not a guild discord\n>not a youtuber discord\n>no drama\n>product must be in SkyClient"
     },
     {
         "unclebot": true,
