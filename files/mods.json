@@ -81,7 +81,7 @@
             {
                 "icon": "wyvest.png",
                 "text": "VanillaHUD",
-                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
+                "link": "https://github.com/Polyfrost/VanillaHUD"
             },
             {
                 "icon": "llamalad.png",
@@ -91,7 +91,7 @@
             {
                 "icon": "wyvest.png",
                 "text": "Chatting",
-                "link": "https://github.com/W-OVERFLOW/Chatting"
+                "link": "https://github.com/Polyfrost/Chatting"
             },
             {
                 "icon": "tgb_icon.png",
@@ -147,7 +147,7 @@
             {
                 "icon": "wyvest.png",
                 "text": "REDACTION",
-                "link": "https://github.com/W-OVERFLOW/REDACTION"
+                "link": "https://github.com/Polyfrost/REDACTION"
             },
             {
                 "icon": "monkey.png",
@@ -238,8 +238,8 @@
     {
         "id": "damagetint",
         "display": "PvP Bundle",
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/damagetint",
         "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
         "icon": "skyclient.png",
@@ -256,7 +256,7 @@
             {
                 "icon": "wyvest.png",
                 "text": "Damage Tint",
-                "link": "https://github.com/W-OVERFLOW/DamageTint"
+                "link": "https://github.com/Polyfrost/DamageTint"
             },
             {
                 "icon": "isxander.png",
@@ -266,7 +266,7 @@
             {
                 "icon": "wyvest.png",
                 "text": "BehindYouV3",
-                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+                "link": "https://github.com/Polyfrost/BehindYouV3"
             }
         ],
         "categories": [
@@ -274,7 +274,7 @@
             "6;Recommended PvP"
         ],
         "file": "DamageTint-3.2.0.jar",
-        "url": "https://github.com/W-OVERFLOW/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
         "forge_id": "damagetint",
         "packages": [
             "particlesenhanced",
@@ -406,15 +406,15 @@
         ],
         "display": "CrashPatch",
         "enabled": true,
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "description": "Stop crashes from closing your game and provide solutions!",
         "icon": "wyvest.png",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/W-OVERFLOW/CrashPatch"
+                "link": "https://github.com/Polyfrost/CrashPatch"
             }
         ],
         "categories": [
@@ -424,17 +424,17 @@
         "files": [
             "W-OVERFLOW/CrashPatch/SKYCLIENT"
         ],
-        "url": "https://github.com/W-OVERFLOW/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
+        "url": "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
         "forge_id": "crashpatch",
         "hash": "d73016f46937b3d5644aae5feacf2240"
     },
     {
         "id": "hytilities-reborn",
         "display": "Hytilities Reborn",
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/hytilities",
-        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!\n***Note: please see Hytils Reborn by W-OVERFLOW for a more up-to-date version instead by running `-mod hytils`.***",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!\n***Note: please see Hytils Reborn by Polyfrost for a more up-to-date version instead by running `-mod hytils`.***",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -445,7 +445,7 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Hytilities-Reborn"
+                "link": "https://github.com/Polyfrost/Hytilities-Reborn"
             }
         ],
         "categories": [
@@ -456,7 +456,7 @@
         ],
         "hidden": true,
         "file": "Hytilities-Reborn-1.4.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
+        "url": "https://github.com/Polyfrost/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
         "forge_id": "hytilities-reborn",
         "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
     },
@@ -472,8 +472,8 @@
         ],
         "display": "Hytils Reborn",
         "enabled": true,
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/hytils",
         "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
         "icon": "wyvest.png",
@@ -486,14 +486,14 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Hytils-Reborn"
+                "link": "https://github.com/Polyfrost/Hytils-Reborn"
             }
         ],
         "categories": [
             "1;Recommended"
         ],
         "file": "Hytils-Reborn-1.5.0.jar",
-        "url": "https://github.com/W-OVERFLOW/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
+        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
         "forge_id": "hytils-reborn",
         "hash": "59d055e70c270df5794686c33d09cc97"
     },
@@ -554,7 +554,7 @@
         "id": "betterhurtcam",
         "display": "BetterHurtCam",
         "creator": "Salmon",
-        "discordcode": "ekmdrVDQXC",
+        "discordcode": "polyfrost",
         "command": "/betterhurtcam",
         "description": "Increase or decrease the hurtcam when hit.",
         "icon": "shceros.png",
@@ -1063,7 +1063,7 @@
             "animations"
         ],
         "display": "Old Animations",
-        "creator": "Sk1erLLC & W-OVERFLOW",
+        "creator": "Sk1erLLC & Polyfrost",
         "command": "/oldanimations",
         "description": "1.7 Animations, in 1.8.9.",
         "icon": "monkey.png",
@@ -1267,8 +1267,8 @@
     {
         "id": "glintcolorizer",
         "display": "Glint Colorizer",
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/glintcolorizer",
         "description": "Customize the glint color of items and more!.",
         "icon": "wyvest.png",
@@ -1276,14 +1276,14 @@
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/W-OVERFLOW/GlintColorizer"
+                "link": "https://github.com/Polyfrost/GlintColorizer"
             }
         ],
         "categories": [
             "5;All PvP"
         ],
         "file": "GlintColorizer-1.0.0.jar",
-        "url": "https://github.com/W-OVERFLOW/GlintColorizer/releases/download/v1.0.0/GlintColorizer-1.0.0.jar",
+        "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.0/GlintColorizer-1.0.0.jar",
         "forge_id": "glintcolorizer",
         "hash": "5a06a4e4d1d436bec7e9fc0535ad408a"
     },
@@ -1510,8 +1510,8 @@
             "stratus"
         ],
         "display": "Chatting",
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "wyvest.png",
@@ -1519,12 +1519,12 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/Chatting"
+                "link": "https://github.com/Polyfrost/Chatting"
             }
         ],
         "hidden": true,
         "file": "Chatting-1.4.1.jar",
-        "url": "https://github.com/W-OVERFLOW/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar",
+        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar",
         "forge_id": "chatting",
         "hash": "5f2769d9753194353d76438995f87c61"
     },
@@ -1568,8 +1568,8 @@
     {
         "id": "vanillahud",
         "display": "VanillaHUD",
-        "creator": "W-OVERFLOW (Wyvest)",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost (Wyvest)",
+        "discordcode": "polyfrost",
         "command": "/vanillahud",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
         "icon": "wyvest.png",
@@ -1577,12 +1577,12 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/VanillaHUD"
+                "link": "https://github.com/Polyfrost/VanillaHUD"
             }
         ],
         "hidden": true,
         "file": "VanillaHUD-1.1.1.jar",
-        "url": "https://github.com/W-OVERFLOW/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
+        "url": "https://github.com/Polyfrost/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
         "forge_id": "vanillahud",
         "hash": "2ad42c5a0bdc35e1b48b30e819234324"
     },
@@ -1606,8 +1606,8 @@
     {
         "id": "redaction",
         "display": "REDACTION",
-        "creator": "W-OVERFLOW (Wyvest)",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost (Wyvest)",
+        "discordcode": "polyfrost",
         "command": "/redaction",
         "description": "Adds useful GUI additions to the game.",
         "icon": "wyvest.png",
@@ -1615,23 +1615,23 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/REDACTION"
+                "link": "https://github.com/Polyfrost/REDACTION"
             }
         ],
         "hidden": true,
         "file": "REDACTION-1.3.5.jar",
         "files": [
-            "W-OVERFLOW/REDACTION/redaction.toml"
+            "Polyfrost/REDACTION/redaction.toml"
         ],
-        "url": "https://github.com/W-OVERFLOW/REDACTION/releases/download/v1.3.5/REDACTION-1.3.5.jar",
+        "url": "https://github.com/Polyfrost/REDACTION/releases/download/v1.3.5/REDACTION-1.3.5.jar",
         "forge_id": "redaction",
         "hash": "dd5defdef8e2229e2ac16d92f888100e"
     },
     {
         "id": "behindyouv3",
         "display": "BehindYouV3",
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/behindyou",
         "description": "Allows you to look behind you with ease.",
         "icon": "wyvest.png",
@@ -1639,12 +1639,12 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/W-OVERFLOW/BehindYouV3"
+                "link": "https://github.com/Polyfrost/BehindYouV3"
             }
         ],
         "hidden": true,
         "file": "BehindYouV3-3.1.0.jar",
-        "url": "https://github.com/W-OVERFLOW/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
+        "url": "https://github.com/Polyfrost/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
         "forge_id": "behindyouv3",
         "hash": "cb08e4783b4014371e093818164995d8"
     },
@@ -1944,13 +1944,13 @@
     {
         "id": "overflowanimations",
         "display": "Overflow Animations",
-        "creator": "W-OVERFLOW",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/overflowanimations",
         "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
         "hidden": true,
         "file": "OverflowAnimations-1.1.0.jar",
-        "url": "https://github.com/W-OVERFLOW/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
+        "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
         "forge_id": "overflowanimations",
         "hash": "cdce7e1ee42770bc66153ee6abc70787"
     },
@@ -2036,8 +2036,8 @@
         "id": "wyvtils",
         "display": "Wyvtils",
         "enabled": false,
-        "creator": "W-OVERFLOW (Wyvest)",
-        "discordcode": "ekmdrVDQXC",
+        "creator": "Polyfrost (Wyvest)",
+        "discordcode": "polyfrost",
         "command": "/wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
         "icon": "wyvest.png",
