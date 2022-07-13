@@ -105,10 +105,10 @@
         ]
     },
     {
-        "id": "woverflow",
+        "id": "polyfrost",
         "code": "polyfrost",
         "fancyname": "WWWWWWWWWWWWWWWWWWW",
-        "description": "A server to discuss / get support for W-OVERFLOW mods and other things!",
+        "description": "A server to discuss / get support for Polyfrost mods and other things!",
         "icon": "wyvest.png",
         "nicknames": [
             "wyvest",
