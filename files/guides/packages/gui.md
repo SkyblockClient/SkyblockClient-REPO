@@ -5,7 +5,7 @@
 - Custom Main Menu (Author: Lumien231)
 - Smooth Scrolling Everywhere (Author: Shedaniel)
 - BetterChat (Author: LlamaLad7)
-- Chatting (Author: W-OVERFLOW)
+- Chatting (Author: Polyfrost)
 - RewardClaim (Author: ThatGravyBoat)
 - Report+ (Author: ThatGravyBoat)
 
@@ -74,7 +74,7 @@ Use `/reportplus` to open the configuration window
 
 [BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat)
 
-[Chatting](https://github.com/W-OVERFLOW/Chatting)
+[Chatting](https://github.com/Polyfrost/Chatting)
 
 [RewardClaim](https://github.com/ThatGravyBoat/RewardClaim)
 
@@ -84,4 +84,4 @@ Use `/reportplus` to open the configuration window
 
 [ThatGravyBoat](https:/discord.gg/jRhkYFmpCa)
 
-[W-OVERFLOW](https://discord.gg/woverflow)
+[Polyfrost](https://discord.gg/polyfrost)
