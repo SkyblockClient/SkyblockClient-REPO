@@ -84,4 +84,4 @@ Use `/reportplus` to open the configuration window
 
 [ThatGravyBoat](https:/discord.gg/jRhkYFmpCa)
 
-[W-OVERFLOW](https://discord.gg/woverflow)
+[W-OVERFLOW](https://discord.gg/polyfrost)
