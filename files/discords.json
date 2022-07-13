@@ -106,7 +106,7 @@
     },
     {
         "id": "woverflow",
-        "code": "woverflow",
+        "code": "polyfrost",
         "fancyname": "WWWWWWWWWWWWWWWWWWW",
         "description": "A server to discuss / get support for W-OVERFLOW mods and other things!",
         "icon": "wyvest.png",
@@ -114,7 +114,8 @@
             "wyvest",
             "wyvtilities",
             "www",
-            "qalcyo"
+            "qalcyo",
+            "polyfrost"
         ],
         "mods": [
             "wyvtils"
