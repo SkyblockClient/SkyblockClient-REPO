@@ -2,9 +2,9 @@
 
 ## Includes:
 
--   Damage Tint (Author: W-OVERFLOW)
+-   Damage Tint (Author: Polyfrost)
 -   Particles Enhanced (Author: isXander)
--   BehindYouV3 (Author: W-OVERFLOW & isXander)
+-   BehindYouV3 (Author: Polyfrost & isXander)
 
 ## What do the mods do?
 
@@ -38,14 +38,14 @@ Go to Minecraft's controls menu to bind your keys. Use `/behindyou` to open the 
 
 #### Mod links
 
-[Damage Tint](https://github.com/W-OVERFLOW/DamageTint)
+[Damage Tint](https://github.com/Polyfrost/DamageTint)
 
 [Particles Enhanced](https://modrinth.com/mod/particlesenhanced)
 
-[BehindYouV3](https://github.com/W-OVERFLOW/BehindYouV3)
+[BehindYouV3](https://github.com/Polyfrost/BehindYouV3)
 
 #### Discords
 
 [isXander](https://discord.gg/AJv5ZnNT8q)
 
-[W-OVERFLOW](https://discord.gg/polyfrost)
+[Polyfrost](https://discord.gg/polyfrost)

@@ -4,7 +4,7 @@
 
 -   EvergreenHUD (Author: isXander)
 -   Bossbar Customizer (Author: Sk1er LLC)
--   REDACTION (Author: W-OVERFLOW)
+-   REDACTION (Author: Polyfrost)
 -   Keystrokes (Author: Sk1er LLC)
 
 ## What do the mods do?
@@ -51,7 +51,7 @@ Use `/keystrokes` to open the configuration window
 
 [Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
 
-[REDACTION](https://github.com/W-OVERFLOW/REDACTION)
+[REDACTION](https://github.com/Polyfrost/REDACTION)
 
 [Keystrokes](https://sk1er.club/mods/keystrokesmod)
 
@@ -61,4 +61,4 @@ Use `/keystrokes` to open the configuration window
 
 [Sk1er LLC](https://discord.gg/sk1er)
 
-[W-OVERFLOW](https://discord.gg/polyfrost)
+[Polyfrost](https://discord.gg/polyfrost)
