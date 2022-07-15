@@ -701,10 +701,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "SkyblockHud-1.13-beta7.jar",
-        "url": "https://cdn.discordapp.com/attachments/845306740957642782/868401557874573342/SkyBlockHud-1.13-beta-test-7.jar",
+        "file": "SkyBlockHud-1.14.jar",
+        "url": "https://github.com/RayDeeUx/SkyblockHud-Reborn/releases/download/v1.14/SkyBlockHud-1.14.jar",
         "forge_id": "skyblockhud",
-        "hash": "8b270674cb08720a2e52960c7a2b7dac"
+        "hash": "8188468836d7e0cf097b8a991c4d3d1a"
     },
     {
         "id": "neu",
