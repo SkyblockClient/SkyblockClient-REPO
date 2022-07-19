@@ -742,13 +742,13 @@
             "2;All Skyblock",
             "4;Recommended Skyblock"
         ],
-        "file": "NotEnoughUpdates-2.1-Wynncraft.jar",
+        "file": "NotEnoughUpdates-2.1-lunar.jar",
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "url": "https://cdn.discordapp.com/attachments/837679819487313971/985469662529749052/NotEnoughUpdates-2.1-Wynncraft.jar",
+        "url": "https://cdn.discordapp.com/attachments/837679819487313971/997391507134894080/NotEnoughUpdates-2.1-lunar.jar",
         "forge_id": "notenoughupdates",
-        "hash": "e93846932bfc2a801a2be4dd25248e6c"
+        "hash": "a5c0df569835cc7639b6da3bb9a7587d"
     },
     {
         "id": "dsm",
