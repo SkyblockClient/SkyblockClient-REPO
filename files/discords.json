@@ -1,5 +1,14 @@
 [
     {
+        "id": "soopy",
+        "code": "dfSMq96RSN",
+        "fancyname": "SoopyV2",
+        "nicknames": [
+            "soopyv2",
+            "soapy"
+        ]
+    },
+    {
         "id": "synth",
         "code": "vAUuKSwbp6",
         "fancyname": "Synthesis",
