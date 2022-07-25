@@ -12,7 +12,7 @@
 	"libraries": [
 		{
 			"name": "net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9",
-			"url": "https://maven.minecraftforge.net/"
+			"url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/forge/"
 		},
 		{
 			"name": "net.minecraft:launchwrapper:1.12",
