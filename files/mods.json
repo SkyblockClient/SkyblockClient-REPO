@@ -599,10 +599,10 @@
         "categories": [
             "5;All PvP"
         ],
-        "file": "RawInput-1.1.1.jar",
-        "url": "https://github.com/Mixces/RawInputMod/releases/download/1.1.1/RawInput-1.1.1.jar",
+        "file": "RawInput-1.1.2.jar",
+        "url": "https://github.com/RayDeeUx/RawInput-1.8.9/releases/download/1.1.2/RawInput-1.1.2.jar",
         "forge_id": "rawinput",
-        "hash": "34e5023c3d464e813f3756919e1c8425"
+        "hash": "989c0ec66f9ebcd2fbe1855ab2025f31"
     },
     {
         "id": "nick_hider",
