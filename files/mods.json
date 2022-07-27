@@ -1044,10 +1044,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "BazaarNotifier-1.4.11.jar",
-        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.4.11/BazaarNotifier-1.4.11.jar",
+        "file": "BazaarNotifier-1.4.12.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar",
         "forge_id": "BazaarNotifier",
-        "hash": "9e995e94c27364d70b9284344d7fa6be"
+        "hash": "00e548b9728be3afffc1f3cd0d7c21a5"
     },
     {
         "id": "oam",
