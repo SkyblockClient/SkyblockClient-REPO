@@ -25,6 +25,7 @@
     },
     {
         "id": "dungeontexturepack",
+        "hidden": true,
         "display": "Dungeons Texturepack",
         "creator": "gratenes & Havenz",
         "description": "Dungeons resource pack",
