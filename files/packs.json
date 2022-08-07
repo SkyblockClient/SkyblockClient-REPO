@@ -303,7 +303,7 @@
         "discordcode": "KwvMQ4T",
         "description": "Packs HQ Skyblock Pack dark UI",
         "icon": "phq dark overlay.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/v2 Dark Skyblock UI.zip.png",
+        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
         "actions": [
             {
                 "text": "Forum",
@@ -329,7 +329,7 @@
         "discordcode": "aqSEzgWnYy",
         "description": "Essential Themed UI",
         "icon": "essentialtheme.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/Essential Theme 16x.zip.png",
+        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
         "actions": [
             {
                 "icon": "discordsmall.png",
@@ -554,7 +554,7 @@
         "description": "A PvP pack with a collection of textures from various packs.",
         "icon": "fishfault.png",
         "icon_scaling": "pixel",
-        "screenshot": "https://user-images.githubusercontent.com/10727862/169709762-53f56ac8-e748-4378-ad30-7a3ecb0f48da.png",
+        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/fishfault-preview.png",
         "actions": [
             {
                 "method": "hover",
@@ -628,7 +628,7 @@
         "discordcode": "kZnYxCMjuJ",
         "description": "One of the many 16x texture packs by zshyne. Note that this version has a plain night sky.",
         "icon": "sakamata.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/sakamata [16x] (non weeb).zip.png",
+        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/sakamata-preview.png",
         "actions": [
             {
                 "icon": "youtube.png",
