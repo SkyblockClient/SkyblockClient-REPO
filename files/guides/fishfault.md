@@ -1,11 +1,23 @@
-# FishFault
-
+# Fishfault
 Showcase:
-![1648867622543](https://user-images.githubusercontent.com/10727862/169709768-62218a1b-c2b4-4f5f-adb1-38b0c73229b3.png)
-![2022-05-22_11 33 12](https://user-images.githubusercontent.com/10727862/169709751-73e1feb8-6e28-42ca-a39d-fb20a6a9b1db.png)
-![2022-05-22_11 33 20](https://user-images.githubusercontent.com/10727862/169709755-2a195a46-fd0d-40f8-9573-99ab38bbf5da.png)
-![2022-05-22_11 34 03](https://user-images.githubusercontent.com/10727862/169709756-94aae341-3b0a-4ab1-b6ad-d6030ba33fd2.png)
-![2022-05-22_12 04 19](https://user-images.githubusercontent.com/10727862/169709762-53f56ac8-e748-4378-ad30-7a3ecb0f48da.png)
-![2022-05-22_12 04 36](https://user-images.githubusercontent.com/10727862/169709766-74815b97-dced-4731-a2d5-a560fc063c4a.png)
-![2022-05-09_16 54 36](https://user-images.githubusercontent.com/10727862/169709749-adcbf5e2-56ab-4eac-b5cb-dffa64d7b513.png)
-![1648867917922](https://user-images.githubusercontent.com/10727862/169709769-7c1d2cec-e320-464f-b75a-f2fd63f32c88.png)
+
+**Custom Tools:**
+![image](https://user-images.githubusercontent.com/93109251/180105969-3bf5a3c1-af23-4840-94b5-fba86b2b54a2.png)
+**Custom Food Items:**
+![image](https://user-images.githubusercontent.com/93109251/180107037-618146c1-9d4c-4e7d-b3e1-0a331da2ed83.png)
+**Map Previews:**
+![image](https://user-images.githubusercontent.com/93109251/180108966-91eda194-b82a-42ac-88fc-f00ded266971.png)
+![image](https://user-images.githubusercontent.com/93109251/180109142-4cd074a6-c17c-47a9-a2dc-f69f426c1d73.png)
+**Custom Enchantments:** 
+![image](https://user-images.githubusercontent.com/93109251/180107325-57b5a556-956f-4f5a-9d39-b0be9b3bcd8a.png)
+**Animated Resources:** 
+![2022-07-20 20-02-37_Trim](https://user-images.githubusercontent.com/93109251/180107963-ec23b82a-8e8b-41a1-a591-61f9c85a796a.gif)
+**Built In Height/Bridge Overlay:** 
+![1648867622543](https://user-images.githubusercontent.com/93109251/180105598-a6e9bede-bb74-4388-a571-047884dbd54d.png)
+**Built In Bedwars Overlay:** 
+![image](https://user-images.githubusercontent.com/93109251/180108100-2d14efac-6bfa-4ded-ad51-73f5b68f8641.png)
+![image](https://user-images.githubusercontent.com/93109251/180108391-317b759a-7bfe-4016-86f5-9aeb8257e003.png)
+**3D Models:** 
+![image](https://user-images.githubusercontent.com/93109251/180106449-3c194194-6468-4cac-bf3b-e1d9fbc3c286.png)
+**Clean Connected Wool:** 
+![image](https://user-images.githubusercontent.com/93109251/180106496-b5717b0a-4870-4b53-9133-2d7f40f30388.png)
