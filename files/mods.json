@@ -61,6 +61,7 @@
         ],
         "display": "GUI Bundle",
         "enabled": true,
+        "creator": "shedaniel",
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
         "icon": "skyclient.png",
         "actions": [
@@ -125,6 +126,7 @@
             "evergreen"
         ],
         "display": "HUD Bundle",
+        "creator": "isXander",
         "discordcode": "AJv5ZnNT8q",
         "command": "/evergreenhud",
         "description": "Displays every piece of information a Minecraft player could ever need.",
@@ -175,6 +177,7 @@
         ],
         "display": "QOL Bundle",
         "creator": "Moulberry",
+        "discordcode": "moulberry",
         "command": "/insomnia on/off",
         "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
@@ -290,7 +293,7 @@
         ],
         "display": "SkyClient Updater",
         "enabled": true,
-        "creator": "Lily",
+        "creator": "SkyClient Team",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "icon": "skyclient.png",
         "actions": [
@@ -429,38 +432,6 @@
         "hash": "d73016f46937b3d5644aae5feacf2240"
     },
     {
-        "id": "hytilities-reborn",
-        "display": "Hytilities Reborn",
-        "creator": "Polyfrost",
-        "discordcode": "polyfrost",
-        "command": "/hytilities",
-        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!\n***Note: please see Hytils Reborn by Polyfrost for a more up-to-date version instead by running `-mod hytils`.***",
-        "icon": "wyvest.png",
-        "actions": [
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
-            },
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/Polyfrost/Hytilities-Reborn"
-            }
-        ],
-        "categories": [
-            "1;Recommended"
-        ],
-        "update_to_ids": [
-            "hytils-reborn"
-        ],
-        "hidden": true,
-        "file": "Hytilities-Reborn-1.4.1.jar",
-        "url": "https://github.com/Polyfrost/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
-        "forge_id": "hytilities-reborn",
-        "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
-    },
-    {
         "id": "hytils-reborn",
         "nicknames": [
             "hytils",
@@ -501,6 +472,7 @@
         "id": "replaymod",
         "display": "Replay Mod",
         "creator": "CrushedPixel and johni0702",
+        "discordcode": "5GR7RSb",
         "description": "A Minecraft Mod to record, relive and share your experience.",
         "icon": "replaymod.png",
         "actions": [
@@ -532,6 +504,7 @@
         "id": "blockoverlay",
         "display": "Block Overlay",
         "creator": "Aycy",
+        "command": "/blockoverlay",
         "description": "A custom overlay on blocks.",
         "icon": "aycy.jpg",
         "actions": [
@@ -585,7 +558,7 @@
             "rawmouseinput"
         ],
         "display": "Raw Mouse Input",
-        "creator": "xCuri0, port by Mixces",
+        "creator": "xCuri0, Mixces, Erymanthus",
         "command": "/rescan",
         "description": "Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system.",
         "icon": "mixces.png",
@@ -1321,6 +1294,7 @@
         "display": "Chat Triggers",
         "creator": "Kerbybit",
         "discordcode": "chattriggers",
+        "command": "/ct",
         "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
         "icon": "chattriggers 48x.png",
         "actions": [
@@ -1337,6 +1311,162 @@
         "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.1.5/ctjs-2.1.5-1.8.9.jar",
         "forge_id": "chattriggers",
         "hash": "c0ec16e7a5a105f68fde9fa580dedb4e"
+    },
+    {
+        "id": "rpm",
+        "nicknames": [
+            "resourcepackmanager"
+        ],
+        "display": "Resource Pack Manager",
+        "creator": "Aycy",
+        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
+        "icon": "aycy.jpg",
+        "actions": [
+            {
+                "icon": "direct_download.png",
+                "text": "Download",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
+            }
+        ],
+        "file": "Resource_Pack_Manager_1.2.jar",
+        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
+        "forge_id": "resourcepackmanager",
+        "hash": "b334cd4cb15e3610ac47387a66c19dfb"
+    },
+    {
+        "id": "oofmod",
+        "display": "OofMod",
+        "creator": "Powns, Refraction, Sk1er LLC",
+        "discordcode": "JxK7cwN",
+        "command": "/oofmod",
+        "description": "Play custom sounds when killing other players.",
+        "icon": "powns.png",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "YouTube",
+                "link": "https://www.youtube.com/watch?v=weqoSxuQdnA"
+            }
+        ],
+        "file": "OofMod-3.0 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
+        "forge_id": "oofmod",
+        "hash": "c91c9f4e1e9c43f4b22e062d3708fe97"
+    },
+    {
+        "id": "synthesis",
+        "nicknames": [
+            "synth"
+        ],
+        "display": "Synthesis",
+        "enabled": false,
+        "creator": "SirDesco, Antonio32A",
+        "discordcode": "vAUuKSwbp6",
+        "command": "/synth",
+        "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
+        "icon": "github.png",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "guide",
+                "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "github",
+                "link": "https://github.com/SynthesisMod/Synthesis"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock"
+        ],
+        "file": "Synthesis-0.3.1.jar",
+        "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
+        "forge_id": "synthesis",
+        "hash": "8deff2754507cd57d983dbc563e01a21"
+    },
+    {
+        "id": "arrowpath",
+        "display": "Arrow Path",
+        "creator": "Aycy",
+        "command": "/arrowpath",
+        "description": "Visual trajectory of arrows.",
+        "icon": "aycy.jpg",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Showcase",
+                "link": "https://www.youtube.com/watch?v=f3iP-lzobxk"
+            }
+        ],
+        "categories": [
+            "5;All PvP"
+        ],
+        "file": "ArrowPath-v1.0.jar",
+        "forge_id": "arrowpath",
+        "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
+    },
+    {
+        "id": "musicplayer",
+        "nicknames": [
+            "music player",
+            "music_player",
+            "music-player"
+        ],
+        "display": "Music Player",
+        "creator": "HyCraftHD",
+        "discordcode": "QXbWS36",
+        "command": "None, press `F8` in-game to access all related menus. If that doesn't work, check your in-game controls and revise them as necessary.",
+        "description": "With this mod you can listen to music and manage your playlist without using external programs. Supports YouTube, Soundcloud, Bandcamp, Vimeo, Twitch streams, `http://` URLs, and local files from `.mp3` to `.wav`, and more! Player controls range from Shuffle, Skip Forwards/Backwards, Pause/Play, Playlist Repeat, and Single Song Repeat, as well as seek bar support. Type `.musicplayer` for more info.",
+        "icon": "hycrafthd.png",
+        "actions": [
+            {
+                "icon": "curseforge.png",
+                "text": "CurseForge",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/music-player"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock",
+            "5;All PvP",
+            "7;For Creators"
+        ],
+        "file": "music_player-1.8.9-2.1.1.153.jar",
+        "url": "https://media.forgecdn.net/files/3841/508/music_player-1.8.9-2.1.1.153.jar",
+        "forge_id": "musicplayer",
+        "hash": "d988ed3971a8fa009ce54da6693b53fd"
+    },
+    {
+        "id": "hytilities-reborn",
+        "display": "Hytilities Reborn",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/hytilities",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!\n***Note: please see Hytils Reborn by Polyfrost for a more up-to-date version instead by running `-mod hytils`.***",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/Hytilities-Reborn"
+            }
+        ],
+        "categories": [
+            "1;Recommended"
+        ],
+        "update_to_ids": [
+            "hytils-reborn"
+        ],
+        "hidden": true,
+        "file": "Hytilities-Reborn-1.4.1.jar",
+        "url": "https://github.com/Polyfrost/Hytilities-Reborn/releases/download/v1.4.1/Hytilities-Reborn-1.4.1.jar",
+        "forge_id": "hytilities-reborn",
+        "hash": "6effeb4ef8f7ed4bbc465a9d0ed53268"
     },
     {
         "id": "sbcustommobtex",
@@ -1360,27 +1490,6 @@
         "url": "https://github.com/Moulberry/SBCustomMobTex/releases/download/v1.4/SBCustomMobTex-1.4.jar",
         "forge_id": "examplemod",
         "hash": "d5f64ef19330be7601f3538b386cde82"
-    },
-    {
-        "id": "rpm",
-        "nicknames": [
-            "resourcepackmanager"
-        ],
-        "display": "Resource Pack Manager",
-        "creator": "Aycy",
-        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
-        "icon": "aycy.jpg",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
-            }
-        ],
-        "file": "Resource_Pack_Manager_1.2.jar",
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
-        "forge_id": "resourcepackmanager",
-        "hash": "b334cd4cb15e3610ac47387a66c19dfb"
     },
     {
         "id": "controlling",
@@ -1466,6 +1575,7 @@
         ],
         "display": "Hypixel Autocomplete",
         "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
         "command": "/hypixelautocomplete",
         "description": "Hypixel Autocomplete Mod allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players.",
         "icon": "monkey.png",
@@ -1796,25 +1906,6 @@
         "hash": "f3333eabbfb73231108cd421f1a935d5"
     },
     {
-        "id": "oofmod",
-        "display": "OofMod",
-        "creator": "Powns, Refraction, Sk1er LLC",
-        "discordcode": "JxK7cwN",
-        "description": "Play custom sounds when killing other players.",
-        "icon": "powns.png",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "YouTube",
-                "link": "https://www.youtube.com/watch?v=weqoSxuQdnA"
-            }
-        ],
-        "file": "OofMod-3.0 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
-        "forge_id": "oofmod",
-        "hash": "c91c9f4e1e9c43f4b22e062d3708fe97"
-    },
-    {
         "id": "particlesenhanced",
         "nicknames": [
             "particlemod",
@@ -1901,36 +1992,6 @@
         "hash": "3fd8e0cbf24305d13c898c6991c56db7"
     },
     {
-        "id": "synthesis",
-        "nicknames": [
-            "synth"
-        ],
-        "display": "Synthesis",
-        "enabled": false,
-        "creator": "SirDesco, Antonio32A",
-        "description": "Hypixel SkyBlock QoL Mod. A collection of random mod features not to be found anywhere else.",
-        "icon": "github.png",
-        "actions": [
-            {
-                "icon": "guide.png",
-                "text": "guide",
-                "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
-            },
-            {
-                "icon": "github.png",
-                "text": "github",
-                "link": "https://github.com/SynthesisMod/Synthesis"
-            }
-        ],
-        "categories": [
-            "2;All Skyblock"
-        ],
-        "file": "Synthesis-0.3.1.jar",
-        "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
-        "forge_id": "synthesis",
-        "hash": "8deff2754507cd57d983dbc563e01a21"
-    },
-    {
         "id": "hychat",
         "display": "Hychat",
         "creator": "Moulberry",
@@ -1981,56 +2042,6 @@
         "url": "https://short.isxander.dev/qKYfzc",
         "forge_id": "crashhelper",
         "hash": "1662607fdad6fa24d7abfce4aeb3b6c9"
-    },
-    {
-        "id": "arrowpath",
-        "display": "Arrow Path",
-        "creator": "Aycy",
-        "description": "Visual trajectory of arrows.",
-        "icon": "aycy.jpg",
-        "actions": [
-            {
-                "icon": "youtube.png",
-                "text": "Showcase",
-                "link": "https://www.youtube.com/watch?v=f3iP-lzobxk"
-            }
-        ],
-        "categories": [
-            "5;All PvP"
-        ],
-        "file": "ArrowPath-v1.0.jar",
-        "forge_id": "arrowpath",
-        "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
-    },
-    {
-        "id": "musicplayer",
-        "nicknames": [
-            "music player",
-            "music_player",
-            "music-player"
-        ],
-        "display": "Music Player",
-        "creator": "HyCraftHD",
-        "discordcode": "QXbWS36",
-        "command": "None, press `F8` in-game to access all related menus. If that doesn't work, check your in-game controls and revise them as necessary.",
-        "description": "With this mod you can listen to music and manage your playlist without using external programs. Supports YouTube, Soundcloud, Bandcamp, Vimeo, Twitch streams, `http://` URLs, and local files from `.mp3` to `.wav`, and more! Player controls range from Shuffle, Skip Forwards/Backwards, Pause/Play, Playlist Repeat, and Single Song Repeat, as well as seek bar support. Type `.musicplayer` for more info.",
-        "icon": "hycrafthd.png",
-        "actions": [
-            {
-                "icon": "curseforge.png",
-                "text": "CurseForge",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/music-player"
-            }
-        ],
-        "categories": [
-            "2;All Skyblock",
-            "5;All PvP",
-            "7;For Creators"
-        ],
-        "file": "music_player-1.8.9-2.1.1.153.jar",
-        "url": "https://media.forgecdn.net/files/3841/508/music_player-1.8.9-2.1.1.153.jar",
-        "forge_id": "musicplayer",
-        "hash": "d988ed3971a8fa009ce54da6693b53fd"
     },
     {
         "id": "wyvtils",

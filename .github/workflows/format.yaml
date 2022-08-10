@@ -1,0 +1,55 @@
+name: Format (or check) JSON
+
+# Controls when the action will run.
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: "*"
+  pull_request:
+    branches: "*"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  format_json:
+    name: Format JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Configure git
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      - name: Grab Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16.x"
+      - name: Install dependencies
+        run: |
+          npm install -g prettier jsonschema-cli
+      - name: Check mods file is valid
+        run: |
+          validateJson -d files/mods.json -s loose_mod_bundle_schema.json
+      - name: Check Prettier
+        run: |
+          npx prettier **/*.json --check
+        if: ${{ github.event_name != 'push' }}
+      - name: Run Prettier
+        run: |
+          npx prettier **/*.json --write
+        if: ${{ github.event_name == 'push' }}
+      - name: Commit
+        run: |
+          #!/bin/bash 
+          set +e
+          git commit -am "Automatically prettify json"
+          set -e
+        if: ${{ github.event_name == 'push' }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+        if: ${{ github.event_name == 'push' }}
