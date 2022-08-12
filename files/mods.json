@@ -523,10 +523,10 @@
         "categories": [
             "7;For Creators"
         ],
-        "file": "replaymod-1.8.9-2.6.4.jar",
-        "url": "https://www.replaymod.com/download/download_new.php?version=1.8.9-2.6.4",
+        "file": "replaymod-1.8.9-2.6.8.jar",
+        "url": "https://www.replaymod.com/download/download_new.php?version=1.8.9-2.6.8",
         "forge_id": "replaymod",
-        "hash": "2888c1c111107aa03d5318210243ebdb"
+        "hash": "da501251b49ead3fee62914e84c6442b"
     },
     {
         "id": "blockoverlay",
