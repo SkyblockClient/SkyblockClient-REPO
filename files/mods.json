@@ -283,32 +283,6 @@
         "hash": "abfae9b9f1660ce0bdea20c2949fb435"
     },
     {
-        "id": "damagetilt",
-        "display": "Damage Tilt",
-        "creator": "Charles445",
-        "description": "Makes your camera tilt in a different direction based on where the damage came from.",
-        "icon": "damagetilt.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "GitHub",
-                "link": "https://github.com/Charles445/DamageTilt"
-            },
-            {
-                "icon": "curseforge.png",
-                "text": "Curseforge",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/damage-tilt"
-            }
-        ],
-        "categories": [
-            "5;All PvP"
-        ],
-        "file": "DamageTilt-0.2.0.jar",
-        "url": "https://github.com/Charles445/DamageTilt/releases/download/v0.1.1-3/DamageTilt-1.8.9-0.2.0-clientonly.jar",
-        "forge_id": "damagetilt",
-        "hash": "cfd4d151e3a5a181341a96995814ca5a"
-    },
-    {
         "id": "scu",
         "nicknames": [
             "skyclientupdater",
@@ -1312,6 +1286,32 @@
         "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.0/GlintColorizer-1.0.0.jar",
         "forge_id": "glintcolorizer",
         "hash": "5a06a4e4d1d436bec7e9fc0535ad408a"
+    },
+    {
+        "id": "damagetilt",
+        "display": "Damage Tilt",
+        "creator": "Charles445",
+        "description": "Makes your camera tilt in a different direction based on where the damage came from.",
+        "icon": "damagetilt.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Charles445/DamageTilt"
+            },
+            {
+                "icon": "curseforge.png",
+                "text": "Curseforge",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/damage-tilt"
+            }
+        ],
+        "categories": [
+            "5;All PvP"
+        ],
+        "file": "DamageTilt-0.2.0.jar",
+        "url": "https://github.com/Charles445/DamageTilt/releases/download/v0.1.1-3/DamageTilt-1.8.9-0.2.0-clientonly.jar",
+        "forge_id": "damagetilt",
+        "hash": "cfd4d151e3a5a181341a96995814ca5a"
     },
     {
         "id": "soundsubtitles",
