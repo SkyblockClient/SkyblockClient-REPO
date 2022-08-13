@@ -269,9 +269,7 @@
                 "link": "https://github.com/My-Name-Is-Jeff/SkyblockClient-Updater"
             }
         ],
-        "categories": [
-            "1;Recommended"
-        ],
+        "categories": ["1;Recommended"],
         "file": "SkyblockClient-Updater-1.3.0.jar",
         "url": "https://github.com/nacrt/SkyblockClient-Updater/releases/download/v1.3.0/SkyblockClient-Updater-1.3.0.jar",
         "forge_id": "skyblockclientupdater",
