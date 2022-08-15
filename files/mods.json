@@ -1647,7 +1647,7 @@
         "hidden": true,
         "file": "REDACTION-1.3.5.jar",
         "files": [
-            "Polyfrost/REDACTION/redaction.toml"
+            "W-OVERFLOW/REDACTION/redaction.toml"
         ],
         "url": "https://github.com/Polyfrost/REDACTION/releases/download/v1.3.5/REDACTION-1.3.5.jar",
         "forge_id": "redaction",
