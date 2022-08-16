@@ -787,10 +787,10 @@
             "2;All Skyblock",
             "3;For Dungeons"
         ],
-        "file": "Dankers_Skyblock_Mod-1.8.7-beta6.1.jar",
-        "url": "https://cdn.discordapp.com/attachments/742114256555606106/969437489804759050/Dankers_Skyblock_Mod-1.8.7-beta6.1.jar",
+        "file": "Danker.s.Skyblock.Mod-1.8.7-hotfix1.jar",
+        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.8.7/Danker.s.Skyblock.Mod-1.8.7-hotfix1.jar",
         "forge_id": "Danker's Skyblock Mod",
-        "hash": "045e5cc0ded4aa46179d3bf43ac6e354"
+        "hash": "61324086e798bf8d353193b1b45c9952"
     },
     {
         "id": "skytils",
