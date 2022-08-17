@@ -1,6 +1,8 @@
 [
     {
         "id": "packsplus",
+        "icon": "packsplus.webp",
+        "parter": true,
         "code": "8dGb5Prgch",
         "fancyname": "Packs+",
         "nicknames": [
