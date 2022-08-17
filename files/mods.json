@@ -967,7 +967,8 @@
         "discordcode": "dg",
         "command": "/dg",
         "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
-        "icon": "dungeonsguide.jpg",
+        "icon": "dungeonsguide.png",
+        "icon_scaling": "pixel",
         "actions": [
             {
                 "method": "hover",
