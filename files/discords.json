@@ -1,5 +1,16 @@
 [
     {
+        "id": "packsplus",
+        "code": "8dGb5Prgch",
+        "fancyname": "Packs+",
+        "nicknames": [
+            "fishfault",
+            "packs+",
+            "packs +",
+            "packs plus"
+        ]
+    },
+    {
         "id": "soopy",
         "code": "dfSMq96RSN",
         "fancyname": "SoopyV2",
