@@ -742,13 +742,13 @@
             "2;All Skyblock",
             "4;Recommended Skyblock"
         ],
-        "file": "NotEnoughUpdates-2.1-Watching-2.jar",
+        "file": "NotEnoughUpdates-2.1-map.jar",
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "url": "https://cdn.discordapp.com/attachments/837679819487313971/1009396159334326332/NotEnoughUpdates-2.1-Watching-2.jar",
+        "url": "https://cdn.discordapp.com/attachments/837679819487313971/1007926575481765949/NotEnoughUpdates-2.1-map.jar",
         "forge_id": "notenoughupdates",
-        "hash": "a6948b437fa713e84c713c560e2356c0"
+        "hash": "b673bb965678ba9d0529260b16158be6"
     },
     {
         "id": "dsm",
