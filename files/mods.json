@@ -871,13 +871,13 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "Apec-1.10.1.jar",
+        "file": "apec-1.10.2.jar",
         "files": [
             "config/Apec/Settings.txt"
         ],
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.1/Apec-1.10.1.jar",
+        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.2/apec-1.10.2.jar",
         "forge_id": "apec",
-        "hash": "3e5de61af6a40aa69bc47056425fb1dd"
+        "hash": "882c8fee87388c5cba07570cdadbe425"
     },
     {
         "id": "cowlection",
