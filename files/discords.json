@@ -4,6 +4,7 @@
         "icon": "packsplus.webp",
         "description": "A Discord where you can download and discuss multiple packs, including FishFault.",
         "partner": true,
+        "type": "packs",
         "code": "8dGb5Prgch",
         "fancyname": "Packs+",
         "nicknames": [
@@ -74,8 +75,9 @@
         "id": "neu",
         "code": "moulberry",
         "partner": true,
+        "type": "mods",
         "fancyname": "Moulberry's Bush",
-        "description": "The official Discord server for all of Moulberry's mods, including NotEnoughUpdates.",
+        "description": "The official Discord for all of Moulberry's mods, including NotEnoughUpdates.",
         "icon": "neu.png",
         "nicknames": [
             "neu",
@@ -101,9 +103,10 @@
         "id": "dungeonsguide",
         "code": "h7j5m72zqW",
         "fancyname": "DungeonsGuide",
-        "description": "The official discord server for the Dungeons Guide mod. Dungeons Guide is an incredibly advanced dungeons mod.",
+        "description": "The official Discord for the Dungeons Guide mod, an incredibly advanced dungeons mod.",
         "icon": "dungeonsguide.png",
         "partner": true,
+        "type": "mods",
         "nicknames": [
             "dg",
             "dungeonsguide"
@@ -164,6 +167,7 @@
         "description": "Apec is a Minecraft mod that improves the in-game GUI to better suit Hypixel Skyblock and gives it a cleaner look.",
         "code": "HyvcR9a3x9",
         "partner": true,
+        "type": "mods",
         "icon": "apec.png",
         "mods": [
             "apec"
@@ -175,7 +179,7 @@
     {
         "id": "cowlection",
         "fancyname": "Cowshed",
-        "description": "Cowshed is the place for latest Hypixel SkyBlock news, leaks and update discussions, and the home of the Minecraft Mod Cowlection.",
+        "description": "Cowshed is the place for latest Hypixel SkyBlock news, leaks and update discussions, and the home of the mod Cowlection.",
         "code": "KRq5ZY9Hma",
         "partner": true,
         "icon": "cowlection.webp",
@@ -192,7 +196,8 @@
         "id": "dsm",
         "code": "BUmywXX47M",
         "partner": true,
-        "description": "Join the official discord for Danker's Skyblock Mod - QOL changes that enhances your Hypixel Skyblock experience. Created to add features I couldn't find in a mod, or if the mod was paid.",
+        "type": "mods",
+        "description": "The official Discord for Danker's Skyblock Mod, a mod with QOL changes that enhances your Hypixel Skyblock experience. Created to add features Danker couldn't find in a free mod.",
         "fancyname": "Dankers Skyblock Mod",
         "icon": "dsm.webp",
         "nicknames": [
@@ -207,8 +212,9 @@
         "id": "fsr",
         "code": "tXxeBkF7Er",
         "partner": true,
+        "type": "packs",
         "fancyname": "FurfSky Reborn",
-        "description": "A nice community to improve your art skills or just hang. Whether you're a seasoned pixel artist, a beginner or you've never touched a pixel we're confident you'll find your place here! Check out their server to download the FurfSky Reborn pack and to ask any questions!",
+        "description": "A nice community to improve your art skills or just hang. Whether you're a seasoned pixel artist, a beginner or you've never touched a pixel we're confident you'll find your place here. Feel free to ask any questions or get more info about the FurfSky Reborn pack here.",
         "icon": "fsr.gif",
         "nicknames": [
             "furfsky",
@@ -223,8 +229,9 @@
         "id": "rnbw",
         "code": "dcdsnvG4Q4",
         "partner": true,
+        "type": "packs",
         "fancyname": "RNBW+ Resource Pack Official",
-        "description": "The official discord for the RNBW+ discord",
+        "description": "The official Discord for the RNBW+ pack, a pack inspired by the modern Minecraft art style.",
         "icon": "rnbw_hq.png",
         "packs": [
             "rnbw"
@@ -275,8 +282,9 @@
         "fancyname": "SkyblockPersonalized",
         "code": "KsqMmBdNBE",
         "icon": "sbp.png",
-        "description": "The QoL mod with customizability to unhealthy extents, as well as a lot of QoL features for the Dwarven Mines and dungeons.",
+        "description": "A QOL mod with customizability to unhealthy extents, with a lot of features for the Dwarven Mines and dungeons.",
         "partner": true,
+        "type": "mods",
         "nicknames": [
             "skyblockpersonalized",
             "sbp"
@@ -289,8 +297,9 @@
         "id": "motors",
         "code": "uxmruk7rtp",
         "fancyname": "Motor's Garage",
-        "description": "Motor's Packs is the place to download ActuallyAssets and other packs by Motor, featured in SkyClient.",
+        "description": "Motor's Packs is the place to discuss ActuallyAssets and other packs by Motor, featured in SkyClient.",
         "partner": true,
+        "type": "packs",
         "icon": "motors.webp",
         "nicknames": [
             "motors",
@@ -310,8 +319,9 @@
         "id": "sbov",
         "code": "BcVQUcM6mM",
         "fancyname": "Skyblock Overhaul",
-        "description": "Hypixel Skyblock has a variety of swords, bows and tools. The Skyblock Overhaul Revamped pack will include completely overhauled textures of the items in Skyblock, and bring life to the textures with intricate designs and colour!",
+        "description": "Hypixel Skyblock has a variety of swords, bows and tools. The Skyblock Overhaul Revamped pack includes completely overhauled textures of the items in Skyblock, and brings life to the textures with intricate designs and colour.",
         "partner": true,
+        "type": "packs",
         "icon": "sbov.png",
         "nicknames": [
             "skyblockoverhaul",
@@ -325,9 +335,10 @@
         "id": "wab",
         "code": "BtAYyxf3W8",
         "partner": true,
+        "type": "packs",
         "icon": "wab.webp",
         "fancyname": "Worlds and Beyond",
-        "description": "A texturepack with unique textures for skyblock items, swords, bows, armors, everything! (Not everything is finished but most are) It also includes a revamped vanilla GUI as well to spice up your gameplay.",
+        "description": "Discord for a pack with unique textures for GUI, skyblock items, swords, bows, armors, everything.",
         "nicknames": [
             "wab",
             "worldsandbeyond"
@@ -388,10 +399,11 @@
     {
         "id": "nameless",
         "partner": true,
+        "type": "packs",
         "code": "XXxSuX8VMX",
         "icon": "nameless_big.png",
         "fancyname": "Nameless",
-        "description": "The amazing Nameless Texture Pack server",
+        "description": "The server for the Nameless pack [WIP], a Skyblock pack with unique textures.",
         "nicknames": [
             "nameless",
             "smolegit"
