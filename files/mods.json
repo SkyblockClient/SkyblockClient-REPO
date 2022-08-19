@@ -701,10 +701,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "SkyBlockHud-1.14.1.jar",
-        "url": "https://github.com/RayDeeUx/SkyblockHud-Reborn/releases/download/v1.14.1/SkyBlockHud-1.14.1.jar",
+        "file": "SkyBlockHud-1.14.2.jar",
+        "url": "https://github.com/RayDeeUx/SkyblockHud-Reborn/releases/download/v1.14.2/SkyBlockHud-1.14.2.jar",
         "forge_id": "skyblockhud",
-        "hash": "b83100a2feea4c013da846acf9091bc8"
+        "hash": "6125af3a20d38c3dd8da93f03927e3f2"
     },
     {
         "id": "neu",
