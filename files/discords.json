@@ -439,5 +439,17 @@
         "mods": [
             "oofmod"
         ]
+    },
+    {
+        "id": "bznotifier",
+        "code": "wjpJSVSwvD",
+        "fancyname": "meyi's hangout",
+        "nicknames": [
+            "bazaarnotifier",
+            "meyi"
+        ],
+        "mods": [
+            "bazaarnotifier"
+        ]
     }
 ]
