@@ -746,9 +746,9 @@
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "url": "https://cdn.discordapp.com/attachments/837679819487313971/1010143826901475358/NotEnoughUpdates-2.1-Watching-3.jar",
+        "url": "https://cdn.discordapp.com/attachments/887818760126345246/1010546412997586994/NotEnoughUpdates-2.11068fdc-dep.jar",
         "forge_id": "notenoughupdates",
-        "hash": "440891272cb82611e2c5ccc2517ae415"
+        "hash": "e38ccee9fb858941fdc1eeb9e75aa7e3"
     },
     {
         "id": "dsm",
