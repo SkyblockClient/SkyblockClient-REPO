@@ -256,7 +256,7 @@
         "display": "Worlds and Beyond 16x",
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
-        "description": "A texturepack with unique textures for Skyblock items, swords, bows, armors, everything! (Not everything is finished but most are)\nIt also includes a revamped vanilla GUI to spice up your gameplay.",
+        "description": "(Still WIP)\nA texturepack with unique textures for Skyblock items, swords, bows, armors, everything!\nIncludes a revamped vanilla GUI to spice up your gameplay.",
         "icon": "worldsandbeyond.png",
         "screenshot": "https://hypixel.net/attachments/misc-items-showcase-png.2340224/",
         "actions": [
@@ -280,7 +280,7 @@
         "display": "SkyblockOverhaul",
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
-        "description": "Skyblock Overhaul includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs!",
+        "description": "Includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs!",
         "icon": "sbov.png",
         "actions": [
             {
@@ -301,7 +301,7 @@
         "display": "PacksHQ Dark UI",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
-        "description": "Packs HQ Skyblock Pack dark UI",
+        "description": "The famous PacksHQ Skyblock pack but with a dark UI, how cool is that!",
         "icon": "phq dark overlay.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
         "actions": [
@@ -327,7 +327,7 @@
         "display": "Essential Theme",
         "creator": "Reforced",
         "discordcode": "aqSEzgWnYy",
-        "description": "Essential Themed UI",
+        "description": "A pack incorporating Essential's coloring!",
         "icon": "essentialtheme.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
         "actions": [
@@ -358,7 +358,7 @@
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
             {
-                "text": "Forum",
+
                 "link": "https://hypixel.net/threads/2103515/"
             },
             {
@@ -408,7 +408,7 @@
         "display": "ActuallyAssets v1.8.1 16x",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "description": "Clean and simple Skyblock Pack.",
+        "description": "A simple Skyblock pack keeping with the normal Minecraft theme.",
         "icon": "actuallyassets.png",
         "icon_scaling": "pixel",
         "screenshot": "https://i.imgur.com/ZAkUNb1.png",
@@ -439,7 +439,7 @@
         "display": "FurfSky Reborn 16x",
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
-        "description": "The continuation of FurfSky+.",
+        "description": "Continuation of the famous FurfSky+, with even more textures!",
         "icon": "fsr.png",
         "screenshot": "https://cdn.discordapp.com/attachments/887818760126345246/981021850018660372/unknown.png",
         "actions": [
@@ -508,7 +508,7 @@
         "display": "1.14 Default 16x",
         "enabled": true,
         "creator": "Qwuiblington & Motor",
-        "description": "Default 1.14 port.",
+        "description": "A backport of 1.14 default textures, so you can use them in older versions!",
         "icon": "default.png",
         "actions": [
             {
