@@ -36,7 +36,6 @@
         "code": "chattriggers",
         "fancyname": "Chat Triggers",
         "nicknames": [
-            "ctjs",
             "chattriggers"
         ]
     },
@@ -81,7 +80,6 @@
         "description": "The official Discord for all of Moulberry's mods, including NotEnoughUpdates.",
         "icon": "neu.png",
         "nicknames": [
-            "neu",
             "moulberry",
             "sbcustommobtex",
             "mb",
@@ -109,8 +107,7 @@
         "partner": true,
         "type": "mods",
         "nicknames": [
-            "dg",
-            "dungeonsguide"
+            "dg"
         ],
         "mods": [
             "dungeonsguide"
@@ -155,8 +152,7 @@
         "nicknames": [
             "skyblockaddons",
             "biscuit",
-            "bb",
-            "sba"
+            "bb"
         ],
         "mods": [
             "sba"
@@ -188,7 +184,6 @@
             "cowlection"
         ],
         "nicknames": [
-            "cowlection",
             "cow",
             "cowshed"
         ]
@@ -202,8 +197,7 @@
         "fancyname": "Dankers Skyblock Mod",
         "icon": "dsm.webp",
         "nicknames": [
-            "dankers",
-            "dsm"
+            "dankers"
         ],
         "mods": [
             "dankers"
@@ -219,7 +213,6 @@
         "icon": "fsr.gif",
         "nicknames": [
             "furfsky",
-            "fsr",
             "furfskyreborn"
         ],
         "packs": [
@@ -238,7 +231,7 @@
             "rnbw"
         ],
         "nicknames": [
-            "rnbw"
+            "rnbw+"
         ]
     },
     {
@@ -247,8 +240,7 @@
         "fancyname": "Sk1er Support",
         "nicknames": [
             "sk1erbeta",
-            "sk1erhelp",
-            "sk1ersupport"
+            "sk1erhelp"
         ]
     },
     {
@@ -259,7 +251,6 @@
         "icon": "st.png",
         "nicknames": [
             "st",
-            "skytils",
             "simpletogglesprint"
         ],
         "mods": [
@@ -271,7 +262,6 @@
         "code": "xGVXsgbbSt",
         "fancyname": "OptiFine",
         "nicknames": [
-            "optifine",
             "of"
         ],
         "mods": [
@@ -287,8 +277,7 @@
         "partner": true,
         "type": "mods",
         "nicknames": [
-            "skyblockpersonalized",
-            "sbp"
+            "skyblockpersonalized"
         ],
         "mods": [
             "sbp"
@@ -303,7 +292,6 @@
         "type": "packs",
         "icon": "motors.webp",
         "nicknames": [
-            "motors",
             "actuallyassets",
             "dwarvenassets",
             "actuallymobs",
@@ -325,8 +313,7 @@
         "type": "packs",
         "icon": "sbov.png",
         "nicknames": [
-            "skyblockoverhaul",
-            "sbov"
+            "skyblockoverhaul"
         ],
         "packs": [
             "skyblockoverhaul"
@@ -341,7 +328,6 @@
         "fancyname": "Worlds and Beyond",
         "description": "Discord for a pack with unique textures for GUI, skyblock items, swords, bows, armors, everything.",
         "nicknames": [
-            "wab",
             "worldsandbeyond"
         ]
     },
@@ -368,7 +354,6 @@
             "patcher",
             "keystrokes",
             "tnttime",
-            "sk1er",
             "popup_events",
             "scrollabletooltips",
             "soundsubtitles"
@@ -406,7 +391,6 @@
         "fancyname": "Nameless",
         "description": "The server for the Nameless pack [WIP], a Skyblock pack with unique textures.",
         "nicknames": [
-            "nameless",
             "smolegit"
         ],
         "packs": [
