@@ -88,7 +88,8 @@
             "antidreamskin",
             "hudcaching",
             "cult",
-            "moul"
+            "moul",
+            "bush"
         ],
         "mods": [
             "neu",
@@ -107,7 +108,8 @@
         "partner": true,
         "type": "mods",
         "nicknames": [
-            "dg"
+            "dg",
+            "syeyoung"
         ],
         "mods": [
             "dungeonsguide"
@@ -139,7 +141,8 @@
             "wyvtilities",
             "www",
             "qalcyo",
-            "woverflow"
+            "woverflow",
+            "wyvtils"
         ],
         "mods": [
             "wyvtils"
@@ -152,7 +155,8 @@
         "nicknames": [
             "skyblockaddons",
             "biscuit",
-            "bb"
+            "bb",
+            "biscut"
         ],
         "mods": [
             "sba"
@@ -407,7 +411,9 @@
             "hycrafthd",
             "music player",
             "music_player",
-            "music-player"
+            "music-player",
+            "music",
+            "player"
         ],
         "mods": [
             "musicplayer"
