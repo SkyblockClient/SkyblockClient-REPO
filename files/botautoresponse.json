@@ -779,5 +779,14 @@
             ]
         ],
         "response": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skyclient_greeting_optimizer.md"
+    },
+    {
+        "unclebot": true,
+        "triggers": [
+            [
+                ".feather"
+            ]
+        ],
+        "response": "https://hypixel.net/threads/feather-client-what-you-should-know-about-this-client.4801748/"
     }
 ]
