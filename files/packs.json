@@ -53,7 +53,7 @@
         "display": "Compliment",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "description": "Compliment backports new item textures from 1.9 and above into 1.8 using Optifine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures!",
+        "description": "Compliment backports new item textures from 1.9 and above into 1.8 using OptiFine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures!",
         "icon": "compliment.png",
         "icon_scaling": "pixel",
         "screenshot": "https://cdn.discordapp.com/attachments/810285335581425734/937003449424433213/unknown.png",
@@ -191,7 +191,7 @@
         "id": "hp+",
         "display": "Hypixel+ 16x",
         "creator": "ic22487",
-        "description": "Hypixel+ is a 16x pack with a fresh look that changes textures not only in skyblock!",
+        "description": "Hypixel+ is a 16x pack with a fresh look that changes textures not only in Skyblock!",
         "icon": "hypixelplus.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-new-items-png.2986247/",
         "actions": [

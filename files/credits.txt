@@ -16,10 +16,10 @@ HUDCaching - By Moulberry
 Insomnia - By Moulberry
 ItsTheLittleThings - By Zlepper & Paint_Ninja
 Keystrokes - By Sk1erLLC
-RNBW+ 16x - Rainbowcraft2
+RNBW+ 16x - By Rainbowcraft2
 MiniInfo - By Aycy
 Mob packet - By Viska & Mira_23
-Nameless - Smolegit
+Nameless - By Smolegit
 NotEnoughUpdates - By Moulberry
 OptiFine - By sp614x
 PacksHQ dark UI addon - By Packs HQ Team
