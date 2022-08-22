@@ -408,7 +408,7 @@
         "enabled": true,
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
-        "description": "Stop crashes from closing your game and provide solutions.",
+        "description": "Stops crashes from closing your game and provides a solution if found.",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -642,7 +642,7 @@
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
         "command": "/sba",
-        "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover.",
+        "description": "Essential QOL Skyblock mod with a plethora of indispensable features, locking slots, timers, and a ton more to discover.",
         "icon": "bisquit.png",
         "actions": [
             {
@@ -689,7 +689,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "command": "/sbh",
-        "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
+        "description": "SBH focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
         "icon": "sbhlogo.png",
         "actions": [
             {
@@ -935,7 +935,7 @@
         "creator": "Cobble8",
         "discordcode": "KsqMmBdNBE",
         "command": "/sbp",
-        "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
+        "description": "A mod with a lot of customizability and a large variety of features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
         "icon": "sbp.png",
         "actions": [
             {
@@ -966,7 +966,7 @@
         "creator": "Syeyoung",
         "discordcode": "dg",
         "command": "/dg",
-        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features.",
         "icon": "dungeonsguide.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -1005,7 +1005,7 @@
         "creator": "_risk",
         "discordcode": "7B5RbsArYK",
         "command": "/room",
-        "description": "Displays dungeon room id/name and adds waypoints for secrets.",
+        "description": "Displays information about the dungeon room you are currently in and adds waypoints for secrets.",
         "icon": "drm.png",
         "actions": [
             {
