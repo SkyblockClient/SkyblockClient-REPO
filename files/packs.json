@@ -3,7 +3,7 @@
         "id": "mobpacket",
         "display": "Mob Packet",
         "creator": "Viska & Mira_23",
-        "description": "Adds custom textures to most Hypixel Skyblock mobs for a more immersive experience!",
+        "description": "Adds custom textures to most Hypixel Skyblock mobs for a more immersive experience.",
         "icon": "mob packet.png",
         "screenshot": "https://i.imgur.com/k2c3s2Cm.png",
         "actions": [
@@ -53,7 +53,7 @@
         "display": "Compliment",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "description": "Backports new item textures from 1.9 and above into 1.8 using OptiFine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures!",
+        "description": "Backports new item textures from 1.9 and above into 1.8 using OptiFine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures.",
         "icon": "compliment.png",
         "icon_scaling": "pixel",
         "screenshot": "https://cdn.discordapp.com/attachments/810285335581425734/937003449424433213/unknown.png",
@@ -191,7 +191,7 @@
         "id": "hp+",
         "display": "Hypixel+ 16x",
         "creator": "ic22487",
-        "description": "A 16x pack with a fresh look that changes textures not only in Skyblock!",
+        "description": "A 16x pack with a fresh look that changes textures not only in Skyblock.",
         "icon": "hypixelplus.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-new-items-png.2986247/",
         "actions": [
@@ -256,7 +256,7 @@
         "display": "Worlds and Beyond 16x",
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
-        "description": "(Still WIP)\nA texturepack with unique textures for Skyblock items, swords, bows, armors, everything!\nIncludes a revamped vanilla GUI to spice up your gameplay.",
+        "description": "A WIP pack with unique textures for Skyblock items, swords, bows, armors, everything. Includes a revamped vanilla GUI to spice up your gameplay.",
         "icon": "worldsandbeyond.png",
         "screenshot": "https://hypixel.net/attachments/misc-items-showcase-png.2340224/",
         "actions": [
@@ -280,7 +280,7 @@
         "display": "SkyblockOverhaul",
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
-        "description": "Includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs!",
+        "description": "Includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs.",
         "icon": "sbov.png",
         "actions": [
             {
@@ -301,7 +301,7 @@
         "display": "PacksHQ Dark UI",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
-        "description": "The famous PacksHQ Skyblock pack but with a dark UI, how cool is that!",
+        "description": "The famous PacksHQ Skyblock pack but with a dark UI, how cool is that.",
         "icon": "phq dark overlay.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
         "actions": [
@@ -327,7 +327,7 @@
         "display": "Essential Theme",
         "creator": "Reforced",
         "discordcode": "aqSEzgWnYy",
-        "description": "A pack incorporating Essential's coloring!",
+        "description": "A pack incorporating Essential's coloring.",
         "icon": "essentialtheme.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
         "actions": [
@@ -439,7 +439,7 @@
         "display": "FurfSky Reborn 16x",
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
-        "description": "Continuation of the famous FurfSky+, with even more textures!",
+        "description": "Continuation of the famous FurfSky+, with even more textures.",
         "icon": "fsr.png",
         "screenshot": "https://cdn.discordapp.com/attachments/887818760126345246/981021850018660372/unknown.png",
         "actions": [
@@ -508,7 +508,7 @@
         "display": "1.14 Default 16x",
         "enabled": true,
         "creator": "Qwuiblington & Motor",
-        "description": "A backport of 1.14 default textures, so you can use them in older versions!",
+        "description": "A backport of 1.14 default textures, so you can use them in older versions.",
         "icon": "default.png",
         "actions": [
             {
