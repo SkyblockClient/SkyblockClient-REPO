@@ -787,7 +787,7 @@
                 ".feather"
             ]
         ],
-        "response": "<https://hypixel.net/threads/feather-client-what-you-should-know-about-this-client.4801748/>"
+        "response": "https://hypixel.net/threads/feather-client-what-you-should-know-about-this-client.4801748/"
     },
     {
         "unclebot": true,
@@ -796,6 +796,6 @@
                 ".java"
             ]
         ],
-        "response": "You should not need Java if you are using SkyClient however if required we recommend Adoptium.\n Make sure to set your architecture and operating system:\n<https://adoptium.net/temurin/releases/?version=8>"
+        "response": "You should not need to manually install Java with SkyClient, but if you need to we recommend Adoptium.\nFilter by your chip architecture and operating system at <https://adoptium.net/temurin/releases/?version=8>, and download the right version.\nIf you are having trouble installing Java check out Essential's guide at <https://essential.gg/support/troubleshooting/install-java>"
     }   
 ]
