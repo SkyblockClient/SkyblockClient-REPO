@@ -1271,7 +1271,7 @@
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "command": "/glintcolorizer",
-        "description": "Customize the glint color of items and more..",
+        "description": "Customize the glint color of items and more.",
         "icon": "wyvest.png",
         "actions": [
             {
