@@ -1775,10 +1775,10 @@
             }
         ],
         "hidden": true,
-        "file": "LevelHead-8.2.1 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.1/1.8.9/LevelHead-8.2.1 (1.8.9).jar",
+        "file": "LevelHead-8.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2 (1.8.9).jar",
         "forge_id": "level_head",
-        "hash": "74f957bcba864bbad732cebe603bf203"
+        "hash": "640a324f794356b20888fc9b62c542fd"
     },
     {
         "id": "autogg",
