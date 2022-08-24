@@ -625,13 +625,13 @@
         "categories": [
             "7;For Creators"
         ],
-        "file": "Nick Hider-6.0.1 (1.8.9).jar",
+        "file": "doe.jar",
         "files": [
             "nickhider.toml"
         ],
-        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.1/1.8.9/Nick Hider-6.0.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick Hider-6.0.2 (1.8.9).jar",
         "forge_id": "nick_hider",
-        "hash": "9da644290996fdf4bf60536de07a72f9"
+        "hash": "241d35b27080934b1e31365686e5b804"
     },
     {
         "id": "sba",
