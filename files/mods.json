@@ -340,7 +340,7 @@
         "nicknames": [
             "of"
         ],
-        "display": "OptiFine M5",
+        "display": "OptiFine M6 Preview 2",
         "enabled": true,
         "creator": "sp614x",
         "discordcode": "xGVXsgbbSt",
@@ -357,12 +357,12 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "OptiFine_1.8.9_HD_U_M5.jar",
+        "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "files": [
             "optionsof.txt"
         ],
-        "url": "https://optifine.net/download?f=OptiFine_1.8.9_HD_U_M5.jar",
-        "hash": "0765dc1bcbe5baa83f7c261ac2c133ed"
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+        "hash": "7372b982a428656b7a1029c5b42cbf3d"
     },
     {
         "id": "patcher",
