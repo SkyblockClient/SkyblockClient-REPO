@@ -1987,10 +1987,10 @@
         "creator": "TechnicianLP",
         "description": "Log in from Ingame",
         "hidden": true,
-        "file": "ReAuth-1.19-Forge-4.0.5.jar",
-        "url": "https://mediafiles.forgecdn.net/files/3900/864/ReAuth-1.19-Forge-4.0.5.jar",
+        "file": "ReAuth-1.8-Forge-4.0.3.jar",
+        "url": "https://mediafiles.forgecdn.net/files/3826/296/ReAuth-1.8-Forge-4.0.3.jar",
         "forge_id": "reauth",
-        "hash": "eb5caa44c120aeda4a307bd077975912"
+        "hash": "f3cb6851d0cae5d632e22c8cb1bb5c17"
     },
     {
         "id": "crashhelper",
