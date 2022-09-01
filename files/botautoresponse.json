@@ -2,6 +2,14 @@
     {
         "triggers": [
             [
+                "chat"
+            ]
+        ],
+        "response": "­\n**If your chat is invisible:**\n\nThis issue is currently being investigated.\In the mean time, remove Hytils-Reborn <https://youtu.be/E6lwqIo0-Ms>"
+    },
+    {
+        "triggers": [
+            [
                 "take"
             ],
             [
