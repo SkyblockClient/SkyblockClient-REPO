@@ -471,7 +471,8 @@
             "hytilities"
         ],
         "display": "Hytils Reborn",
-        "enabled": true,
+        "enabled": false,
+        "hidden": true,
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "command": "/hytils",
