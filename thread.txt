@@ -1,6 +1,5 @@
 [CENTER]
-[ATTACH type="full" width="600px" alt="header.png"]2985262[/ATTACH]
-
+[ATTACH type="full" width="600px" alt="SC_Downloads - Thread.png"]3082337[/ATTACH]
 [SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
 
 Over almost two years ago, Skye, one of the former Moulberry Staff members, and I started working on a program that installs Forge, Optifine and every other mod and pack that you might need to play Skyblock (or just the game in general).
@@ -144,5 +143,4 @@ java -jar Skyclient-Universal-Installer-2.0.2.jar[/CODE]
 
 [/SPOILER]
 [/SPOILER]
-[/SPOILER]
-[/CENTER]
+[/SPOILER][/CENTER]
