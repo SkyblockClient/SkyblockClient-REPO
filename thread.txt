@@ -1,5 +1,5 @@
 [CENTER]
-[ATTACH type="full" width="600px"]2985262[/ATTACH]
+[ATTACH type="full" width="600px" alt="header.png"]2985262[/ATTACH]
 
 [SIZE=5][URL='https://inv.wtf/skyclient']SkyClient Discord[/URL][/SIZE]
 
@@ -8,7 +8,7 @@ Over almost two years ago, Skye, one of the former Moulberry Staff members, and 
 This is the result of that project. Designed to be a great alternative to clients like Badlion and Lunar,
 and have a lot of convenience for the end user.
 
-[ATTACH type="full" width="600px"]2985264[/ATTACH]
+[ATTACH type="full" width="600px" alt="SC_Features - Thread.png"]3082303[/ATTACH]
 
 [COLOR=rgb(112, 203, 68)][SIZE=5][U][B]One-click Forge Installation[/B][/U][/SIZE][/COLOR]
 [COLOR=rgb(0, 0, 0)][SIZE=4]This one basically explains itself.
@@ -77,8 +77,7 @@ Along with that, you can easily access the Github page, website, video, or whate
 [ATTACH type="full" alt="scthreadscreenshot.png"]2965076[/ATTACH]
 
 
-[ATTACH type="full" width="600px"]2985265[/ATTACH]
-
+[ATTACH type="full" width="600px" alt="SC_Downloads - Thread.png"]3082302[/ATTACH]
 
 [SIZE=6][COLOR=rgb(112, 203, 68)][U][B]Ooops! Windows Defender Alert![/B][/U][/COLOR][/SIZE]
 The only reason Windows Defender says "We protected your PC" is because we did not buy an expensive certificate for it. (And why do we need to? We are devs working on this in our free time.)
@@ -145,4 +144,5 @@ java -jar Skyclient-Universal-Installer-2.0.2.jar[/CODE]
 
 [/SPOILER]
 [/SPOILER]
-[/SPOILER][/CENTER]
+[/SPOILER]
+[/CENTER]
