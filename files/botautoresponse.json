@@ -787,5 +787,32 @@
             ]
         ],
         "response": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skyclient_greeting_optimizer.md"
+    },
+    {
+        "unclebot": true,
+        "triggers": [
+            [
+                ".feather"
+            ]
+        ],
+        "response": "https://hypixel.net/threads/feather-client-what-you-should-know-about-this-client.4801748/"
+    },
+    {
+        "unclebot": true,
+        "triggers": [
+            [
+                ".java"
+            ]
+        ],
+        "response": "You should not need to manually install Java with SkyClient, but if you need to we recommend Adoptium.\nFilter by your chip architecture and operating system at <https://adoptium.net/temurin/releases/?version=8>, and download the right version.\nIf you are having trouble installing Java check out Essential's guide at <https://essential.gg/support/troubleshooting/install-java>"
+    },
+    {
+        "unclebot": true,
+        "triggers": [
+            [
+                ".betterfps"
+            ]
+        ],
+        "response": "https://cdn.discordapp.com/attachments/411620457754787841/822480154508001290/BeastNation1234_lmfao.mp4\nhttps://www.reddit.com/r/HypixelSkyblock/comments/on4ee3/i_think_one_of_my_mods_are_acting_weird_idk_tho/"
     }
 ]

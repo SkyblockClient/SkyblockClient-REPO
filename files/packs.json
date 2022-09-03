@@ -3,7 +3,7 @@
         "id": "mobpacket",
         "display": "Mob Packet",
         "creator": "Viska & Mira_23",
-        "description": "The resource pack that adds textures to most of the custom Skyblock mobs!",
+        "description": "Adds custom textures to most Hypixel Skyblock mobs for a more immersive experience.",
         "icon": "mob packet.png",
         "screenshot": "https://i.imgur.com/k2c3s2Cm.png",
         "actions": [
@@ -28,7 +28,7 @@
         "hidden": true,
         "display": "Dungeons Texturepack",
         "creator": "gratenes & Havenz",
-        "description": "Dungeons resource pack",
+        "description": "Uses OptiFines's CTM to add overlays to Hypixel's Dungeons blocks like chests, levers, cracked bricks, etc. to help you with secrets.",
         "icon": "dungeon texturepack 1024x.png",
         "icon_scaling": "pixel",
         "screenshot": "https://i.imgur.com/x6V1ko8.png",
@@ -53,7 +53,7 @@
         "display": "Compliment",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "description": "Compliment backports new item textures from 1.9 and above into 1.8 using OptiFine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures!",
+        "description": "Backports new item textures from 1.9 and above into 1.8 using OptiFine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures.",
         "icon": "compliment.png",
         "icon_scaling": "pixel",
         "screenshot": "https://cdn.discordapp.com/attachments/810285335581425734/937003449424433213/unknown.png",
@@ -83,7 +83,7 @@
         "display": "DwarvenAssets",
         "creator": "Motor & nacrt",
         "discordcode": "ABHrh6K3Fh",
-        "description": "DwarvenAssets retextures Mithril Veins in the Dwarven Mines to give your game a more custom feel",
+        "description": "Retextures mithril veins in the Dwarven Mines to give your game a more custom feel.",
         "icon": "da.png",
         "icon_scaling": "pixel",
         "screenshot": "https://raw.githubusercontent.com/ActuallyAssets/DwarvenAssets/master/SCREENSHOTS/3.png",
@@ -109,7 +109,7 @@
         "id": "xcyni",
         "display": "xCynis Skyblock Pack",
         "creator": "xCyni (forge>badlion)",
-        "description": "This pack is a mashup of a lot of different packs. All textures used from other packs have been revamped or converted from 16x to 32x.",
+        "description": "A mashup of a lot of different packs. All textures used from other packs have been revamped or converted from 16x to 32x.",
         "icon": "xcyni.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-forums-texture-pack-items-png.2927894/",
         "actions": [
@@ -154,7 +154,7 @@
         "id": "nameless",
         "display": "Nameless",
         "creator": "Smolegit",
-        "description": "Nameless is a new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
+        "description": "A new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
         "icon": "nameless.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/Nameless [Alpha 5].zip.png",
         "actions": [
@@ -191,7 +191,7 @@
         "id": "hp+",
         "display": "Hypixel+ 16x",
         "creator": "ic22487",
-        "description": "Hypixel+ is a 16x pack with a fresh look that changes textures not only in Skyblock!",
+        "description": "A 16x pack with a fresh look that changes textures not only in Skyblock.",
         "icon": "hypixelplus.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-new-items-png.2986247/",
         "actions": [
@@ -215,7 +215,7 @@
         "id": "hsb",
         "display": "Sluzeeey's HSB Texturepack 16x",
         "creator": "Sluzeeey",
-        "description": "A simplistic Skyblock texture pack.",
+        "description": "A texture pack aiming to add a simplistic yet immersive take on Skyblock items using OptiFine's CIT.",
         "icon": "hsb.png",
         "icon_scaling": "pixel",
         "screenshot": "https://hypixel.net/attachments/armor_preview-jpg.2112107/",
@@ -235,7 +235,7 @@
         "id": "kmp",
         "display": "Kio's HSB Model Pack",
         "creator": "Kiocifer",
-        "description": "Wynncraft-Esque 3D Models for Your Skyblock Items",
+        "description": "Created by a resource pack modeler from Wynncraft, aiming to bring the renowned Wynncraft art style to Hypixel's Skyblock.",
         "icon": "kmp.png",
         "screenshot": "https://hypixel.net/attachments/kios-model-pack3-png.2251777/",
         "actions": [
@@ -256,7 +256,7 @@
         "display": "Worlds and Beyond 16x",
         "creator": "Skeletony",
         "discordcode": "BtAYyxf3W8",
-        "description": "A texturepack with unique textures for Skyblock items, swords, bows, armors, everything! (Not everything is finished but most are)\nIt also includes a revamped vanilla GUI to spice up your gameplay.",
+        "description": "A WIP pack with unique textures for Skyblock items, swords, bows, armors, everything. Includes a revamped vanilla GUI to spice up your gameplay.",
         "icon": "worldsandbeyond.png",
         "screenshot": "https://hypixel.net/attachments/misc-items-showcase-png.2340224/",
         "actions": [
@@ -280,7 +280,7 @@
         "display": "SkyblockOverhaul",
         "creator": "Stef, Saikage, and sporkspoon",
         "discordcode": "uwy3rwPpmV",
-        "description": "Skyblock Overhaul includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs!",
+        "description": "Includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs.",
         "icon": "sbov.png",
         "actions": [
             {
@@ -301,7 +301,7 @@
         "display": "PacksHQ Dark UI",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
-        "description": "Packs HQ Skyblock Pack dark UI",
+        "description": "The famous PacksHQ Skyblock pack but with a dark UI, how cool is that.",
         "icon": "phq dark overlay.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
         "actions": [
@@ -327,7 +327,7 @@
         "display": "Essential Theme",
         "creator": "Reforced",
         "discordcode": "aqSEzgWnYy",
-        "description": "Essential Themed UI",
+        "description": "A pack incorporating Essential's coloring.",
         "icon": "essentialtheme.png",
         "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
         "actions": [
@@ -408,7 +408,7 @@
         "display": "ActuallyAssets v1.8.1 16x",
         "creator": "Motor",
         "discordcode": "ABHrh6K3Fh",
-        "description": "Clean and simple Skyblock Pack.",
+        "description": "A simple Skyblock pack keeping with the normal Minecraft theme.",
         "icon": "actuallyassets.png",
         "icon_scaling": "pixel",
         "screenshot": "https://i.imgur.com/ZAkUNb1.png",
@@ -439,7 +439,7 @@
         "display": "FurfSky Reborn 16x",
         "creator": "FurfSky Reborn Team",
         "discordcode": "jMPnPnUEAS",
-        "description": "The continuation of FurfSky+.",
+        "description": "Continuation of the famous FurfSky+, with even more textures.",
         "icon": "fsr.png",
         "screenshot": "https://cdn.discordapp.com/attachments/887818760126345246/981021850018660372/unknown.png",
         "actions": [
@@ -508,7 +508,7 @@
         "display": "1.14 Default 16x",
         "enabled": true,
         "creator": "Qwuiblington & Motor",
-        "description": "Default 1.14 port.",
+        "description": "A backport of 1.14 default textures, so you can use them in older versions.",
         "icon": "default.png",
         "actions": [
             {

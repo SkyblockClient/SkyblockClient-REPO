@@ -28,8 +28,8 @@ Double click the box again to turn this feature off.
 
 ## Other Commands
 
-##### Shows all fairy souls on the current island
-> /neusouls "on/off"          
+##### Marks all fairy souls as completed/uncompleted
+> /neusouls "clear/unclear"          
 
 ##### Shows minion buff orb range 
 > /neuzeesphere     
@@ -41,4 +41,5 @@ Double click the box again to turn this feature off.
 > /neupackdev         
 
 ##### Launches a custom auction house (no booster cookie required)
+**MAY CAUSE LAG**
 > /neuah      

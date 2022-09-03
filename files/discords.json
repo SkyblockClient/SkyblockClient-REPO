@@ -36,7 +36,6 @@
         "code": "chattriggers",
         "fancyname": "Chat Triggers",
         "nicknames": [
-            "ctjs",
             "chattriggers"
         ]
     },
@@ -52,7 +51,8 @@
         "icon": "tgb.png",
         "nicknames": [
             "thatgravyboat",
-            "boat"
+            "boat",
+            "craftify"
         ]
     },
     {
@@ -80,7 +80,6 @@
         "description": "The official Discord for all of Moulberry's mods, including NotEnoughUpdates.",
         "icon": "neu.png",
         "nicknames": [
-            "neu",
             "moulberry",
             "sbcustommobtex",
             "mb",
@@ -89,7 +88,8 @@
             "antidreamskin",
             "hudcaching",
             "cult",
-            "moul"
+            "moul",
+            "bush"
         ],
         "mods": [
             "neu",
@@ -109,7 +109,7 @@
         "type": "mods",
         "nicknames": [
             "dg",
-            "dungeonsguide"
+            "syeyoung"
         ],
         "mods": [
             "dungeonsguide"
@@ -141,7 +141,8 @@
             "wyvtilities",
             "www",
             "qalcyo",
-            "woverflow"
+            "woverflow",
+            "wyvtils"
         ],
         "mods": [
             "wyvtils"
@@ -155,7 +156,7 @@
             "skyblockaddons",
             "biscuit",
             "bb",
-            "sba"
+            "biscut"
         ],
         "mods": [
             "sba"
@@ -187,7 +188,6 @@
             "cowlection"
         ],
         "nicknames": [
-            "cowlection",
             "cow",
             "cowshed"
         ]
@@ -201,8 +201,7 @@
         "fancyname": "Dankers Skyblock Mod",
         "icon": "dsm.webp",
         "nicknames": [
-            "dankers",
-            "dsm"
+            "dankers"
         ],
         "mods": [
             "dankers"
@@ -218,7 +217,6 @@
         "icon": "fsr.gif",
         "nicknames": [
             "furfsky",
-            "fsr",
             "furfskyreborn"
         ],
         "packs": [
@@ -237,7 +235,7 @@
             "rnbw"
         ],
         "nicknames": [
-            "rnbw"
+            "rnbw+"
         ]
     },
     {
@@ -246,8 +244,7 @@
         "fancyname": "Sk1er Support",
         "nicknames": [
             "sk1erbeta",
-            "sk1erhelp",
-            "sk1ersupport"
+            "sk1erhelp"
         ]
     },
     {
@@ -258,7 +255,6 @@
         "icon": "st.png",
         "nicknames": [
             "st",
-            "skytils",
             "simpletogglesprint"
         ],
         "mods": [
@@ -270,7 +266,6 @@
         "code": "xGVXsgbbSt",
         "fancyname": "OptiFine",
         "nicknames": [
-            "optifine",
             "of"
         ],
         "mods": [
@@ -286,8 +281,7 @@
         "partner": true,
         "type": "mods",
         "nicknames": [
-            "skyblockpersonalized",
-            "sbp"
+            "skyblockpersonalized"
         ],
         "mods": [
             "sbp"
@@ -302,7 +296,6 @@
         "type": "packs",
         "icon": "motors.webp",
         "nicknames": [
-            "motors",
             "actuallyassets",
             "dwarvenassets",
             "actuallymobs",
@@ -324,8 +317,7 @@
         "type": "packs",
         "icon": "sbov.png",
         "nicknames": [
-            "skyblockoverhaul",
-            "sbov"
+            "skyblockoverhaul"
         ],
         "packs": [
             "skyblockoverhaul"
@@ -340,7 +332,6 @@
         "fancyname": "Worlds and Beyond",
         "description": "Discord for a pack with unique textures for GUI, skyblock items, swords, bows, armors, everything.",
         "nicknames": [
-            "wab",
             "worldsandbeyond"
         ]
     },
@@ -367,7 +358,6 @@
             "patcher",
             "keystrokes",
             "tnttime",
-            "sk1er",
             "popup_events",
             "scrollabletooltips",
             "soundsubtitles"
@@ -405,7 +395,6 @@
         "fancyname": "Nameless",
         "description": "The server for the Nameless pack [WIP], a Skyblock pack with unique textures.",
         "nicknames": [
-            "nameless",
             "smolegit"
         ],
         "packs": [
@@ -422,7 +411,9 @@
             "hycrafthd",
             "music player",
             "music_player",
-            "music-player"
+            "music-player",
+            "music",
+            "player"
         ],
         "mods": [
             "musicplayer"
@@ -446,7 +437,8 @@
         "fancyname": "meyi's hangout",
         "nicknames": [
             "bazaarnotifier",
-            "meyi"
+            "meyi",
+            "bn"
         ],
         "mods": [
             "bazaarnotifier"

@@ -8,7 +8,7 @@
         "enabled": true,
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
-        "description": "Useful bundle of utilities for scrolling through tooltips, togglesprint, and a lot more!",
+        "description": "Useful bundle of utilities for scrolling through tooltips, togglesprint, and a lot more.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -61,7 +61,7 @@
         ],
         "display": "GUI Bundle",
         "enabled": true,
-        "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more!",
+        "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -408,7 +408,7 @@
         "enabled": true,
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
-        "description": "Stop crashes from closing your game and provide solutions!",
+        "description": "Stops crashes from closing your game and provides a solution if found.",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -434,7 +434,7 @@
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "command": "/hytilities",
-        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!\n***Note: please see Hytils Reborn by Polyfrost for a more up-to-date version instead by running `-mod hytils`.***",
+        "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.\n***Note: please see Hytils Reborn by Polyfrost for a more up-to-date version instead by running `-mod hytils`.***",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -476,7 +476,7 @@
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "command": "/hytils",
-        "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own!",
+        "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -643,7 +643,7 @@
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
         "command": "/sba",
-        "description": "Essential QOL Skyblock mod with a plethora of indispensable (yet outdated) features, locking slots, timers, and a ton more to discover!",
+        "description": "Essential QOL Skyblock mod with a plethora of indispensable features, locking slots, timers, and a ton more to discover.",
         "icon": "bisquit.png",
         "actions": [
             {
@@ -690,7 +690,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "command": "/sbh",
-        "description": "SBH Focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
+        "description": "SBH focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
         "icon": "sbhlogo.png",
         "actions": [
             {
@@ -716,7 +716,7 @@
         "creator": "Moulberry",
         "discordcode": "moulberry",
         "command": "/neu",
-        "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
+        "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list. There are many, many more features than these, and new features are always being added.",
         "icon": "neulogo.png",
         "actions": [
             {
@@ -761,7 +761,7 @@
         "creator": "DankerWanker",
         "discordcode": "BUmywXX47M",
         "command": "/dsm",
-        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself!",
+        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself.",
         "icon": "dsm logo cropped.png",
         "actions": [
             {
@@ -802,7 +802,7 @@
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
         "command": "/skytils",
-        "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future!",
+        "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future.",
         "icon": "skytils.png",
         "actions": [
             {
@@ -936,7 +936,7 @@
         "creator": "Cobble8",
         "discordcode": "KsqMmBdNBE",
         "command": "/sbp",
-        "description": "A mod with a lot of customizability and has many features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
+        "description": "A mod with a lot of customizability and a large variety of features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
         "icon": "sbp.png",
         "actions": [
             {
@@ -967,7 +967,7 @@
         "creator": "Syeyoung",
         "discordcode": "dg",
         "command": "/dg",
-        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secret waypoints (technically, it shows you the best path to the secrets), and other things.",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features.",
         "icon": "dungeonsguide.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -1006,7 +1006,7 @@
         "creator": "_risk",
         "discordcode": "7B5RbsArYK",
         "command": "/room",
-        "description": "Displays dungeon room id/name and adds waypoints for secrets.",
+        "description": "Displays information about the dungeon room you are currently in and adds waypoints for secrets.",
         "icon": "drm.png",
         "actions": [
             {
@@ -1113,7 +1113,7 @@
         "display": "Item Physic Lite",
         "creator": "CreativeMD",
         "discordcode": "W9QM3fS",
-        "description": "Make dropped items have realistic physics!",
+        "description": "Make dropped items have realistic physics.",
         "icon": "creativemd.png",
         "actions": [
             {
@@ -1230,7 +1230,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
-        "description": "Show your Spotify songs ingame!",
+        "description": "Show your Spotify songs ingame.",
         "icon": "tgb_icon.png",
         "actions": [
             {
@@ -1248,7 +1248,7 @@
         "id": "blur",
         "display": "Blur",
         "creator": "tterrag1098",
-        "description": "Add a blur to all your GUIs!",
+        "description": "Add a blur to all your GUIs.",
         "icon": "tterrag.png",
         "actions": [
             {
@@ -1272,7 +1272,7 @@
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "command": "/glintcolorizer",
-        "description": "Customize the glint color of items and more!.",
+        "description": "Customize the glint color of items and more.",
         "icon": "wyvest.png",
         "actions": [
             {
@@ -1396,7 +1396,7 @@
         ],
         "display": "Resource Pack Manager",
         "creator": "Aycy",
-        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu!",
+        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu.",
         "icon": "aycy.jpg",
         "actions": [
             {
@@ -2041,7 +2041,7 @@
         "creator": "HyCraftHD",
         "discordcode": "QXbWS36",
         "command": "None, press `F8` in-game to access all related menus. If that doesn't work, check your in-game controls and revise them as necessary.",
-        "description": "With this mod you can listen to music and manage your playlist without using external programs. Supports YouTube, Soundcloud, Bandcamp, Vimeo, Twitch streams, `http://` URLs, and local files from `.mp3` to `.wav`, and more! Player controls range from Shuffle, Skip Forwards/Backwards, Pause/Play, Playlist Repeat, and Single Song Repeat, as well as seek bar support. Type `.musicplayer` for more info.",
+        "description": "With this mod you can listen to music and manage your playlist without using external programs. Supports YouTube, Soundcloud, Bandcamp, Vimeo, Twitch streams, `http://` URLs, and local files from `.mp3` to `.wav`, and more. Player controls range from Shuffle, Skip Forwards/Backwards, Pause/Play, Playlist Repeat, and Single Song Repeat, as well as seek bar support. Type `.musicplayer` for more info.",
         "icon": "hycrafthd.png",
         "actions": [
             {
