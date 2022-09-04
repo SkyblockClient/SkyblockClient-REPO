@@ -106,7 +106,7 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [URL='https://github.com/MotorGorilla1']MotorGorilla1[/URL] (Various textures, including the old SkyClient Thread textures)
 [URL='https://hypixel.net/members/motion_blue.3001877/']motion_blue[/URL] (Original pixelated logo)
-[URL='https://zetvue.carrd.co']Zetvue[/URL] (Thread rewrite & current textures, mod requests, current logo)
+[URL='https://zetvue.github.io']Zetvue[/URL] (Thread rewrite & current textures, mod requests, current logo)
 [URL='https://hypixel.net/members/ovinter.3661636/']oVinter[/URL] (Design ideas)
 [URL='https://github.com/Deftu']Deftu[/URL] (SkyClient Updater Contributor)
 [URL='https://github.com/moontidez']MoonTidez[/URL] (Capes)
