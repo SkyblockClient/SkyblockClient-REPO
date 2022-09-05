@@ -2085,7 +2085,7 @@
         "id": "minecraft",
         "display": "no",
         "creator": "Mojang",
-        "description": "this is purely internal - test",
+        "description": "this is purely internal",
         "hidden": true,
         "file": "no"
     }
