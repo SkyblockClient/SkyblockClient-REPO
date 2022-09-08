@@ -29,7 +29,7 @@ Although this could improve FPS a bit for computers with old GPUs, this sometime
 
 - Turns off Fast Math
 
-Fast math often causes more problems then it should, and thus it is turned off.
+Fast math often causes more problems than it should, and thus it is turned off.
 
 - Turn on Smart Animations
 
