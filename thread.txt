@@ -83,8 +83,12 @@ The only reason Windows Defender says "We protected your PC" is because we did n
 It simply means it isn't a Microsoft certified program (like all other software).
 This isn't an issue for Java devs or mod makers because Windows doesn't run the Jar file. Java does.
 
-[SIZE=5][U][URL='https://github.com/SkyblockClient/SkyblockClient/releases/latest']Windows Only[/URL]
-[URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal (requires Java)[/URL][/U][/SIZE]
+
+
+[SIZE=5][U][URL='https://github.com/SkyblockClient/SkyblockClient/releases/latest']Windows Installer[/URL]
+[URL='https://github.com/SkyblockClient/Skyclient-Installer-Windows/releases/latest']Windows Beta Installer[/URL]
+[URL='https://github.com/koxx12-dev/Skyclient-installer-Java/releases/latest']Universal Installer (requires Java)[/URL][/U][/SIZE]
+
 
 [SIZE=6]TL;DR:[/SIZE][B][SIZE=6] Feather "Client" is now invalid.[/SIZE][/B]
 
@@ -104,18 +108,19 @@ This isn't an issue for Java devs or mod makers because Windows doesn't run the 
 
 [SIZE=5][B]Contributors[/B][/SIZE]
 
+[URL='https://github.com/Polyfrost/']The Polyfrost Team[/URL]
 [URL='https://github.com/MotorGorilla1']MotorGorilla1[/URL] (Various textures, including the old SkyClient Thread textures)
 [URL='https://hypixel.net/members/motion_blue.3001877/']motion_blue[/URL] (Original pixelated logo)
-[URL='https://zetvue.github.io']Zetvue[/URL] (Thread rewrite & current textures, mod requests, current logo)
+[URL='https://zetvue.carrd.co']Zetvue[/URL] (Thread rewrite & current textures, mod requests, current logo)
 [URL='https://hypixel.net/members/ovinter.3661636/']oVinter[/URL] (Design ideas)
 [URL='https://github.com/Deftu']Deftu[/URL] (SkyClient Updater Contributor)
 [URL='https://github.com/moontidez']MoonTidez[/URL] (Capes)
 [URL='https://github.com/Angry-Pineapple3121']Angry_Pineapple[/URL] (Misc. Contributor)
 
+
 [SIZE=5][B]Managers[/B][/SIZE]
 
 [URL='https://github.com/MicrocontrollersDev']Microcontrollers[/URL]
-[URL='https://github.com/Lisenaaaa']Skye[/URL]
 [URL='https://github.com/8kcoffeewizard']8KCoffeeWizard[/URL]
 [URL='https://github.com/UnderscoreRayless']Rayless[/URL]
 [URL='https://www.youtube.com/channel/UC7z1yx9QntHyXLB4O45Ntaw']King_of_Million[/URL]
