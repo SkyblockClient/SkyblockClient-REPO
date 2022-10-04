@@ -742,13 +742,13 @@
             "2;All Skyblock",
             "4;Recommended Skyblock"
         ],
-        "file": "NotEnoughUpdates-2.1-blahaj-rc4.jar",
+        "file": "NotEnoughUpdates-2.1-blahaj-rc5.jar",
         "files": [
             "config/notenoughupdates/config.json"
         ],
-        "url": "https://cdn.discordapp.com/attachments/837679819487313971/1024857990014185482/NotEnoughUpdates-2.1-blahaj-rc4.jar",
+        "url": "https://cdn.discordapp.com/attachments/837679819487313971/1026821520112242760/NotEnoughUpdates-2.1-blahaj-rc5.jar",
         "forge_id": "notenoughupdates",
-        "hash": "04e46952c122f50bea1abfb05918401e"
+        "hash": "a15bd1f8910cd90434d55c276c5bf127"
     },
     {
         "id": "dsm",
