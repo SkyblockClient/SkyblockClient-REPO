@@ -1238,10 +1238,10 @@
                 "link": "https://github.com/ThatGravyBoat/Craftify"
             }
         ],
-        "file": "Craftify-1.8.9-1.4.0-forge.jar",
-        "url": "https://mediafiles.forgecdn.net/files/3949/548/Craftify-1.8.9-1.4.0-forge.jar",
+        "file": "Craftify-1.8.9-1.4.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/QNRMHWd9/Craftify-1.8.9-1.4.1-forge.jar",
         "forge_id": "craftify",
-        "hash": "0de0dec489779f4703c45457169cea0c"
+        "hash": "204761ca26e7f5ad881d2528048a8db6"
     },
     {
         "id": "blur",
