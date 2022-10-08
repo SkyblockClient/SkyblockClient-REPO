@@ -2060,6 +2060,28 @@
         "hash": "9479585fc9aaf1290961afdbcd4c148b"
     },
     {
+        "id": "skywars-sorter",
+        "nicknames": [
+            "skywarssorter",
+            "skywarssort",
+            "skysorter",
+            "skysort",
+            "nopomod"
+        ],
+        "display": "Skywars Sorter",
+        "enabled": false,
+        "creator": "nopo",
+        "discordcode": "moulberry",
+        "command": "/skywarssorter",
+        "description": "A mod that sorts your inventory for Skywars",
+        "icon": "neulogo.png",
+        "hidden": true,
+        "file": "skywars-sorter-1.0.jar",
+        "url": "https://github.com/NopoTheGamer/skywars-inv-sorter/releases/download/1.0/skywars-sorter-1.0.jar",
+        "forge_id": "skywars-sorter",
+        "hash": "5f598f618b62aed391ddd9c444b67ee8"
+    },
+    {
         "id": "wyvtils",
         "display": "Wyvtils",
         "enabled": false,
