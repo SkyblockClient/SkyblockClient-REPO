@@ -1,0 +1,253 @@
+[
+  {
+        "id": "damagetint",
+        "display": "PvP Bundle",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/damagetint",
+        "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
+        "icon": "skyclient.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "Damage Tint",
+                "link": "https://github.com/Polyfrost/DamageTint"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Particles Enhanced",
+                "link": "https://short.isxander.dev/particlesenhanced"
+            },
+            {
+                "icon": "wyvest.png",
+                "text": "BehindYouV3",
+                "link": "https://github.com/Polyfrost/BehindYouV3"
+            }
+        ],
+        "categories": [
+            "5;All PvP",
+            "6;Recommended PvP"
+        ],
+        "file": "DamageTint-3.2.0.jar",
+        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "forge_id": "damagetint",
+        "packages": [
+            "particlesenhanced",
+            "behindyouv3"
+        ],
+        "hash": "abfae9b9f1660ce0bdea20c2949fb435"
+  },
+  {
+        "id": "hytils-reborn",
+        "nicknames": [
+            "hytils",
+            "hytils reborn",
+            "hytilsreborn",
+            "hytilitiesreborn",
+            "hytilities reborn",
+            "hytilities"
+        ],
+        "display": "Hytils Reborn",
+        "enabled": true,
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/hytils",
+        "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/Hytils-Reborn"
+            }
+        ],
+        "categories": [
+            "1;Recommended"
+        ],
+        "file": "Hytils-Reborn-1.5.0.jar",
+        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
+        "forge_id": "hytils-reborn",
+        "hash": "59d055e70c270df5794686c33d09cc97"
+    },
+  {
+        "id": "oam",
+        "enabled": true,
+        "nicknames": [
+            "sk1eroam",
+            "oldanimations",
+            "oldanims",
+            "1.7anims",
+            "1.7 anims",
+            "1.7 animations",
+            "old animations",
+            "animations"
+        ],
+        "display": "Old Animations",
+        "creator": "Sk1erLLC & Polyfrost",
+        "command": "/oldanimations",
+        "description": "1.7 Animations, in 1.8.9.",
+        "icon": "monkey.png",
+        "icon_scaling": "pixel",
+        "categories": [
+            "1;Recommended"
+        ],
+        "actions": [
+            {
+                "icon": "discord.png",
+                "text": "Discord",
+                "link": "discord.gg/sk1er"
+            }
+        ],
+        "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
+        "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
+        "forge_id": "sk1er_old_animations",
+        "hash": "29f27f7c447af3cbfce724411a649240",
+        "packages": [
+            "overflowanimations"
+        ]
+    },
+  {
+        "id": "glintcolorizer",
+        "display": "Glint Colorizer",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/glintcolorizer",
+        "description": "Customize the glint color of items and more.",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Polyfrost/GlintColorizer"
+            }
+        ],
+        "categories": [
+            "5;All PvP"
+        ],
+        "file": "GlintColorizer-1.0.0.jar",
+        "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.0/GlintColorizer-1.0.0.jar",
+        "forge_id": "glintcolorizer",
+        "hash": "5a06a4e4d1d436bec7e9fc0535ad408a"
+    },
+  {
+        "id": "chatting",
+        "nicknames": [
+            "l ratio better chat",
+            "chattils",
+            "stratus"
+        ],
+        "display": "Chatting",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/chatting",
+        "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/Chatting"
+            }
+        ],
+        "hidden": true,
+        "file": "Chatting-1.4.1.jar",
+        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar",
+        "forge_id": "chatting",
+        "hash": "5f2769d9753194353d76438995f87c61"
+    },
+  {
+        "id": "vanillahud",
+        "display": "VanillaHUD",
+        "creator": "Polyfrost (Wyvest)",
+        "discordcode": "polyfrost",
+        "command": "/vanillahud",
+        "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/VanillaHUD"
+            }
+        ],
+        "hidden": true,
+        "file": "VanillaHUD-1.1.1.jar",
+        "url": "https://github.com/Polyfrost/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
+        "forge_id": "vanillahud",
+        "hash": "2ad42c5a0bdc35e1b48b30e819234324"
+    },
+    {
+        "id": "redaction",
+        "display": "REDACTION",
+        "creator": "Polyfrost (Wyvest)",
+        "discordcode": "polyfrost",
+        "command": "/redaction",
+        "description": "Adds useful GUI additions to the game.",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/REDACTION"
+            }
+        ],
+        "hidden": true,
+        "file": "REDACTION-1.3.5.jar",
+        "files": [
+            "W-OVERFLOW/REDACTION/redaction.toml"
+        ],
+        "url": "https://github.com/Polyfrost/REDACTION/releases/download/v1.3.5/REDACTION-1.3.5.jar",
+        "forge_id": "redaction",
+        "hash": "dd5defdef8e2229e2ac16d92f888100e"
+    },
+    {
+        "id": "behindyouv3",
+        "display": "BehindYouV3",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/behindyou",
+        "description": "Allows you to look behind you with ease.",
+        "icon": "wyvest.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/BehindYouV3"
+            }
+        ],
+        "hidden": true,
+        "file": "BehindYouV3-3.1.0.jar",
+        "url": "https://github.com/Polyfrost/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
+        "forge_id": "behindyouv3",
+        "hash": "cb08e4783b4014371e093818164995d8"
+    },
+  { "id": "ADD KEYSTROKES HERE:" },
+  {
+        "id": "overflowanimations",
+        "display": "Overflow Animations",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/overflowanimations",
+        "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
+        "hidden": true,
+        "file": "OverflowAnimations-1.1.0.jar",
+        "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
+        "forge_id": "overflowanimations",
+        "hash": "cdce7e1ee42770bc66153ee6abc70787"
+    },
+  
+]
