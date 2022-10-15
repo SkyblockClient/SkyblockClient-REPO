@@ -1,5 +1,5 @@
 [
-  {
+    {
         "id": "damagetint",
         "display": "PvP Bundle",
         "creator": "Polyfrost",
@@ -45,8 +45,8 @@
             "behindyouv3"
         ],
         "hash": "abfae9b9f1660ce0bdea20c2949fb435"
-  },
-  {
+    },
+    {
         "id": "hytils-reborn",
         "nicknames": [
             "hytils",
@@ -83,7 +83,7 @@
         "forge_id": "hytils-reborn",
         "hash": "59d055e70c270df5794686c33d09cc97"
     },
-  {
+    {
         "id": "oam",
         "enabled": true,
         "nicknames": [
@@ -120,7 +120,7 @@
             "overflowanimations"
         ]
     },
-  {
+    {
         "id": "glintcolorizer",
         "display": "Glint Colorizer",
         "creator": "Polyfrost",
@@ -143,7 +143,7 @@
         "forge_id": "glintcolorizer",
         "hash": "5a06a4e4d1d436bec7e9fc0535ad408a"
     },
-  {
+    {
         "id": "chatting",
         "nicknames": [
             "l ratio better chat",
@@ -169,7 +169,7 @@
         "forge_id": "chatting",
         "hash": "5f2769d9753194353d76438995f87c61"
     },
-  {
+    {
         "id": "vanillahud",
         "display": "VanillaHUD",
         "creator": "Polyfrost (Wyvest)",
@@ -235,8 +235,33 @@
         "forge_id": "behindyouv3",
         "hash": "cb08e4783b4014371e093818164995d8"
     },
-  { "id": "ADD KEYSTROKES HERE:" },
-  {
+    {
+        "id": "keystrokes",
+        "display": "Keystrokes",
+        "creator": "Sk1er LLC",
+        "discordcode": "sk1er",
+        "command": "/keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, sneak, cps, fps, ping, and more custom keyboard buttons on-screen.",
+        "icon": "monkey.png",
+        "actions": [
+            {
+                "icon": "youtube.png",
+                "text": "Youtube",
+                "link": "https://youtu.be/u--cnSTFqDE"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Website",
+                "link": "https://sk1er.club/mods/keystrokesmod"
+            }
+        ],
+        "hidden": true,
+        "file": "Keystrokes-8.1.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
+        "forge_id": "keystrokesmod",
+        "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
+    },
+    {
         "id": "overflowanimations",
         "display": "Overflow Animations",
         "creator": "Polyfrost",
@@ -248,6 +273,5 @@
         "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
         "forge_id": "overflowanimations",
         "hash": "cdce7e1ee42770bc66153ee6abc70787"
-    },
-  
+    }
 ]
