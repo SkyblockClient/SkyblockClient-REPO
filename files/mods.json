@@ -1081,7 +1081,7 @@
         "url": "https://github.com/DeDiamondPro/SkyGuide/releases/download/1.0.0/SkyGuide.1.8.9-forge.-1.0.0.jar",
         "forge_id": "skyguide",
         "hash": "4e70845698ed3672f12db0d07a33944a2742b94b"
-    }
+    },
     {
         "id": "oam",
         "enabled": true,
