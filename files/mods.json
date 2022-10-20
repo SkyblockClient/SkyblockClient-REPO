@@ -1056,7 +1056,7 @@
         "creator": "DeDiamondPro",
         "discordcode": "XtAuqsJWby",
         "command": "/skyguide",
-        "description": "A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of skyblock and npc locations.",
+        "description": "A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations.",
         "icon": "dediamondpro.png",
         "actions": [
             {
