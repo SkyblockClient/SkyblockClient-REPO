@@ -273,5 +273,29 @@
         "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
         "forge_id": "overflowanimations",
         "hash": "cdce7e1ee42770bc66153ee6abc70787"
+    },
+    {
+        "id": "simpletogglesprint",
+        "nicknames": [
+            "togglesprint",
+            "sts"
+        ],
+        "display": "Toggle Sprint",
+        "creator": "Lily",
+        "command": "/togglesprint",
+        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
+        "icon": "skyclient.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+            }
+        ],
+        "hidden": true,
+        "file": "SimpleToggleSprint-2.2.0.jar",
+        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
+        "forge_id": "simpletogglesprint",
+        "hash": "203479f689b9baccb6d77380be22ed86"
     }
 ]
