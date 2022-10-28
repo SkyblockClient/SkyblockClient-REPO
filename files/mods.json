@@ -79,7 +79,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "VanillaHUD",
                 "link": "https://github.com/Polyfrost/VanillaHUD"
             },
@@ -89,7 +89,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "Chatting",
                 "link": "https://github.com/Polyfrost/Chatting"
             },
@@ -145,7 +145,7 @@
                 "link": "https://hypixel.net/threads/3787277/"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "REDACTION",
                 "link": "https://github.com/Polyfrost/REDACTION"
             },
@@ -254,7 +254,7 @@
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "Damage Tint",
                 "link": "https://github.com/Polyfrost/DamageTint"
             },
@@ -264,7 +264,7 @@
                 "link": "https://short.isxander.dev/particlesenhanced"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "BehindYouV3",
                 "link": "https://github.com/Polyfrost/BehindYouV3"
             }
@@ -409,7 +409,7 @@
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "description": "Stops crashes from closing your game and provides a solution if found.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -435,7 +435,7 @@
         "discordcode": "polyfrost",
         "command": "/hytilities",
         "description": "Hytilities Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.\n***Note: please see Hytils Reborn by Polyfrost for a more up-to-date version instead by running `-mod hytils`.***",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "guide.png",
@@ -476,7 +476,7 @@
         "discordcode": "polyfrost",
         "command": "/hytils",
         "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "guide.png",
@@ -1272,7 +1272,7 @@
         "discordcode": "polyfrost",
         "command": "/glintcolorizer",
         "description": "Customize the glint color of items and more.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -1541,7 +1541,7 @@
         "discordcode": "polyfrost",
         "command": "/chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -1599,7 +1599,7 @@
         "discordcode": "polyfrost",
         "command": "/vanillahud",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -1637,7 +1637,7 @@
         "discordcode": "polyfrost",
         "command": "/redaction",
         "description": "Adds useful GUI additions to the game.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -1661,7 +1661,7 @@
         "discordcode": "polyfrost",
         "command": "/behindyou",
         "description": "Allows you to look behind you with ease.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -2089,7 +2089,7 @@
         "discordcode": "polyfrost",
         "command": "/wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "update_to_ids": [
             "vanillahud",
             "redaction",

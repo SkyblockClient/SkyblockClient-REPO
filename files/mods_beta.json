@@ -18,7 +18,7 @@
                 "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "Damage Tint",
                 "link": "https://github.com/Polyfrost/DamageTint"
             },
@@ -28,7 +28,7 @@
                 "link": "https://short.isxander.dev/particlesenhanced"
             },
             {
-                "icon": "wyvest.png",
+                "icon": "polyfrost.png",
                 "text": "BehindYouV3",
                 "link": "https://github.com/Polyfrost/BehindYouV3"
             }
@@ -37,14 +37,14 @@
             "5;All PvP",
             "6;Recommended PvP"
         ],
-        "file": "DamageTint-3.2.0.jar",
-        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "file": "damagetint-1.8.9-forge-3.2.2-beta1.jar",
+        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.2.2-beta1/damagetint-1.8.9-forge-3.2.2-beta1.jar",
         "forge_id": "damagetint",
         "packages": [
             "particlesenhanced",
             "behindyouv3"
         ],
-        "hash": "abfae9b9f1660ce0bdea20c2949fb435"
+        "hash": "553266b5459dda3586f1052c9fb6e94f"
     },
     {
         "id": "hytils-reborn",
@@ -62,7 +62,7 @@
         "discordcode": "polyfrost",
         "command": "/hytils",
         "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "guide.png",
@@ -78,10 +78,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "Hytils-Reborn-1.5.0.jar",
-        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
+        "file": "Hytils.Reborn-1.5.1-beta1.jar",
+        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.1-beta1/Hytils.Reborn-1.5.1-beta1.jar",
         "forge_id": "hytils-reborn",
-        "hash": "59d055e70c270df5794686c33d09cc97"
+        "hash": "99db606faa48852a60dbc83c852ccd1d"
     },
     {
         "id": "oam",
@@ -102,21 +102,12 @@
         "description": "1.7 Animations, in 1.8.9.",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
-        "categories": [
-            "1;Recommended"
-        ],
-        "actions": [
-            {
-                "icon": "discord.png",
-                "text": "Discord",
-                "link": "discord.gg/sk1er"
-            }
-        ],
+        "hidden": true,
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
         "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
         "forge_id": "sk1er_old_animations",
         "hash": "29f27f7c447af3cbfce724411a649240",
-        "packages": [
+        "update_to_ids": [
             "overflowanimations"
         ]
     },
@@ -127,7 +118,7 @@
         "discordcode": "polyfrost",
         "command": "/glintcolorizer",
         "description": "Customize the glint color of items and more.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -138,10 +129,10 @@
         "categories": [
             "5;All PvP"
         ],
-        "file": "GlintColorizer-1.0.0.jar",
-        "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.0/GlintColorizer-1.0.0.jar",
+        "file": "glintcolorizer-1.8.9-forge-1.0.1-beta1.jar",
+        "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.1-beta1/glintcolorizer-1.8.9-forge-1.0.1-beta1.jar",
         "forge_id": "glintcolorizer",
-        "hash": "5a06a4e4d1d436bec7e9fc0535ad408a"
+        "hash": "b0c6e9743541504add6c8c1d147f63ad"
     },
     {
         "id": "chatting",
@@ -155,7 +146,7 @@
         "discordcode": "polyfrost",
         "command": "/chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -164,10 +155,10 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.4.1.jar",
-        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar",
+        "file": "Chatting-1.4.2-beta1.jar",
+        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.2-beta1/Chatting-1.4.2-beta1.jar",
         "forge_id": "chatting",
-        "hash": "5f2769d9753194353d76438995f87c61"
+        "hash": "4acdf2d0981f543b01811f951f21b40d"
     },
     {
         "id": "vanillahud",
@@ -176,7 +167,7 @@
         "discordcode": "polyfrost",
         "command": "/vanillahud",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -197,7 +188,7 @@
         "discordcode": "polyfrost",
         "command": "/redaction",
         "description": "Adds useful GUI additions to the game.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -221,7 +212,7 @@
         "discordcode": "polyfrost",
         "command": "/behindyou",
         "description": "Allows you to look behind you with ease.",
-        "icon": "wyvest.png",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -230,13 +221,13 @@
             }
         ],
         "hidden": true,
-        "file": "BehindYouV3-3.1.0.jar",
-        "url": "https://github.com/Polyfrost/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
+        "file": "BehindYouV3-1.8.9-forge-3.2.0-beta1.jar",
+        "url": "https://github.com/Polyfrost/BehindYouV3/releases/download/v3.1.2-beta1/BehindYouV3-1.8.9-forge-3.2.0-beta1.jar",
         "forge_id": "behindyouv3",
-        "hash": "cb08e4783b4014371e093818164995d8"
+        "hash": "d32bb4c8e558e52eed1d4ec148339765"
     },
     {
-        "id": "keystrokes",
+        "id": "sk1er_keystrokes",
         "display": "Keystrokes",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -259,7 +250,24 @@
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
         "forge_id": "keystrokesmod",
-        "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
+        "hash": "fb1a2c0daf43d3235e43b6e8190243bb",
+        "update_to_ids": [
+            "keystrokes"
+        ]
+    },
+    {
+        "id": "keystrokes",
+        "display": "Canelex Keystrokes Revamp",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
+        "icon": "polyfrost.png",
+        "hidden": true,
+        "file": "Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
+        "url": "https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/download/v1.0.0-beta1/Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
+        "forge_id": "polyfrostkeystrokes",
+        "hash": "e201e8ee249b5b7e28b2e499f465e638"
     },
     {
         "id": "overflowanimations",
@@ -269,10 +277,10 @@
         "command": "/overflowanimations",
         "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
         "hidden": true,
-        "file": "OverflowAnimations-1.1.0.jar",
-        "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.0.1-beta3.jar",
+        "url": "https://github.com/Polyfrost/OverflowAnimationsV2/releases/download/v2.0.1-beta3/OverflowAnimations-1.8.9-forge-2.0.1-beta3.jar",
         "forge_id": "overflowanimations",
-        "hash": "cdce7e1ee42770bc66153ee6abc70787"
+        "hash": "73c13cc6b346baf323eed5daf43fe0e5"
     },
     {
         "id": "simpletogglesprint",
@@ -281,7 +289,7 @@
             "sts"
         ],
         "display": "Toggle Sprint",
-        "creator": "Lily",
+        "creator": "Lily / Polyfrost",
         "command": "/togglesprint",
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
@@ -289,13 +297,13 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+                "link": "https://github.com/Polyfrost/SimpleToggleSprint"
             }
         ],
         "hidden": true,
-        "file": "SimpleToggleSprint-2.2.0.jar",
-        "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
+        "file": "SimpleToggleSprint-1.0.0-beta2.jar",
+        "url": "https://github.com/Polyfrost/SimpleToggleSprint/releases/download/v1.0.0-beta2/SimpleToggleSprint-1.0.0-beta2.jar",
         "forge_id": "simpletogglesprint",
-        "hash": "203479f689b9baccb6d77380be22ed86"
+        "hash": "5cd52e9f32188025ed67702db67e0eef"
     }
 ]
