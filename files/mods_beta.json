@@ -228,6 +228,7 @@
     },
     {
         "id": "sk1er_keystrokes",
+        "old_id": "keystrokes",
         "display": "Keystrokes",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -294,7 +295,7 @@
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
         "actions": [
-            {
+             {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/SimpleToggleSprint"
@@ -305,5 +306,54 @@
         "url": "https://github.com/Polyfrost/SimpleToggleSprint/releases/download/v1.0.0-beta2/SimpleToggleSprint-1.0.0-beta2.jar",
         "forge_id": "simpletogglesprint",
         "hash": "5cd52e9f32188025ed67702db67e0eef"
+    },
+    {
+        "id": "evergreenhud",
+        "nicknames": [
+            "evergreen"
+        ],
+        "display": "HUD Bundle",
+        "discordcode": "AJv5ZnNT8q",
+        "command": "/evergreenhud",
+        "description": "Displays every piece of information a Minecraft player could ever need.",
+        "icon": "skyclient.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
+            },
+            {
+                "icon": "evergreen.png",
+                "text": "EvergreenHUD",
+                "link": "https://hypixel.net/threads/3787277/"
+            },
+            {
+                "icon": "polyfrost.png",
+                "text": "REDACTION",
+                "link": "https://github.com/Polyfrost/REDACTION"
+            },
+            {
+                "icon": "monkey.png",
+                "text": "Keystrokes",
+                "link": "https://sk1er.club/mods/keystrokesmod"
+            }
+        ],
+        "categories": [
+            "5;All PvP",
+            "6;Recommended PvP"
+        ],
+        "file": "evergreenhud-1.8.9-forge-1.0.0-beta1.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/5sXCTJQN/evergreenhud-1.8.9-forge-1.0.0-beta1.jar",
+        "forge_id": "evergreenhud",
+        "packages": [
+            "redaction",
+            "keystrokes"
+        ],
+        "hash": "63f4007274c69d5698bc7ade40b90ebf"
     }
 ]
