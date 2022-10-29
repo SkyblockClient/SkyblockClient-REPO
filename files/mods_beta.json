@@ -295,7 +295,7 @@
         "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
         "icon": "skyclient.png",
         "actions": [
-             {
+            {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/SimpleToggleSprint"
