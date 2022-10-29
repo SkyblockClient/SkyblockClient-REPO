@@ -257,7 +257,10 @@
         ]
     },
     {
-        "id": "keystrokes",
+        "id": "polyfrostkeystrokes",
+        "nicknames": [
+            "keystrokes"
+        ],
         "display": "Canelex Keystrokes Revamp",
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
