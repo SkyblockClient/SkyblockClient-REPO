@@ -1075,7 +1075,8 @@
             }
         ],
         "categories": [
-            "2;All Skyblock"
+            "2;All Skyblock",
+            "4;Recommended Skyblock"
         ],
         "file": "SkyGuide.1.8.9-forge.-1.1.0.ja",
         "url": "https://github.com/DeDiamondPro/SkyGuide/releases/download/1.1.0/SkyGuide.1.8.9-forge.-1.1.0.jar",
