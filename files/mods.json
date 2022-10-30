@@ -1051,6 +1051,39 @@
         "hash": "00e548b9728be3afffc1f3cd0d7c21a5"
     },
     {
+        "id": "skyguide",
+        "display": "SkyGuide",
+        "creator": "DeDiamondPro",
+        "discordcode": "XtAuqsJWby",
+        "command": "/skyguide",
+        "description": "A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations.",
+        "icon": "dediamondpro.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/DeDiamondPro/SkyGuide/blob/main/README.md?raw=true"
+            },
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/DeDiamondPro/SkyGuide"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/1-8-9-skyguide-vanilla-like-skyblock-mod.5143984/"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock",
+            "4;Recommended Skyblock"
+        ],
+        "file": "SkyGuide.1.8.9-forge.-1.1.0.jar",
+        "url": "https://github.com/DeDiamondPro/SkyGuide/releases/download/1.1.0/SkyGuide.1.8.9-forge.-1.1.0.jar",
+        "forge_id": "skyguide",
+        "hash": "3d19891760cbce109b614a62128ef2d05cb8d7cb"
+    },
+    {
         "id": "oam",
         "enabled": true,
         "nicknames": [
