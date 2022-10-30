@@ -1702,6 +1702,23 @@
         "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
     },
     {
+        "id": "polyfrostkeystrokes",
+        "display": "Canelex Keystrokes Revamp",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
+        "icon": "polyfrost.png",
+        "hidden": true,
+        "file": "Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
+        "url": "https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/download/v1.0.0-beta1/Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
+        "forge_id": "polyfrostkeystrokes",
+        "hash": "e201e8ee249b5b7e28b2e499f465e638",
+        "update_to_ids": [
+            "keystrokes"
+        ]
+    },
+    {
         "id": "bossbar_customizer",
         "display": "Bossbar Customizer",
         "creator": "Sk1er LLC",
