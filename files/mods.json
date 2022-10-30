@@ -1077,10 +1077,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "SkyGuide.1.8.9-forge.-1.0.0.jar",
-        "url": "https://github.com/DeDiamondPro/SkyGuide/releases/download/1.0.0/SkyGuide.1.8.9-forge.-1.0.0.jar",
+        "file": "SkyGuide.1.8.9-forge.-1.1.0.ja",
+        "url": "https://github.com/DeDiamondPro/SkyGuide/releases/download/1.1.0/SkyGuide.1.8.9-forge.-1.1.0.jar",
         "forge_id": "skyguide",
-        "hash": "4e70845698ed3672f12db0d07a33944a2742b94b"
+        "hash": "3d19891760cbce109b614a62128ef2d05cb8d7cb"
     },
     {
         "id": "oam",
