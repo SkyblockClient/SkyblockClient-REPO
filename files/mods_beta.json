@@ -305,10 +305,10 @@
             }
         ],
         "hidden": true,
-        "file": "SimpleToggleSprint-1.0.0-beta2.jar",
-        "url": "https://github.com/Polyfrost/SimpleToggleSprint/releases/download/v1.0.0-beta2/SimpleToggleSprint-1.0.0-beta2.jar",
+        "file": "SimpleToggleSprint-1.8.9-forge-1.0.0-beta3.jar",
+        "url": "https://github.com/Polyfrost/SimpleToggleSprint/releases/download/v1.0.0-beta3/SimpleToggleSprint-1.8.9-forge-1.0.0-beta3.jar",
         "forge_id": "simpletogglesprint",
-        "hash": "5cd52e9f32188025ed67702db67e0eef"
+        "hash": "50048d2be3a2e7a0618576a34ba90f5e"
     },
     {
         "id": "evergreenhud",
