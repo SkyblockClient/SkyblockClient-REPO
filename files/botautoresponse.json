@@ -644,10 +644,12 @@
                 ".multimc",
                 "multimc",
                 ".polymc",
-                "polymc"
+                "polymc",
+                "prismlauncher",
+                ".prismlauncher"
             ]
         ],
-        "response": "Before doing anything, we recommend using PolyMC over MultiMC. PolyMC is an improved fork with an actually decent group of people owning it, and should be getting very good improvements very soon.\n\nFirstly, create a PolyMC instance and click Install Forge on the instance settings. You should already know how to do this if you're using PolyMC. After that, select the instance you just created in the PolyMC main menu and click \"Instance Folder\". This folder you just opened will be referred to as POLYMC PATH/INSTANCE NAME for the rest of this tutorial. There should be a folder called .minecraft in that folder. If there is not, launch Minecraft before following the rest of this tutorial.\nThen...\nWindows:\nType in cmd: `mklink /J \"POLYMC PATH/INSTANCE NAME/.minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n\nLinux:\nType in Terminal: `ln -s \"~/.minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/minecraft\"`\n\nmacOS:\nType in Terminal: `ln -s \"~/Library/Application Support/minecraft/skyclient\" \"POLYMC PATH/INSTANCE NAME/.minecraft\"`\n\nIf it worked correctly, a new `.minecraft` folder linked to the SkyClient folder should be in `POLYMC PATH/INSTANCE NAME`.\n\nThat's it! Just run your new instance and have fun using SkyClient in PolyMC / MultiMC!"
+        "response": "Before doing anything, we recommend using PrismLauncher over MultiMC. PrismLauncher is an improved fork with an actually decent group of people owning it, and should be getting very good improvements very soon.\n\nFirstly, create a PrismLauncher instance and click Install Forge on the instance settings. You should already know how to do this if you're using PrismLauncher. After that, select the instance you just created in the PrismLauncher main menu and click \"Instance Folder\". This folder you just opened will be referred to as PRISMLAUNCHER PATH/INSTANCE NAME for the rest of this tutorial. There should be a folder called .minecraft in that folder. If there is not, launch Minecraft before following the rest of this tutorial.\nThen...\nWindows:\nType in cmd: `mklink /J \"PRISMLAUNCHER PATH/INSTANCE NAME/.minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n\nLinux:\nType in Terminal: `ln -s \"~/.minecraft/skyclient\" \"PRISMLAUNCHER PATH/INSTANCE NAME/minecraft\"`\n\nmacOS:\nType in Terminal: `ln -s \"~/Library/Application Support/minecraft/skyclient\" \"PRISMLAUNCHER PATH/INSTANCE NAME/.minecraft\"`\n\nIf it worked correctly, a new `.minecraft` folder linked to the SkyClient folder should be in `PRISMLAUNCHER PATH/INSTANCE NAME`.\n\nThat's it! Just run your new instance and have fun using SkyClient in PrismLauncher / MultiMC!"
     },
     {
         "unclebot": true,
