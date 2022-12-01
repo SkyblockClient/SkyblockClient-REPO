@@ -371,7 +371,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/patcher",
-        "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
+        "description": "Patcher optimizes the game in several major ways, fixes 70+ vanilla bugs, and adds many QOL features to allow for a large range of customizabilitity.",
         "icon": "monkey.png",
         "actions": [
             {
@@ -408,7 +408,7 @@
         "enabled": true,
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
-        "description": "Stops crashes from closing your game and provides a solution if found.",
+        "description": "Prevents crashes from closing your game and tries to provides a solution.",
         "icon": "polyfrost.png",
         "actions": [
             {
@@ -475,7 +475,7 @@
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
         "command": "/hytils",
-        "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
+        "description": "Hytils Reborn is a Hypixel focused mod, adding tons of QOL features that you would want on Hypixel, such as an Advertisement-Blocker, AutoQueue, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
         "icon": "polyfrost.png",
         "actions": [
             {
@@ -501,7 +501,7 @@
         "id": "replaymod",
         "display": "Replay Mod",
         "creator": "CrushedPixel and johni0702",
-        "description": "A Minecraft Mod to record, relive and share your experience.",
+        "description": "A Minecraft Mod to record, relive, and share your experiences.",
         "icon": "replaymod.png",
         "actions": [
             {
@@ -532,7 +532,7 @@
         "id": "blockoverlay",
         "display": "Block Overlay",
         "creator": "Aycy",
-        "description": "A custom overlay on blocks.",
+        "description": "A custom highlight overlay on blocks.",
         "icon": "aycy.jpg",
         "actions": [
             {
@@ -556,7 +556,7 @@
         "creator": "Salmon",
         "discordcode": "VzHan6xyUh",
         "command": "/betterhurtcam",
-        "description": "Increase or decrease the hurtcam when hit.",
+        "description": "Increase or decrease the hurtcam when taking damage.",
         "icon": "shceros.png",
         "actions": [
             {
@@ -613,7 +613,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/nickhider",
-        "description": "Hides your nick on Hypixel.",
+        "description": "Hides your nick on Hypixel. Great for preventing streamsniping.",
         "icon": "monkey.png",
         "actions": [
             {
@@ -642,7 +642,7 @@
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
         "command": "/sba",
-        "description": "Essential QOL Skyblock mod with a plethora of indispensable features, locking slots, timers, and a ton more to discover.",
+        "description": "QOL Skyblock mod with many features, such as a custom warp menu, timers, and a ton more to discover.",
         "icon": "bisquit.png",
         "actions": [
             {
@@ -689,7 +689,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "command": "/sbh",
-        "description": "SBH focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
+        "description": "SBH focuses on enhancing the Skyblock HUD to feel like more of a RPG.",
         "icon": "sbhlogo.png",
         "actions": [
             {
@@ -801,7 +801,7 @@
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
         "command": "/skytils",
-        "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future.",
+        "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and many more specific features for things such as slayers and mining.",
         "icon": "skytils.png",
         "actions": [
             {
@@ -840,7 +840,7 @@
         "creator": "BananaFructa",
         "discordcode": "HyvcR9a3x9",
         "command": "/apec",
-        "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG.",
+        "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like a RPG.",
         "icon": "apec.png",
         "actions": [
             {
@@ -966,7 +966,7 @@
         "creator": "Syeyoung",
         "discordcode": "dg",
         "command": "/dg",
-        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features.",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod with secrets pathfinding and puzzle solvers, among other features.",
         "icon": "dungeonsguide.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -1056,7 +1056,7 @@
         "creator": "DeDiamondPro",
         "discordcode": "XtAuqsJWby",
         "command": "/skyguide",
-        "description": "A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations.",
+        "description": "A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of Skyblock and NPC locations.",
         "icon": "dediamondpro.png",
         "actions": [
             {
@@ -1168,7 +1168,7 @@
         "creator": "tr7zw",
         "discordcode": "RzRZVV8aQd",
         "command": "Access config via mod list",
-        "description": "Replaces the usually flat second layer of player skins with a 3d modeled version.",
+        "description": "Replaces the usually flat second layer of player skins with a 3D modeled version.",
         "icon": "3dskinlayers.png",
         "actions": [
             {
@@ -1262,7 +1262,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
-        "description": "Show your Spotify songs ingame.",
+        "description": "Show and control your Spotify songs in-game.",
         "icon": "tgb_icon.png",
         "actions": [
             {
@@ -1381,7 +1381,7 @@
         "display": "Chat Triggers",
         "creator": "Kerbybit",
         "discordcode": "chattriggers",
-        "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
+        "description": "A framework that allows the use of JavaScript to create 'minimods' called modules at the cost of some performance. \nUse their website to find some great modules such as SoopyAddons.",
         "icon": "chattriggers 48x.png",
         "actions": [
             {
@@ -1428,7 +1428,7 @@
         ],
         "display": "Resource Pack Manager",
         "creator": "Aycy",
-        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu.",
+        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features to help organize and find your packs.",
         "icon": "aycy.jpg",
         "actions": [
             {
@@ -1488,7 +1488,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/rewardclaim",
-        "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
+        "description": "Reward Claim allows you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "hidden": true,
         "file": "RewardClaim-1.0.5.jar",
         "url": "https://cdn.modrinth.com/data/sbgVdyNC/versions/UXnMtYTj/RewardClaim-1.0.5.jar",
@@ -1757,7 +1757,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/bossbar",
-        "description": "Bossbar Customizer allows for customization of the ingame bossbar to your liking, including size, position, elements, etc.",
+        "description": "Bossbar Customizer allows for customization of the in-game bossbar to your liking, including size, position, elements, etc.",
         "icon": "monkey.png",
         "actions": [
             {
