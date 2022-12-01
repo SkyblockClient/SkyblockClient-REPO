@@ -8,7 +8,7 @@
         "enabled": true,
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
-        "description": "Useful bundle of utilities for scrolling through tooltips, togglesprint, and a lot more.",
+        "description": "Useful utilities like scrollable tooltips, toggle sprint, and some minor things",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -61,7 +61,7 @@
         ],
         "display": "GUI Bundle",
         "enabled": true,
-        "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more.",
+        "description": "Some GUI-related tweaks, like improving the chat experience",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -127,7 +127,7 @@
         "display": "HUD Bundle",
         "discordcode": "AJv5ZnNT8q",
         "command": "/evergreenhud",
-        "description": "Displays every piece of information a Minecraft player could ever need.",
+        "description": "Add almost everything you could want to your HUD, and tweak it too",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -176,7 +176,7 @@
         "display": "QOL Bundle",
         "creator": "Moulberry",
         "command": "/insomnia on/off",
-        "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
+        "description": "Some QOL features, like overlaying TNT and Hypixel level information, automatically saying stuff, and removing Dream skins",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -241,7 +241,7 @@
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
         "command": "/damagetint",
-        "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and behindyou.",
+        "description": "PVP-related mods: damage tint, behindyou, and better particles",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -291,7 +291,7 @@
         "display": "SkyClient Updater",
         "enabled": true,
         "creator": "Lily",
-        "description": "Adds in-game updater for the mods in SkyClient.",
+        "description": "Automatically update your mods when you launch",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -318,7 +318,7 @@
         "enabled": true,
         "creator": "SkyClient Team",
         "command": "/scc",
-        "description": "Adds cosmetics, a greeting menu, a custom loading screen, custom main menu, custom display icon and title, Discord RPC, and more.",
+        "description": "Makes SkyClient feel more like a client with custom menus, tags, Discord RPC, and more",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -344,7 +344,7 @@
         "enabled": true,
         "creator": "sp614x",
         "discordcode": "xGVXsgbbSt",
-        "description": "OptiFine is an EXTREMELY lucrative modification that is required for most mods and practically all SkyBlock texture packs. It also adds an incredible amount of customizability options for Minecraft's graphics settings, from tree leaves to fog.",
+        "description": "A graphics-related mod that improves your game speed, lets you customize your graphics, and makes mods and texture packs work",
         "icon": "optifine.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -371,7 +371,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/patcher",
-        "description": "Patcher optimizes the game in every possible way, fixes 70+ vanilla bugs along with some QOL features while maintaining both compatibility, and has almost no tradeoffs.",
+        "description": "Optimizes the game and fixes many bugs, with no tradeoffs",
         "icon": "monkey.png",
         "actions": [
             {
@@ -408,7 +408,7 @@
         "enabled": true,
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
-        "description": "Stops crashes from closing your game and provides a solution if found.",
+        "description": "Stops crashes from closing your game and helps you with fixing them",
         "icon": "polyfrost.png",
         "actions": [
             {
@@ -475,8 +475,7 @@
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
         "command": "/hytils",
-        "description": "Hytils Reborn is a Hypixel focused Forge 1.8.9 mod based on Sk1er LLC's Hytilities, adding tons of Quality of Life features that you would want while on Hypixel, such as an Advertisement-Blocker, AutoQueue, AutoGL, Height Overlay, Game Status Restyle, AutoComplete for /play and plenty others to discover on your own.",
-        "icon": "polyfrost.png",
+        "description": "A mod for Hypixel based on sk1er Hytilities, that adds many QOL features like automatically saying/doing things, overlaying info, and much more",
         "actions": [
             {
                 "icon": "guide.png",
@@ -501,7 +500,7 @@
         "id": "replaymod",
         "display": "Replay Mod",
         "creator": "CrushedPixel and johni0702",
-        "description": "A Minecraft Mod to record, relive and share your experience.",
+        "description": "Lets you capture your gameplay and rewatch it from different camera angles",
         "icon": "replaymod.png",
         "actions": [
             {
@@ -532,7 +531,7 @@
         "id": "blockoverlay",
         "display": "Block Overlay",
         "creator": "Aycy",
-        "description": "A custom overlay on blocks.",
+        "description": "Customize the overlay on the block you're looking at",
         "icon": "aycy.jpg",
         "actions": [
             {
@@ -556,7 +555,7 @@
         "creator": "Salmon",
         "discordcode": "VzHan6xyUh",
         "command": "/betterhurtcam",
-        "description": "Increase or decrease the hurtcam when hit.",
+        "description": "Change how much your screen shakes when hit",
         "icon": "shceros.png",
         "actions": [
             {
@@ -587,7 +586,7 @@
         "display": "Raw Mouse Input",
         "creator": "xCuri0, port by Mixces",
         "command": "/rescan",
-        "description": "Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system.",
+        "description": "Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system",
         "icon": "mixces.png",
         "actions": [
             {
@@ -613,7 +612,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/nickhider",
-        "description": "Hides your nick on Hypixel.",
+        "description": "Helps prevent getting stream-sniped, mainly by hiding your nick",
         "icon": "monkey.png",
         "actions": [
             {
@@ -642,7 +641,7 @@
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
         "command": "/sba",
-        "description": "Essential QOL Skyblock mod with a plethora of indispensable features, locking slots, timers, and a ton more to discover.",
+        "description": "Skyblock mod with many features, like locking slots, customizing your HUD, and more",
         "icon": "bisquit.png",
         "actions": [
             {
@@ -689,7 +688,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "moulberry",
         "command": "/sbh",
-        "description": "SBH focuses on enhancing the Skyblock HUD to feel like more of an RPG.",
+        "description": "Changes the Skyblock HUD to feel more like an RPG",
         "icon": "sbhlogo.png",
         "actions": [
             {
@@ -715,7 +714,7 @@
         "creator": "Moulberry",
         "discordcode": "moulberry",
         "command": "/neu",
-        "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list. There are many, many more features than these, and new features are always being added.",
+        "description": "A mod for Skyblock with multiple essential features, like locking slots, getting fishing notifications, viewing info about items, and more that cover every aspect of the game",
         "icon": "neulogo.png",
         "actions": [
             {
@@ -760,7 +759,7 @@
         "creator": "DankerWanker",
         "discordcode": "BUmywXX47M",
         "command": "/dsm",
-        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself.",
+        "description": "Dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself",
         "icon": "dsm logo cropped.png",
         "actions": [
             {
@@ -801,7 +800,7 @@
         "creator": "Sychic and Lily",
         "discordcode": "skytils",
         "command": "/skytils",
-        "description": "Introduces some useful puzzle solvers, a reparty command, spam hider for Skyblock, and a ton more with lots to come in the future.",
+        "description": "Utilities for Skyblock like dungeon-related stuff, solvers, timers, and more",
         "icon": "skytils.png",
         "actions": [
             {
@@ -840,7 +839,7 @@
         "creator": "BananaFructa",
         "discordcode": "HyvcR9a3x9",
         "command": "/apec",
-        "description": "Apec provides a nice HUD improvement with a sleek blackbar at the bottom of your screen, making the game feel more like an RPG.",
+        "description": "Improves your HUD with a bar at the bottom of your screen, making the game feel more like an RPG",
         "icon": "apec.png",
         "actions": [
             {
@@ -889,7 +888,7 @@
         "creator": "Cow",
         "discordcode": "fU2tFPf",
         "command": "/moo config",
-        "description": "A collection of various features and enhancements mainly towards Hypixel Skyblock with other features like log searching, stalk, \nbest friends list which are designed to be suitable for all Hypixel players.",
+        "description": "Collection of (Skyblock) features and tweaks like log searching, stalk, and a best friends list",
         "icon": "cowlection-logo.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -935,7 +934,7 @@
         "creator": "Cobble8",
         "discordcode": "KsqMmBdNBE",
         "command": "/sbp",
-        "description": "A mod with a lot of customizability and a large variety of features including auto teleport to Garry, disable mining messages, disable specific messages, \nand showing player's dungeons stats with more for the user to discover.",
+        "description": "A mod with multiple tweaks that are all customizable like auto teleport to Garry, hiding types of messages, and viewing players' dungeons stats with more to discover",
         "icon": "sbp.png",
         "actions": [
             {
@@ -966,7 +965,7 @@
         "creator": "Syeyoung",
         "discordcode": "dg",
         "command": "/dg",
-        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features.",
+        "description": "A mod that helps you with dungeons with secrets pathfinding, among other features",
         "icon": "dungeonsguide.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -1005,7 +1004,7 @@
         "creator": "_risk",
         "discordcode": "7B5RbsArYK",
         "command": "/room",
-        "description": "Displays information about the dungeon room you are currently in and adds waypoints for secrets.",
+        "description": "Displays information about the dungeon room you are currently in and adds waypoints for secrets",
         "icon": "drm.png",
         "actions": [
             {
@@ -1033,7 +1032,7 @@
         "creator": "meyi",
         "discordcode": "wjpJSVSwvD",
         "command": "/bazaarnotifier",
-        "description": "Mod for Hypixel Skyblock that helps with tracking bazaar sell offer and buy order movements.",
+        "description": "Tracks your bazaar sell offer and buy offers",
         "icon": "meyi.png",
         "actions": [
             {
@@ -1056,7 +1055,7 @@
         "creator": "DeDiamondPro",
         "discordcode": "XtAuqsJWby",
         "command": "/skyguide",
-        "description": "A mod that aims to improve the Hypixel SkyBlock experience in a vanilla-like way. Current features include a map of SkyBlock and NPC locations.",
+        "description": "A mod with a focus on improving the Skyblock experience in a vanilla-like way, mainly with a map right now",
         "icon": "dediamondpro.png",
         "actions": [
             {
@@ -1099,7 +1098,7 @@
         "display": "Old Animations",
         "creator": "Sk1erLLC & Polyfrost",
         "command": "/oldanimations",
-        "description": "1.7 Animations, in 1.8.9.",
+        "description": "1.7 animations, in 1.8.9",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
         "categories": [
@@ -1125,7 +1124,7 @@
         "display": "TimeChanger",
         "creator": "Shatterpoint",
         "command": "/timechange",
-        "description": "Allows the user to change the client-side time with a simple slider and full time customizability.",
+        "description": "Change the client-side time with a simple slider and full customizability",
         "icon": "clock.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -1145,7 +1144,7 @@
         "display": "Item Physic Lite",
         "creator": "CreativeMD",
         "discordcode": "W9QM3fS",
-        "description": "Make dropped items have realistic physics.",
+        "description": "Make dropped items have realistic physics",
         "icon": "creativemd.png",
         "actions": [
             {
@@ -1168,7 +1167,7 @@
         "creator": "tr7zw",
         "discordcode": "RzRZVV8aQd",
         "command": "Access config via mod list",
-        "description": "Replaces the usually flat second layer of player skins with a 3d modeled version.",
+        "description": "Replaces the usually flat second layer of player skins with a 3d modeled version",
         "icon": "3dskinlayers.png",
         "actions": [
             {
@@ -1201,7 +1200,7 @@
         "creator": "tr7zw",
         "discordcode": "RzRZVV8aQd",
         "command": "Access config via mod list",
-        "description": "Makes the cape wavey, similar to the Lunar Client cloth capes. The cape shouldn't be a static slab.",
+        "description": "Makes the cape wavey, similar to the Lunar Client cloth capes. The cape shouldn't be a static slab",
         "icon": "waveycapes.png",
         "actions": [
             {
@@ -1233,7 +1232,7 @@
         "display": "Twitcher",
         "enabled": false,
         "creator": "Llamabit",
-        "description": "Enables Twitch chat in your Minecraft with moderation options.",
+        "description": "Shows Twitch chat in Minecraft with moderation options",
         "icon": "twitcher.png",
         "actions": [
             {
@@ -1262,7 +1261,7 @@
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
-        "description": "Show your Spotify songs ingame.",
+        "description": "Show and control your Spotify songs in-game",
         "icon": "tgb_icon.png",
         "actions": [
             {
@@ -1280,7 +1279,7 @@
         "id": "blur",
         "display": "Blur",
         "creator": "tterrag1098",
-        "description": "Add a blur to all your GUIs.",
+        "description": "Add a blur behind all your GUIs",
         "icon": "tterrag.png",
         "actions": [
             {
@@ -1304,7 +1303,7 @@
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
         "command": "/glintcolorizer",
-        "description": "Customize the glint color of items and more.",
+        "description": "Customize the glint of items",
         "icon": "polyfrost.png",
         "actions": [
             {
@@ -1325,7 +1324,7 @@
         "id": "damagetilt",
         "display": "Damage Tilt",
         "creator": "Charles445",
-        "description": "Makes your camera tilt in a different direction based on where the damage came from.",
+        "description": "Makes your screen tilt in a different direction based on where the damage came from",
         "icon": "damagetilt.png",
         "actions": [
             {
@@ -1356,7 +1355,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/subtitles_config",
-        "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+        "description": "Adds subtitles to your game, as featured in modern versions of Minecraft",
         "icon": "monkey.png",
         "actions": [
             {
@@ -1381,7 +1380,7 @@
         "display": "Chat Triggers",
         "creator": "Kerbybit",
         "discordcode": "chattriggers",
-        "description": "A framework that allows the use of JavaScript to create 'minimods' called modules which is required for SoopyAddons and DungeonsUtilities, \nan entire website with so many more at the cost of some performance.",
+        "description": "A framework that lets you code and install Javascript modules like SoopyAddons and DungeonsUtilities, despite being a bit slow",
         "icon": "chattriggers 48x.png",
         "actions": [
             {
@@ -1428,7 +1427,7 @@
         ],
         "display": "Resource Pack Manager",
         "creator": "Aycy",
-        "description": "Optimizes the resourcepack menu for faster load time and adds a ton of useful features in the resource pack menu.",
+        "description": "Changes the resource pack menu to be faster and have more features",
         "icon": "aycy.jpg",
         "actions": [
             {
