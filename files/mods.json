@@ -2107,7 +2107,8 @@
         "file": "music_player-1.8.9-2.1.1.172.jar",
         "url": "https://mediafiles.forgecdn.net/files/3930/933/music_player-1.8.9-2.1.1.172.jar",
         "forge_id": "musicplayer",
-        "hash": "9479585fc9aaf1290961afdbcd4c148b"
+        "hash": "9479585fc9aaf1290961afdbcd4c148b",
+        "hidden": true
     },
     {
         "id": "skywars-sorter",
