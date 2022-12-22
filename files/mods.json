@@ -921,10 +921,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "Cowlection-1.8.9-0.15.0.jar",
-        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.0/Cowlection-1.8.9-0.15.0.jar",
+        "file": "Cowlection-1.8.9-0.15.1.jar",
+        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.1/Cowlection-1.8.9-0.15.1.jar",
         "forge_id": "cowlection",
-        "hash": "4dde20fc4caa75bf6809cb8419f95863"
+        "hash": "c9e5673a84892298e3fec7031d12e30b"
     },
     {
         "id": "sbp",
