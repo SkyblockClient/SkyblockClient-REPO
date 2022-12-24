@@ -1355,7 +1355,7 @@
         "display": "Sound Subtitles",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
-        "command": "/subtitles_config",
+        "command": "/subtitle_config",
         "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
         "icon": "monkey.png",
         "actions": [
