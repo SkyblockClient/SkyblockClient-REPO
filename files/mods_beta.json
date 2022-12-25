@@ -358,5 +358,47 @@
             "keystrokes"
         ],
         "hash": "2307acee65c07eaa8f8d419dd7c2cb22"
+    },
+        {
+        "id": "dsm",
+        "nicknames": [
+            "dankers",
+            "dankersskyblockmod"
+        ],
+        "display": "Danker's Skyblock Mod",
+        "creator": "DankerWanker",
+        "discordcode": "BUmywXX47M",
+        "command": "/dsm",
+        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself.",
+        "icon": "dsm logo cropped.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3577020/"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/bowser0000/SkyblockMod/releases"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock",
+            "3;For Dungeons"
+        ],
+        "file": "Dankers_Skyblock_Mod-2.0-beta1.jar",
+        "url": "https://cdn.discordapp.com/attachments/742114256555606106/1056373297647976478/Dankers_Skyblock_Mod-2.0-beta1.jar",
+        "forge_id": "Danker's Skyblock Mod",
+        "hash": "4185e68c205cd95539584672efe40c7b"
     }
 ]
