@@ -1399,6 +1399,32 @@
         "hash": "c0ec16e7a5a105f68fde9fa580dedb4e"
     },
     {
+        "id": "soopy",
+        "nicknames": [
+            "soopyv2"
+        ],
+        "display": "SoopyV2",
+        "creator": "Soopyboo32",
+        "discordcode": "dfSMq96RSN",
+        "description": "A ChatTriggers module providing many unique and useful features for Hypixel SkyBlock.",
+        "icon": "soopyv2.png",
+        "actions": [
+            {
+                "icon": "soopyv2.png",
+                "text": "Source",
+                "link": "https://github.com/Soopyboo32/SoopyV2"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock"
+        ],
+        "hidden": true,
+        "file": "soopyv2forge-1.1.jar",
+        "url": "https://github.com/Soopyboo32/SoopyV2Forge/releases/download/1.1/soopyv2forge-1.1.jar",
+        "forge_id": "soopyv2forge",
+        "hash": "3C9F865DE1AE739C2587858DAEBC57A0"
+    },
+    {
         "id": "sbcustommobtex",
         "display": "SBCustomMobTex",
         "creator": "Moulberry",
