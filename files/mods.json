@@ -1406,6 +1406,7 @@
         "display": "SoopyV2",
         "creator": "Soopyboo32",
         "discordcode": "dfSMq96RSN",
+        "command": "/soopy",
         "description": "A ChatTriggers module providing many unique and useful features for Hypixel SkyBlock.",
         "icon": "soopyv2.png",
         "actions": [
