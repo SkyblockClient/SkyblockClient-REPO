@@ -44,7 +44,33 @@
             "particlesenhanced",
             "behindyouv3"
         ],
-        "hash": "553266b5459dda3586f1052c9fb6e94f"
+        "hash": "553266b5459dda3586f1052c9fb6e94f",
+        "update_to_ids": [
+            "hitcolor"
+        ]
+    },
+    {
+        "id": "hitcolor",
+        "display": "HitColor",
+        "enabled": false,
+        "creator": "Noxiuam",
+        "description": "Allows changing the damage tint applied to entities with a lot of customization.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Noxiuam/HitColor"
+            }
+        ],
+        "categories": [
+            "5;All PvP",
+            "6;Recommended PvP"
+        ],
+        "file": "HitColor-1.0.jar",
+        "url": "https://github.com/Noxiuam/HitColor/releases/download/1.0-beta/HitColor-1.0.jar",
+        "forge_id": "hitcolor",
+        "hash": "b88a9375320cafb276aada4e7341f0f6"
     },
     {
         "id": "hytils-reborn",
