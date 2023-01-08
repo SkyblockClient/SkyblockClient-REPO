@@ -94,7 +94,7 @@
                 "sky"
             ]
         ],
-        "response": "**If you are trying to reinstall SkyClient because of the Mods throws an error, don't.** It has never helped and will never help. \nTry to actually fix the issue instead of reinstalling for the 10th time."
+        "response": "**Don't reinstall SkyClient a thousand times to try to fix your issue.** While a mod may fail to download, repeatedly reinstalling will just be putting the same mods in your mods folder.\nTry to actually fix the issue instead of reinstalling for the 10th time."
     },
     {
         "triggers": [
@@ -347,6 +347,19 @@
             ]
         ],
         "response": "Music Player's option called \"Toggle menue overlay\" overrides Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs. Please disable Music Player's \"Toggle menue overlay\" by pressing `F8` in-game, pressing the cog on the upper right corner, and pressing the button labeled \"Toggle menue overlay\" until it is not highlighted green. Then exit Music Player's menus and go back to the pause screen to confirm that everything is back to normal.\n\nIf you do not have Music Player, make sure Patcher's \"Smart Disconnect\" and \"Open to LAN Replacement\" configs are enabled in the first place. Otherwise, if none of the above situations apply to you, disregard this message\u2014another mod outside of SkyClient is probably causing this issue."
+    },
+    {
+        "triggers": [
+            [
+                "unable",
+                "fail"
+            ],
+            [
+                "minecraft",
+                "skyclient"
+            ]
+        ],
+        "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to Prism Launcher instead: https://microcontrollersdev.github.io/Alternatives/launcher/prism_win"
     },
     {
         "unclebot": true,
