@@ -44,7 +44,33 @@
             "particlesenhanced",
             "behindyouv3"
         ],
-        "hash": "553266b5459dda3586f1052c9fb6e94f"
+        "hash": "553266b5459dda3586f1052c9fb6e94f",
+        "update_to_ids": [
+            "hitcolor"
+        ]
+    },
+    {
+        "id": "hitcolor",
+        "display": "HitColor",
+        "enabled": false,
+        "creator": "Noxiuam",
+        "description": "Allows changing the damage tint applied to entities with a lot of customization.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Noxiuam/HitColor"
+            }
+        ],
+        "categories": [
+            "5;All PvP",
+            "6;Recommended PvP"
+        ],
+        "file": "HitColor-1.0.jar",
+        "url": "https://github.com/Noxiuam/HitColor/releases/download/1.0-beta/HitColor-1.0.jar",
+        "forge_id": "hitcolor",
+        "hash": "b88a9375320cafb276aada4e7341f0f6"
     },
     {
         "id": "hytils-reborn",
@@ -358,5 +384,47 @@
             "keystrokes"
         ],
         "hash": "2307acee65c07eaa8f8d419dd7c2cb22"
+    },
+    {
+        "id": "dsm",
+        "nicknames": [
+            "dankers",
+            "dankersskyblockmod"
+        ],
+        "display": "Danker's Skyblock Mod",
+        "creator": "DankerWanker",
+        "discordcode": "BUmywXX47M",
+        "command": "/dsm",
+        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself.",
+        "icon": "dsm logo cropped.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/3577020/"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/bowser0000/SkyblockMod/releases"
+            }
+        ],
+        "categories": [
+            "2;All Skyblock",
+            "3;For Dungeons"
+        ],
+        "file": "Dankers_Skyblock_Mod-2.0-beta1.jar",
+        "url": "https://cdn.discordapp.com/attachments/742114256555606106/1056373297647976478/Dankers_Skyblock_Mod-2.0-beta1.jar",
+        "forge_id": "Danker's Skyblock Mod",
+        "hash": "4185e68c205cd95539584672efe40c7b"
     }
 ]

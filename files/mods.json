@@ -392,10 +392,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "Patcher-1.8.5 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.5/1.8.9/Patcher-1.8.5 (1.8.9).jar",
+        "file": "Patcher-1.8.6 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.6/1.8.9/Patcher-1.8.6%20(1.8.9).jar",
         "forge_id": "patcher",
-        "hash": "05c941a69123a92655f83e48a8cc6f47"
+        "hash": "3eaeb18bc532d8d2c066d935cb8a7b89"
     },
     {
         "id": "crashpatch",
@@ -573,10 +573,10 @@
             "5;All PvP",
             "6;Recommended PvP"
         ],
-        "file": "BetterHurtCam.v2.1.5.jar",
-        "url": "https://github.com/Scherso/BetterHurtCam/releases/download/v2.1.5/BetterHurtCam.v2.1.5.jar",
+        "file": "BetterHurtCam-2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/DQKdq5re/versions/g4aoBppG/BetterHurtCam-2.2.0.jar",
         "forge_id": "betterhurtcam",
-        "hash": "33921cec5ce3d2839924b8c7241fc6db"
+        "hash": "dab61518c04ff395d9d8bd0e50458aa6"
     },
     {
         "id": "rawinput",
@@ -828,10 +828,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.3.0.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.3.0/Skytils-1.3.0.jar",
+        "file": "Skytils-1.3.1.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.3.1/Skytils-1.3.1.jar",
         "forge_id": "skytils",
-        "hash": "58027bdd5c73c73efd38ec1d08e412df"
+        "hash": "5d7cccd60b27d00121f24367f4aea4bc"
     },
     {
         "id": "apec",
@@ -920,10 +920,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "Cowlection-1.8.9-0.15.0.jar",
-        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.0/Cowlection-1.8.9-0.15.0.jar",
+        "file": "Cowlection-1.8.9-0.15.1.jar",
+        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.1/Cowlection-1.8.9-0.15.1.jar",
         "forge_id": "cowlection",
-        "hash": "4dde20fc4caa75bf6809cb8419f95863"
+        "hash": "c9e5673a84892298e3fec7031d12e30b"
     },
     {
         "id": "sbp",
@@ -1044,10 +1044,10 @@
         "categories": [
             "2;All Skyblock"
         ],
-        "file": "BazaarNotifier-1.4.12.jar",
-        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.4.12/BazaarNotifier-1.4.12.jar",
+        "file": "BazaarNotifier-1.6.1.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.6.1/BazaarNotifier-1.6.1.jar",
         "forge_id": "BazaarNotifier",
-        "hash": "00e548b9728be3afffc1f3cd0d7c21a5"
+        "hash": "c5fe1583a99379f71547d41121a2b381"
     },
     {
         "id": "skyguide",
@@ -1270,10 +1270,10 @@
                 "link": "https://github.com/ThatGravyBoat/Craftify"
             }
         ],
-        "file": "Craftify-1.8.9-1.5.0-forge.jar",
-        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/JIRL4Eyk/Craftify-1.8.9-1.5.0-forge.jar",
+        "file": "Craftify-1.8.9-1.6.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/YL1L5GoQ/Craftify-1.8.9-1.6.0-forge.jar",
         "forge_id": "craftify",
-        "hash": "a759204cce6ec45520e26ba39a212250"
+        "hash": "bee9248635b69477bf77723d2055615d"
     },
     {
         "id": "blur",
@@ -1354,7 +1354,7 @@
         "display": "Sound Subtitles",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
-        "command": "/subtitles_config",
+        "command": "/subtitle_config",
         "description": "Adds subtitles to your game, as featured in modern versions of Minecraft",
         "icon": "monkey.png",
         "actions": [
@@ -2106,7 +2106,8 @@
         "file": "music_player-1.8.9-2.1.1.172.jar",
         "url": "https://mediafiles.forgecdn.net/files/3930/933/music_player-1.8.9-2.1.1.172.jar",
         "forge_id": "musicplayer",
-        "hash": "9479585fc9aaf1290961afdbcd4c148b"
+        "hash": "9479585fc9aaf1290961afdbcd4c148b",
+        "hidden": true
     },
     {
         "id": "skywars-sorter",
