@@ -61,7 +61,7 @@
         ],
         "display": "GUI Bundle",
         "enabled": true,
-        "description": "Some GUI-related tweaks, like improving the chat experience",
+        "description": "Some GUI-related tweaks, like improving the chat and menu experience",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -291,7 +291,7 @@
         "display": "SkyClient Updater",
         "enabled": true,
         "creator": "Lily",
-        "description": "Automatically update your mods when you launch",
+        "description": "Update your mods when you launch",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -344,7 +344,7 @@
         "enabled": true,
         "creator": "sp614x",
         "discordcode": "xGVXsgbbSt",
-        "description": "A graphics-related mod that improves your game speed, lets you customize your graphics, and makes mods and texture packs work",
+        "description": "A graphics-related mod that improves your performance, lets you customize your graphics, and makes mods and texture packs work",
         "icon": "optifine.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -371,7 +371,7 @@
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
         "command": "/patcher",
-        "description": "Optimizes the game and fixes many bugs, with no tradeoffs",
+        "description": "Optimizes the game, fixes many bugs, and adds some utilities, with no tradeoffs",
         "icon": "monkey.png",
         "actions": [
             {
@@ -475,7 +475,7 @@
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
         "command": "/hytils",
-        "description": "A mod for Hypixel based on sk1er Hytilities, that adds many QOL features like automatically saying/doing things, overlaying info, and much more",
+        "description": "A mod for Hypixel based on Sk1er's Hytilities, that adds many QOL features like automatically saying/doing things, overlaying info, and much more",
         "actions": [
             {
                 "icon": "guide.png",
@@ -641,7 +641,7 @@
         "creator": "Biscuit",
         "discordcode": "qBkzcgdPqU",
         "command": "/sba",
-        "description": "Skyblock mod with many features, like locking slots, customizing your HUD, and more",
+        "description": "Skyblock mod with many features, like customizing your HUD, a custom warp menu, and more",
         "icon": "bisquit.png",
         "actions": [
             {
@@ -759,7 +759,7 @@
         "creator": "DankerWanker",
         "discordcode": "BUmywXX47M",
         "command": "/dsm",
-        "description": "Dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself",
+        "description": "Features for slayers and other bosses, party commands, and more to see for yourself",
         "icon": "dsm logo cropped.png",
         "actions": [
             {
@@ -888,7 +888,7 @@
         "creator": "Cow",
         "discordcode": "fU2tFPf",
         "command": "/moo config",
-        "description": "Collection of (Skyblock) features and tweaks like log searching, stalk, and a best friends list",
+        "description": "Collection of Skyblock features and miscellaneous tweaks like log searching, stalk, and a best friends list",
         "icon": "cowlection-logo.png",
         "icon_scaling": "pixel",
         "actions": [
@@ -1324,7 +1324,7 @@
         "id": "damagetilt",
         "display": "Damage Tilt",
         "creator": "Charles445",
-        "description": "Makes your screen tilt in a different direction based on where the damage came from",
+        "description": "Makes your screen tilt direction based on where the damage came from",
         "icon": "damagetilt.png",
         "actions": [
             {
