@@ -104,10 +104,10 @@
         "categories": [
             "1;Recommended"
         ],
-        "file": "Hytils.Reborn-1.5.1-beta2.jar",
-        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.1-beta2/Hytils.Reborn-1.5.1-beta2.jar",
+        "file": "Hytils.Reborn-1.5.1-beta1.jar",
+        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.1-beta1/Hytils.Reborn-1.5.1-beta1.jar",
         "forge_id": "hytils-reborn",
-        "hash": "ef0cbeac63416dee5a149664e18aab9b"
+        "hash": "99db606faa48852a60dbc83c852ccd1d"
     },
     {
         "id": "oam",
@@ -181,10 +181,10 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.4.2-beta2.jar",
-        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.2-beta2/Chatting-1.4.2-beta2.jar",
+        "file": "Chatting-1.4.2-beta1.jar",
+        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.2-beta1/Chatting-1.4.2-beta1.jar",
         "forge_id": "chatting",
-        "hash": "f0815f85e41738833b4fd81da2d0e3c9"
+        "hash": "4acdf2d0981f543b01811f951f21b40d"
     },
     {
         "id": "vanillahud",
@@ -307,10 +307,10 @@
         "command": "/overflowanimations",
         "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
         "hidden": true,
-        "file": "OverflowAnimations.1.8.9-forge.-2.0.1-beta6",
-        "url": "https://github.com/Polyfrost/OverflowAnimationsV2/releases/download/v2.0.1-beta6/OverflowAnimations.1.8.9-forge.-2.0.1-beta6.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.0.1-beta5.jar",
+        "url": "https://github.com/Polyfrost/OverflowAnimationsV2/releases/download/v2.0.1-beta5/OverflowAnimations-1.8.9-forge-2.0.1-beta5.jar",
         "forge_id": "overflowanimations",
-        "hash": "3915e2a4897500105c83e5c36a23b7e8"
+        "hash": "e3175693216a08cae74c4473784c6479"
     },
     {
         "id": "simpletogglesprint",
