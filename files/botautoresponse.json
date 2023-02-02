@@ -659,10 +659,11 @@
                 ".polymc",
                 "polymc",
                 "prismlauncher",
-                ".prismlauncher"
+                ".prismlauncher",
+                ".prism"
             ]
         ],
-        "response": "Given that other launchers keep your .minecraft folder somewhere different from usual, you need to let them access SkyClient. This might mean choosing a different folder from usual (which exists on Mart), or you might have to make the .minecraft folder link to where Skyclient is (which the rest of this tutorial will explain).\n\nFirst, you need to get a .minecraft folder to link to. Just make a new 1.8.9 instance, and hit the Install Forge button. Then choose the button to open the instance path. If it doesn't have a `.minecraft` folder, launch the instance first. Whenever this tutorial says INSTANCE, replace it with the path to the instance folder.\n\nHere's how to link the .minecraft folder:\n- Windows: Open cmd and run `mklink /J \"MULTIMC PATH/INSTANCE NAME/minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n- Mac: Open Terminal and run `ln -s \"MULTIMC PATH/INSTANCE NAME/.minecraft\" \"~/Library/Application Support/minecraft/skyclient\"`\n- Linux: Open your terminal and run `ln -s \"~/.minecraft/skyclient\" \"MULTIMC PATH/INSTANCE NAME/.minecraft\"`"
+        "response": "Given that other launchers keep your .minecraft folder somewhere different from usual, you need to let them access SkyClient. This might mean choosing a different folder from usual (which exists on Mart), copying SkyClient over, or linking the folders together. A guide on installing Prism and copying over your SkyClient installation is at <https://microcontrollersdev.github.io/Alternatives/launcher/prism_win>.\nAlternative methods (not recommended):\n- Windows: Open cmd and run `mklink /J \"MULTIMC PATH/INSTANCE NAME/minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n- Mac: Open Terminal and run `ln -s \"MULTIMC PATH/INSTANCE NAME/.minecraft\" \"~/Library/Application Support/minecraft/skyclient\"`\n- Linux: Open your terminal and run `ln -s \"~/.minecraft/skyclient\" \"MULTIMC PATH/INSTANCE NAME/.minecraft\"`"
     },
     {
         "unclebot": true,
