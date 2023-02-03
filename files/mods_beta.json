@@ -67,10 +67,10 @@
             "5;All PvP",
             "6;Recommended PvP"
         ],
-        "file": "HitColor-1.0.jar",
-        "url": "https://github.com/Noxiuam/HitColor/releases/download/1.0-beta/HitColor-1.0.jar",
+        "file": "HitColor-1.1.jar",
+        "url": "https://github.com/Noxiuam/HitColor/releases/download/1.1/HitColor-1.1.jar",
         "forge_id": "hitcolor",
-        "hash": "b88a9375320cafb276aada4e7341f0f6"
+        "hash": "38bebfef69169a0a14c3d9b48cb1c35e"
     },
     {
         "id": "hytils-reborn",
