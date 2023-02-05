@@ -674,10 +674,10 @@
             "2;All Skyblock",
             "4;Recommended Skyblock"
         ],
-        "file": "SkyblockAddons-1.7.1-for-MC-1.8.9.jar",
-        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.1/SkyblockAddons-1.7.1-for-MC-1.8.9.jar",
+        "file": "SkyblockAddons-1.7.2-for-MC-1.8.9.jar",
+        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.2/SkyblockAddons-1.7.2-for-MC-1.8.9.jar",
         "forge_id": "skyblockaddons",
-        "hash": "d5458e9258ed71826e6f4b40970201a2"
+        "hash": "324c3aeb8e51de577e4e131fc0d99b9a"
     },
     {
         "id": "sbhud",
