@@ -16,10 +16,7 @@
                 "link": "https://hypixel.net/threads/3606096/"
             }
         ],
-        "categories": [
-            "1;All Skyblock",
-            "2;Recommended Skyblock"
-        ],
+        "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
         "file": "Mob Packet 1.8.9 1.4.zip",
         "hash": "8569e9a4a5a30f760af6f8f4b9f07076"
     },
@@ -42,9 +39,7 @@
                 "link": "https://hypixel.net/threads/3143529/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
         "hash": "9c92dc0aa03b3331b4cf73e89c402133"
     },
@@ -57,9 +52,7 @@
         "icon": "compliment.png",
         "icon_scaling": "pixel",
         "screenshot": "https://cdn.discordapp.com/attachments/810285335581425734/937003449424433213/unknown.png",
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "Compliment-V1.2.zip",
         "url": "https://github.com/ActuallyAssets/Compliment/releases/download/ReleaseV3/Compliment-V1.2.zip",
         "hash": "301d517f83083556aa71f3ae9407d7fe"
@@ -72,9 +65,7 @@
         "description": "Quality retextures for Skyblock mobs.",
         "icon": "actuallymobs.png",
         "icon_scaling": "pixel",
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "ActuallyMobsv0.1.zip",
         "hash": "6b596189f5a103488b5cfc4014eb0a73"
     },
@@ -97,10 +88,7 @@
                 "link": "https://hypixel.net/threads/3797121/"
             }
         ],
-        "categories": [
-            "1;All Skyblock",
-            "2;Recommended Skyblock"
-        ],
+        "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
         "file": "DwarvenAssets v1.1.zip",
         "url": "https://github.com/ActuallyAssets/DwarvenAssets/releases/download/1.1/DwarvenAssets_v1.1.zip",
         "hash": "89355bc55119a70097a026baa0a12022"
@@ -118,9 +106,7 @@
                 "link": "https://hypixel.net/threads/3379991/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "xCynis Skyblock Pack - v3.0.zip",
         "url": "https://github.com/xCyni/xCynis-Skyblock-Pack/releases/download/3.0/Overlay.-.xCynis.Skyblock.Pack.v3.0.zip",
         "hash": "37474ba6cbb7282321e50d3928547cbe"
@@ -144,9 +130,7 @@
                 "link": "https://hypixel.net/threads/3470904/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "RNBW+ v0.7.0.zip",
         "hash": "f7a86b0ed08154b683d0d8d1fd183b1a"
     },
@@ -168,9 +152,7 @@
                 "link": "https://discord.gg/XXxSuX8VMX"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "Nameless [Alpha 5].zip",
         "hash": "86a26448368fa3571ac583cef9d71568"
     },
@@ -180,10 +162,7 @@
         "creator": "ApplePies",
         "description": "The original bridge overlay, by ApplePies. Please note that Hytilities Reborn has the same feature but as a mod, so if this pack does not work, we recommend using that instead.",
         "icon": "apbridgeoverlay.png",
-        "categories": [
-            "4;Recommended PvP",
-            "3;All PvP"
-        ],
+        "categories": ["4;Recommended PvP", "3;All PvP"],
         "file": "Bridge Overlay.zip",
         "hash": "840b205f1bf9a9f1114673faf34792e7"
     },
@@ -205,9 +184,7 @@
                 "link": "https://discord.gg/yu9ykgT8bB"
             }
         ],
-        "categories": [
-            "3;All PvP"
-        ],
+        "categories": ["3;All PvP"],
         "file": "Hypixel+ 0.13.0 for 1.8.9.zip",
         "hash": "b08a2dc0ef9f57398d8c9d671e6bbe50"
     },
@@ -225,9 +202,7 @@
                 "link": "https://hypixel.net/threads/3527502/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "HSB Texturepack V1.7.zip",
         "hash": "6dbc6ff84454ec142a396777a152218f"
     },
@@ -244,9 +219,7 @@
                 "link": "https://hypixel.net/threads/3604212/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "kios-hsb-pack.zip",
         "url": "https://static.planetminecraft.com/files/resource_media/texture/kios-hsb-pack.zip",
         "hash": "ab5786162b21c153bca0c4fa1a7e5385"
@@ -269,9 +242,7 @@
                 "link": "https://hypixel.net/threads/3597207/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "Worlds and Beyond [16x] - Release 1.5.zip",
         "hash": "b892df7339b82326fbe9f24641af422d"
     },
@@ -289,9 +260,7 @@
                 "link": "https://discord.gg/uwy3rwPpmV"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "SkyblockOverhaul-Overlay_32x.zip",
         "url": "https://github.com/Skyblock-Overhaul/Texture-Pack/releases/download/main-1.2.0/SkyblockOverhaul-Overlay_32x.zip",
         "hash": "9e76825f9be4510e2b68e24bafd4fed6"
@@ -315,9 +284,7 @@
                 "link": "https://packshq.com/content/packs/"
             }
         ],
-        "categories": [
-            "5;Hud"
-        ],
+        "categories": ["5;Hud"],
         "file": "v2 Dark Skyblock UI.zip",
         "url": "https://packshq.com/assets/packs/v2_Dark_Skyblock_UI.zip",
         "hash": "bed2c0f60940feacad1c52a8db3f1c99"
@@ -337,9 +304,7 @@
                 "link": "https://discord.gg/aqSEzgWnYy"
             }
         ],
-        "categories": [
-            "5;Hud"
-        ],
+        "categories": ["5;Hud"],
         "file": "Essential Theme Blue.zip",
         "url": "https://github.com/Reforced16x/Packs/releases/download/pack2/Essential_Theme.zip",
         "hash": "2b9012a77071fa96bcff57a55b98f1c7"
@@ -367,9 +332,7 @@
                 "link": "https://packshq.com/content/packs/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "v14.1 16x Skyblock Pack.zip",
         "url": "https://packshq.com/assets/packs/v14/v14.1_16x_Hypixel_Skyblock_Pack.zip"
     },
@@ -396,9 +359,7 @@
                 "link": "https://packshq.com/content/packs/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "v13 32x Skyblock Pack.zip",
         "url": "https://packshq.com/assets/packs/v13/v13_32x_Hypixel_Skyblock_Pack.zip",
         "hash": "5608198cdd83984776e276feaccb8703"
@@ -427,9 +388,7 @@
                 "link": "https://www.planetminecraft.com/texture-pack/actuallyassets-hypixel-skyblock-v-10/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "ActuallyAssets.v1.8.2.zip",
         "url": "https://github.com/ActuallyAssets/ActuallyAssets/files/6094353/ActuallyAssets.v1.8.2.zip",
         "hash": "459c6278c81cbb2574b8eaceea6a161e"
@@ -457,10 +416,7 @@
                 "link": "https://furfsky.net/"
             }
         ],
-        "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
-        ],
+        "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
         "url": "https://github.com/furfsky/reborn/releases/download/v1.6.2/FurfSky_Reborn_1.6.2_OVERLAY.zip",
         "file": "FurfSky Reborn OV [1.6.2].zip",
         "hash": "133e6a76c8ff4fe6e929cc4f6d6ab944"
@@ -488,9 +444,7 @@
                 "link": "https://furfsky.net/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "url": "https://github.com/furfsky/reborn/releases/download/v1.6.2/FurfSky_Reborn_1.6.2_FULL.zip",
         "file": "FurfSky Reborn FULL [1.6.2].zip",
         "hash": "b48b216237d300f4209f991fd87a03f2"
@@ -509,10 +463,7 @@
                 "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
             }
         ],
-        "categories": [
-            "2;Recommended Skyblock",
-            "1;All Skyblock"
-        ],
+        "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
         "file": "Smoll_Icons.zip",
         "hash": "9fadae4e3af420becfa216701eb3af4c"
     },
@@ -550,10 +501,7 @@
                 "link": "https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport/"
             }
         ],
-        "categories": [
-            "4;Recommended PvP",
-            "3;All PvP"
-        ],
+        "categories": ["4;Recommended PvP", "3;All PvP"],
         "file": "1.14 Packport.zip",
         "hash": "34c1050499b8e9aacb365de7794666c9"
     },
@@ -570,9 +518,7 @@
                 "link": "https://compliancepack.net/"
             }
         ],
-        "categories": [
-            "3;All PvP"
-        ],
+        "categories": ["3;All PvP"],
         "file": "Compliance-32x-1.8.9.zip",
         "hash": "ee7b9c4c942fe277c2d3d18530d9e99d"
     },
@@ -591,9 +537,7 @@
                 "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/fishfault.md"
             }
         ],
-        "categories": [
-            "3;All PvP"
-        ],
+        "categories": ["3;All PvP"],
         "file": "FishFault.zip",
         "url": "https://github.com/Sean2739/Fishfault/releases/download/5.0.0/FishFault.zip",
         "hash": "260639B06AD4316EED0306617C9B4029"
@@ -613,9 +557,7 @@
                 "link": "https://hypixel.net/threads/v1-0-beheaded-skyblock-skulls-to-minecraft-items.4956456/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "file": "Beheaded v1.3.zip",
         "url": "https://github.com/ActuallyAssets/Beheaded/releases/download/v1.3/Beheaded_v1.3.zip",
         "hash": "ff0306ebc3bf512e1bd10dc88eef5733"
@@ -644,9 +586,7 @@
                 "link": "https://pvprp.com/profile/Zshyne"
             }
         ],
-        "categories": [
-            "3;All PvP"
-        ],
+        "categories": ["3;All PvP"],
         "url": "https://pvprp.com/assets/packs/Zshyne/7549/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78].zip",
         "file": "sakamata [16x].zip",
         "hash": "20108e101f5f1d4d7e78b8054472d5b9"
@@ -675,9 +615,7 @@
                 "link": "https://pvprp.com/profile/Zshyne"
             }
         ],
-        "categories": [
-            "3;All PvP"
-        ],
+        "categories": ["3;All PvP"],
         "url": "https://pvprp.com/assets/packs/Zshyne/7550/zip/!%20%20%20%20%20%20%20%20%20%20%C2%A7c%C2%A7lsaka%C2%A74%C2%A7lmata%20%C2%A78[%C2%A7f16x%C2%A78]%20(non%20weeb).zip",
         "file": "sakamata [16x] (non weeb).zip",
         "hash": "125d3884c4f1d54463e480481913cefd"
@@ -690,9 +628,7 @@
         "description": "Branch of Mob Packet with ActuallyMobs textures.",
         "icon": "actuallyassets.png",
         "icon_scaling": "pixel",
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "hidden": true,
         "file": "ActuallyPacketsv0.1.zip",
         "hash": "fbe0a40d899774d772d8fc2cbfa7a689"
@@ -710,9 +646,7 @@
                 "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "hidden": true,
         "file": "SkyMobs.zip",
         "hash": "f226121d849d529fd2c23c47dd9b552b"
@@ -733,9 +667,7 @@
                 "link": "https://hypixel.net/threads/3178679/"
             }
         ],
-        "categories": [
-            "1;All Skyblock"
-        ],
+        "categories": ["1;All Skyblock"],
         "hidden": true,
         "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
         "hash": "b97a95945cae94cdddb24e3c4a1a41f6"

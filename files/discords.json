@@ -7,37 +7,25 @@
         "type": "packs",
         "code": "8dGb5Prgch",
         "fancyname": "Packs+",
-        "nicknames": [
-            "fishfault",
-            "packs+",
-            "packs +",
-            "packs plus"
-        ]
+        "nicknames": ["fishfault", "packs+", "packs +", "packs plus"]
     },
     {
         "id": "soopy",
         "code": "dfSMq96RSN",
         "fancyname": "SoopyV2",
-        "nicknames": [
-            "soopyv2",
-            "soapy"
-        ]
+        "nicknames": ["soopyv2", "soapy"]
     },
     {
         "id": "synth",
         "code": "vAUuKSwbp6",
         "fancyname": "Synthesis",
-        "nicknames": [
-            "synthesis"
-        ]
+        "nicknames": ["synthesis"]
     },
     {
         "id": "ctjs",
         "code": "chattriggers",
         "fancyname": "Chat Triggers",
-        "nicknames": [
-            "chattriggers"
-        ]
+        "nicknames": ["chattriggers"]
     },
     {
         "id": "essential",
@@ -49,11 +37,7 @@
         "code": "jRhkYFmpCa",
         "fancyname": "ThatGravyBoat's Boat",
         "icon": "tgb.png",
-        "nicknames": [
-            "thatgravyboat",
-            "boat",
-            "craftify"
-        ]
+        "nicknames": ["thatgravyboat", "boat", "craftify"]
     },
     {
         "id": "net",
@@ -67,9 +51,7 @@
             "taxation",
             "notenoughtaxes"
         ],
-        "packs": [
-            "net"
-        ]
+        "packs": ["net"]
     },
     {
         "id": "neu",
@@ -107,13 +89,8 @@
         "icon": "dungeonsguide.png",
         "partner": true,
         "type": "mods",
-        "nicknames": [
-            "dg",
-            "syeyoung"
-        ],
-        "mods": [
-            "dungeonsguide"
-        ]
+        "nicknames": ["dg", "syeyoung"],
+        "mods": ["dungeonsguide"]
     },
     {
         "id": "evergreenhud",
@@ -121,14 +98,8 @@
         "fancyname": "isXander's Hangout",
         "description": "The official discord for isXander.",
         "icon": "isxander.png",
-        "nicknames": [
-            "evergreen",
-            "xander",
-            "isxander"
-        ],
-        "mods": [
-            "evergreenhud"
-        ]
+        "nicknames": ["evergreen", "xander", "isxander"],
+        "mods": ["evergreenhud"]
     },
     {
         "id": "polyfrost",
@@ -144,23 +115,14 @@
             "woverflow",
             "wyvtils"
         ],
-        "mods": [
-            "wyvtils"
-        ]
+        "mods": ["wyvtils"]
     },
     {
         "id": "sba",
         "code": "qBkzcgdPqU",
         "fancyname": "Biscuit's Bakery",
-        "nicknames": [
-            "skyblockaddons",
-            "biscuit",
-            "bb",
-            "biscut"
-        ],
-        "mods": [
-            "sba"
-        ]
+        "nicknames": ["skyblockaddons", "biscuit", "bb", "biscut"],
+        "mods": ["sba"]
     },
     {
         "id": "apec",
@@ -170,12 +132,8 @@
         "partner": true,
         "type": "mods",
         "icon": "apec.png",
-        "mods": [
-            "apec"
-        ],
-        "nicknames": [
-            "apec"
-        ]
+        "mods": ["apec"],
+        "nicknames": ["apec"]
     },
     {
         "id": "cowlection",
@@ -184,13 +142,8 @@
         "code": "KRq5ZY9Hma",
         "partner": true,
         "icon": "cowlection.webp",
-        "mods": [
-            "cowlection"
-        ],
-        "nicknames": [
-            "cow",
-            "cowshed"
-        ]
+        "mods": ["cowlection"],
+        "nicknames": ["cow", "cowshed"]
     },
     {
         "id": "dsm",
@@ -200,12 +153,8 @@
         "description": "The official Discord for Danker's Skyblock Mod, a mod with QOL changes that enhances your Hypixel Skyblock experience. Created to add features Danker couldn't find in a free mod.",
         "fancyname": "Dankers Skyblock Mod",
         "icon": "dsm.webp",
-        "nicknames": [
-            "dankers"
-        ],
-        "mods": [
-            "dankers"
-        ]
+        "nicknames": ["dankers"],
+        "mods": ["dankers"]
     },
     {
         "id": "fsr",
@@ -215,13 +164,8 @@
         "fancyname": "FurfSky Reborn",
         "description": "A nice community to improve your art skills or just hang. Whether you're a seasoned pixel artist, a beginner or you've never touched a pixel we're confident you'll find your place here. Feel free to ask any questions or get more info about the FurfSky Reborn pack here.",
         "icon": "fsr.gif",
-        "nicknames": [
-            "furfsky",
-            "furfskyreborn"
-        ],
-        "packs": [
-            "fsr"
-        ]
+        "nicknames": ["furfsky", "furfskyreborn"],
+        "packs": ["fsr"]
     },
     {
         "id": "rnbw",
@@ -231,21 +175,14 @@
         "fancyname": "RNBW+ Resource Pack Official",
         "description": "The official Discord for the RNBW+ pack, a pack inspired by the modern Minecraft art style.",
         "icon": "rnbw_hq.png",
-        "packs": [
-            "rnbw"
-        ],
-        "nicknames": [
-            "rnbw+"
-        ]
+        "packs": ["rnbw"],
+        "nicknames": ["rnbw+"]
     },
     {
         "id": "sk1ersupport",
         "code": "d4KFR9H",
         "fancyname": "Sk1er Support",
-        "nicknames": [
-            "sk1erbeta",
-            "sk1erhelp"
-        ]
+        "nicknames": ["sk1erbeta", "sk1erhelp"]
     },
     {
         "id": "skytils",
@@ -253,24 +190,15 @@
         "fancyname": "Skytils",
         "description": "A Skyblock Utilities mod that has all of the features that SkyblockExtras has, but free.",
         "icon": "st.png",
-        "nicknames": [
-            "st",
-            "simpletogglesprint"
-        ],
-        "mods": [
-            "skytils"
-        ]
+        "nicknames": ["st", "simpletogglesprint"],
+        "mods": ["skytils"]
     },
     {
         "id": "optifine",
         "code": "xGVXsgbbSt",
         "fancyname": "OptiFine",
-        "nicknames": [
-            "of"
-        ],
-        "mods": [
-            "optifine"
-        ]
+        "nicknames": ["of"],
+        "mods": ["optifine"]
     },
     {
         "id": "sbp",
@@ -280,12 +208,8 @@
         "description": "A QOL mod with customizability to unhealthy extents, with a lot of features for the Dwarven Mines and dungeons.",
         "partner": true,
         "type": "mods",
-        "nicknames": [
-            "skyblockpersonalized"
-        ],
-        "mods": [
-            "sbp"
-        ]
+        "nicknames": ["skyblockpersonalized"],
+        "mods": ["sbp"]
     },
     {
         "id": "motors",
@@ -302,11 +226,7 @@
             "actuallypackets",
             "aa"
         ],
-        "packs": [
-            "actuallyassets",
-            "actuallymobs",
-            "actuallymobpacket"
-        ]
+        "packs": ["actuallyassets", "actuallymobs", "actuallymobpacket"]
     },
     {
         "id": "sbov",
@@ -316,12 +236,8 @@
         "partner": true,
         "type": "packs",
         "icon": "sbov.png",
-        "nicknames": [
-            "skyblockoverhaul"
-        ],
-        "packs": [
-            "skyblockoverhaul"
-        ]
+        "nicknames": ["skyblockoverhaul"],
+        "packs": ["skyblockoverhaul"]
     },
     {
         "id": "wab",
@@ -331,23 +247,15 @@
         "icon": "wab.webp",
         "fancyname": "Worlds and Beyond",
         "description": "Discord for a pack with unique textures for GUI, skyblock items, swords, bows, armors, everything.",
-        "nicknames": [
-            "worldsandbeyond"
-        ]
+        "nicknames": ["worldsandbeyond"]
     },
     {
         "id": "phq",
         "code": "xqEhtq88b7",
         "fancyname": "Packs HQ",
         "description": "The Creator of the first and most well know Hypixel Skyblock texturepack",
-        "nicknames": [
-            "packshq"
-        ],
-        "packs": [
-            "hq32f",
-            "hq16f",
-            "hqdark"
-        ]
+        "nicknames": ["packshq"],
+        "packs": ["hq32f", "hq16f", "hqdark"]
     },
     {
         "id": "sk1er",
@@ -377,14 +285,8 @@
         "icon": "drm.png",
         "fancyname": "Dungeon Rooms Discord",
         "description": "The official Discord server for the Dungeon Rooms Mod!",
-        "nicknames": [
-            "_risk",
-            "risk",
-            "dungeonrooms"
-        ],
-        "mods": [
-            "dungeonrooms"
-        ]
+        "nicknames": ["_risk", "risk", "dungeonrooms"],
+        "mods": ["dungeonrooms"]
     },
     {
         "id": "nameless",
@@ -394,12 +296,8 @@
         "icon": "nameless_big.png",
         "fancyname": "Nameless",
         "description": "The server for the Nameless pack [WIP], a Skyblock pack with unique textures.",
-        "nicknames": [
-            "smolegit"
-        ],
-        "packs": [
-            "nameless"
-        ]
+        "nicknames": ["smolegit"],
+        "packs": ["nameless"]
     },
     {
         "id": "musicplayer",
@@ -415,33 +313,21 @@
             "music",
             "player"
         ],
-        "mods": [
-            "musicplayer"
-        ]
+        "mods": ["musicplayer"]
     },
     {
         "id": "deftu",
         "code": "dFb277Kexf",
         "icon": "https://cdn.discordapp.com/avatars/432291917645086720/4cfa9668934b4c21ec86a416bae618b1.png",
         "description": "The official Discord server for Deftu's mods - get support, make suggestions and talk to developers here.",
-        "nicknames": [
-            "oofmod"
-        ],
-        "mods": [
-            "oofmod"
-        ]
+        "nicknames": ["oofmod"],
+        "mods": ["oofmod"]
     },
     {
         "id": "bznotifier",
         "code": "wjpJSVSwvD",
         "fancyname": "meyi's hangout",
-        "nicknames": [
-            "bazaarnotifier",
-            "meyi",
-            "bn"
-        ],
-        "mods": [
-            "bazaarnotifier"
-        ]
+        "nicknames": ["bazaarnotifier", "meyi", "bn"],
+        "mods": ["bazaarnotifier"]
     }
 ]
