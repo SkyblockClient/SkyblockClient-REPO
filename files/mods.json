@@ -51,6 +51,7 @@
         "nicknames": ["smoothscrolling"],
         "display": "GUI Bundle",
         "enabled": true,
+        "creator": "shedaniel",
         "description": "Useful GUI related features, e.g a custom main menu, a custom chat GUI, custom report and reward claim GUI and more.",
         "icon": "skyclient.png",
         "actions": [
@@ -111,6 +112,7 @@
         "id": "evergreenhud",
         "nicknames": ["evergreen"],
         "display": "HUD Bundle",
+        "creator": "isXander",
         "discordcode": "AJv5ZnNT8q",
         "command": "/evergreenhud",
         "description": "Displays every piece of information a Minecraft player could ever need.",
@@ -153,6 +155,7 @@
         "nicknames": ["insomnia"],
         "display": "QOL Bundle",
         "creator": "Moulberry",
+        "discordcode": "moulberry",
         "command": "/insomnia on/off",
         "description": "A bundle with some quality of life features, e.g a timer that shows when a TNT is going to detonate, popups for trade requests and more, levelhead, removing Dream skins.",
         "icon": "skyclient.png",
@@ -256,7 +259,7 @@
         "nicknames": ["skyclientupdater", "skyblockclientupdater"],
         "display": "SkyClient Updater",
         "enabled": true,
-        "creator": "Lily",
+        "creator": "SkyClient Team",
         "description": "Adds in-game updater for the mods in SkyClient.",
         "icon": "skyclient.png",
         "actions": [
