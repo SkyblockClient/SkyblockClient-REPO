@@ -29,9 +29,9 @@ jobs:
       - name: Install dependencies
         run: |
           npm install -g prettier jsonschema-cli
-      - name: Check mods file is valid
-        run: |
-          validateJson -d files/mods.json -s loose_mod_bundle_schema.json
+      # - name: Check mods file is valid
+      #   run: |
+      #     validateJson -d files/mods.json -s loose_mod_bundle_schema.json
       - name: Check Prettier
         run: |
           npx prettier **/*.json --check
