@@ -1548,6 +1548,17 @@
         "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
     },
     {
+        "id": "nse",
+        "display": "NotSoEssential",
+        "creator": "Salmon",
+        "description": "Removes many things that Essential adds that you may not want.",
+        "hidden": true,
+        "file": "Not So Essential-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/UiZfIeQl/Not%20So%20Essential-1.0.0.jar",
+        "forge_id": "notsoessential",
+        "hash": "457e03692a77edfcfb9a9649f9a8aa92"
+    },
+    {
         "id": "polyfrostkeystrokes",
         "display": "Canelex Keystrokes Revamp",
         "creator": "Polyfrost",
