@@ -726,10 +726,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.4.1.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.4.1/Skytils-1.4.1.jar",
+        "file": "Skytils-1.4.2.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.4.2/Skytils-1.4.2.jar",
         "forge_id": "skytils",
-        "hash": "cf4f9a5499f5ffc3c4af8f19f412b4ac"
+        "hash": "22e305a4eed52b06a1b54aa39e6e0399"
     },
     {
         "id": "apec",
