@@ -613,10 +613,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "SkyblockHud-Reborn-1.14.5.jar",
-        "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.14.5/SkyblockHud-Reborn-1.14.5.jar",
+        "file": "SkyblockHud-Reborn-1.15.0.jar",
+        "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.15.0/SkyblockHud-Reborn-1.15.0.jar",
         "forge_id": "skyblockhud",
-        "hash": "5b845fd63e87f3b33b0af7ed60c1005b"
+        "hash": "7582072db420554eda96530f07587b4a"
     },
     {
         "id": "neu",
