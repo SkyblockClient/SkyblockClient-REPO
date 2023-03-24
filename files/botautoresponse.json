@@ -319,14 +319,7 @@
     },
     {
         "unclebot": true,
-        "triggers": [
-            [
-                ".multimc",
-                "multimc",
-                ".polymc",
-                "polymc",
-            ]
-        ],
+        "triggers": [[".multimc", "multimc", ".polymc", "polymc"]],
         "response": "Given that other launchers keep your .minecraft folder somewhere different from usual, you need to let them access SkyClient. This might mean choosing a different folder from usual (which exists on Mart), copying SkyClient over, or linking the folders together. A guide on installing Prism and copying over your SkyClient installation is at <https://microcontrollersdev.github.io/Alternatives/launcher/prism_win>.\nAlternative methods (not recommended):\n- Windows: Open cmd and run `mklink /J \"MULTIMC PATH/INSTANCE NAME/minecraft\" \"%APPDATA%/.minecraft/skyclient\"`\n- Mac: Open Terminal and run `ln -s \"MULTIMC PATH/INSTANCE NAME/.minecraft\" \"~/Library/Application Support/minecraft/skyclient\"`\n- Linux: Open your terminal and run `ln -s \"~/.minecraft/skyclient\" \"MULTIMC PATH/INSTANCE NAME/.minecraft\"`"
     },
     {
