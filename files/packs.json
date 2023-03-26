@@ -341,7 +341,7 @@
         "display": "Packs HQ v13 32x",
         "creator": "ImperiaL",
         "discordcode": "KwvMQ4T",
-        "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Compliance.",
+        "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Faithful.",
         "icon": "packshq.png",
         "screenshot": "https://cdn.discordapp.com/attachments/788805365810462750/789217807282995220/items.png",
         "actions": [
@@ -506,20 +506,21 @@
         "hash": "34c1050499b8e9aacb365de7794666c9"
     },
     {
-        "id": "compliance",
-        "display": "Compliance 32x",
-        "creator": "Compliance Team",
+        "id": "faithful",
+        "display": "Faithful 32x",
+        "creator": "Faithful Team",
         "description": "Upscales the original 1.8.9 textures, keeping the base feel.",
         "icon": "compliance team logo.png",
         "actions": [
             {
                 "icon": "compliance team logo.png",
                 "text": "Website",
-                "link": "https://compliancepack.net/"
+                "link": "https://Faithfulpack.net/"
             }
         ],
         "categories": ["3;All PvP"],
-        "file": "Compliance-32x-1.8.9.zip",
+        "file": "Faithful 32x - 1.8.9.zip",
+        "url": "https://database.faithfulpack.net/packs/32x-Java/February%202023/Faithful%2032x%20-%201.8.9.zip",
         "hash": "ee7b9c4c942fe277c2d3d18530d9e99d"
     },
     {
