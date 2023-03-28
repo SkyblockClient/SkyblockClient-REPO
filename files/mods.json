@@ -1772,10 +1772,10 @@
             }
         ],
         "hidden": true,
-        "file": "ParticlesEnhanced-1.2.0.jar",
-        "url": "https://cdn.modrinth.com/data/DRIoOeFq/versions/1.2.0/ParticlesEnhanced-1.2.0.jar",
+        "file": "ParticlesEnhanced-1.2.1.jar",
+        "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.2.1/ParticlesEnhanced-1.2.1.jar",
         "forge_id": "particlesenhanced",
-        "hash": "0be55dd62501ae1355142a135f72593a"
+        "hash": "8d16e7feed6e2c5ca500f02d2ffa3d1d"
     },
     {
         "id": "pitstats",
