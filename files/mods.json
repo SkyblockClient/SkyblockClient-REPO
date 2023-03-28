@@ -732,6 +732,28 @@
         "hash": "269236578146f5def7c3f4037efc07e3"
     },
     {
+        "id": "pss",
+        "nicknames": ["partly sane skies", "partlysaneskies"],
+        "display": "Partly Sane Skies",
+        "creator": "PartlySaneStudios",
+        "discordcode": "v4PU3WeH7z",
+        "command": "/pssconfig",
+        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself.",
+        "icon": "dsm logo cropped.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/PartlySaneStudios/partly-sane-skies/releases"
+            }
+        ],
+        "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "file": "partlysaneskies-beta-v0.2.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.2/partlysaneskies-beta-v0.2.jar",
+        "forge_id": "partlysaneskies",
+        "hash": "00e75cdea05686ada0dc5de1564a84f9"
+    },
+    {
         "id": "apec",
         "display": "Apec",
         "creator": "BananaFructa",
