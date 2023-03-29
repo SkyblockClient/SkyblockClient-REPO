@@ -738,7 +738,7 @@
         "creator": "PartlySaneStudios",
         "discordcode": "v4PU3WeH7z",
         "command": "/pssconfig",
-        "description": "DSM provides dungeon puzzle solvers, a reparty command, custom boss music and more useful features to see for yourself.",
+        "description": "PSS is a QoL mod to ease the boring and repetitive parts of Skyblock, such as spotting cheap auctions, finding best prices, and much more. We're constantly developing and we aim to be a mod designed by the community, for the community.",
         "icon": "dsm logo cropped.png",
         "actions": [
             {
