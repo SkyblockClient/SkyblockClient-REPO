@@ -239,7 +239,7 @@
             {
                 "icon": "isxander.png",
                 "text": "Particles Enhanced",
-                "link": "https://short.isxander.dev/particlesenhanced"
+                "link": "https://github.com/MicrocontrollersDev/ParticlesEnhanced"
             },
             {
                 "icon": "polyfrost.png",
@@ -1749,8 +1749,8 @@
         "id": "particlesenhanced",
         "nicknames": ["particlemod", "particles"],
         "display": "Particles Enhanced",
-        "creator": "isXander",
-        "discordcode": "AJv5ZnNT8q",
+        "creator": "isXander, Microcontrollers",
+        "discordcode": "rejfv9kFJj",
         "command": "particlesenhanced",
         "description": "2021's take at particles in minecraft. Including never-seen-before features such as particle fade.",
         "icon": "isxander.png",
@@ -1758,7 +1758,7 @@
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://short.isxander.dev/particlesenhanced"
+                "link": "https://github.com/MicrocontrollersDev/ParticlesEnhanced"
             },
             {
                 "icon": "forum.png",
