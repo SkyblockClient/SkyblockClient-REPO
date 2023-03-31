@@ -10,6 +10,12 @@
         "nicknames": ["fishfault", "packs+", "packs +", "packs plus"]
     },
     {
+        "id": "prism",
+        "code": "prismlauncher",
+        "fancyname": "Prism Launcher",
+        "nicknames": ["prism community"]
+    },
+    {
         "id": "soopy",
         "code": "dfSMq96RSN",
         "fancyname": "SoopyV2",
