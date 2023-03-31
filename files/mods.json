@@ -649,11 +649,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "NotEnoughUpdates-2.1.1-Pre-3.jar",
+        "file": "NotEnoughUpdates-2.1.1-Alpha-14.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases/download/v2.1.1-alpha12/NotEnoughUpdates-2.1.1-Pre-3.jar",
+        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1091487980960616458/NotEnoughUpdates-2.1.1-Alpha-14.jar",
         "forge_id": "notenoughupdates",
-        "hash": "cb7413eb5f842c16ad824764bf4cb1f5"
+        "hash": "15aedf83c3d56916d33f435493b6552b"
     },
     {
         "id": "dsm",
