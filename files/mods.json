@@ -1862,12 +1862,12 @@
         "actions": [
             {
                 "icon": "guide.png",
-                "text": "guide",
+                "text": "Guide",
                 "link": "https://github.com/SynthesisMod/Synthesis/blob/main/README.md"
             },
             {
                 "icon": "github.png",
-                "text": "github",
+                "text": "GitHub",
                 "link": "https://github.com/SynthesisMod/Synthesis"
             }
         ],
