@@ -750,7 +750,7 @@
                 "icon": "forum.png",
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/5290760/"
-            },
+            }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
         "file": "partlysaneskies-beta-v0.2.jar",
