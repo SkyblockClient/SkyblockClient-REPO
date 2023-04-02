@@ -1294,10 +1294,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "ctjs-2.1.5-1.8.9.jar",
-        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.1.5/ctjs-2.1.5-1.8.9.jar",
+        "file": "ctjs-2.2.0-1.8.9.jar",
+        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.2.0/ctjs-2.2.0-1.8.9.jar",
         "forge_id": "chattriggers",
-        "hash": "c0ec16e7a5a105f68fde9fa580dedb4e"
+        "hash": "c1c9dc0c562a8ea027166f1efcd85b24"
     },
     {
         "id": "sbcustommobtex",
