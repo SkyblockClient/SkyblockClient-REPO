@@ -753,10 +753,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "partlysaneskies-beta-v0.2.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.2/partlysaneskies-beta-v0.2.jar",
+        "file": "LEGACY-partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.2.1/LEGACY-partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
         "forge_id": "partlysaneskies",
-        "hash": "00e75cdea05686ada0dc5de1564a84f9"
+        "hash": "d10922ad42e20a22f37fc21eb9c67f7c"
     },
     {
         "id": "apec",

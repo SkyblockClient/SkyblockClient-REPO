@@ -62,6 +62,33 @@
         "hash": "17f5715781ce2941c24dde34477550dc"
     },
     {
+        "id": "pss",
+        "nicknames": ["partly sane skies", "partlysaneskies"],
+        "display": "Partly Sane Skies",
+        "creator": "PartlySaneStudios",
+        "discordcode": "v4PU3WeH7z",
+        "command": "/pssconfig",
+        "description": "PSS is a QoL mod to ease the boring and repetitive parts of Skyblock, such as spotting cheap auctions, finding best prices, and much more. We're constantly developing and we aim to be a mod designed by the community, for the community.",
+        "icon": "pss.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/PartlySaneStudios/partly-sane-skies/releases"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/5290760/"
+            }
+        ],
+        "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "file": "partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.2.1/partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
+        "forge_id": "partlysaneskies",
+        "hash": "9562bf3607c0fe6ecd2d90ef06b876f1"
+    },
+    {
         "id": "hytils-reborn",
         "nicknames": [
             "hytils",
