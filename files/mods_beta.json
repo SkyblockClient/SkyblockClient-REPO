@@ -398,11 +398,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "evergreenhud-1.8.9-forge-1.0.0-beta2.jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/KAbj7Esf/evergreenhud-1.8.9-forge-1.0.0-beta2.jar",
+        "file": "evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/7BKrFoiD/evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
         "forge_id": "evergreenhud",
         "packages": ["redaction", "keystrokes"],
-        "hash": "2307acee65c07eaa8f8d419dd7c2cb22"
+        "hash": "d560d3890a7a814dd4ab1c41bf93d54b2"
     },
     {
         "id": "dsm",
