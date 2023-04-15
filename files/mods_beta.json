@@ -402,7 +402,7 @@
         "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/7BKrFoiD/evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
         "forge_id": "evergreenhud",
         "packages": ["redaction", "keystrokes"],
-        "hash": "d560d3890a7a814dd4ab1c41bf93d54b2"
+        "hash": "d560d3890a7a814dd4ab1c41bf93d54b"
     },
     {
         "id": "dsm",
