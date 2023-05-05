@@ -113,15 +113,6 @@
         "mods": ["dungeonsguide"]
     },
     {
-        "id": "evergreenhud",
-        "code": "TqXtafpNGx",
-        "fancyname": "isXander's Hangout",
-        "description": "The official discord for isXander.",
-        "icon": "isxander.png",
-        "nicknames": ["evergreen", "xander", "isxander"],
-        "mods": ["evergreenhud"]
-    },
-    {
         "id": "polyfrost",
         "code": "VzHan6xyUh",
         "fancyname": "Polyfrost",
@@ -320,20 +311,21 @@
         "packs": ["nameless"]
     },
     {
-        "id": "musicplayer",
-        "code": "QXbWS36",
-        "icon": "hycrafthd.png",
-        "fancyname": "HyCraftHD // Modding and Support",
-        "description": "For the times when MediaPlayer makes you scratch your head.",
+        "id": "microcontrollers",
+        "code": "rejfv9kFJj",
+        "icon": "mikumaniacs.png",
+        "fancyname": "Miku Maniacs",
+        "description": "Microcontroller's server for Particles Enhanced.",
         "nicknames": [
-            "hycrafthd",
-            "music player",
-            "music_player",
-            "music-player",
-            "music",
-            "player"
+            "micro",
+            "miku",
+            "miku maniacs",
+            "skippy dinglechalk",
+            "micro's monkeys",
+            "particlesenhanced",
+            "particles enhanced"
         ],
-        "mods": ["musicplayer"]
+        "mods": ["particlesenhanced"]
     },
     {
         "id": "deftu",
