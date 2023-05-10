@@ -432,10 +432,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils-Reborn-1.5.0.jar",
-        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
+        "file": "Hytils Reborn-1.6.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/dU1lJ1KE/Hytils%20Reborn-1.6.0-beta4.jar",
         "forge_id": "hytils-reborn",
-        "hash": "59d055e70c270df5794686c33d09cc97"
+        "hash": "ac50a02316db3d3ba4a5bd13aa82ab55"
     },
     {
         "id": "replaymod",
