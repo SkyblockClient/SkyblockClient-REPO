@@ -429,6 +429,11 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/Hytils-Reborn"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/hytils"
             }
         ],
         "categories": ["1;Recommended"],
@@ -1464,11 +1469,16 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/Chatting"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/chatting"
             }
         ],
         "hidden": true,
         "file": "Chatting-1.4.1.jar",
-        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/GQANlg7p/Chatting-1.4.1.jar",
         "forge_id": "chatting",
         "hash": "5f2769d9753194353d76438995f87c61"
     },
