@@ -217,10 +217,10 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.4.2-beta4.jar",
-        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.2-beta4/Chatting-1.4.2-beta4.jar",
+        "file": "Chatting-1.4.2-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/ZV8EECKb/Chatting-1.4.2-beta5.jar",
         "forge_id": "chatting",
-        "hash": "26c42d03d62c729d334cd309bd88d710"
+        "hash": "70347d2cc06df0849275a22fe5ec01ba"
     },
     {
         "id": "vanillahud",
