@@ -1915,6 +1915,9 @@
                 "SkyHanni requires NEU to function, if you want to use SkyHanni please install NEU"
             ]
         },
+        "packages": [
+            "neu"
+        ],
         "categories": ["2;All Skyblock"],
         "file": "SkyHanni-0.17.jar",
         "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.17/SkyHanni-0.17.jar",
