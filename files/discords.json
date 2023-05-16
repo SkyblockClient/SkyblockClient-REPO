@@ -334,11 +334,7 @@
         "icon": "skyhanni.png",
         "fancyname": "SkyHanni",
         "description": "SkyHanni offical discord server!",
-        "nicknames": [
-            "sh",
-            "hanni",
-            "garden"
-        ],
+        "nicknames": ["sh", "hanni", "garden"],
         "mods": ["skyhanni"]
     },
     {
