@@ -1897,6 +1897,7 @@
         "command": "/sh",
         "description": "A Skyblock mod with a lot of features, especially for the garden",
         "icon": "skyhanni.png",
+        "icon_scaling": "pixel",
         "actions": [
             {
                 "icon": "guide.png",
