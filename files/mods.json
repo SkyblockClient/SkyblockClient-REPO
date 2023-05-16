@@ -738,7 +738,15 @@
     },
     {
         "id": "pss",
-        "nicknames": ["partly sane skies", "partlysaneskies", "piss", "crepe", "baguette", "frenchmod", "french"],
+        "nicknames": [
+            "partly sane skies",
+            "partlysaneskies",
+            "piss",
+            "crepe",
+            "baguette",
+            "frenchmod",
+            "french"
+        ],
         "display": "Partly Sane Skies",
         "creator": "PartlySaneStudios",
         "discordcode": "v4PU3WeH7z",
