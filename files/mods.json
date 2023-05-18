@@ -2030,6 +2030,18 @@
         "hash": "8f8dd187dea01447ef354ef0d9cd7afc"
     },
     {
+        "id": "spark",
+        "nicknames": ["sparkc", "profiler"],
+        "display": "Spark",
+        "creator": "lucko, nea89 (1.8.9 port)",
+        "description": "A performance profiler for Minecraft clients, servers and proxies",
+        "hidden": true,
+        "file": "spark-forge189-3065dea-mod.jar",
+        "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/3065dea/spark-forge189-3065dea-mod.jar",
+        "forge_id": "spark",
+        "hash": "b5a74e59017af7c35b7a8dd96a52ac61"
+    },
+    {
         "id": "minecraft",
         "display": "no",
         "creator": "Mojang",
