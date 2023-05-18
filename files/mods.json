@@ -1912,7 +1912,7 @@
         ],
         "warning": {
             "lines": [
-                "SkyHanni requires NEU to function, if you want to use SkyHanni please install NEU"
+                "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
         "packages": ["neu"],
