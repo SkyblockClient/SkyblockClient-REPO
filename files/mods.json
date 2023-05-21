@@ -1896,6 +1896,41 @@
         "hash": "8deff2754507cd57d983dbc563e01a21"
     },
     {
+        "id": "skyhanni",
+        "nicknames": ["sh", "hanni"],
+        "display": "SkyHanni",
+        "enabled": false,
+        "creator": "hannibal002",
+        "discordcode": "FCDp9EjQ7d",
+        "command": "/sh",
+        "description": "A Skyblock mod with a lot of features, especially for the garden",
+        "icon": "skyhanni.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/hannibal002/SkyHanni/blob/beta/FEATURES.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/hannibal002/SkyHanni"
+            }
+        ],
+        "warning": {
+            "lines": [
+                "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
+            ]
+        },
+        "packages": ["neu"],
+        "categories": ["2;All Skyblock"],
+        "file": "SkyHanni-0.17.jar",
+        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.17/SkyHanni-0.17.jar",
+        "forge_id": "skyhanni",
+        "hash": "2b7a86f718f7a9a153a20f5c3e4a1423"
+    },
+    {
         "id": "hychat",
         "display": "Hychat",
         "creator": "Moulberry",

@@ -329,6 +329,15 @@
         "mods": ["particlesenhanced"]
     },
     {
+        "id": "skyhanni",
+        "code": "FCDp9EjQ7d",
+        "icon": "skyhanni.png",
+        "fancyname": "SkyHanni",
+        "description": "SkyHanni offical discord server!",
+        "nicknames": ["sh", "hanni", "garden"],
+        "mods": ["skyhanni"]
+    },
+    {
         "id": "deftu",
         "code": "dFb277Kexf",
         "icon": "https://cdn.discordapp.com/avatars/432291917645086720/4cfa9668934b4c21ec86a416bae618b1.png",
