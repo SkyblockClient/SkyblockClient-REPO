@@ -313,9 +313,9 @@
     {
         "id": "microcontrollers",
         "code": "rejfv9kFJj",
-        "icon": "mikumaniacs.png",
-        "fancyname": "Miku Maniacs",
-        "description": "Microcontroller's server for Particles Enhanced.",
+        "icon": "keqingklub.png",
+        "fancyname": "Keqing Klub",
+        "description": "Microcontroller's server for all things Keqing.",
         "nicknames": [
             "micro",
             "miku",
@@ -324,7 +324,9 @@
             "micro's monkeys",
             "micros monkeys",
             "particlesenhanced",
-            "particles enhanced"
+            "particles enhanced",
+            "keqing",
+            "keqing klub"
         ],
         "mods": ["particlesenhanced"]
     },
