@@ -1632,10 +1632,10 @@
         "creator": "Salmon",
         "description": "Removes many things that Essential adds that you may not want.",
         "hidden": true,
-        "file": "Not So Essential-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/UiZfIeQl/Not%20So%20Essential-1.0.0.jar",
+        "file": "NotSoEssential-Forge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/pjDJ11EW/NotSoEssential-Forge-1.0.3.jar",
         "forge_id": "notsoessential",
-        "hash": "457e03692a77edfcfb9a9649f9a8aa92"
+        "hash": "5caf3cc162b18a2e605bba7b3e68b492"
     },
     {
         "id": "polyfrostkeystrokes",
