@@ -62,6 +62,38 @@
         "hash": "17f5715781ce2941c24dde34477550dc"
     },
     {
+        "id": "particlesenhanced",
+        "nicknames": ["particlemod", "particles"],
+        "display": "Particles Enhanced",
+        "creator": "isXander, Microcontrollers",
+        "discordcode": "rejfv9kFJj",
+        "command": "particlesenhanced",
+        "description": "2021's take at particles in minecraft. Including never-seen-before features such as particle fade.",
+        "icon": "isxander.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/ParticlesEnhanced"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Hypixel",
+                "link": "https://hypixel.net/threads/4416018/"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
+            }
+        ],
+        "hidden": true,
+        "file": "ParticlesEnhanced-1.8.9-forge-1.3.1.ja",
+        "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.3.1/ParticlesEnhanced-1.8.9-forge-1.3.1.jar",
+        "forge_id": "particlesenhanced",
+        "hash": "4e7f5f1ae5b3300c5e966cf54d1ce0d7"
+    },
+    {
         "id": "pss",
         "nicknames": ["partly sane skies", "partlysaneskies"],
         "display": "Partly Sane Skies",
