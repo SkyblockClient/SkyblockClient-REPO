@@ -691,10 +691,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar",
-        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v2.1/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar",
+        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
+        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.9/MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
         "forge_id": "Danker's Skyblock Mod",
-        "hash": "921ee17583236d813b43e50a267b21c0"
+        "hash": "e3324ba1da3a8f4046dfa498355d898e"
     },
     {
         "id": "skytils",
