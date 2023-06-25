@@ -9,9 +9,20 @@
 	"assets": "1.8",
 	"inheritsFrom": "1.8.9",
 	"libraries": [
+{
+      			"downloads": {
+       			 "artifact": {
+         		 	"path": "net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9.jar",
+          			"sha1": "beda619c465af293e63952dd573c137c17c0a4cd",
+          			"size": 3805686,
+          			"url": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/forge/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9.jar"
+        		}
+     		 },
+      		"name": "net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9"
+   		 },
 		{
 			"name": "net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9",
-			"url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/forge/"
+			"url": "https://maven.minecraftforge.net/"
 		},
 		{
 			"name": "net.minecraft:launchwrapper:1.12",
