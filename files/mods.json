@@ -806,11 +806,11 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "apec-1.10.3.jar",
+        "file": "apec-1.11.1.jar",
         "files": ["config/Apec/Settings.txt"],
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar",
+        "url": "https://github.com/BananaFructa/Apec/releases/download/1.11.1/apec-1.11.1.jar",
         "forge_id": "apec",
-        "hash": "540e91d6f6ba354e7e7ee0c86d041e16"
+        "hash": "98ec2e0eaffb156e823da81f3db66393"
     },
     {
         "id": "cowlection",
