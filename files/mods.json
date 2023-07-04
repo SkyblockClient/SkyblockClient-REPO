@@ -442,7 +442,7 @@
         "forge_id": "hytils-reborn",
         "hash": "59d055e70c270df5794686c33d09cc97"
     },
-	    {
+	{
         "id": "mixmetica",
         "display": "Mixmetica",
         "enabled": true,
