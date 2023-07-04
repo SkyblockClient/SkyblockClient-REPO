@@ -313,9 +313,9 @@
     {
         "id": "microcontrollers",
         "code": "rejfv9kFJj",
-        "icon": "keqingklub.png",
-        "fancyname": "Keqing Klub",
-        "description": "Microcontroller's server for all things Keqing.",
+        "icon": "microcontrollers.png",
+        "fancyname": "Microcontrollers",
+        "description": "Microcontroller's server for all things Microcontrollers.",
         "nicknames": [
             "micro",
             "miku",
@@ -327,8 +327,10 @@
             "particles enhanced",
             "keqing",
             "keqing klub"
+			"owner's manual",
+			"mixmetica"
         ],
-        "mods": ["particlesenhanced"]
+        "mods": ["particlesenhanced", "mixmetica"]
     },
     {
         "id": "skyhanni",
