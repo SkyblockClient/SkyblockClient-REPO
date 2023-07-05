@@ -1047,7 +1047,7 @@
             {
                 "icon": "discord.png",
                 "text": "Discord",
-                "link": "discord.gg/sk1er"
+                "link": "https://discord.gg/sk1er"
             }
         ],
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
