@@ -449,7 +449,7 @@
         "creator": "Microcontollers",
         "discordcode": "rejfv9kFJj",
         "command": "/mixmetica",
-        "description": "A simple one mixin mod that adds Arcmetica support directly into OptiFine, no more need for DNS rules. Animated capes do not work. Get capes from Cosmetica!",
+        "description": "A simple mixin mod that adds Arcmetica support directly into OptiFine, no more need for DNS rules. Animated capes do not work. Get capes from Cosmetica!",
         "icon": "microcontrollers.png",
         "actions": [
             {
