@@ -1178,10 +1178,10 @@
                 "link": "https://discord.gg/rejfv9kFJj"
             }
         ],
-        "file": "Mixmetica-1.1.0.jar",
-        "url": "https://github.com/MicrocontrollersDev/Mixmetica/releases/download/1.1.0/Mixmetica-1.1.0.jar",
+        "file": "Mixmetica-1.1.1.jar",
+        "url": "https://github.com/MicrocontrollersDev/Mixmetica/releases/download/1.1.1/Mixmetica-1.1.1.jar",
         "forge_id": "mixmetica",
-        "hash": "ca95a446fe11352398f2e5c583e0ee1c"
+        "hash": "92b19f91dd4ba9b16d3ca83c6e67bdca"
     },
     {
         "id": "twitcher",
