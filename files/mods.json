@@ -1045,7 +1045,7 @@
         "categories": ["1;Recommended"],
         "actions": [
             {
-                "icon": "discord.png",
+                "icon": "discordsmall.png",
                 "text": "Discord",
                 "link": "https://discord.gg/sk1er"
             }
@@ -1172,6 +1172,11 @@
                 "text": "Github",
                 "link": "https://github.com/MicrocontrollersDev/Mixmetica"
             }
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://discord.gg/rejfv9kFJj"
+            },
         ],
         "file": "Mixmetica-1.1.0.jar",
         "url": "https://github.com/MicrocontrollersDev/Mixmetica/releases/download/1.1.0/Mixmetica-1.1.0.jar",
