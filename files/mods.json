@@ -443,6 +443,27 @@
         "hash": "59d055e70c270df5794686c33d09cc97"
     },
     {
+        "id": "mixmetica",
+        "display": "Mixmetica",
+        "enabled": true,
+        "creator": "Microcontollers",
+        "discordcode": "rejfv9kFJj",
+        "command": "/mixmetica",
+        "description": "A simple mixin mod that adds Arcmetica support directly into OptiFine, no more need for DNS rules. Animated capes do not work. Get capes from Cosmetica!",
+        "icon": "microcontrollers.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/Mixmetica"
+            }
+        ],
+        "file": "Mixmetica-1.1.0.jar",
+        "url": "https://github.com/MicrocontrollersDev/Mixmetica/releases/download/1.1.0/Mixmetica-1.1.0.jar",
+        "forge_id": "mixmetica",
+        "hash": "ca95a446fe11352398f2e5c583e0ee1c"
+    },
+    {
         "id": "replaymod",
         "display": "Replay Mod",
         "creator": "CrushedPixel and johni0702",
