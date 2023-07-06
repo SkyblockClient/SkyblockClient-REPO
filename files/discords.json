@@ -359,6 +359,7 @@
     {
         "id": "cosmetica",
         "code": "aQh5SJEUBm",
+        "description": "The official Discord server for Cosmetica. Ask here if you need any help with the Cosmetica website or making cosmetics.",
         "fancyname": "Cosmetica",
         "nicknames": ["cosmetics"],
         "mods": ["cosmetica"]
