@@ -355,5 +355,12 @@
         "fancyname": "meyi's hangout",
         "nicknames": ["bazaarnotifier", "meyi", "bn"],
         "mods": ["bazaarnotifier"]
+    },
+    {
+        "id": "cosmetica",
+        "code": "aQh5SJEUBm",
+        "fancyname": "Cosmetica",
+        "nicknames": ["cosmetics"],
+        "mods": ["cosmetica"]
     }
 ]
