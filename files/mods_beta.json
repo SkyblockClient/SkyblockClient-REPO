@@ -10,12 +10,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
             },
             {
                 "icon": "polyfrost.png",
@@ -57,7 +57,7 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "HitColor-1.2.jar",
-        "url": "https://github.com/Noxiuam/HitColor/releases/download/1.2/HitColor-1.2.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/HitColor-1.2.jar",
         "forge_id": "hitcolor",
         "hash": "17f5715781ce2941c24dde34477550dc"
     },
@@ -141,7 +141,7 @@
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             },
             {
                 "icon": "github.png",
@@ -416,12 +416,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
             },
             {
                 "icon": "evergreen.png",
@@ -458,12 +458,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
             },
             {
                 "icon": "forum.png",
