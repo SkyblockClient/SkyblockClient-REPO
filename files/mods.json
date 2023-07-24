@@ -2097,10 +2097,10 @@
         "creator": "lucko, nea89 (1.8.9 port)",
         "description": "A performance profiler for Minecraft clients, servers and proxies",
         "hidden": true,
-        "file": "spark-forge189-3065dea-mod.jar",
-        "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/3065dea/spark-forge189-3065dea-mod.jar",
+        "file": "spark-forge189-bde4ce2ff-mod.jar",
+        "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/bde4ce2ff/spark-forge189-bde4ce2ff-mod.jar",
         "forge_id": "spark",
-        "hash": "b5a74e59017af7c35b7a8dd96a52ac61"
+        "hash": "5cba17dd758a5b94961b605d4ef79151"
     },
     {
         "id": "autoskyblockrejoin",
