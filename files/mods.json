@@ -1018,10 +1018,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyGuide (1.8.9-forge)-1.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/agJ5hhO3/SkyGuide%20%281.8.9-forge%29-1.2.1.jar",
+        "file": "SkyGuide (1.8.9-forge)-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/OfvPbV9f/SkyGuide%20%281.8.9-forge%29-1.3.0.jar",
         "forge_id": "skyguide",
-        "hash": "26902a3cb0290e3f2dc54f11f0518e9e"
+        "hash": "82f53076c3db5b50a78313aac92fea5a"
     },
     {
         "id": "oam",
