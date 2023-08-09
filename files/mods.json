@@ -11,12 +11,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/utility.md"
             },
             {
                 "icon": "monkey.png",
@@ -57,12 +57,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/gui.md"
             },
             {
                 "icon": "smooth scrolling everywhere.png",
@@ -113,19 +113,19 @@
         "nicknames": ["evergreen"],
         "display": "HUD Bundle",
         "creator": "isXander",
-        "discordcode": "AJv5ZnNT8q",
+        "discordcode": "VzHan6xyUh",
         "command": "/evergreenhud",
         "description": "Displays every piece of information a Minecraft player could ever need.",
         "icon": "skyclient.png",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
             },
             {
                 "icon": "evergreen.png",
@@ -162,12 +162,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/qol.md"
             },
             {
                 "icon": "monkey.png",
@@ -224,12 +224,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
             },
             {
                 "icon": "polyfrost.png",
@@ -332,12 +332,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/patcher.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/patcher.md"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
             },
             {
                 "icon": "monkey.png",
@@ -346,10 +346,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Patcher-1.8.6 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.6/1.8.9/Patcher-1.8.6%20(1.8.9).jar",
+        "file": "Patcher-1.8.7 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.7/1.8.9/Patcher-1.8.7%20(1.8.9).jar",
         "forge_id": "patcher",
-        "hash": "3eaeb18bc532d8d2c066d935cb8a7b89"
+        "hash": "cf7c9706c8a7a94dbb2c48f00d883a7a"
     },
     {
         "id": "crashpatch",
@@ -386,7 +386,7 @@
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             },
             {
                 "icon": "github.png",
@@ -423,17 +423,22 @@
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/Hytils-Reborn"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/hytils"
             }
         ],
         "categories": ["1;Recommended"],
         "file": "Hytils-Reborn-1.5.0.jar",
-        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.0/Hytils-Reborn-1.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/MVycSOuV/Hytils-Reborn-1.5.0.jar",
         "forge_id": "hytils-reborn",
         "hash": "59d055e70c270df5794686c33d09cc97"
     },
@@ -481,7 +486,7 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "Block_Overlay_4.0.3.jar",
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar",
         "forge_id": "blockoverlay",
         "hash": "b41e79d2d5f817e94a3498929411cdfc"
     },
@@ -567,12 +572,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/sba.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md"
             },
             {
                 "icon": "forum.png",
@@ -613,10 +618,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "SkyblockHud-Reborn-1.15.0.jar",
-        "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.15.0/SkyblockHud-Reborn-1.15.0.jar",
+        "file": "SkyblockHud-Reborn-1.17.1.jar",
+        "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar",
         "forge_id": "skyblockhud",
-        "hash": "7582072db420554eda96530f07587b4a"
+        "hash": "bf445d8cf1a1266635409c59faa5c6e9"
     },
     {
         "id": "neu",
@@ -630,12 +635,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/neu.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/neu.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/neu.md"
             },
             {
                 "icon": "forum.png",
@@ -649,11 +654,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "NotEnoughUpdates-2.1.1-Alpha-14.jar",
+        "file": "NotEnoughUpdates-2.1.1-Alpha-19.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1091487980960616458/NotEnoughUpdates-2.1.1-Alpha-14.jar",
+        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1134499760989020332/NotEnoughUpdates-2.1.1-Alpha-19.jar",
         "forge_id": "notenoughupdates",
-        "hash": "15aedf83c3d56916d33f435493b6552b"
+        "hash": "3e2567fa005eed875ff67779f22f7f64"
     },
     {
         "id": "dsm",
@@ -667,12 +672,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
             },
             {
                 "icon": "forum.png",
@@ -703,12 +708,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/skytils.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/skytils.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/skytils.md"
             },
             {
                 "icon": "forum.png",
@@ -726,14 +731,22 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.5.4.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.5.4/Skytils-1.5.4.jar",
+        "file": "Skytils-1.7.4.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.7.4/Skytils-1.7.4.jar",
         "forge_id": "skytils",
-        "hash": "3f0e9a94c8953f287db989410b7a0df1"
+        "hash": "9142b85563804325576f38caeb474241"
     },
     {
         "id": "pss",
-        "nicknames": ["partly sane skies", "partlysaneskies"],
+        "nicknames": [
+            "partly sane skies",
+            "partlysaneskies",
+            "piss",
+            "crepe",
+            "baguette",
+            "frenchmod",
+            "french"
+        ],
         "display": "Partly Sane Skies",
         "creator": "PartlySaneStudios",
         "discordcode": "v4PU3WeH7z",
@@ -793,11 +806,11 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "apec-1.10.3.jar",
+        "file": "apec-1.11.1.jar",
         "files": ["config/Apec/Settings.txt"],
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.10.3/apec-1.10.3.jar",
+        "url": "https://github.com/BananaFructa/Apec/releases/download/1.11.1/apec-1.11.1.jar",
         "forge_id": "apec",
-        "hash": "540e91d6f6ba354e7e7ee0c86d041e16"
+        "hash": "98ec2e0eaffb156e823da81f3db66393"
     },
     {
         "id": "cowlection",
@@ -836,10 +849,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "Cowlection-1.8.9-0.15.1.jar",
-        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.15.1/Cowlection-1.8.9-0.15.1.jar",
+        "file": "Cowlection-1.8.9-0.16.0.jar",
+        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.16.0/Cowlection-1.8.9-0.16.0.jar",
         "forge_id": "cowlection",
-        "hash": "c9e5673a84892298e3fec7031d12e30b"
+        "hash": "e21644cff3f30bb2ad95b144f6393fd8"
     },
     {
         "id": "sbp",
@@ -853,7 +866,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/sbp.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/sbp.md"
             },
             {
                 "icon": "forum.png",
@@ -880,12 +893,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
             },
             {
                 "icon": "github.png",
@@ -894,10 +907,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta7.4-standalone.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta7.4/dungeonsguide-4.0.0-beta7.4-standalone.jar",
+        "file": "dungeonsguide-4.0.0-beta7.5-standalone.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta7.5/dungeonsguide-4.0.0-beta7.5-standalone.jar",
         "forge_id": "dungeons_guide_loader",
-        "hash": "e3fb7c1685ff7c94d88d2579088f0483"
+        "hash": "758a660fe12cb5bd6ef0a6e072005d33"
     },
     {
         "id": "dg-old",
@@ -911,12 +924,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
             },
             {
                 "icon": "github.png",
@@ -944,7 +957,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/drm.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/drm.md"
             },
             {
                 "icon": "github.png",
@@ -1005,10 +1018,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyGuide (1.8.9-forge)-1.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/agJ5hhO3/SkyGuide%20%281.8.9-forge%29-1.2.1.jar",
+        "file": "SkyGuide (1.8.9-forge)-1.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/OfvPbV9f/SkyGuide%20%281.8.9-forge%29-1.3.0.jar",
         "forge_id": "skyguide",
-        "hash": "26902a3cb0290e3f2dc54f11f0518e9e"
+        "hash": "82f53076c3db5b50a78313aac92fea5a"
     },
     {
         "id": "oam",
@@ -1032,9 +1045,9 @@
         "categories": ["1;Recommended"],
         "actions": [
             {
-                "icon": "discord.png",
+                "icon": "discordsmall.png",
                 "text": "Discord",
-                "link": "discord.gg/sk1er"
+                "link": "https://discord.gg/sk1er"
             }
         ],
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
@@ -1145,6 +1158,32 @@
         "hash": "c9c27bf437c0b6e6f30a3ababcabf61c"
     },
     {
+        "id": "mixmetica",
+        "display": "Mixmetica",
+        "enabled": true,
+        "creator": "Microcontollers",
+        "discordcode": "rejfv9kFJj",
+        "command": "/mixmetica",
+        "description": "A simple mixin mod that adds Arcmetica support directly into OptiFine, no more need for DNS rules. Animated capes do not work. Get capes from Cosmetica!",
+        "icon": "microcontrollers.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/Mixmetica"
+            },
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://discord.gg/rejfv9kFJj"
+            }
+        ],
+        "file": "Mixmetica-1.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/sJGmwZkx/Mixmetica-1.1.1.jar",
+        "forge_id": "mixmetica",
+        "hash": "92b19f91dd4ba9b16d3ca83c6e67bdca"
+    },
+    {
         "id": "twitcher",
         "nicknames": ["twitcher"],
         "display": "Twitcher",
@@ -1186,10 +1225,10 @@
                 "link": "https://github.com/ThatGravyBoat/Craftify"
             }
         ],
-        "file": "Craftify-1.8.9-1.8.0-forge.jar",
-        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/KrODdotL/Craftify-1.8.9-1.8.0-forge.jar",
+        "file": "Craftify-1.8.9-1.11.1-forge.jar",
+        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/BTnqud82/Craftify-1.8.9-1.11.1-forge.jar",
         "forge_id": "craftify",
-        "hash": "11118a4f4945491ca7e9416517470a7c"
+        "hash": "32c755f5354b189822e8f1b71c5588a4"
     },
     {
         "id": "blur",
@@ -1331,11 +1370,11 @@
             {
                 "icon": "direct_download.png",
                 "text": "Download",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
             }
         ],
         "file": "Resource_Pack_Manager_1.2.jar",
-        "url": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
         "forge_id": "resourcepackmanager",
         "hash": "b334cd4cb15e3610ac47387a66c19dfb"
     },
@@ -1464,11 +1503,16 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/Chatting"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/chatting"
             }
         ],
         "hidden": true,
         "file": "Chatting-1.4.1.jar",
-        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.1/Chatting-1.4.1.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/GQANlg7p/Chatting-1.4.1.jar",
         "forge_id": "chatting",
         "hash": "5f2769d9753194353d76438995f87c61"
     },
@@ -1614,10 +1658,10 @@
         "creator": "Salmon",
         "description": "Removes many things that Essential adds that you may not want.",
         "hidden": true,
-        "file": "Not So Essential-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/UiZfIeQl/Not%20So%20Essential-1.0.0.jar",
+        "file": "NotSoEssential-Forge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/pjDJ11EW/NotSoEssential-Forge-1.0.3.jar",
         "forge_id": "notsoessential",
-        "hash": "457e03692a77edfcfb9a9649f9a8aa92"
+        "hash": "5caf3cc162b18a2e605bba7b3e68b492"
     },
     {
         "id": "polyfrostkeystrokes",
@@ -1799,10 +1843,10 @@
             }
         ],
         "hidden": true,
-        "file": "ParticlesEnhanced-1.2.1.jar",
-        "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.2.1/ParticlesEnhanced-1.2.1.jar",
+        "file": "ParticlesEnhanced-1.2.2.jar",
+        "url": "https://github.com/koxx12-dev/ParticlesEnhanced/releases/download/1.2.2/ParticlesEnhanced-1.2.2.jar",
         "forge_id": "particlesenhanced",
-        "hash": "8d16e7feed6e2c5ca500f02d2ffa3d1d"
+        "hash": "660e007a97a95556a38f63c0402ef156"
     },
     {
         "id": "pitstats",
@@ -1876,6 +1920,41 @@
         "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
         "forge_id": "synthesis",
         "hash": "8deff2754507cd57d983dbc563e01a21"
+    },
+    {
+        "id": "skyhanni",
+        "nicknames": ["sh", "hanni"],
+        "display": "SkyHanni",
+        "enabled": false,
+        "creator": "hannibal002",
+        "discordcode": "FCDp9EjQ7d",
+        "command": "/sh",
+        "description": "A Skyblock mod with a lot of features, especially for the garden",
+        "icon": "skyhanni.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/hannibal002/SkyHanni/blob/beta/FEATURES.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/hannibal002/SkyHanni"
+            }
+        ],
+        "warning": {
+            "lines": [
+                "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
+            ]
+        },
+        "packages": ["neu"],
+        "categories": ["2;All Skyblock"],
+        "file": "SkyHanni-0.19.jar",
+        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.19/SkyHanni-0.19.jar",
+        "forge_id": "skyhanni",
+        "hash": "24e915340c1cc386e30fb1772a4de388"
     },
     {
         "id": "hychat",
@@ -2010,6 +2089,30 @@
         "url": "https://github.com/Wyvest/Wyvtils/releases/download/v2.0.0/Wyvtils-1.8.9-2.0.0.jar",
         "forge_id": "wyvtils",
         "hash": "8f8dd187dea01447ef354ef0d9cd7afc"
+    },
+    {
+        "id": "spark",
+        "nicknames": ["sparkc", "profiler"],
+        "display": "Spark",
+        "creator": "lucko, nea89 (1.8.9 port)",
+        "description": "A performance profiler for Minecraft clients, servers and proxies",
+        "hidden": true,
+        "file": "spark-forge189-bde4ce2ff-mod.jar",
+        "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/bde4ce2ff/spark-forge189-bde4ce2ff-mod.jar",
+        "forge_id": "spark",
+        "hash": "5cba17dd758a5b94961b605d4ef79151"
+    },
+    {
+        "id": "autoskyblockrejoin",
+        "nicknames": ["asr", "auto skyblock rejoin"],
+        "display": "AutoSkyblockRejoin",
+        "creator": "Microcontrollers",
+        "description": "Automatically rejoin Skyblock when Hypixel gives an error, all while AFK!",
+        "hidden": true,
+        "file": "autoskyblockrejoin-1.8.9-forge-1.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/rdUTxTrK/versions/RhwJQkma/autoskyblockrejoin-1.8.9-forge-1.1.3.jar",
+        "forge_id": "autoskyblockrejoin",
+        "hash": "b8dd0265174daf4647b1016600597d6b"
     },
     {
         "id": "minecraft",

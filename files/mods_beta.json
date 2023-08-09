@@ -10,12 +10,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/pvp.md"
             },
             {
                 "icon": "polyfrost.png",
@@ -57,9 +57,41 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "HitColor-1.2.jar",
-        "url": "https://github.com/Noxiuam/HitColor/releases/download/1.2/HitColor-1.2.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/HitColor-1.2.jar",
         "forge_id": "hitcolor",
         "hash": "17f5715781ce2941c24dde34477550dc"
+    },
+    {
+        "id": "particlesenhanced",
+        "nicknames": ["particlemod", "particles"],
+        "display": "Particles Enhanced",
+        "creator": "isXander, Microcontrollers",
+        "discordcode": "rejfv9kFJj",
+        "command": "particlesenhanced",
+        "description": "2021's take at particles in minecraft. Including never-seen-before features such as particle fade.",
+        "icon": "isxander.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/ParticlesEnhanced"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Hypixel",
+                "link": "https://hypixel.net/threads/4416018/"
+            },
+            {
+                "icon": "isxander.png",
+                "text": "Website",
+                "link": "https://www.isxander.dev"
+            }
+        ],
+        "hidden": true,
+        "file": "ParticlesEnhanced-1.8.9-forge-1.3.1.jar",
+        "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.3.1/ParticlesEnhanced-1.8.9-forge-1.3.1.jar",
+        "forge_id": "particlesenhanced",
+        "hash": "4e7f5f1ae5b3300c5e966cf54d1ce0d7"
     },
     {
         "id": "pss",
@@ -83,7 +115,7 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "partlysaneskies-1.8.9-forge-beta-v0.2.1.jar",
+        "file": "Partly.Sane.Skies-beta-v0.3.jar",
         "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.3/Partly.Sane.Skies-beta-v0.3.jar",
         "forge_id": "partlysaneskies",
         "hash": "faa51b9fcd5465454dd1729e2d465127"
@@ -109,19 +141,24 @@
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/hytilities-reborn.md"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/Hytils-Reborn"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/hytils"
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils.Reborn-1.5.1-beta3.jar",
-        "url": "https://github.com/Polyfrost/Hytils-Reborn/releases/download/v1.5.1-beta3/Hytils.Reborn-1.5.1-beta3.jar",
+        "file": "Hytils-Reborn-1.6.0-beta4.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/dU1lJ1KE/Hytils%20Reborn-1.6.0-beta4.jar",
         "forge_id": "hytils-reborn",
-        "hash": "cdc1ac71f4b73a0633d88335725fc9fb"
+        "hash": "ac50a02316db3d3ba4a5bd13aa82ab55"
     },
     {
         "id": "skyguide",
@@ -148,10 +185,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyGuide (1.8.9-forge)-1.2.1+oneconfig-beta1.jar",
-        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/ksAeoBo5/SkyGuide%20%281.8.9-forge%29-1.2.1%2Boneconfig-beta1.jar",
+        "file": "SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
+        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/Sc5feDQE/SkyGuide%20%281.8.9-forge%29-1.3.0%2Boneconfig.jar",
         "forge_id": "skyguide",
-        "hash": "8be8de45c29c0568272348756a7c81af"
+        "hash": "9374614d78d327f6e24b27ceddf4b597"
     },
     {
         "id": "oam",
@@ -214,13 +251,18 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/Chatting"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/chatting"
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.4.2-beta4.jar",
-        "url": "https://github.com/Polyfrost/Chatting/releases/download/v1.4.2-beta4/Chatting-1.4.2-beta4.jar",
+        "file": "Chatting-1.4.2-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/ZV8EECKb/Chatting-1.4.2-beta5.jar",
         "forge_id": "chatting",
-        "hash": "26c42d03d62c729d334cd309bd88d710"
+        "hash": "70347d2cc06df0849275a22fe5ec01ba"
     },
     {
         "id": "vanillahud",
@@ -374,12 +416,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/packages/hud.md"
             },
             {
                 "icon": "evergreen.png",
@@ -398,11 +440,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "evergreenhud-1.8.9-forge-1.0.0-beta2.jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/KAbj7Esf/evergreenhud-1.8.9-forge-1.0.0-beta2.jar",
+        "file": "evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/7BKrFoiD/evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
         "forge_id": "evergreenhud",
         "packages": ["redaction", "keystrokes"],
-        "hash": "2307acee65c07eaa8f8d419dd7c2cb22"
+        "hash": "d560d3890a7a814dd4ab1c41bf93d54b"
     },
     {
         "id": "dsm",
@@ -416,12 +458,12 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dsm.md?raw=true"
             },
             {
                 "icon": "guide.png",
                 "text": "Guide",
-                "link": "https://github.com/nacrt/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dsm.md"
             },
             {
                 "icon": "forum.png",
@@ -435,9 +477,9 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Dankers_Skyblock_Mod-2.0-beta3.jar",
-        "url": "https://cdn.discordapp.com/attachments/742114256555606106/1086433831944454215/Dankers_Skyblock_Mod-2.0-beta3.jar",
+        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar",
+        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v2.1/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar",
         "forge_id": "Danker's Skyblock Mod",
-        "hash": "4ee01f1de15bd6c2a8dd70e5a4c6a581"
+        "hash": "921ee17583236d813b43e50a267b21c0"
     }
 ]
