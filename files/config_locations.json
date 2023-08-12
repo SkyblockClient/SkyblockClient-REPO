@@ -1,1 +1,9 @@
-["config", "essential/config.toml", "OneConfig/config", "OneConfig/profiles", "W-OVERFLOW", "options.txt", "optionsof.txt"]
+[
+    "config",
+    "essential/config.toml",
+    "OneConfig/config",
+    "OneConfig/profiles",
+    "W-OVERFLOW",
+    "options.txt",
+    "optionsof.txt"
+]
