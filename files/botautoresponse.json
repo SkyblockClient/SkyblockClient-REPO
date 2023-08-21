@@ -365,7 +365,7 @@
     {
         "unclebot": true,
         "triggers": [[".thanos"]],
-        "response": "open your mods folder located at `.minecraft/skyclient/mods` and move ALL the mods somewhere else (preferably somewhere memorable, like your desktop)\n\nif the issue still occours upload `latest.log` found in `.minecraft/skyclient/logs` (and if your game crashed, upload the latest crash report found in `.minecraft/skyclient/crash-reports` as well.)\n\nif removing all your mods fixed the issue, put half of your mods back into the mods folder\nIf the issue occours again, half your current mods folder again and see if the issue still happens\nif not, try the other half and repeat this process until the mod that is causing issues has been found"
+        "response": "open your mods folder located at `.minecraft/skyclient/mods` and move ALL the mods somewhere else (preferably somewhere memorable, like your desktop)\n\n**not fixed?** upload `latest.log` found in `.minecraft/skyclient/logs` (and also the latest crash report found in `.minecraft/skyclient/crash-reports` if your game crashed).\n\n**fixed?** put half of your mods back into the mods folder\nif the issue occurs again, half your current mods folder again and see if the issue still happens\nif not, try the other half and repeat this process until the mod that is causing issues has been found"
     },
     {
         "unclebot": true,
