@@ -1792,10 +1792,10 @@
             }
         ],
         "hidden": true,
-        "file": "Autotip-3.0.1 [1.8-1.12.2].jar",
-        "url": "https://dl.autotip.pro/3.0.1",
+        "file": "Autotip-3.1.1 (1.8.9_forge).jar",
+        "url": "https://static.sk1er.club/repo/mods/autotip/3.1.1/1.8.9_forge/Autotip-3.1.1%20(1.8.9_forge).jar",
         "forge_id": "autotip",
-        "hash": "f3333eabbfb73231108cd421f1a935d5"
+        "hash": "ba5103aa3f199e9f19dacaa4c4f9a897"
     },
     {
         "id": "oofmod",
