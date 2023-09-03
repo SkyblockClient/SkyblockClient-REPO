@@ -115,10 +115,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Partly.Sane.Skies-beta-v0.3.2.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.3.2/Partly.Sane.Skies-beta-v0.3.2.jar",
+        "file": "Partly.Sane.Skies-beta-v0.3.3.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.3.3/Partly.Sane.Skies-beta-v0.3.3.jar",
         "forge_id": "partlysaneskies",
-        "hash": "c170ffab11deb20459d7a5eb69e86b67"
+        "hash": "1415682ccb03af84279dfa577cbaddc6"
     },
     {
         "id": "hytils-reborn",
