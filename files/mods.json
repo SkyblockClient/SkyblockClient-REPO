@@ -608,7 +608,7 @@
         "creator": "Tireless Traveler",
         "discordcode": "tXFf9umfA9",
         "command": "/fancywarpmenuconfig",
-        "description": "A prettier warp menu for Skyblock, Fancy Warp Menu replaces the vanilla container warp GUI with a proper map.",
+        "description": "A prettier warp menu for Skyblock, Fancy Warp Menu replaces the vanilla container warp GUI with a proper map. Turn off the custom warp menu in SkyblockAddons first!",
         "icon": "fancywarpmenu.png",
         "actions": [
             {
