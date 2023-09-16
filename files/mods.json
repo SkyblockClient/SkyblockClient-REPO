@@ -966,10 +966,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Dungeon_Rooms-3.3.2.jar",
-        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.3.2/Dungeon_Rooms-3.3.2.jar",
+        "file": "Dungeon_Rooms-3.4.0.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.0/Dungeon_Rooms-3.4.0.jar",
         "forge_id": "dungeonrooms",
-        "hash": "1dd0a6a7031f814f2673b26b07248212"
+        "hash": "d6f1705fece6bb95eaa62181d5780522"
     },
     {
         "id": "bazaarnotifier",
