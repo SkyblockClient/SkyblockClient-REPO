@@ -615,11 +615,16 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/ILikePlayingGames/FancyWarpMenu"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/fancy-warp-menu"
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
         "file": "FancyWarpMenu-1.0+96.jar",
-        "url": "https://github.com/ILikePlayingGames/FancyWarpMenu/releases/download/v1.0/FancyWarpMenu-1.0+96.jar",
+        "url": "https://cdn.modrinth.com/data/XAqp0XTf/versions/nHzvqquo/FancyWarpMenu-1.0%2B96.jar",
         "forge_id": "fancywarpmenu",
         "hash": "b11be4f66fc21a3092cf610a462e4c90"
     },
