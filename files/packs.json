@@ -417,7 +417,7 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "url": "https://github.com/furfsky/reborn/releases/download/v1.6.2/FurfSky_Reborn_1.6.2_OVERLAY.zip",
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/14eGcKwO/%C2%A7b%C2%A7lFurfSky%20%C2%A7f%C2%A7lReborn%20%C2%A78%C2%A7lOVERLAY.zip",
         "file": "FurfSky Reborn OV [1.6.2].zip",
         "hash": "133e6a76c8ff4fe6e929cc4f6d6ab944"
     },
@@ -445,7 +445,7 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "url": "https://github.com/furfsky/reborn/releases/download/v1.6.2/FurfSky_Reborn_1.6.2_FULL.zip",
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/2k3Ffs2I/%C2%A7b%C2%A7lFurfSky%20%C2%A7f%C2%A7lReborn%20%C2%A78%C2%A7lFULL.zip",
         "file": "FurfSky Reborn FULL [1.6.2].zip",
         "hash": "b48b216237d300f4209f991fd87a03f2"
     },
