@@ -14,7 +14,7 @@
     },
     {
         "triggers": ["<@!?435443705055543306>"],
-        "response": "https://cdn.discordapp.com/attachments/780181693553704973/921822406945955881/unknown-91.png"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/0-unknown-91.png"
     },
     {
         "triggers": ["log4"],
@@ -58,7 +58,7 @@
     },
     {
         "triggers": ["universal.+(mac|linux)", "(mac|linux).+universal"],
-        "response": "https://cdn.discordapp.com/attachments/796546551878516766/849688469563375656/playwright.png"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/1-playwright.png"
     },
     {
         "triggers": ["(need|install).+forge"],
@@ -82,7 +82,7 @@
     },
     {
         "triggers": ["(new|updated).+launcher"],
-        "response": "For the new launcher, you have to set your profile manually. \nCreate a new installation with the version `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` and the game directory `C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient` https://cdn.discordapp.com/attachments/780206481596350486/814935220637794365/unknown.png \n\nThe icon for the profile if you\u2019d like can be found in <https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/images/skyclient128apng.png>\n\nFor video instructions, watch this video:\nhttps://cdn.discordapp.com/attachments/887818760126345246/919984824733794354/how_to_add_an_installation_profile.mp4"
+        "response": "For the new launcher, you have to set your profile manually. \nCreate a new installation with the version `1.8.9-forge1.8.9-11.15.1.2318-1.8.9` and the game directory `C:/Users/YOUR_PC_LOGIN_NAME/AppData/Roaming/.minecraft/skyclient` https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/2-unknown.png \n\nThe icon for the profile if you\u2019d like can be found in <https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/images/skyclient128apng.png>\n\nFor video instructions, watch this video:\nhttps://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/3-how_to_add_an_installation_profile.mp4"
     },
     {
         "triggers": ["old.+launcher"],
@@ -124,7 +124,7 @@
     },
     {
         "tag": ".apecbar",
-        "response": "https://cdn.discordapp.com/attachments/734461575158824981/866370039175446528/Apec-Transparent-Bar.zip"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/4-Apec-Transparent-Bar.zip"
     },
     {
         "tag": ".arp",
@@ -132,7 +132,7 @@
     },
     {
         "tag": ".betterfps",
-        "response": "Using BetterFPS WILL GET YOU BANNED on most servers! DO NOT USE IT!!!\nhttps://cdn.discordapp.com/attachments/411620457754787841/822480154508001290/BeastNation1234_lmfao.mp4\nhttps://www.reddit.com/r/HypixelSkyblock/comments/on4ee3/i_think_one_of_my_mods_are_acting_weird_idk_tho/\nhttps://cdn.discordapp.com/attachments/499624195609591828/1117224077082497154/eno1na.mp4"
+        "response": "Using BetterFPS WILL GET YOU BANNED on most servers! DO NOT USE IT!!!\nhttps://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/5-BeastNation1234_lmfao.mp4\nhttps://www.reddit.com/r/HypixelSkyblock/comments/on4ee3/i_think_one_of_my_mods_are_acting_weird_idk_tho/\nhttps://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/6-eno1na.mp4"
     },
     {
         "tag": ".blockoverlay",
@@ -172,7 +172,7 @@
     },
     {
         "tag": ".forgejson",
-        "response": "https://cdn.discordapp.com/attachments/887818760126345246/967057883332227102/1.8.9-forge1.8.9-11.15.1.2318-1.8.9.json"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/7-1.8.9-forge1.8.9-11.15.1.2318-1.8.9.json"
     },
     {
         "tag": ".fpsfix",
@@ -196,7 +196,7 @@
     },
     {
         "tag": ".hud",
-        "response": "https://cdn.discordapp.com/attachments/780206481596350486/839851303034814464/unknown.png\nhttps://cdn.discordapp.com/attachments/780206481596350486/839906348744310834/unknown.png"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/8-unknown.png\nhttps://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/9-unknown.png"
     },
     {
         "tag": ".invite",
@@ -212,15 +212,15 @@
     },
     {
         "tag": ".launchjson",
-        "response": "https://cdn.discordapp.com/attachments/887818760126345246/978605389144801330/1.8.9-forge1.8.9-11.15.1.2318-1.8.9.json"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/10-1.8.9-forge1.8.9-11.15.1.2318-1.8.9.json"
     },
     {
         "tag": ".libraries",
-        "response": "https://cdn.discordapp.com/attachments/887818760126345246/978605789730197594/libraries.zip"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/11-libraries.zip"
     },
     {
         "tag": ".macprofile",
-        "response": "https://cdn.discordapp.com/attachments/887818760126345246/962798495981531237/macprofile.mov"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/12-macprofile.mov"
     },
     {
         "tag": ".macwhitescreen",
@@ -252,7 +252,7 @@
     },
     {
         "tag": ".rain",
-        "response": "https://cdn.discordapp.com/attachments/874366364809297940/912642116558143499/IMG_20211031_091822228.jpg"
+        "response": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/botautoresponse/13-IMG_20211031_091822228.jpg"
     },
     {
         "tag": ".raminfo",
