@@ -185,8 +185,9 @@
             }
         ],
         "categories": ["3;All PvP"],
-        "file": "Hypixel+ 0.13.0 for 1.8.9.zip",
-        "hash": "b08a2dc0ef9f57398d8c9d671e6bbe50"
+        "file": "Hypixel_0.19.1_for_1.8.9.zip",
+        "url": "https://cdn.discordapp.com/attachments/1157773561809875015/1157774889676197958/Hypixel_0.19.1_for_1.8.9.zip"
+        "hash": "81b2c15672986d7f235575557d8ba263"
     },
     {
         "id": "hsb",
