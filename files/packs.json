@@ -182,11 +182,16 @@
                 "text": "Discord",
                 "icon": "discord icon.png",
                 "link": "https://discord.gg/yu9ykgT8bB"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/resourcepack/hypixel-plus"
             }
         ],
         "categories": ["3;All PvP"],
-        "file": "Hypixel_0.19.1_for_1.8.9.zip",
-        "url": "https://cdn.discordapp.com/attachments/1157773561809875015/1157774889676197958/Hypixel_0.19.1_for_1.8.9.zip",
+        "file": "Hypixel+ 0.19.1 for 1.8.9.zip",
+        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/UDLAM2pO/Hypixel%2B%200.19.1%20for%201.8.9.zip",
         "hash": "81b2c15672986d7f235575557d8ba263"
     },
     {
@@ -415,6 +420,11 @@
                 "icon": "furfskywebsite.png",
                 "text": "Website",
                 "link": "https://furfsky.net/"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/resourcepack/furfsky-reborn"
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
@@ -443,6 +453,11 @@
                 "icon": "furfskywebsite.png",
                 "text": "Website",
                 "link": "https://furfsky.net/"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/resourcepack/furfsky-reborn"
             }
         ],
         "categories": ["1;All Skyblock"],
