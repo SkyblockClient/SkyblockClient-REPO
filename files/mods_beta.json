@@ -211,7 +211,7 @@
         "icon_scaling": "pixel",
         "hidden": true,
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
-        "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/json_assets/mods_beta/0-OldAnimations_1.0.0_-_beta_10.1.jar",
         "forge_id": "sk1er_old_animations",
         "hash": "29f27f7c447af3cbfce724411a649240",
         "update_to_ids": ["overflowanimations"]
