@@ -1951,10 +1951,10 @@
         },
         "packages": ["neu"],
         "categories": ["2;All Skyblock"],
-        "file": "SkyHanni-0.19.jar",
-        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.19/SkyHanni-0.19.jar",
+        "file": "SkyHanni-0.20.jar",
+        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.20/SkyHanni-0.20.jar",
         "forge_id": "skyhanni",
-        "hash": "24e915340c1cc386e30fb1772a4de388"
+        "hash": "cb9c2ac10d7df86978b8280da6eee8e7"
     },
     {
         "id": "hychat",
