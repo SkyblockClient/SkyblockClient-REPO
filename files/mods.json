@@ -907,10 +907,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta8.1-standalone.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta8.1/dungeonsguide-4.0.0-beta8.1-standalone.jar",
+        "file": "dungeonsguide-4.0.0-beta8.2-standalone.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta8.2/dungeonsguide-4.0.0-beta8.2-standalone.jar",
         "forge_id": "dungeons_guide_loader",
-        "hash": "7ab310b82e85e2fcc6e80f5a3f5161a9"
+        "hash": "2d898e734bed48af8770aacfda6fe2d0"
     },
     {
         "id": "dg-old",
