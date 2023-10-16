@@ -602,6 +602,33 @@
         "hash": "324c3aeb8e51de577e4e131fc0d99b9a"
     },
     {
+        "id": "fancywarpmenu",
+        "nicknames": ["fwm, fancy warp menu"],
+        "display": "Fancy Warp Menu",
+        "creator": "Tireless Traveler",
+        "discordcode": "tXFf9umfA9",
+        "command": "/fancywarpmenuconfig",
+        "description": "A prettier warp menu for Skyblock, Fancy Warp Menu replaces the vanilla container warp GUI with a proper map. Turn off the custom warp menu in SkyblockAddons first!",
+        "icon": "fancywarpmenu.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/ILikePlayingGames/FancyWarpMenu"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/fancy-warp-menu"
+            }
+        ],
+        "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
+        "file": "FancyWarpMenu-1.0+96.jar",
+        "url": "https://cdn.modrinth.com/data/XAqp0XTf/versions/nHzvqquo/FancyWarpMenu-1.0%2B96.jar",
+        "forge_id": "fancywarpmenu",
+        "hash": "b11be4f66fc21a3092cf610a462e4c90"
+    },
+    {
         "id": "sbhud",
         "nicknames": ["sbh", "skyblockhud"],
         "display": "SkyblockHUD",
