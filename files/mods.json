@@ -654,11 +654,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "NotEnoughUpdates-2.1.1-Alpha-20.1.jar",
+        "file": "NotEnoughUpdates-2.1.1-Alpha-22.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1147118239445422080/NotEnoughUpdates-2.1.1-Alpha-20.1.jar",
+        "url": "\nhttps://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar",
         "forge_id": "notenoughupdates",
-        "hash": "608722b067cf8b4a047f737c53642cfd"
+        "hash": "6774db96044f83484317205ef169685a"
     },
     {
         "id": "dsm",
@@ -731,10 +731,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.7.6.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.7.6/Skytils-1.7.6.jar",
+        "file": "Skytils-1.7.7.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.7.7/Skytils-1.7.7.jar",
         "forge_id": "skytils",
-        "hash": "5365befa46cc352ed270e9beaf96c739"
+        "hash": "3f249d6434500f151d84444ae35cf235"
     },
     {
         "id": "pss",
@@ -907,10 +907,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta7.5-standalone.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta7.5/dungeonsguide-4.0.0-beta7.5-standalone.jar",
+        "file": "dungeonsguide-4.0.0-beta8.2-standalone.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta8.2/dungeonsguide-4.0.0-beta8.2-standalone.jar",
         "forge_id": "dungeons_guide_loader",
-        "hash": "758a660fe12cb5bd6ef0a6e072005d33"
+        "hash": "2d898e734bed48af8770aacfda6fe2d0"
     },
     {
         "id": "dg-old",
@@ -1225,10 +1225,10 @@
                 "link": "https://github.com/ThatGravyBoat/Craftify"
             }
         ],
-        "file": "Craftify-1.8.9-1.11.1-forge.jar",
-        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/BTnqud82/Craftify-1.8.9-1.11.1-forge.jar",
+        "file": "Craftify-1.8.9-1.12.0-forge.jar",
+        "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/m2z3BTEO/Craftify-1.8.9-1.12.0-forge.jar",
         "forge_id": "craftify",
-        "hash": "32c755f5354b189822e8f1b71c5588a4"
+        "hash": "d196632d29dd22b09173de86f2208d03"
     },
     {
         "id": "blur",
@@ -1951,10 +1951,10 @@
         },
         "packages": ["neu"],
         "categories": ["2;All Skyblock"],
-        "file": "SkyHanni-0.19.jar",
-        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.19/SkyHanni-0.19.jar",
+        "file": "SkyHanni-0.20.jar",
+        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.20/SkyHanni-0.20.jar",
         "forge_id": "skyhanni",
-        "hash": "24e915340c1cc386e30fb1772a4de388"
+        "hash": "cb9c2ac10d7df86978b8280da6eee8e7"
     },
     {
         "id": "hychat",
