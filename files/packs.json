@@ -428,9 +428,9 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/rRc6EBVF/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lOVERLAY%C2%A78.zip",
-        "file": "FurfSky Reborn OV [1.7].zip",
-        "hash": "110fda18ca23e7e4c4d2df261629d75d"
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/7ACC86EO/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lOVERLAY%C2%A78.zip",
+        "file": "FurfSky Reborn OV [1.7.1].zip",
+        "hash": "3f357285ebf68945fa0b24f7d977abc4"
     },
     {
         "id": "fsr_full",
@@ -461,9 +461,9 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/BesdsSFC/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lFULL%C2%A78.zip",
-        "file": "FurfSky Reborn FULL [1.7].zip",
-        "hash": "97c1320835590910edeaeac2df86720d"
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/eV4uifP0/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lFULL%C2%A78.zip",
+        "file": "FurfSky Reborn FULL [1.7.1].zip",
+        "hash": "92fd134217a04656fe9ac3fce669d8e0"
     },
     {
         "id": "smollicons",
