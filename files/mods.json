@@ -602,6 +602,33 @@
         "hash": "324c3aeb8e51de577e4e131fc0d99b9a"
     },
     {
+        "id": "fancywarpmenu",
+        "nicknames": ["fwm, fancy warp menu"],
+        "display": "Fancy Warp Menu",
+        "creator": "Tireless Traveler",
+        "discordcode": "tXFf9umfA9",
+        "command": "/fancywarpmenuconfig",
+        "description": "A prettier warp menu for Skyblock, Fancy Warp Menu replaces the vanilla container warp GUI with a proper map. Turn off the custom warp menu in SkyblockAddons first!",
+        "icon": "fancywarpmenu.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/ILikePlayingGames/FancyWarpMenu"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/fancy-warp-menu"
+            }
+        ],
+        "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
+        "file": "FancyWarpMenu-1.0+96.jar",
+        "url": "https://cdn.modrinth.com/data/XAqp0XTf/versions/nHzvqquo/FancyWarpMenu-1.0%2B96.jar",
+        "forge_id": "fancywarpmenu",
+        "hash": "b11be4f66fc21a3092cf610a462e4c90"
+    },
+    {
         "id": "sbhud",
         "nicknames": ["sbh", "skyblockhud"],
         "display": "SkyblockHUD",
@@ -731,10 +758,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.7.7.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.7.7/Skytils-1.7.7.jar",
+        "file": "Skytils-1.7.8.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.7.8/Skytils-1.7.8.jar",
         "forge_id": "skytils",
-        "hash": "3f249d6434500f151d84444ae35cf235"
+        "hash": "dd893790cdea40634384d7ed64a9674f"
     },
     {
         "id": "pss",
@@ -907,10 +934,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta8.1-standalone.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta8.1/dungeonsguide-4.0.0-beta8.1-standalone.jar",
+        "file": "dungeonsguide-4.0.0-beta8.2-standalone.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/4.0.0-beta8.2/dungeonsguide-4.0.0-beta8.2-standalone.jar",
         "forge_id": "dungeons_guide_loader",
-        "hash": "7ab310b82e85e2fcc6e80f5a3f5161a9"
+        "hash": "2d898e734bed48af8770aacfda6fe2d0"
     },
     {
         "id": "dg-old",
