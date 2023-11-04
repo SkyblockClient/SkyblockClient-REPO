@@ -4,7 +4,7 @@
 - [GitHub Repository](https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide)
 
 #### Discord
-- [Dungeons Guide Discord](https://dungeons.guide/discord)
+- [Dungeons Guide Discord](https://discord.gg/vuGsXhY5Bv)
 
 # Dungeons Guide - How do I use it?
 
