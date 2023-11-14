@@ -255,7 +255,7 @@
     {
         "id": "sbov",
         "display": "SkyblockOverhaul",
-        "creator": "Stef, Saikage, and sporkspoon",
+        "creator": "Stef, Saikage, sporkspoon, and Nealkitt",
         "discordcode": "uwy3rwPpmV",
         "description": "Includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs.",
         "icon": "sbov.png",
@@ -267,9 +267,9 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "file": "SkyblockOverhaul-Overlay_32x.zip",
-        "url": "https://github.com/Skyblock-Overhaul/Texture-Pack/releases/download/main-1.2.0/SkyblockOverhaul-Overlay_32x.zip",
-        "hash": "9e76825f9be4510e2b68e24bafd4fed6"
+        "file": "SkyblockOverhaul-1.2.1.zip",
+        "url": "https://github.com/Skyblock-Overhaul/32x-pack/releases/download/release/SkyblockOverhaul-1.2.1.zip",
+        "hash": "32f49f16af58fabeba66c8742003aa12"
     },
     {
         "id": "hqdark",
