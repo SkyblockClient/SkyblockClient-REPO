@@ -41,25 +41,4 @@
         "forge_id": "behindyouv3",
         "hash": "d32bb4c8e558e52eed1d4ec148339765"
     },
-    {
-        "id": "simpletogglesprint",
-        "nicknames": ["togglesprint", "sts"],
-        "display": "Toggle Sprint",
-        "creator": "Lily / Polyfrost",
-        "command": "/togglesprint",
-        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
-        "icon": "skyclient.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/Polyfrost/SimpleToggleSprint"
-            }
-        ],
-        "hidden": true,
-        "file": "SimpleToggleSprint-1.8.9-forge-1.0.0-beta3.jar",
-        "url": "https://github.com/Polyfrost/SimpleToggleSprint/releases/download/v1.0.0-beta3/SimpleToggleSprint-1.8.9-forge-1.0.0-beta3.jar",
-        "forge_id": "simpletogglesprint",
-        "hash": "50048d2be3a2e7a0618576a34ba90f5e"
-    }
 ]

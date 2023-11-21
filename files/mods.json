@@ -29,9 +29,9 @@
                 "link": "https://discord.gg/jRhkYFmpCa"
             },
             {
-                "icon": "skyclient.png",
-                "text": "SimpleToggleSprint",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+                "icon": "polyfrost.png",
+                "text": "PolySprint",
+                "link": "https://github.com/Polyfrost/PolySprint"
             },
             {
                 "icon": "monkey.png",
@@ -43,7 +43,7 @@
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "forge_id": "text_overflow_scroll",
-        "packages": ["optibye", "simpletogglesprint", "hypixel_auto_complete"],
+        "packages": ["optibye", "polysprint", "hypixel_auto_complete"],
         "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
@@ -1456,8 +1456,34 @@
         "hash": "ba59c079e482d1bfca3cf2aa5a0c8337"
     },
     {
+        "id": "polysprint",
+        "nicknames": ["togglesprint"],
+        "display": "PolySprint",
+        "creator": "Lily / Polyfrost",
+        "command": "/polysprint",
+        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolySprint"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polysprint"
+            }
+        ],
+        "hidden": true,
+        "file": "PolySprint-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/eW9L5hBb/PolySprint-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polysprint",
+        "hash": "262d6bd5d553bf2403167418df4bed58"
+    },
+    {
         "id": "simpletogglesprint",
-        "nicknames": ["togglesprint", "sts"],
+        "nicknames": ["sts"],
         "display": "Toggle Sprint",
         "creator": "Lily",
         "command": "/togglesprint",
@@ -1474,7 +1500,8 @@
         "file": "SimpleToggleSprint-2.2.0.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
         "forge_id": "simpletogglesprint",
-        "hash": "203479f689b9baccb6d77380be22ed86"
+        "hash": "203479f689b9baccb6d77380be22ed86",
+        "update_to_ids": ["polysprint"]
     },
     {
         "id": "hypixel_auto_complete",
