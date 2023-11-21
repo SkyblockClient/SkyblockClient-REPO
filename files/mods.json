@@ -112,10 +112,9 @@
         "id": "evergreenhud",
         "nicknames": ["evergreen"],
         "display": "HUD Bundle",
-        "creator": "isXander",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/evergreenhud",
-        "description": "Adds every piece of information you could ever need.",
+        "description": "Displays every piece of information a Minecraft player could ever need.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -144,11 +143,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/1.4.0/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar",
+        "file": "evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/7BKrFoiD/evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
         "forge_id": "evergreenhud",
         "packages": ["redaction", "keystrokes"],
-        "hash": "63f4007274c69d5698bc7ade40b90ebf"
+        "hash": "d560d3890a7a814dd4ab1c41bf93d54b"
     },
     {
         "id": "antidreamskin",
@@ -219,7 +218,7 @@
         "creator": "Polyfrost",
         "discordcode": "VzHan6xyUh",
         "command": "/damagetint",
-        "description": "Adds mods that generally help in PvP, like sharpness particles, damage tint, and behindyou.",
+        "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and BehindYou.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -233,7 +232,7 @@
             },
             {
                 "icon": "polyfrost.png",
-                "text": "Damage Tint",
+                "text": "DamageTint",
                 "link": "https://github.com/Polyfrost/DamageTint"
             },
             {
@@ -248,11 +247,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "DamageTint-3.2.0.jar",
-        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "file": "DamageTint-1.8.9-forge-3.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar",
         "forge_id": "damagetint",
         "packages": ["particlesenhanced", "behindyouv3"],
-        "hash": "abfae9b9f1660ce0bdea20c2949fb435"
+        "hash": "2195418367d7a56badb11e26514f2845"
     },
     {
         "id": "scu",
@@ -415,7 +414,7 @@
         "display": "Hytils Reborn",
         "enabled": true,
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/hytils",
         "description": "Offers many QOL features for Hypixel, like adblock, auto-queuing, autocompletion, overlays, and more.",
         "icon": "polyfrost.png",
@@ -437,10 +436,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils-Reborn-1.5.0.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/MVycSOuV/Hytils-Reborn-1.5.0.jar",
+        "file": "Hytils-Reborn-1.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/KrVPw5IG/Hytils-Reborn-1.6.0.jar",
         "forge_id": "hytils-reborn",
-        "hash": "59d055e70c270df5794686c33d09cc97"
+        "hash": "59d16f33d3d908d1c5e8f2c3cc55a296"
     },
     {
         "id": "replaymod",
@@ -718,10 +717,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
-        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.9/MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
+        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar",
+        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v2.1/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.1.jar",
         "forge_id": "Danker's Skyblock Mod",
-        "hash": "e3324ba1da3a8f4046dfa498355d898e"
+        "hash": "921ee17583236d813b43e50a267b21c0"
     },
     {
         "id": "skytils",
@@ -793,10 +792,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "LEGACY-Partly.Sane.Skies-beta-v0.4.1.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.4.1/LEGACY-Partly.Sane.Skies-beta-v0.4.1.jar",
+        "file": "Partly.Sane.Skies-beta-v0.4.1.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.4.1/Partly.Sane.Skies-beta-v0.4.1.jar",
         "forge_id": "partlysaneskies",
-        "hash": "916c098bc566191f61adcbebc1ed234f"
+        "hash": "0494e31a2897c2bbebcc14f95e21ce6e"
     },
     {
         "id": "apec",
@@ -1045,10 +1044,30 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyGuide (1.8.9-forge)-1.3.0.jar",
-        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/OfvPbV9f/SkyGuide%20%281.8.9-forge%29-1.3.0.jar",
+        "file": "SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
+        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/Sc5feDQE/SkyGuide%20%281.8.9-forge%29-1.3.0%2Boneconfig.jar",
         "forge_id": "skyguide",
-        "hash": "82f53076c3db5b50a78313aac92fea5a"
+        "hash": "9374614d78d327f6e24b27ceddf4b597"
+    },
+    {
+        "id": "overflowanimations",
+        "display": "Overflow Animations",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
+        "command": "/overflowanimations",
+        "description": "Extremely precise and advanced old animations mod for 1.8.9.",
+        "categories": ["1;Recommended"],
+        "actions": [
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://polyfrost.org/discord"
+            }
+        ],
+        "file": "OverflowAnimations.1.8.9-forge.-2.0.1-beta6.jar",
+        "url": "https://github.com/Polyfrost/OverflowAnimationsV2/releases/download/v2.0.1-beta6/OverflowAnimations.1.8.9-forge.-2.0.1-beta6.jar",
+        "forge_id": "overflowanimations",
+        "hash": "3915e2a4897500105c83e5c36a23b7e8"
     },
     {
         "id": "oam",
@@ -1066,22 +1085,15 @@
         "display": "Old Animations",
         "creator": "Sk1erLLC & Polyfrost",
         "command": "/oldanimations",
-        "description": "Brings 1.7 animations to 1.8.9.",
+        "description": "1.7 Animations, in 1.8.9.",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
-        "categories": ["1;Recommended"],
-        "actions": [
-            {
-                "icon": "discordsmall.png",
-                "text": "Discord",
-                "link": "https://discord.gg/sk1er"
-            }
-        ],
+        "hidden": true,
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
         "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
         "forge_id": "sk1er_old_animations",
         "hash": "29f27f7c447af3cbfce724411a649240",
-        "packages": ["overflowanimations"]
+        "update_to_ids": ["overflowanimations"]
     },
     {
         "id": "timechanger",
@@ -1654,7 +1666,8 @@
         "hash": "cb08e4783b4014371e093818164995d8"
     },
     {
-        "id": "keystrokes",
+        "id": "sk1er_keystrokes",
+        "old_id": "keystrokes",
         "display": "Keystrokes",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -1677,7 +1690,23 @@
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
         "forge_id": "keystrokesmod",
-        "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
+        "hash": "fb1a2c0daf43d3235e43b6e8190243bb",
+        "update_to_ids": ["polyfrostkeystrokes"]
+    },
+    {
+        "id": "polyfrostkeystrokes",
+        "nicknames": ["keystrokes"],
+        "display": "Canelex Keystrokes Revamp",
+        "creator": "Polyfrost",
+        "discordcode": "VzHan6xyUh",
+        "command": "/keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
+        "icon": "polyfrost.png",
+        "hidden": true,
+        "file": "Keystrokes-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/G2Hmyf0G/versions/70oHEIpB/Keystrokes-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyfrostkeystrokes",
+        "hash": "008d699af183a14bdd6fdad143cf8de9"
     },
     {
         "id": "nse",
@@ -1870,10 +1899,10 @@
             }
         ],
         "hidden": true,
-        "file": "ParticlesEnhanced-1.2.2.jar",
-        "url": "https://github.com/koxx12-dev/ParticlesEnhanced/releases/download/1.2.2/ParticlesEnhanced-1.2.2.jar",
+        "file": "ParticlesEnhanced-1.3.2.jar",
+        "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.3.2/ParticlesEnhanced-1.3.2.jar",
         "forge_id": "particlesenhanced",
-        "hash": "660e007a97a95556a38f63c0402ef156"
+        "hash": "48f3b7e01be283c7b3b64f8130287454"
     },
     {
         "id": "pitstats",
@@ -1993,19 +2022,6 @@
         "file": "Hychat-1.12.2-BETA.jar",
         "forge_id": "hychat",
         "hash": "4a5124a8b6ca2b0feb453117292587cd"
-    },
-    {
-        "id": "overflowanimations",
-        "display": "Overflow Animations",
-        "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
-        "command": "/overflowanimations",
-        "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
-        "hidden": true,
-        "file": "OverflowAnimations-1.1.0.jar",
-        "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
-        "forge_id": "overflowanimations",
-        "hash": "cdce7e1ee42770bc66153ee6abc70787"
     },
     {
         "id": "reauth",
