@@ -1,53 +1,5 @@
 [
     {
-        "id": "glintcolorizer",
-        "display": "Glint Colorizer",
-        "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
-        "command": "/glintcolorizer",
-        "description": "Customize the glint color of items and more.",
-        "icon": "polyfrost.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "GitHub",
-                "link": "https://github.com/Polyfrost/GlintColorizer"
-            }
-        ],
-        "categories": ["5;All PvP"],
-        "file": "glintcolorizer-1.8.9-forge-1.0.1-beta1.jar",
-        "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.1-beta1/glintcolorizer-1.8.9-forge-1.0.1-beta1.jar",
-        "forge_id": "glintcolorizer",
-        "hash": "b0c6e9743541504add6c8c1d147f63ad"
-    },
-    {
-        "id": "chatting",
-        "nicknames": ["l ratio better chat", "chattils", "stratus"],
-        "display": "Chatting",
-        "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
-        "command": "/chatting",
-        "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
-        "icon": "polyfrost.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/Polyfrost/Chatting"
-            },
-            {
-                "icon": "modrinth.png",
-                "text": "Modrinth",
-                "link": "https://modrinth.com/mod/chatting"
-            }
-        ],
-        "hidden": true,
-        "file": "Chatting-1.4.2-beta5.jar",
-        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/ZV8EECKb/Chatting-1.4.2-beta5.jar",
-        "forge_id": "chatting",
-        "hash": "70347d2cc06df0849275a22fe5ec01ba"
-    },
-    {
         "id": "vanillahud",
         "display": "VanillaHUD",
         "creator": "Polyfrost (Wyvest)",
