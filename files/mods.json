@@ -94,12 +94,7 @@
         "file": "smooth-scrolling-everywhere-1.2.jar",
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
         "forge_id": "smooth-scrolling-everywhere",
-        "packages": [
-            "vanillahud",
-            "chatting",
-            "rc",
-            "reportplus"
-        ],
+        "packages": ["vanillahud", "chatting", "rc", "reportplus"],
         "hash": "a0855299552a5d166386bd75b5fad90e"
     },
     {
