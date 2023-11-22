@@ -2131,10 +2131,10 @@
         },
         "packages": ["neu"],
         "categories": ["2;All Skyblock"],
-        "file": "SkyHanni-0.21.jar",
-        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.21/SkyHanni-0.21.jar",
+        "file": "SkyHanni-0.21.1.jar",
+        "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/5Q7KJhYt/SkyHanni-0.21.1.jar",
         "forge_id": "skyhanni",
-        "hash": "a18c0480533febff9e9f261b19b1f86c"
+        "hash": "674523850aae24b4402ec5c47d3a07d4"
     },
     {
         "id": "hychat",
