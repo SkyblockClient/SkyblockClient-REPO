@@ -31,7 +31,7 @@
             {
                 "icon": "polyfrost.png",
                 "text": "PolySprint",
-                "link": "https://github.com/Polyfrost/PolySprint"
+                "link": "https://modrinth.com/mod/polysprint"
             },
             {
                 "icon": "monkey.png",
@@ -72,12 +72,12 @@
             {
                 "icon": "polyfrost.png",
                 "text": "VanillaHUD",
-                "link": "https://github.com/Polyfrost/VanillaHUD"
+                "link": "https://modrinth.com/mod/vanillahud"
             },
             {
                 "icon": "polyfrost.png",
                 "text": "Chatting",
-                "link": "https://github.com/Polyfrost/Chatting"
+                "link": "https://modrinth.com/mod/chatting"
             },
             {
                 "icon": "tgb_icon.png",
@@ -123,7 +123,7 @@
             {
                 "icon": "polyfrost.png",
                 "text": "REDACTION",
-                "link": "https://github.com/Polyfrost/REDACTION"
+                "link": "https://modrinth.com/mod/redaction"
             },
             {
                 "icon": "monkey.png",
@@ -205,7 +205,7 @@
         "id": "damagetint",
         "display": "PvP Bundle",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/damagetint",
         "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and BehindYou.",
         "icon": "skyclient.png",
@@ -222,7 +222,7 @@
             {
                 "icon": "polyfrost.png",
                 "text": "DamageTint",
-                "link": "https://github.com/Polyfrost/DamageTint"
+                "link": "https://modrinth.com/mod/damagetint"
             },
             {
                 "icon": "isxander.png",
@@ -232,7 +232,7 @@
             {
                 "icon": "polyfrost.png",
                 "text": "BehindYouV3",
-                "link": "https://github.com/Polyfrost/BehindYouV3"
+                "link": "https://modrinth.com/mod/behindyou"
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
@@ -345,7 +345,7 @@
         "display": "CrashPatch",
         "enabled": true,
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "description": "Stops crashes from closing your game and provides a solution if found.",
         "icon": "polyfrost.png",
         "actions": [
@@ -353,6 +353,11 @@
                 "icon": "github.png",
                 "text": "GitHub",
                 "link": "https://github.com/Polyfrost/CrashPatch"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/crashpatch"
             }
         ],
         "categories": ["1;Recommended"],
@@ -1051,6 +1056,16 @@
                 "icon": "discordsmall.png",
                 "text": "Discord",
                 "link": "https://polyfrost.org/discord"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/OverflowAnimationsV2"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/overflowanimations"
             }
         ],
         "file": "OverflowAnimations.1.8.9-forge.-2.0.1-beta6.jar",
@@ -1291,6 +1306,11 @@
                 "icon": "github.png",
                 "text": "GitHub",
                 "link": "https://github.com/Polyfrost/GlintColorizer"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/glintcolorizer"
             }
         ],
         "categories": ["5;All PvP"],
@@ -1608,8 +1628,8 @@
     {
         "id": "vanillahud",
         "display": "VanillaHUD",
-        "creator": "Polyfrost (Wyvest)",
-        "discordcode": "VzHan6xyUh",
+        "creator": "Polyfrost",
+        "discordcode": "polyfrost",
         "command": "/vanillahud",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
         "icon": "polyfrost.png",
@@ -1618,13 +1638,18 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/VanillaHUD"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/vanillahud"
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.1.1.jar",
-        "url": "https://github.com/Polyfrost/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/wlW58CxG/VanillaHUD-1.8.9-forge-2.0.0.jar",
         "forge_id": "vanillahud",
-        "hash": "2ad42c5a0bdc35e1b48b30e819234324"
+        "hash": "0c44c450b6c6868ef578c2658187f8be"
     },
     {
         "id": "itlt",
@@ -1643,7 +1668,7 @@
         "id": "redaction",
         "display": "REDACTION",
         "creator": "Polyfrost (Wyvest)",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/redaction",
         "description": "Adds useful GUI additions to the game.",
         "icon": "polyfrost.png",
@@ -1652,12 +1677,17 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/REDACTION"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/redaction"
             }
         ],
         "hidden": true,
         "file": "REDACTION-1.3.5.jar",
         "files": ["W-OVERFLOW/REDACTION/redaction.toml"],
-        "url": "https://github.com/Polyfrost/REDACTION/releases/download/v1.3.5/REDACTION-1.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/Gapz72zt/versions/hRcyRh2w/REDACTION-1.3.5.jar",
         "forge_id": "redaction",
         "hash": "dd5defdef8e2229e2ac16d92f888100e"
     },
@@ -1665,7 +1695,7 @@
         "id": "behindyouv3",
         "display": "BehindYouV3",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/behindyou",
         "description": "Allows you to look behind you with ease.",
         "icon": "polyfrost.png",
@@ -1674,13 +1704,18 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/BehindYouV3"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/behindyou"
             }
         ],
         "hidden": true,
-        "file": "BehindYouV3-3.1.0.jar",
-        "url": "https://github.com/Polyfrost/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
+        "file": "BehindYouV3-1.8.9-forge-3.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/cruazNvt/BehindYouV3-1.8.9-forge-3.1.2.jar",
         "forge_id": "behindyouv3",
-        "hash": "cb08e4783b4014371e093818164995d8"
+        "hash": "a124150da3f9bd2e14b6f8deeae168b9"
     },
     {
         "id": "sk1er_keystrokes",
@@ -1715,10 +1750,22 @@
         "nicknames": ["keystrokes"],
         "display": "Canelex Keystrokes Revamp",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/keystrokes",
         "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
         "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/keystrokes"
+            }
+        ],
         "hidden": true,
         "file": "Keystrokes-1.8.9-forge-1.0.0.jar",
         "url": "https://cdn.modrinth.com/data/G2Hmyf0G/versions/70oHEIpB/Keystrokes-1.8.9-forge-1.0.0.jar",
@@ -1735,21 +1782,6 @@
         "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/pjDJ11EW/NotSoEssential-Forge-1.0.3.jar",
         "forge_id": "notsoessential",
         "hash": "5caf3cc162b18a2e605bba7b3e68b492"
-    },
-    {
-        "id": "polyfrostkeystrokes",
-        "display": "Canelex Keystrokes Revamp",
-        "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
-        "command": "/keystrokes",
-        "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
-        "icon": "polyfrost.png",
-        "hidden": true,
-        "file": "Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
-        "url": "https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/download/v1.0.0-beta1/Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
-        "forge_id": "polyfrostkeystrokes",
-        "hash": "e201e8ee249b5b7e28b2e499f465e638",
-        "update_to_ids": ["keystrokesmod"]
     },
     {
         "id": "bossbar_customizer",
@@ -2134,7 +2166,7 @@
         "display": "Wyvtils",
         "enabled": false,
         "creator": "Polyfrost (Wyvest)",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "polyfrost",
         "command": "/wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
         "icon": "polyfrost.png",
