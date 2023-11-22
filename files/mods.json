@@ -132,11 +132,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/7BKrFoiD/evergreenhud-1.8.9-forge-1.0.0-beta5.jar",
+        "file": "EvergreenHUD-1.8.9-forge-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/4RjQRYxq/EvergreenHUD-1.8.9-forge-2.0.0.jar",
         "forge_id": "evergreenhud",
         "packages": ["redaction", "keystrokes"],
-        "hash": "d560d3890a7a814dd4ab1c41bf93d54b"
+        "hash": "5d56efceabe70d173905da601165851f"
     },
     {
         "id": "antidreamskin",
@@ -361,11 +361,11 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "CrashPatch-1.4.0.jar",
-        "files": ["W-OVERFLOW/CrashPatch/SKYCLIENT"],
-        "url": "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
+        "file": "CrashPatch-1.8.9-forge-2.0.0.jar",
+        "files": ["OneConfig/CrashPatch/SKYCLIENT"],
+        "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/5zsfIeMF/CrashPatch-1.8.9-forge-2.0.0.jar",
         "forge_id": "crashpatch",
-        "hash": "d73016f46937b3d5644aae5feacf2240"
+        "hash": "c65c78b7a1f6d5a28f81e95ce3508c5e"
     },
     {
         "id": "hytilities-reborn",
@@ -508,6 +508,31 @@
         "url": "https://cdn.modrinth.com/data/DQKdq5re/versions/g4aoBppG/BetterHurtCam-2.2.0.jar",
         "forge_id": "betterhurtcam",
         "hash": "dab61518c04ff395d9d8bd0e50458aa6"
+    },
+    {
+        "id": "polyblur",
+        "display": "PolyBlur",
+        "creator": "Polyfrost",
+        "command": "/polyblur",
+        "description": "Apply motion blur in-game in various customizable ways.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyBlur"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polyblur"
+            }
+        ],
+        "categories": ["5;All PvP", "6;Recommended PvP"],
+        "file": "PolyBlur-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/Jgm3MvC1/PolyBlur-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyblur",
+        "hash": "9d7521c6f30ee6910009135f192089c8"
     },
     {
         "id": "rawinput",
@@ -1045,7 +1070,7 @@
     },
     {
         "id": "overflowanimations",
-        "display": "Overflow Animations",
+        "display": "OverflowAnimations",
         "creator": "Polyfrost",
         "discordcode": "polyfrost",
         "command": "/overflowanimations",
@@ -1065,13 +1090,13 @@
             {
                 "icon": "modrinth.png",
                 "text": "Modrinth",
-                "link": "https://modrinth.com/mod/overflowanimations"
+                "link": "https://modrinth.com/mod/animations"
             }
         ],
-        "file": "OverflowAnimations.1.8.9-forge.-2.0.1-beta6.jar",
-        "url": "https://github.com/Polyfrost/OverflowAnimationsV2/releases/download/v2.0.1-beta6/OverflowAnimations.1.8.9-forge.-2.0.1-beta6.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/laBN0v03/OverflowAnimations-1.8.9-forge-2.0.0.jar",
         "forge_id": "overflowanimations",
-        "hash": "3915e2a4897500105c83e5c36a23b7e8"
+        "hash": "962664c1a253e0a9e2acedb8882937e2"
     },
     {
         "id": "oam",
@@ -1100,6 +1125,54 @@
         "update_to_ids": ["overflowanimations"]
     },
     {
+        "id": "polytime",
+        "display": "PolyTime",
+        "creator": "Polyfrost",
+        "command": "/polytime",
+        "description": "Allows the user to configure what client-side time is displayed.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyTime"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polytime"
+            }
+        ],
+        "file": "PolyTime-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/7eFxBnuh/PolyTime-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polytime",
+        "hash": "e9812d344de863b4f17ea254c4d3230d"
+    },
+    {
+        "id": "polyweather",
+        "display": "PolyWeather",
+        "creator": "Polyfrost",
+        "command": "/polyweather",
+        "description": "Allows the user to configure what client-side weather is displayed.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyWeather"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polyweather"
+            }
+        ],
+        "file": "PolyWeather-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/r8Cr8YRg/versions/1YxktDLt/PolyWeather-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyweather",
+        "hash": "b9b30e5c27901103c5912abd0acb6972"
+    },
+    {
         "id": "timechanger",
         "display": "TimeChanger",
         "creator": "Shatterpoint",
@@ -1114,10 +1187,12 @@
                 "link": "https://hypixel.net/threads/3574261/"
             }
         ],
+        "hidden": true,
         "file": "TimeChanger-2.2.1.jar",
         "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
         "forge_id": "timechanger",
-        "hash": "157240f650762d46394b2cc1f052758b"
+        "hash": "157240f650762d46394b2cc1f052758b",
+        "update_to_ids": ["polytime"]
     },
     {
         "id": "itemphysic",
