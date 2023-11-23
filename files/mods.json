@@ -365,7 +365,7 @@
         "files": ["OneConfig/CrashPatch/SKYCLIENT"],
         "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/5zsfIeMF/CrashPatch-1.8.9-forge-2.0.0.jar",
         "forge_id": "crashpatch",
-        "hash": "c65c78b7a1f6d5a28f81e95ce3508c5e"
+        "hash": "71e06109aab9300d89c04590255fdeb8"
     },
     {
         "id": "hytilities-reborn",
