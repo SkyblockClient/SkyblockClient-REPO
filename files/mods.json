@@ -1283,7 +1283,7 @@
         "discordcode": "rejfv9kFJj",
         "command": "/mixmetica",
         "description": "Displays some Cosmetica cosmetics via Optifine without needing to configure DNS.",
-        "icon": "microcontrollers.png",
+        "icon": "mixmetica.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -1291,15 +1291,20 @@
                 "link": "https://github.com/MicrocontrollersDev/Mixmetica"
             },
             {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/mixmetica"
+            },
+            {
                 "icon": "discordsmall.png",
                 "text": "Discord",
                 "link": "https://discord.gg/rejfv9kFJj"
             }
         ],
-        "file": "Mixmetica-1.8.9-forge-1.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/R3iPJp5C/Mixmetica-1.8.9-forge-1.1.2.jar",
+        "file": "Mixmetica-1.8.9-forge-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/UVVLIQJ0/Mixmetica-1.8.9-forge-2.0.0.jar",
         "forge_id": "mixmetica",
-        "hash": "c6dc1361cbcae033a53256c6147259ae"
+        "hash": "37630877f209455caf41816d0d8edc2d"
     },
     {
         "id": "twitcher",
