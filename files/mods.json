@@ -227,7 +227,7 @@
             {
                 "icon": "polyfrost.png",
                 "text": "DamageTint",
-                "link": "https://modrinth.com/mod/damagetint"
+                "link": "https://github.com/Polyfrost/DamageTint"
             },
             {
                 "icon": "isxander.png",
@@ -242,7 +242,7 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "DamageTint-1.8.9-forge-3.3.0.jar",
-        "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar",
+        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.3.0/DamageTint-1.8.9-forge-3.3.0.jar",
         "forge_id": "damagetint",
         "packages": ["particlesenhanced", "behindyouv3"],
         "hash": "2195418367d7a56badb11e26514f2845"
