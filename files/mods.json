@@ -1080,6 +1080,7 @@
         "discordcode": "EZVbUgGX4h",
         "command": "/overflowanimations",
         "description": "Extremely precise and advanced old animations mod for 1.8.9.",
+        "icon": "polyfrost.png",
         "categories": ["1;Recommended"],
         "actions": [
             {
