@@ -121,6 +121,11 @@
                 "link": "https://hypixel.net/threads/3787277/"
             },
             {
+                "icon": "tellinq.png",
+                "text": "Potion Effects",
+                "link": "https://github.com/Tellinq/Potion-Effects"
+            },
+            {
                 "icon": "polyfrost.png",
                 "text": "REDACTION",
                 "link": "https://modrinth.com/mod/redaction"
@@ -135,7 +140,7 @@
         "file": "EvergreenHUD-1.8.9-forge-2.0.0.jar",
         "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/4RjQRYxq/EvergreenHUD-1.8.9-forge-2.0.0.jar",
         "forge_id": "evergreenhud",
-        "packages": ["redaction", "keystrokes"],
+        "packages": ["potioneffects", "redaction", "keystrokes"],
         "hash": "5d56efceabe70d173905da601165851f"
     },
     {
@@ -1851,6 +1856,26 @@
         "url": "https://cdn.modrinth.com/data/G2Hmyf0G/versions/70oHEIpB/Keystrokes-1.8.9-forge-1.0.0.jar",
         "forge_id": "polyfrostkeystrokes",
         "hash": "008d699af183a14bdd6fdad143cf8de9"
+    },
+    {
+        "id": "potioneffects",
+        "display": "Potion Effects",
+        "creator": "Tellinq",
+        "command": "/potioneffects",
+        "description": "Display your active potion effects!",
+        "icon": "tellinq.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Tellinq/Potion-Effects"
+            }
+        ],
+        "hidden": true,
+        "file": "Potion_Effects_1.8.9-forge_1.0.jar",
+        "url": "https://github.com/Tellinq/Potion-Effects/releases/download/v1.0/Potion_Effects_1.8.9-forge_1.0.jar",
+        "forge_id": "potioneffects",
+        "hash": "c3683ec7cf477258bad924cf7fae1475"
     },
     {
         "id": "nse",
