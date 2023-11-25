@@ -1400,10 +1400,10 @@
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "GlintColorizer-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/Vhepxcqj/GlintColorizer-1.8.9-forge-1.0.1.jar",
+        "file": "GlintColorizer-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/IBrK7PQE/GlintColorizer-1.8.9-forge-1.0.2.jar",
         "forge_id": "glintcolorizer",
-        "hash": "053278980c95e5179b812fe6cd972058"
+        "hash": "0b345d684f7bc2ead9eed431808590f4"
     },
     {
         "id": "damagetilt",
