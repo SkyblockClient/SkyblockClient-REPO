@@ -1075,6 +1075,7 @@
     },
     {
         "id": "overflowanimations",
+        "enabled": true,
         "display": "OverflowAnimations",
         "creator": "Polyfrost",
         "discordcode": "EZVbUgGX4h",
