@@ -74,7 +74,7 @@
     },
     {
         "triggers": ["(1\\.7|old).+anim"],
-        "response": "Use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8."
+        "response": "Use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8. Download here: https://modrinth.com/mod/animations"
     },
     {
         "triggers": ["tessellating block model"],
