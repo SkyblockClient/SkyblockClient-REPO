@@ -1106,7 +1106,6 @@
     },
     {
         "id": "oam",
-        "enabled": true,
         "nicknames": [
             "sk1eroam",
             "oldanimations",
