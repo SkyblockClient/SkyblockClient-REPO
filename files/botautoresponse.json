@@ -74,7 +74,7 @@
     },
     {
         "triggers": ["(1\\.7|old).+anim"],
-        "response": "Use sk1ers old animations, as it's the one of the best *(if not best)* mod for 1.7 animations.\nAfter joining head to <#958820675106267207> to get access, and then head to <#958820495631999046> to find the installation for the 1.7 animations mod.  *the channels should show up as `#deleted-channel` if you're not in the server* \n discord.gg/sk1er"
+        "response": "Use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8."
     },
     {
         "triggers": ["tessellating block model"],
