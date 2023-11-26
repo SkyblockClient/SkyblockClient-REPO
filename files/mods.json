@@ -263,10 +263,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyClient-Updater-1.8.9-forge-1.3.3.jar",
-        "url": "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.3/SkyClient-Updater-1.8.9-forge-1.3.3.jar",
+        "file": "SkyClient-Updater-1.8.9-forge-1.3.4.jar",
+        "url": "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.4/SkyClient-Updater-1.8.9-forge-1.3.4.jar",
         "forge_id": "skyblockclientupdater",
-        "hash": "7955b9548660bc7b2959db16d2d6c9cb"
+        "hash": "f1e6cbb74437aed116e9692afc4d4391"
     },
     {
         "id": "scc",
