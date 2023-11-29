@@ -140,7 +140,7 @@
         "file": "EvergreenHUD-1.8.9-forge-2.0.0.jar",
         "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/4RjQRYxq/EvergreenHUD-1.8.9-forge-2.0.0.jar",
         "forge_id": "evergreenhud",
-        "packages": ["potioneffects", "redaction", "keystrokes"],
+        "packages": ["potioneffects", "redaction", "polyfrostkeystrokes"],
         "hash": "5d56efceabe70d173905da601165851f"
     },
     {
