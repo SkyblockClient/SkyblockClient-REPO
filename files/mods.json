@@ -1771,11 +1771,11 @@
             }
         ],
         "hidden": true,
-        "file": "REDACTION-1.8.9-forge-1.3.6.jar",
+        "file": "REDACTION-1.8.9-forge-1.3.7.jar",
         "files": ["W-OVERFLOW/REDACTION/redaction.toml"],
-        "url": "https://cdn.modrinth.com/data/Gapz72zt/versions/hRcyRh2w/REDACTION-1.8.9-forge-1.3.6.jar",
+        "url": "https://cdn.modrinth.com/data/Gapz72zt/versions/7YS63tTT/REDACTION-1.8.9-forge-1.3.7.jar",
         "forge_id": "redaction",
-        "hash": "525e0a8dac86f6cbc666c65813ff959b"
+        "hash": "6c6a8b1d9cbd61b4869f283b0620c852"
     },
     {
         "id": "behindyouv3",
