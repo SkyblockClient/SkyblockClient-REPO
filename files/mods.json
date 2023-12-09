@@ -619,10 +619,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyblockAddons-1.7.2-for-MC-1.8.9-SKYCLIENTPATCH.jar",
-        "url": "https://github.com/Wyvest/SkyblockAddons/releases/download/v1.7.2-SKYCLIENTPATCH/SkyblockAddons-1.7.2-for-MC-1.8.9-SKYCLIENTPATCH.jar",
+        "file": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
+        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.3/SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
         "forge_id": "skyblockaddons",
-        "hash": "f4468e38d8ec6315ab4fbfeccde206e4"
+        "hash": "faae83cd9122c8611c5bb2551ba3bd4c"
     },
     {
         "id": "fancywarpmenu",
