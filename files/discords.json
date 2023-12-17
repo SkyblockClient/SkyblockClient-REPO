@@ -136,6 +136,13 @@
         "mods": ["sba"]
     },
     {
+        "id": "fancywarpmenu",
+        "code": "tXFf9umfA9",
+        "fancyname": "Fancy Warp Menu",
+        "nicknames": ["fwm, fancy warp menu"],
+        "mods": ["fancywarpmenu"]
+    },
+    {
         "id": "apec",
         "fancyname": "Apec",
         "description": "Apec is a Minecraft mod that improves the in-game GUI to better suit Hypixel Skyblock and gives it a cleaner look.",
