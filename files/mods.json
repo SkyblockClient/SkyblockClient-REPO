@@ -816,10 +816,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Partly.Sane.Skies-beta-v0.5.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.5/Partly.Sane.Skies-beta-v0.5.jar",
+        "file": "Partly.Sane.Skies-beta-v0.5.1.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.5.1/Partly.Sane.Skies-beta-v0.5.1.jar",
         "forge_id": "partlysaneskies",
-        "hash": "4ed2f6ddcb2484628d6aad5c074e61d0"
+        "hash": "d638872d5db6bb938c196084c711794d"
     },
     {
         "id": "apec",
