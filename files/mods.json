@@ -435,10 +435,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils-Reborn-1.6.0.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/KrVPw5IG/Hytils-Reborn-1.6.0.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/gCEt8zn2/Hytils%20Reborn-1.8.9-forge-1.6.1.jar",
         "forge_id": "hytils-reborn",
-        "hash": "59d16f33d3d908d1c5e8f2c3cc55a296"
+        "hash": "7315c50cff1f129e27e9d6f441075c7a"
     },
     {
         "id": "replaymod",
