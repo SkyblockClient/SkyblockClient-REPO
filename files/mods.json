@@ -80,6 +80,11 @@
                 "link": "https://modrinth.com/mod/chatting"
             },
             {
+                "icon": "polyfrost.png",
+                "text": "PolyNametag",
+                "link": "https://modrinth.com/mod/polynametag"
+            },
+            {
                 "icon": "tgb_icon.png",
                 "text": "RewardClaim",
                 "link": "https://discord.gg/jRhkYFmpCa"
@@ -94,7 +99,7 @@
         "file": "smooth-scrolling-everywhere-1.2.jar",
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
         "forge_id": "smooth-scrolling-everywhere",
-        "packages": ["vanillahud", "chatting", "rc", "reportplus"],
+        "packages": ["vanillahud", "chatting", "polynametag", "rc", "reportplus"],
         "hash": "a0855299552a5d166386bd75b5fad90e"
     },
     {
@@ -660,13 +665,6 @@
         "command": "/sbh",
         "description": "Enhances Skyblock's HUD, making it feel more like an RPG.",
         "icon": "sbhlogo.png",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar"
-            }
-        ],
         "categories": ["2;All Skyblock"],
         "file": "SkyblockHud-Reborn-1.17.1.jar",
         "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar",
@@ -1677,6 +1675,31 @@
         "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/vNOOXAVI/Chatting-1.8.9-forge-1.5.1.jar",
         "forge_id": "chatting",
         "hash": "4ca178eb07a4e2d86b50fe1122aec826"
+    },
+    {
+        "id": "polynametag",
+        "display": "PolyNametag",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "description": "PolyNametag is an extremely customizable nametag mod.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyNametag"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polynametag"
+            }
+        ],
+        "hidden": true,
+        "file": "PolyNametag-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/n7xFrgJO/PolyNametag-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polynametag",
+        "hash": "7a39d3db1a5d30e7b98a5d03c7ddeac7"
     },
     {
         "id": "reportplus",
