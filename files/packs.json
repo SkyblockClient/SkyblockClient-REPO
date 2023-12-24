@@ -9,7 +9,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/mobpacket.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/mobpacket.md"
             },
             {
                 "text": "Forum",
@@ -32,7 +32,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
             },
             {
                 "text": "Forum",
@@ -81,7 +81,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
             },
             {
                 "text": "Forum",
@@ -123,7 +123,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/rnbw.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/rnbw.md"
             },
             {
                 "text": "Forum",
@@ -140,7 +140,7 @@
         "creator": "Smolegit",
         "description": "A new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
         "icon": "nameless.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/Nameless [Alpha 5].zip.png",
+        "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/Nameless [Alpha 5].zip.png",
         "actions": [
             {
                 "text": "Forum",
@@ -241,7 +241,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
             },
             {
                 "text": "Forum",
@@ -278,7 +278,7 @@
         "discordcode": "KwvMQ4T",
         "description": "The famous PacksHQ Skyblock pack but with a dark UI, how cool is that.",
         "icon": "phq dark overlay.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
+        "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
         "actions": [
             {
                 "text": "Forum",
@@ -302,7 +302,7 @@
         "discordcode": "aqSEzgWnYy",
         "description": "A pack incorporating Essential's coloring.",
         "icon": "essentialtheme.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
+        "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
         "actions": [
             {
                 "icon": "discordsmall.png",
@@ -326,7 +326,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
             {
                 "text": "Forum",
@@ -353,7 +353,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/packshq.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
             {
                 "text": "Forum",
@@ -382,7 +382,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
             },
             {
                 "text": "Forum",
@@ -410,7 +410,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/furfreborn.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/furfreborn.md"
             },
             {
                 "text": "Forum",
@@ -443,7 +443,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/furfreborn.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/furfreborn.md"
             },
             {
                 "text": "Forum",
@@ -510,7 +510,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/1.14backport.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/1.14backport.md"
             },
             {
                 "text": "Curseforge",
@@ -547,11 +547,11 @@
         "description": "A PvP pack with a collection of textures from various packs.",
         "icon": "fishfault.png",
         "icon_scaling": "pixel",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/fishfault-preview.png",
+        "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/fishfault-preview.png",
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/fishfault.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/fishfault.md"
             }
         ],
         "categories": ["3;All PvP"],
@@ -615,7 +615,7 @@
         "discordcode": "kZnYxCMjuJ",
         "description": "One of the many 16x texture packs by zshyne. Note that this version has a plain night sky.",
         "icon": "sakamata.png",
-        "screenshot": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/images/sakamata-preview.png",
+        "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/sakamata-preview.png",
         "actions": [
             {
                 "icon": "youtube.png",
@@ -677,7 +677,7 @@
         "actions": [
             {
                 "method": "hover",
-                "document": "https://raw.githubusercontent.com/nacrt/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
             },
             {
                 "text": "Forum",
