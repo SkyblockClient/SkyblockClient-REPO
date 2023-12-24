@@ -992,12 +992,12 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "update_to_ids": ["dg"],
         "hidden": true,
         "file": "dungeonsguide-3.7.8.jar",
         "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.8/dungeonsguide-3.7.8.jar",
         "forge_id": "skyblock_dungeons_guide",
-        "hash": "08981e8760389c18cc11837724c8674e",
-        "update_to_ids": ["dg"]
+        "hash": "08981e8760389c18cc11837724c8674e"
     },
     {
         "id": "drm",
@@ -1079,14 +1079,13 @@
     },
     {
         "id": "overflowanimations",
-        "enabled": true,
         "display": "OverflowAnimations",
+        "enabled": true,
         "creator": "Polyfrost",
         "discordcode": "EZVbUgGX4h",
         "command": "/overflowanimations",
         "description": "Extremely precise and advanced old animations mod for 1.8.9.",
         "icon": "polyfrost.png",
-        "categories": ["1;Recommended"],
         "actions": [
             {
                 "icon": "discordsmall.png",
@@ -1104,6 +1103,7 @@
                 "link": "https://modrinth.com/mod/animations"
             }
         ],
+        "categories": ["1;Recommended"],
         "file": "OverflowAnimations-1.8.9-forge-2.1.0.jar",
         "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/DzqG8tlY/OverflowAnimations-1.8.9-forge-2.1.0.jar",
         "forge_id": "overflowanimations",
@@ -1127,12 +1127,12 @@
         "description": "1.7 Animations, in 1.8.9.",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
+        "update_to_ids": ["overflowanimations"],
         "hidden": true,
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
         "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
         "forge_id": "sk1er_old_animations",
-        "hash": "29f27f7c447af3cbfce724411a649240",
-        "update_to_ids": ["overflowanimations"]
+        "hash": "29f27f7c447af3cbfce724411a649240"
     },
     {
         "id": "polytime",
@@ -1197,12 +1197,12 @@
                 "link": "https://hypixel.net/threads/3574261/"
             }
         ],
+        "update_to_ids": ["polytime"],
         "hidden": true,
         "file": "TimeChanger-2.2.1.jar",
         "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
         "forge_id": "timechanger",
-        "hash": "157240f650762d46394b2cc1f052758b",
-        "update_to_ids": ["polytime"]
+        "hash": "157240f650762d46394b2cc1f052758b"
     },
     {
         "id": "itemphysic",
@@ -1344,8 +1344,8 @@
     },
     {
         "id": "craftify",
-        "enabled": true,
         "display": "Craftify",
+        "enabled": true,
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
@@ -1376,9 +1376,8 @@
                 "link": "https://imgur.com/EmSEKFu"
             }
         ],
-        "config": true,
-        "files": ["config/blur.cfg"],
         "file": "Blur-MC1.8.9-1.0.4-2.jar",
+        "files": ["config/blur.cfg"],
         "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
         "forge_id": "blur",
         "hash": "f224341c91b88a69fff3b0de6b7f744c"
@@ -1600,12 +1599,12 @@
                 "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
             }
         ],
+        "update_to_ids": ["polysprint"],
         "hidden": true,
         "file": "SimpleToggleSprint-2.2.0.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
         "forge_id": "simpletogglesprint",
-        "hash": "203479f689b9baccb6d77380be22ed86",
-        "update_to_ids": ["polysprint"]
+        "hash": "203479f689b9baccb6d77380be22ed86"
     },
     {
         "id": "hypixel_auto_complete",
@@ -1642,12 +1641,12 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
             }
         ],
+        "update_to_ids": ["chatting"],
         "hidden": true,
         "file": "betterchat-1.5.jar",
         "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar",
         "forge_id": "betterchat",
-        "hash": "7c790782172fcd7629fe8824b16ed7a6",
-        "update_to_ids": ["chatting"]
+        "hash": "7c790782172fcd7629fe8824b16ed7a6"
     },
     {
         "id": "chatting",
@@ -1829,7 +1828,6 @@
     },
     {
         "id": "sk1er_keystrokes",
-        "old_id": "keystrokes",
         "display": "Keystrokes",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -1848,12 +1846,12 @@
                 "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
+        "update_to_ids": ["polyfrostkeystrokes"],
         "hidden": true,
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
         "forge_id": "keystrokesmod",
-        "hash": "fb1a2c0daf43d3235e43b6e8190243bb",
-        "update_to_ids": ["polyfrostkeystrokes"]
+        "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
     },
     {
         "id": "polyfrostkeystrokes",
@@ -2179,16 +2177,16 @@
                 "link": "https://github.com/hannibal002/SkyHanni"
             }
         ],
+        "categories": ["2;All Skyblock"],
         "warning": {
             "lines": [
                 "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
-        "packages": ["neu"],
-        "categories": ["2;All Skyblock"],
         "file": "SkyHanni-0.21.1.jar",
         "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/5Q7KJhYt/SkyHanni-0.21.1.jar",
         "forge_id": "skyhanni",
+        "packages": ["neu"],
         "hash": "674523850aae24b4402ec5c47d3a07d4"
     },
     {
@@ -2265,11 +2263,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "5;All PvP", "7;For Creators"],
+        "hidden": true,
         "file": "music_player-1.8.9-2.1.1.172.jar",
         "url": "https://mediafiles.forgecdn.net/files/3930/933/music_player-1.8.9-2.1.1.172.jar",
         "forge_id": "musicplayer",
-        "hash": "9479585fc9aaf1290961afdbcd4c148b",
-        "hidden": true
+        "hash": "9479585fc9aaf1290961afdbcd4c148b"
     },
     {
         "id": "skywars-sorter",
