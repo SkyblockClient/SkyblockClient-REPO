@@ -495,7 +495,7 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "Block_Overlay_4.0.3.jar",
-        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar",
+        "url": "https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar",
         "forge_id": "blockoverlay",
         "hash": "b41e79d2d5f817e94a3498929411cdfc"
     },
@@ -590,7 +590,7 @@
         "categories": ["7;For Creators"],
         "file": "Nick Hider-6.0.2 (1.8.9).jar",
         "files": ["nickhider.toml"],
-        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick Hider-6.0.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick%20Hider-6.0.2%20(1.8.9).jar",
         "forge_id": "nick_hider",
         "hash": "241d35b27080934b1e31365686e5b804"
     },
@@ -1504,15 +1504,8 @@
         "creator": "Aycy",
         "description": "Makes the resource pack menu load faster and adds some more useful features.",
         "icon": "aycy.jpg",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
-            }
-        ],
         "file": "Resource_Pack_Manager_1.2.jar",
-        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
+        "url": "https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar",
         "forge_id": "resourcepackmanager",
         "hash": "b334cd4cb15e3610ac47387a66c19dfb"
     },
@@ -1548,6 +1541,7 @@
         "description": "Prevents Optifine from logging completely useless information",
         "hidden": true,
         "file": "Optibye-1.0.0-dep.jar",
+        "url": "https://skyclient-files.pages.dev/Optibye-1.0.0-dep.jar",
         "forge_id": "optibye",
         "hash": "12b4642b21c887e5e121a949e9b9d7a0"
     },
@@ -1630,7 +1624,7 @@
         ],
         "hidden": true,
         "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar",
         "forge_id": "hypixel_auto_complete",
         "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e"
     },
@@ -1736,7 +1730,8 @@
         ],
         "update_to_ids": ["vanillahud"],
         "hidden": true,
-        "file": "[1.8.9] Sidebar Mod Revamp.jar",
+        "file": "Sidebar Mod Revamp.jar",
+        "url": "https://skyclient-files.pages.dev/%5B1.8.9%5D%20Sidebar%20Mod%20Revamp.jar",
         "forge_id": "sidebarmod",
         "hash": "cc03bb6e904342dce232c3cee264c626"
     },
@@ -1991,7 +1986,7 @@
         ],
         "hidden": true,
         "file": "LevelHead-8.2.2 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2%20(1.8.9).jar",
         "forge_id": "level_head",
         "hash": "640a324f794356b20888fc9b62c542fd"
     },
@@ -2012,7 +2007,7 @@
         ],
         "hidden": true,
         "file": "AutoGG-4.1.3 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3%20(1.8.9).jar",
         "forge_id": "autogg",
         "hash": "ded8229d58537c4f4b170c112123c84e"
     },
@@ -2204,6 +2199,7 @@
         "description": "Hychat is a beta mod developed by Moulberry to improve chat on hypixel. The dev doesn't care about it anymore, so there are probably some massive bugs.",
         "hidden": true,
         "file": "Hychat-1.12.2-BETA.jar",
+        "url": "https://skyclient-files.pages.dev/Hychat-1.12.2-BETA.jar",
         "forge_id": "hychat",
         "hash": "4a5124a8b6ca2b0feb453117292587cd"
     },
@@ -2248,6 +2244,7 @@
         ],
         "categories": ["5;All PvP"],
         "file": "ArrowPath-v1.0.jar",
+        "url": "https://skyclient-files.pages.dev/ArrowPath-v1.0.jar",
         "forge_id": "arrowpath",
         "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
     },
