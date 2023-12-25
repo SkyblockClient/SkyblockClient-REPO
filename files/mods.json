@@ -148,11 +148,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "EvergreenHUD-1.8.9-forge-2.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/ozU3AQh9/EvergreenHUD-1.8.9-forge-2.1.2.jar",
+        "file": "EvergreenHUD-1.8.9-forge-2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/W5vnRrmx/EvergreenHUD-1.8.9-forge-2.1.3.jar",
         "forge_id": "evergreenhud",
         "packages": ["potioneffects", "redaction", "polyfrostkeystrokes"],
-        "hash": "5152b6545a889ced82160bb77ee91d81"
+        "hash": "df126463d3dfb545139178caf401e4ec"
     },
     {
         "id": "antidreamskin",
