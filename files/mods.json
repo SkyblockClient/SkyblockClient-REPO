@@ -1509,6 +1509,29 @@
         "hash": "b334cd4cb15e3610ac47387a66c19dfb"
     },
     {
+        "id": "resourcify",
+        "display": "Resourcify",
+        "creator": "DeDiamondPro",
+        "description": "Adds an in-game downloader and updater for Modrinth texturepacks.",
+        "icon": "resourcify.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/DeDiamondPro/Resourcify"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/resourcify"
+            }
+        ],
+        "file": "Resourcify (1.8.9-forge)-1.2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/6MUjiLfy/Resourcify%20%281.8.9-forge%29-1.2.1.1.jar",
+        "forge_id": "resourcify",
+        "hash": "b6f7c5bc5372c228f6d419b9f4839b3c6"
+    },
+    {
         "id": "controlling",
         "display": "GUI Bundle",
         "description": "Adds more options in controls menu to make it easier to navigate.",
