@@ -1,1 +1,37 @@
-[]
+[
+    {
+        "id": "pss",
+        "nicknames": [
+            "partly sane skies",
+            "partlysaneskies",
+            "piss",
+            "crepe",
+            "baguette",
+            "frenchmod",
+            "french"
+        ],
+        "display": "Partly Sane Skies",
+        "creator": "PartlySaneStudios",
+        "discordcode": "v4PU3WeH7z",
+        "command": "/pssconfig",
+        "description": "Streamlines the more monotonous aspects of Skyblock, such as spotting cheap auctions and finding the best prices.",
+        "icon": "pss.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/PartlySaneStudios/partly-sane-skies/releases"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/5290760/"
+            }
+        ],
+        "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "file": "Partly.Sane.Skies-beta-v0.5.3-prerelease-1.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.5.3-prerelease-1/Partly.Sane.Skies-beta-v0.5.3-prerelease-1.jar",
+        "forge_id": "partlysaneskies",
+        "hash": "98d4e3cb32e9edf1b1e590eca3d71e9b"
+    }
+]
