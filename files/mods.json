@@ -29,9 +29,9 @@
                 "link": "https://discord.gg/jRhkYFmpCa"
             },
             {
-                "icon": "skyclient.png",
-                "text": "SimpleToggleSprint",
-                "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
+                "icon": "polyfrost.png",
+                "text": "PolySprint",
+                "link": "https://modrinth.com/mod/polysprint"
             },
             {
                 "icon": "monkey.png",
@@ -43,7 +43,7 @@
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "forge_id": "text_overflow_scroll",
-        "packages": ["optibye", "simpletogglesprint", "hypixel_auto_complete"],
+        "packages": ["optibye", "polysprint", "hypixel_auto_complete"],
         "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
@@ -72,17 +72,17 @@
             {
                 "icon": "polyfrost.png",
                 "text": "VanillaHUD",
-                "link": "https://github.com/Polyfrost/VanillaHUD"
-            },
-            {
-                "icon": "llamalad.png",
-                "text": "BetterChat",
-                "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
+                "link": "https://modrinth.com/mod/vanillahud"
             },
             {
                 "icon": "polyfrost.png",
                 "text": "Chatting",
-                "link": "https://github.com/Polyfrost/Chatting"
+                "link": "https://modrinth.com/mod/chatting"
+            },
+            {
+                "icon": "polyfrost.png",
+                "text": "PolyNametag",
+                "link": "https://modrinth.com/mod/polynametag"
             },
             {
                 "icon": "tgb_icon.png",
@@ -100,9 +100,9 @@
         "url": "https://media.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar",
         "forge_id": "smooth-scrolling-everywhere",
         "packages": [
-            "betterchat",
             "vanillahud",
             "chatting",
+            "polynametag",
             "rc",
             "reportplus"
         ],
@@ -112,10 +112,9 @@
         "id": "evergreenhud",
         "nicknames": ["evergreen"],
         "display": "HUD Bundle",
-        "creator": "isXander",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/evergreenhud",
-        "description": "Adds every piece of information you could ever need.",
+        "description": "Displays every piece of information a Minecraft player could ever need.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -133,9 +132,14 @@
                 "link": "https://hypixel.net/threads/3787277/"
             },
             {
+                "icon": "tellinq.png",
+                "text": "Potion Effects",
+                "link": "https://github.com/Tellinq/Potion-Effects"
+            },
+            {
                 "icon": "polyfrost.png",
                 "text": "REDACTION",
-                "link": "https://github.com/Polyfrost/REDACTION"
+                "link": "https://modrinth.com/mod/redaction"
             },
             {
                 "icon": "monkey.png",
@@ -144,11 +148,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "EvergreenHUD (1.8.9-1.4.0) (DOWNGRADE NOT A BUG).jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/1.4.0/EvergreenHUD%20%281.4.0.0-rev.641c7c4%29.jar",
+        "file": "EvergreenHUD-1.8.9-forge-2.1.3.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/W5vnRrmx/EvergreenHUD-1.8.9-forge-2.1.3.jar",
         "forge_id": "evergreenhud",
-        "packages": ["redaction", "keystrokes"],
-        "hash": "63f4007274c69d5698bc7ade40b90ebf"
+        "packages": ["potioneffects", "redaction", "polyfrostkeystrokes"],
+        "hash": "df126463d3dfb545139178caf401e4ec"
     },
     {
         "id": "antidreamskin",
@@ -217,9 +221,9 @@
         "id": "damagetint",
         "display": "PvP Bundle",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/damagetint",
-        "description": "Adds mods that generally help in PvP, like sharpness particles, damage tint, and behindyou.",
+        "description": "A bundle with mods that generally help PvP, such as sharpness particles, damage tint, and BehindYou.",
         "icon": "skyclient.png",
         "actions": [
             {
@@ -233,7 +237,7 @@
             },
             {
                 "icon": "polyfrost.png",
-                "text": "Damage Tint",
+                "text": "DamageTint",
                 "link": "https://github.com/Polyfrost/DamageTint"
             },
             {
@@ -244,15 +248,15 @@
             {
                 "icon": "polyfrost.png",
                 "text": "BehindYouV3",
-                "link": "https://github.com/Polyfrost/BehindYouV3"
+                "link": "https://modrinth.com/mod/behindyou"
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "DamageTint-3.2.0.jar",
-        "url": "https://github.com/Polyfrost/DamageTint/releases/download/v3.2.0/DamageTint-3.2.0.jar",
+        "file": "DamageTint-1.8.9-forge-3.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar",
         "forge_id": "damagetint",
         "packages": ["particlesenhanced", "behindyouv3"],
-        "hash": "abfae9b9f1660ce0bdea20c2949fb435"
+        "hash": "2195418367d7a56badb11e26514f2845"
     },
     {
         "id": "scu",
@@ -270,10 +274,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyblockClient-Updater-1.3.2.jar",
-        "url": "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.2/SkyblockClient-Updater-1.3.2.jar",
+        "file": "SkyClient-Updater-1.8.9-forge-1.3.5.jar",
+        "url": "https://github.com/SkyblockClient/SkyblockClient-Updater/releases/download/v1.3.5/SkyClient-Updater-1.8.9-forge-1.3.5.jar",
         "forge_id": "skyblockclientupdater",
-        "hash": "4d7145955a7c331185c7f8b3b879f28b"
+        "hash": "295eaa1591f0264c46a222d35e45c3b9"
     },
     {
         "id": "scc",
@@ -292,10 +296,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyClientCosmetics-1.1.13.jar",
-        "url": "https://github.com/SkyblockClient/Skyclient-Cosmetics/releases/download/v1.1.13/SkyClientCosmetics-1.1.13.jar",
+        "file": "SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
+        "url": "https://github.com/SkyblockClient/Skyclient-Cosmetics/releases/download/v1.1.14/SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
         "forge_id": "skyclientcosmetics",
-        "hash": "d38bb67c917f3ff033cdd8d16a74e90d"
+        "hash": "a20253ca3fc7b912ae305f2d27d01d14"
     },
     {
         "id": "optifine",
@@ -357,7 +361,7 @@
         "display": "CrashPatch",
         "enabled": true,
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "description": "Stops crashes from closing your game and provides a solution if found.",
         "icon": "polyfrost.png",
         "actions": [
@@ -365,14 +369,19 @@
                 "icon": "github.png",
                 "text": "GitHub",
                 "link": "https://github.com/Polyfrost/CrashPatch"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/crashpatch"
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "CrashPatch-1.4.0.jar",
-        "files": ["W-OVERFLOW/CrashPatch/SKYCLIENT"],
-        "url": "https://github.com/Polyfrost/CrashPatch/releases/download/v1.4.0/CrashPatch-1.4.0.jar",
+        "file": "CrashPatch-1.8.9-forge-2.0.0.jar",
+        "files": ["OneConfig/CrashPatch/SKYCLIENT"],
+        "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/5zsfIeMF/CrashPatch-1.8.9-forge-2.0.0.jar",
         "forge_id": "crashpatch",
-        "hash": "d73016f46937b3d5644aae5feacf2240"
+        "hash": "71e06109aab9300d89c04590255fdeb8"
     },
     {
         "id": "hytilities-reborn",
@@ -415,7 +424,7 @@
         "display": "Hytils Reborn",
         "enabled": true,
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/hytils",
         "description": "Offers many QOL features for Hypixel, like adblock, auto-queuing, autocompletion, overlays, and more.",
         "icon": "polyfrost.png",
@@ -437,10 +446,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils-Reborn-1.5.0.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/MVycSOuV/Hytils-Reborn-1.5.0.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/gCEt8zn2/Hytils%20Reborn-1.8.9-forge-1.6.1.jar",
         "forge_id": "hytils-reborn",
-        "hash": "59d055e70c270df5794686c33d09cc97"
+        "hash": "7315c50cff1f129e27e9d6f441075c7a"
     },
     {
         "id": "replaymod",
@@ -466,10 +475,10 @@
             }
         ],
         "categories": ["7;For Creators"],
-        "file": "replaymod-1.8.9-2.6.8.jar",
-        "url": "https://www.replaymod.com/download/download_new.php?version=1.8.9-2.6.8",
+        "file": "replaymod-1.8.9-2.6.14.jar",
+        "url": "https://minio.replaymod.com/replaymod/replaymod-1.8.9-2.6.14.jar",
         "forge_id": "replaymod",
-        "hash": "da501251b49ead3fee62914e84c6442b"
+        "hash": "e4778fd469f275380fdf5c93f4b40273"
     },
     {
         "id": "blockoverlay",
@@ -486,7 +495,7 @@
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
         "file": "Block_Overlay_4.0.3.jar",
-        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar",
+        "url": "https://skyclient-files.pages.dev/Block_Overlay_4.0.3.jar",
         "forge_id": "blockoverlay",
         "hash": "b41e79d2d5f817e94a3498929411cdfc"
     },
@@ -515,6 +524,31 @@
         "url": "https://cdn.modrinth.com/data/DQKdq5re/versions/g4aoBppG/BetterHurtCam-2.2.0.jar",
         "forge_id": "betterhurtcam",
         "hash": "dab61518c04ff395d9d8bd0e50458aa6"
+    },
+    {
+        "id": "polyblur",
+        "display": "PolyBlur",
+        "creator": "Polyfrost",
+        "command": "/polyblur",
+        "description": "Apply motion blur in-game in various customizable ways.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyBlur"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polyblur"
+            }
+        ],
+        "categories": ["5;All PvP", "6;Recommended PvP"],
+        "file": "PolyBlur-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/Jgm3MvC1/PolyBlur-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyblur",
+        "hash": "9d7521c6f30ee6910009135f192089c8"
     },
     {
         "id": "rawinput",
@@ -556,7 +590,7 @@
         "categories": ["7;For Creators"],
         "file": "Nick Hider-6.0.2 (1.8.9).jar",
         "files": ["nickhider.toml"],
-        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick Hider-6.0.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick%20Hider-6.0.2%20(1.8.9).jar",
         "forge_id": "nick_hider",
         "hash": "241d35b27080934b1e31365686e5b804"
     },
@@ -596,10 +630,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyblockAddons-1.7.2-for-MC-1.8.9.jar",
-        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.2/SkyblockAddons-1.7.2-for-MC-1.8.9.jar",
+        "file": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
+        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.3/SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
         "forge_id": "skyblockaddons",
-        "hash": "324c3aeb8e51de577e4e131fc0d99b9a"
+        "hash": "faae83cd9122c8611c5bb2551ba3bd4c"
     },
     {
         "id": "fancywarpmenu",
@@ -637,13 +671,6 @@
         "command": "/sbh",
         "description": "Enhances Skyblock's HUD, making it feel more like an RPG.",
         "icon": "sbhlogo.png",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://cdn.discordapp.com/attachments/760875791638331402/810392867478306816/SkyblockHud-1.12.jar"
-            }
-        ],
         "categories": ["2;All Skyblock"],
         "file": "SkyblockHud-Reborn-1.17.1.jar",
         "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar",
@@ -681,11 +708,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "NotEnoughUpdates-2.1.1-Alpha-22.jar",
+        "file": "NotEnoughUpdates-2.1.1-Alpha-25.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "\nhttps://cdn.discordapp.com/attachments/1028896920346841118/1158980842455056415/NotEnoughUpdates-2.1.1-Alpha-22.jar",
+        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1185590944779751424/NotEnoughUpdates-2.1.1-Alpha-25.jar",
         "forge_id": "notenoughupdates",
-        "hash": "6774db96044f83484317205ef169685a"
+        "hash": "46248605191db9104ed552498d0860ac"
     },
     {
         "id": "dsm",
@@ -718,10 +745,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
-        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v1.9/MC.1.8.9.Danker.s.Skyblock.Mod.-.1.9.jar",
+        "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.2.jar",
+        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v2.2/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.2.jar",
         "forge_id": "Danker's Skyblock Mod",
-        "hash": "e3324ba1da3a8f4046dfa498355d898e"
+        "hash": "d8f020061af3f3c7a0eff43722811b8a"
     },
     {
         "id": "skytils",
@@ -758,10 +785,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.7.8.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.7.8/Skytils-1.7.8.jar",
+        "file": "Skytils-1.8.0-pre5.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.8.0-pre5/Skytils-1.8.0-pre5.jar",
         "forge_id": "skytils",
-        "hash": "dd893790cdea40634384d7ed64a9674f"
+        "hash": "7c1dc1efe877606fbb5fc768413ca136"
     },
     {
         "id": "pss",
@@ -793,10 +820,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "LEGACY-Partly.Sane.Skies-beta-v0.4.1.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.4.1/LEGACY-Partly.Sane.Skies-beta-v0.4.1.jar",
+        "file": "Partly.Sane.Skies-beta-v0.5.2.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.5.2/Partly.Sane.Skies-beta-v0.5.2.jar",
         "forge_id": "partlysaneskies",
-        "hash": "916c098bc566191f61adcbebc1ed234f"
+        "hash": "d83598392ff16377ac80053a1208a86f"
     },
     {
         "id": "apec",
@@ -965,12 +992,12 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "update_to_ids": ["dg"],
         "hidden": true,
         "file": "dungeonsguide-3.7.8.jar",
         "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.8/dungeonsguide-3.7.8.jar",
         "forge_id": "skyblock_dungeons_guide",
-        "hash": "08981e8760389c18cc11837724c8674e",
-        "update_to_ids": ["dg"]
+        "hash": "08981e8760389c18cc11837724c8674e"
     },
     {
         "id": "drm",
@@ -1045,14 +1072,45 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyGuide (1.8.9-forge)-1.3.0.jar",
-        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/OfvPbV9f/SkyGuide%20%281.8.9-forge%29-1.3.0.jar",
+        "file": "SkyGuide (1.8.9-forge)-1.3.0+oneconfig.jar",
+        "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/Sc5feDQE/SkyGuide%20%281.8.9-forge%29-1.3.0%2Boneconfig.jar",
         "forge_id": "skyguide",
-        "hash": "82f53076c3db5b50a78313aac92fea5a"
+        "hash": "9374614d78d327f6e24b27ceddf4b597"
+    },
+    {
+        "id": "overflowanimations",
+        "display": "OverflowAnimations",
+        "enabled": true,
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/overflowanimations",
+        "description": "Extremely precise and advanced old animations mod for 1.8.9.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://polyfrost.org/discord"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/OverflowAnimationsV2"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/animations"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "OverflowAnimations-1.8.9-forge-2.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/DzqG8tlY/OverflowAnimations-1.8.9-forge-2.1.0.jar",
+        "forge_id": "overflowanimations",
+        "hash": "3fb27dc74b5937aaf1742f3881ee5268"
     },
     {
         "id": "oam",
-        "enabled": true,
         "nicknames": [
             "sk1eroam",
             "oldanimations",
@@ -1066,22 +1124,63 @@
         "display": "Old Animations",
         "creator": "Sk1erLLC & Polyfrost",
         "command": "/oldanimations",
-        "description": "Brings 1.7 animations to 1.8.9.",
+        "description": "1.7 Animations, in 1.8.9.",
         "icon": "monkey.png",
         "icon_scaling": "pixel",
-        "categories": ["1;Recommended"],
-        "actions": [
-            {
-                "icon": "discordsmall.png",
-                "text": "Discord",
-                "link": "https://discord.gg/sk1er"
-            }
-        ],
+        "update_to_ids": ["overflowanimations"],
+        "hidden": true,
         "file": "OldAnimations_1.0.0_-_beta_10.1.jar",
         "url": "https://cdn.discordapp.com/attachments/887818760126345246/977183432444641361/OldAnimations_1.0.0_-_beta_10.1.jar",
         "forge_id": "sk1er_old_animations",
-        "hash": "29f27f7c447af3cbfce724411a649240",
-        "packages": ["overflowanimations"]
+        "hash": "29f27f7c447af3cbfce724411a649240"
+    },
+    {
+        "id": "polytime",
+        "display": "PolyTime",
+        "creator": "Polyfrost",
+        "command": "/polytime",
+        "description": "Allows the user to configure what client-side time is displayed.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyTime"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polytime"
+            }
+        ],
+        "file": "PolyTime-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/7eFxBnuh/PolyTime-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polytime",
+        "hash": "e9812d344de863b4f17ea254c4d3230d"
+    },
+    {
+        "id": "polyweather",
+        "display": "PolyWeather",
+        "creator": "Polyfrost",
+        "command": "/polyweather",
+        "description": "Allows the user to configure what client-side weather is displayed.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyWeather"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polyweather"
+            }
+        ],
+        "file": "PolyWeather-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/r8Cr8YRg/versions/1YxktDLt/PolyWeather-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyweather",
+        "hash": "b9b30e5c27901103c5912abd0acb6972"
     },
     {
         "id": "timechanger",
@@ -1098,6 +1197,8 @@
                 "link": "https://hypixel.net/threads/3574261/"
             }
         ],
+        "update_to_ids": ["polytime"],
+        "hidden": true,
         "file": "TimeChanger-2.2.1.jar",
         "url": "https://github.com/shatter-point/Revamped-TimeChanger/releases/download/v1.2.1/TimeChanger-2.2.1.jar",
         "forge_id": "timechanger",
@@ -1192,7 +1293,7 @@
         "discordcode": "rejfv9kFJj",
         "command": "/mixmetica",
         "description": "Displays some Cosmetica cosmetics via Optifine without needing to configure DNS.",
-        "icon": "microcontrollers.png",
+        "icon": "mixmetica.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -1200,15 +1301,20 @@
                 "link": "https://github.com/MicrocontrollersDev/Mixmetica"
             },
             {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/mixmetica"
+            },
+            {
                 "icon": "discordsmall.png",
                 "text": "Discord",
                 "link": "https://discord.gg/rejfv9kFJj"
             }
         ],
-        "file": "Mixmetica-1.8.9-forge-1.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/R3iPJp5C/Mixmetica-1.8.9-forge-1.1.2.jar",
+        "file": "Mixmetica-1.8.9-forge-2.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/Rq5peY3B/Mixmetica-1.8.9-forge-2.0.2.jar",
         "forge_id": "mixmetica",
-        "hash": "c6dc1361cbcae033a53256c6147259ae"
+        "hash": "6bca8d6932cd24251628c1817742c4fa"
     },
     {
         "id": "twitcher",
@@ -1238,8 +1344,8 @@
     },
     {
         "id": "craftify",
-        "enabled": true,
         "display": "Craftify",
+        "enabled": true,
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
@@ -1270,9 +1376,8 @@
                 "link": "https://imgur.com/EmSEKFu"
             }
         ],
-        "config": true,
-        "files": ["config/blur.cfg"],
         "file": "Blur-MC1.8.9-1.0.4-2.jar",
+        "files": ["config/blur.cfg"],
         "url": "https://media.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar",
         "forge_id": "blur",
         "hash": "f224341c91b88a69fff3b0de6b7f744c"
@@ -1281,7 +1386,7 @@
         "id": "glintcolorizer",
         "display": "Glint Colorizer",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/glintcolorizer",
         "description": "Lets you customize the glint color of items.",
         "icon": "polyfrost.png",
@@ -1290,13 +1395,18 @@
                 "icon": "github.png",
                 "text": "GitHub",
                 "link": "https://github.com/Polyfrost/GlintColorizer"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/glintcolorizer"
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "GlintColorizer-1.0.0.jar",
-        "url": "https://github.com/Polyfrost/GlintColorizer/releases/download/v1.0.0/GlintColorizer-1.0.0.jar",
+        "file": "GlintColorizer-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/IBrK7PQE/GlintColorizer-1.8.9-forge-1.0.2.jar",
         "forge_id": "glintcolorizer",
-        "hash": "5a06a4e4d1d436bec7e9fc0535ad408a"
+        "hash": "0b345d684f7bc2ead9eed431808590f4"
     },
     {
         "id": "damagetilt",
@@ -1393,15 +1503,8 @@
         "creator": "Aycy",
         "description": "Makes the resource pack menu load faster and adds some more useful features.",
         "icon": "aycy.jpg",
-        "actions": [
-            {
-                "icon": "direct_download.png",
-                "text": "Download",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
-            }
-        ],
         "file": "Resource_Pack_Manager_1.2.jar",
-        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar",
+        "url": "https://skyclient-files.pages.dev/Resource_Pack_Manager_1.2.jar",
         "forge_id": "resourcepackmanager",
         "hash": "b334cd4cb15e3610ac47387a66c19dfb"
     },
@@ -1437,6 +1540,7 @@
         "description": "Prevents Optifine from logging completely useless information",
         "hidden": true,
         "file": "Optibye-1.0.0-dep.jar",
+        "url": "https://skyclient-files.pages.dev/Optibye-1.0.0-dep.jar",
         "forge_id": "optibye",
         "hash": "12b4642b21c887e5e121a949e9b9d7a0"
     },
@@ -1455,8 +1559,34 @@
         "hash": "ba59c079e482d1bfca3cf2aa5a0c8337"
     },
     {
+        "id": "polysprint",
+        "nicknames": ["togglesprint"],
+        "display": "PolySprint",
+        "creator": "Lily / Polyfrost",
+        "command": "/polysprint",
+        "description": "Adds a sprint and sneak toggle similar to that in Minecraft 1.15 and above.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolySprint"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polysprint"
+            }
+        ],
+        "hidden": true,
+        "file": "PolySprint-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/eW9L5hBb/PolySprint-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polysprint",
+        "hash": "0cc505b1258c03a76c162a5f509a2c55"
+    },
+    {
         "id": "simpletogglesprint",
-        "nicknames": ["togglesprint", "sts"],
+        "nicknames": ["sts"],
         "display": "Toggle Sprint",
         "creator": "Lily",
         "command": "/togglesprint",
@@ -1469,6 +1599,7 @@
                 "link": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint"
             }
         ],
+        "update_to_ids": ["polysprint"],
         "hidden": true,
         "file": "SimpleToggleSprint-2.2.0.jar",
         "url": "https://github.com/My-Name-Is-Jeff/SimpleToggleSprint/releases/download/v2.2.0/SimpleToggleSprint-2.2.0.jar",
@@ -1492,7 +1623,7 @@
         ],
         "hidden": true,
         "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar",
         "forge_id": "hypixel_auto_complete",
         "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e"
     },
@@ -1510,6 +1641,7 @@
                 "link": "https://www.curseforge.com/minecraft/mc-mods/better-chat"
             }
         ],
+        "update_to_ids": ["chatting"],
         "hidden": true,
         "file": "betterchat-1.5.jar",
         "url": "https://media.forgecdn.net/files/3249/65/betterchat-1.5.jar",
@@ -1521,7 +1653,7 @@
         "nicknames": ["l ratio better chat", "chattils", "stratus"],
         "display": "Chatting",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/chatting",
         "description": "Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying.",
         "icon": "polyfrost.png",
@@ -1538,10 +1670,35 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.4.1.jar",
-        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/GQANlg7p/Chatting-1.4.1.jar",
+        "file": "Chatting-1.8.9-forge-1.5.3.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/RxxynoXD/Chatting-1.8.9-forge-1.5.3.jar",
         "forge_id": "chatting",
-        "hash": "5f2769d9753194353d76438995f87c61"
+        "hash": "6de1e0c66a5f19391231099f2f5a2e46"
+    },
+    {
+        "id": "polynametag",
+        "display": "PolyNametag",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "description": "PolyNametag is an extremely customizable nametag mod.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyNametag"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/polynametag"
+            }
+        ],
+        "hidden": true,
+        "file": "PolyNametag-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/n7xFrgJO/PolyNametag-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polynametag",
+        "hash": "7a39d3db1a5d30e7b98a5d03c7ddeac7"
     },
     {
         "id": "reportplus",
@@ -1572,15 +1729,16 @@
         ],
         "update_to_ids": ["vanillahud"],
         "hidden": true,
-        "file": "[1.8.9] Sidebar Mod Revamp.jar",
+        "file": "Sidebar Mod Revamp.jar",
+        "url": "https://skyclient-files.pages.dev/%5B1.8.9%5D%20Sidebar%20Mod%20Revamp.jar",
         "forge_id": "sidebarmod",
         "hash": "cc03bb6e904342dce232c3cee264c626"
     },
     {
         "id": "vanillahud",
         "display": "VanillaHUD",
-        "creator": "Polyfrost (Wyvest)",
-        "discordcode": "VzHan6xyUh",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
         "command": "/vanillahud",
         "description": "A mod that modifies various vanilla HUD elements, such as the bossbar, action bar, and sidebar.",
         "icon": "polyfrost.png",
@@ -1589,13 +1747,18 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/VanillaHUD"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/vanillahud"
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.1.1.jar",
-        "url": "https://github.com/Polyfrost/VanillaHUD/releases/download/v1.1.1/VanillaHUD-1.1.1.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/TPZIh6xm/VanillaHUD-1.8.9-forge-2.1.1.jar",
         "forge_id": "vanillahud",
-        "hash": "2ad42c5a0bdc35e1b48b30e819234324"
+        "hash": "87cfd4ac129c15b8265231d28c0f7be0"
     },
     {
         "id": "itlt",
@@ -1614,7 +1777,7 @@
         "id": "redaction",
         "display": "REDACTION",
         "creator": "Polyfrost (Wyvest)",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/redaction",
         "description": "Adds useful GUI additions to the game.",
         "icon": "polyfrost.png",
@@ -1623,20 +1786,25 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/REDACTION"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/redaction"
             }
         ],
         "hidden": true,
-        "file": "REDACTION-1.3.5.jar",
+        "file": "REDACTION-1.8.9-forge-1.3.7.jar",
         "files": ["W-OVERFLOW/REDACTION/redaction.toml"],
-        "url": "https://github.com/Polyfrost/REDACTION/releases/download/v1.3.5/REDACTION-1.3.5.jar",
+        "url": "https://cdn.modrinth.com/data/Gapz72zt/versions/7YS63tTT/REDACTION-1.8.9-forge-1.3.7.jar",
         "forge_id": "redaction",
-        "hash": "dd5defdef8e2229e2ac16d92f888100e"
+        "hash": "6c6a8b1d9cbd61b4869f283b0620c852"
     },
     {
         "id": "behindyouv3",
         "display": "BehindYouV3",
         "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/behindyou",
         "description": "Allows you to look behind you with ease.",
         "icon": "polyfrost.png",
@@ -1645,16 +1813,21 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Polyfrost/BehindYouV3"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/behindyou"
             }
         ],
         "hidden": true,
-        "file": "BehindYouV3-3.1.0.jar",
-        "url": "https://github.com/Polyfrost/BehindYouV3/releases/download/v3.1.0/BehindYouV3-3.1.0.jar",
+        "file": "BehindYouV3-1.8.9-forge-3.1.2.jar",
+        "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/cruazNvt/BehindYouV3-1.8.9-forge-3.1.2.jar",
         "forge_id": "behindyouv3",
-        "hash": "cb08e4783b4014371e093818164995d8"
+        "hash": "a124150da3f9bd2e14b6f8deeae168b9"
     },
     {
-        "id": "keystrokes",
+        "id": "sk1er_keystrokes",
         "display": "Keystrokes",
         "creator": "Sk1er LLC",
         "discordcode": "sk1er",
@@ -1673,11 +1846,59 @@
                 "link": "https://sk1er.club/mods/keystrokesmod"
             }
         ],
+        "update_to_ids": ["polyfrostkeystrokes"],
         "hidden": true,
         "file": "Keystrokes-8.1.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/keystrokesmod/8.1.2/1.8.9/Keystrokes-8.1.2%20(1.8.9).jar",
         "forge_id": "keystrokesmod",
         "hash": "fb1a2c0daf43d3235e43b6e8190243bb"
+    },
+    {
+        "id": "polyfrostkeystrokes",
+        "nicknames": ["keystrokes"],
+        "display": "Canelex Keystrokes Revamp",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/keystrokes",
+        "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/keystrokes"
+            }
+        ],
+        "hidden": true,
+        "file": "Keystrokes-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/G2Hmyf0G/versions/70oHEIpB/Keystrokes-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyfrostkeystrokes",
+        "hash": "008d699af183a14bdd6fdad143cf8de9"
+    },
+    {
+        "id": "potioneffects",
+        "display": "Potion Effects",
+        "creator": "Tellinq",
+        "command": "/potioneffects",
+        "description": "Display your active potion effects!",
+        "icon": "tellinq.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Tellinq/Potion-Effects"
+            }
+        ],
+        "hidden": true,
+        "file": "Potion_Effects_1.8.9-forge_1.0.jar",
+        "url": "https://github.com/Tellinq/Potion-Effects/releases/download/v1.0/Potion_Effects_1.8.9-forge_1.0.jar",
+        "forge_id": "potioneffects",
+        "hash": "c3683ec7cf477258bad924cf7fae1475"
     },
     {
         "id": "nse",
@@ -1689,21 +1910,6 @@
         "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/pjDJ11EW/NotSoEssential-Forge-1.0.3.jar",
         "forge_id": "notsoessential",
         "hash": "5caf3cc162b18a2e605bba7b3e68b492"
-    },
-    {
-        "id": "polyfrostkeystrokes",
-        "display": "Canelex Keystrokes Revamp",
-        "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
-        "command": "/keystrokes",
-        "description": "Displays WASD, left and right click, spacebar, and sneak buttons on-screen.",
-        "icon": "polyfrost.png",
-        "hidden": true,
-        "file": "Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
-        "url": "https://github.com/Polyfrost/Canelex-KeyStrokes-Revamp/releases/download/v1.0.0-beta1/Keystrokes-1.8.9-forge-1.0.0-beta1.jar",
-        "forge_id": "polyfrostkeystrokes",
-        "hash": "e201e8ee249b5b7e28b2e499f465e638",
-        "update_to_ids": ["keystrokesmod"]
     },
     {
         "id": "bossbar_customizer",
@@ -1778,7 +1984,7 @@
         ],
         "hidden": true,
         "file": "LevelHead-8.2.2 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2%20(1.8.9).jar",
         "forge_id": "level_head",
         "hash": "640a324f794356b20888fc9b62c542fd"
     },
@@ -1799,7 +2005,7 @@
         ],
         "hidden": true,
         "file": "AutoGG-4.1.3 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3%20(1.8.9).jar",
         "forge_id": "autogg",
         "hash": "ded8229d58537c4f4b170c112123c84e"
     },
@@ -1870,10 +2076,10 @@
             }
         ],
         "hidden": true,
-        "file": "ParticlesEnhanced-1.2.2.jar",
-        "url": "https://github.com/koxx12-dev/ParticlesEnhanced/releases/download/1.2.2/ParticlesEnhanced-1.2.2.jar",
+        "file": "ParticlesEnhanced-1.3.2.jar",
+        "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.3.2/ParticlesEnhanced-1.3.2.jar",
         "forge_id": "particlesenhanced",
-        "hash": "660e007a97a95556a38f63c0402ef156"
+        "hash": "48f3b7e01be283c7b3b64f8130287454"
     },
     {
         "id": "pitstats",
@@ -1971,17 +2177,17 @@
                 "link": "https://github.com/hannibal002/SkyHanni"
             }
         ],
+        "categories": ["2;All Skyblock"],
         "warning": {
             "lines": [
                 "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
-        "packages": ["neu"],
-        "categories": ["2;All Skyblock"],
-        "file": "SkyHanni-0.20.jar",
-        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.20/SkyHanni-0.20.jar",
+        "file": "SkyHanni-0.22.jar",
+        "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/5cYbSG6P/SkyHanni-0.22.jar",
         "forge_id": "skyhanni",
-        "hash": "cb9c2ac10d7df86978b8280da6eee8e7"
+        "packages": ["neu"],
+        "hash": "723fbaaa97ce7817222cfafdebea3021"
     },
     {
         "id": "hychat",
@@ -1991,21 +2197,9 @@
         "description": "Hychat is a beta mod developed by Moulberry to improve chat on hypixel. The dev doesn't care about it anymore, so there are probably some massive bugs.",
         "hidden": true,
         "file": "Hychat-1.12.2-BETA.jar",
+        "url": "https://skyclient-files.pages.dev/Hychat-1.12.2-BETA.jar",
         "forge_id": "hychat",
         "hash": "4a5124a8b6ca2b0feb453117292587cd"
-    },
-    {
-        "id": "overflowanimations",
-        "display": "Overflow Animations",
-        "creator": "Polyfrost",
-        "discordcode": "VzHan6xyUh",
-        "command": "/overflowanimations",
-        "description": "Overflow Animations is a mod that enhances Sk1er OAM in various ways such as a new enchantment glint and more.",
-        "hidden": true,
-        "file": "OverflowAnimations-1.1.0.jar",
-        "url": "https://github.com/Polyfrost/OverflowAnimations/releases/download/v1.1.0/OverflowAnimations-1.1.0.jar",
-        "forge_id": "overflowanimations",
-        "hash": "cdce7e1ee42770bc66153ee6abc70787"
     },
     {
         "id": "reauth",
@@ -2013,10 +2207,10 @@
         "creator": "TechnicianLP",
         "description": "Log in from Ingame",
         "hidden": true,
-        "file": "ReAuth-1.8-Forge-4.0.3.jar",
-        "url": "https://mediafiles.forgecdn.net/files/3826/296/ReAuth-1.8-Forge-4.0.3.jar",
+        "file": "ReAuth-1.8-Forge-4.0.7.jar",
+        "url": "https://mediafilez.forgecdn.net/files/4407/996/ReAuth-1.8-Forge-4.0.7.jar",
         "forge_id": "reauth",
-        "hash": "f3cb6851d0cae5d632e22c8cb1bb5c17"
+        "hash": "9cac7176b6da345d48b44e9cbb0f29da"
     },
     {
         "id": "crashhelper",
@@ -2048,6 +2242,7 @@
         ],
         "categories": ["5;All PvP"],
         "file": "ArrowPath-v1.0.jar",
+        "url": "https://skyclient-files.pages.dev/ArrowPath-v1.0.jar",
         "forge_id": "arrowpath",
         "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
     },
@@ -2068,11 +2263,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "5;All PvP", "7;For Creators"],
+        "hidden": true,
         "file": "music_player-1.8.9-2.1.1.172.jar",
         "url": "https://mediafiles.forgecdn.net/files/3930/933/music_player-1.8.9-2.1.1.172.jar",
         "forge_id": "musicplayer",
-        "hash": "9479585fc9aaf1290961afdbcd4c148b",
-        "hidden": true
+        "hash": "9479585fc9aaf1290961afdbcd4c148b"
     },
     {
         "id": "skywars-sorter",
@@ -2101,7 +2296,7 @@
         "display": "Wyvtils",
         "enabled": false,
         "creator": "Polyfrost (Wyvest)",
-        "discordcode": "VzHan6xyUh",
+        "discordcode": "EZVbUgGX4h",
         "command": "/wyvtils",
         "description": "Adds multiple utilities for Hypixel 1.8.9. DO NOT DOWNLOAD.",
         "icon": "polyfrost.png",

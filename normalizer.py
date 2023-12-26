@@ -20,6 +20,7 @@ for mod in all_mods:
         "actions",
         "categories",
         "update_to_ids",
+        "warning",
         "hidden",
         "file",
         "files",
@@ -40,4 +41,4 @@ for mod in all_mods:
     mod.update(new_mod)
 
 # Write the new json file
-ujson.dump(all_mods, open("files/mods.json", "w"))
+ujson.dump(all_mods, open("files/mods.json", "w"), indent=4)
