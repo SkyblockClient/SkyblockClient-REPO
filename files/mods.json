@@ -1317,6 +1317,35 @@
         "hash": "6bca8d6932cd24251628c1817742c4fa"
     },
     {
+        "id": "quickquit",
+        "display": "QuickQuit",
+        "creator": "Microcontollers",
+        "discordcode": "rejfv9kFJj",
+        "description": "Allows closing Minecraft during the Forge resource loading screen when starting the game.",
+        "icon": "microcontrollers.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/QuickQuit"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/quickquit"
+            },
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://discord.gg/rejfv9kFJj"
+            }
+        ],
+        "file": "QuickQuit-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uhBpdFWZ/versions/wR5cqWTi/QuickQuit-1.0.0.jar",
+        "forge_id": "quickquit",
+        "hash": "03e64e8afdce96fa3998bb706e295a00"
+    },
+    {
         "id": "twitcher",
         "nicknames": ["twitcher"],
         "display": "Twitcher",
