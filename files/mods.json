@@ -1512,7 +1512,7 @@
         "id": "resourcify",
         "display": "Resourcify",
         "creator": "DeDiamondPro",
-        "description": "Adds an in-game downloader and updater for Modrinth texturepacks.",
+        "description": "Adds an in-game downloader and updater for Modrinth resource packs and shaders.",
         "icon": "resourcify.png",
         "actions": [
             {
