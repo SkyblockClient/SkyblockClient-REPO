@@ -48,7 +48,12 @@
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "forge_id": "text_overflow_scroll",
-        "packages": ["quickquit", "optibye", "polysprint", "hypixel_auto_complete"],
+        "packages": [
+            "quickquit",
+            "optibye",
+            "polysprint",
+            "hypixel_auto_complete"
+        ],
         "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
