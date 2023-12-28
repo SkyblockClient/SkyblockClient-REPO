@@ -24,6 +24,11 @@
                 "link": "https://sk1er.club/mods/text_overflow_scroll"
             },
             {
+                "icon": "microcontrollers.png",
+                "text": "QuickQuit",
+                "link": "https://modrinth.com/mod/quickquit"
+            },
+            {
                 "icon": "tgb_icon.png",
                 "text": "OptiBye",
                 "link": "https://discord.gg/jRhkYFmpCa"
@@ -43,7 +48,12 @@
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "forge_id": "text_overflow_scroll",
-        "packages": ["optibye", "polysprint", "hypixel_auto_complete"],
+        "packages": [
+            "quickquit",
+            "optibye",
+            "polysprint",
+            "hypixel_auto_complete"
+        ],
         "hash": "05cc200b46c6eea4d918300aacd74ea1"
     },
     {
@@ -1554,6 +1564,36 @@
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
         "forge_id": "popup_events",
         "hash": "7c780fa81a62b500d33bb8210bcbc9a0"
+    },
+    {
+        "id": "quickquit",
+        "display": "QuickQuit",
+        "hidden": true,
+        "creator": "Microcontollers",
+        "discordcode": "rejfv9kFJj",
+        "description": "Allows closing Minecraft during the Forge resource loading screen when starting the game.",
+        "icon": "microcontrollers.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/QuickQuit"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/quickquit"
+            },
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://discord.gg/rejfv9kFJj"
+            }
+        ],
+        "file": "QuickQuit-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/uhBpdFWZ/versions/wR5cqWTi/QuickQuit-1.0.0.jar",
+        "forge_id": "quickquit",
+        "hash": "03e64e8afdce96fa3998bb706e295a00"
     },
     {
         "id": "optibye",
