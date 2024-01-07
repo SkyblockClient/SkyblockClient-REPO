@@ -720,7 +720,7 @@
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
         "file": "NotEnoughUpdates-2.1.1-Alpha-25.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://skyclient-files.pages.dev/NotEnoughUpdates-2.1.1-Alpha-25.jar",
+        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1185590944779751424/NotEnoughUpdates-2.1.1-Alpha-25.jar",
         "forge_id": "notenoughupdates",
         "hash": "46248605191db9104ed552498d0860ac"
     },
