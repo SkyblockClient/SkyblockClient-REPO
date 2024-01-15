@@ -720,9 +720,9 @@
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
         "file": "NotEnoughUpdates-2.1.1-Alpha-25.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://pub-02db4594077942c8b533eddc41f1ad34.r2.dev/NotEnoughUpdates-2.1.1-Alpha-25.jar",
+        "url": "https://cdn.discordapp.com/attachments/1028896920346841118/1185590944779751424/NotEnoughUpdates-2.1.1-Alpha-25.jar",
         "forge_id": "notenoughupdates",
-        "hash": "a0fce568200bdd4a444967289fa811d0"
+        "hash": "46248605191db9104ed552498d0860ac"
     },
     {
         "id": "dsm",
