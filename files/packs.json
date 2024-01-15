@@ -18,8 +18,7 @@
         ],
         "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
         "file": "Mob Packet 1.8.9 1.4.zip",
-        "hash": "8569e9a4a5a30f760af6f8f4b9f07076",
-        "url": "https://skyclient-files.pages.dev/Mob%20Packet%201.8.9%201.4.zip"
+        "hash": "8569e9a4a5a30f760af6f8f4b9f07076"
     },
     {
         "id": "dungeontexturepack",
@@ -68,8 +67,7 @@
         "icon_scaling": "pixel",
         "categories": ["1;All Skyblock"],
         "file": "ActuallyMobsv0.1.zip",
-        "hash": "6b596189f5a103488b5cfc4014eb0a73",
-        "url": "https://skyclient-files.pages.dev/ActuallyMobsv0.1.zip"
+        "hash": "6b596189f5a103488b5cfc4014eb0a73"
     },
     {
         "id": "dwarvenassets",
@@ -134,8 +132,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "RNBW+ v0.7.0.zip",
-        "hash": "f7a86b0ed08154b683d0d8d1fd183b1a",
-        "url": "https://skyclient-files.pages.dev/RNBW+%20v0.7.0.zip"
+        "hash": "f7a86b0ed08154b683d0d8d1fd183b1a"
     },
     {
         "id": "nameless",
@@ -157,8 +154,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "Nameless [Alpha 5].zip",
-        "hash": "d73620c977c7d3c74cb84efcecd76439",
-        "url": "https://skyclient-files.pages.dev/Nameless%20[Alpha%205.1].zip"
+        "hash": "86a26448368fa3571ac583cef9d71568"
     },
     {
         "id": "apbridgeoverlay",
@@ -168,8 +164,7 @@
         "icon": "apbridgeoverlay.png",
         "categories": ["4;Recommended PvP", "3;All PvP"],
         "file": "Bridge Overlay.zip",
-        "hash": "840b205f1bf9a9f1114673faf34792e7",
-        "url": "https://skyclient-files.pages.dev/Bridge%20Overlay.zip"
+        "hash": "840b205f1bf9a9f1114673faf34792e7"
     },
     {
         "id": "hp+",
@@ -215,8 +210,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "HSB Texturepack V1.7.zip",
-        "hash": "6dbc6ff84454ec142a396777a152218f",
-        "url": "https://skyclient-files.pages.dev/HSB%20Texturepack%20V1.7.zip"
+        "hash": "6dbc6ff84454ec142a396777a152218f"
     },
     {
         "id": "kmp",
@@ -256,8 +250,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "Worlds and Beyond [16x] - Release 1.5.zip",
-        "hash": "b892df7339b82326fbe9f24641af422d",
-        "url": "https://skyclient-files.pages.dev/Worlds%20and%20Beyond%20[16x]%20-%20Release%201.5.zip"
+        "hash": "b892df7339b82326fbe9f24641af422d"
     },
     {
         "id": "sbov",
@@ -320,7 +313,7 @@
         "categories": ["5;Hud"],
         "file": "Essential Theme Blue.zip",
         "url": "https://github.com/Reforced16x/Packs/releases/download/pack2/Essential_Theme.zip",
-        "hash": "d9cfec0c882f038cfcbb4b338d1017ce"
+        "hash": "2b9012a77071fa96bcff57a55b98f1c7"
     },
     {
         "id": "hq16f",
@@ -347,8 +340,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "v14.1 16x Skyblock Pack.zip",
-        "url": "https://packshq.com/assets/packs/v14/v14.1_16x_Hypixel_Skyblock_Pack.zip",
-        "hash": "124f15f94c63b369be54269da1216a2c"
+        "url": "https://packshq.com/assets/packs/v14/v14.1_16x_Hypixel_Skyblock_Pack.zip"
     },
     {
         "id": "hq32f",
@@ -488,9 +480,8 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "file": "Smol Icons.zip",
-        "hash": "9fadae4e3af420becfa216701eb3af4c",
-        "url": "https://skyclient-files.pages.dev/Smol%20Icons.zip"
+        "file": "Smoll_Icons.zip",
+        "hash": "9fadae4e3af420becfa216701eb3af4c"
     },
     {
         "id": "defaultpackport",
@@ -528,8 +519,7 @@
         ],
         "categories": ["4;Recommended PvP", "3;All PvP"],
         "file": "1.14 Packport.zip",
-        "hash": "34c1050499b8e9aacb365de7794666c9",
-        "url": "https://skyclient-files.pages.dev/1.14%20Packport.zip"
+        "hash": "34c1050499b8e9aacb365de7794666c9"
     },
     {
         "id": "faithful",
@@ -547,7 +537,7 @@
         "categories": ["3;All PvP"],
         "file": "Faithful 32x - 1.8.9.zip",
         "url": "https://database.faithfulpack.net/packs/32x-Java/February%202023/Faithful%2032x%20-%201.8.9.zip",
-        "hash": "6eab049d4a0d55348d2264d654535f4c"
+        "hash": "ee7b9c4c942fe277c2d3d18530d9e99d"
     },
     {
         "id": "fishfault",
@@ -567,7 +557,7 @@
         "categories": ["3;All PvP"],
         "file": "FishFault.zip",
         "url": "https://github.com/Sean2739/Fishfault/releases/download/6.0.0/Fishfault.Revamp.zip",
-        "hash": "3f6fc3dce187faa964fa95df0396c7d3"
+        "hash": "74075ef09b312a46616de1d22e153a3c"
     },
     {
         "id": "beheaded",
@@ -587,7 +577,7 @@
         "categories": ["1;All Skyblock"],
         "file": "Beheaded v1.3.zip",
         "url": "https://github.com/ActuallyAssets/Beheaded/releases/download/v1.3/Beheaded_v1.3.zip",
-        "hash": "0a3b497ac94d1f75766d8c56ef5601f1"
+        "hash": "ff0306ebc3bf512e1bd10dc88eef5733"
     },
     {
         "id": "sakamata_weeb",
