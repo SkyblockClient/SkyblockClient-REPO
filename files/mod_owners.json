@@ -1,0 +1,33 @@
+{
+  "332836587576492033": {
+    "github": "cyoung06",
+    "mods": {
+      "dg": "update"
+    }
+  },
+  "384620942577369088": {
+    "github": "NopoTheGamer",
+    "mods": {
+      "neu": "approve"
+    }
+  },
+  "606504058320060416": {
+    "github": "nextdayy",
+    "mods": {
+      "damagetint": "approve",
+      "crashpatch": "approve",
+      "hytils-reborn": "approve",
+      "polyblur": "approve",
+      "overflowanimations": "approve",
+      "polytime": "approve",
+      "polyweather": "approve",
+      "glintcolorizer": "approve",
+      "chatting": "approve",
+      "polynametag": "approve",
+      "vanillahud": "approve",
+      "redaction": "approve",
+      "behindyouv3": "approve",
+      "polyfrostkeystrokes": "approve"
+    }
+  }
+}
