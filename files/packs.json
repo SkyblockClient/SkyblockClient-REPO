@@ -18,7 +18,8 @@
         ],
         "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
         "file": "Mob Packet 1.8.9 1.4.zip",
-        "hash": "8569e9a4a5a30f760af6f8f4b9f07076"
+        "hash": "8569e9a4a5a30f760af6f8f4b9f07076",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/Mob Packet 1.8.9 1.4.zip"
     },
     {
         "id": "dungeontexturepack",
@@ -41,7 +42,8 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
-        "hash": "9c92dc0aa03b3331b4cf73e89c402133"
+        "hash": "9c92dc0aa03b3331b4cf73e89c402133",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/DUNGEONS_TEXTURE_PACK_V1.2.zip"
     },
     {
         "id": "actuallycompliment",
@@ -67,7 +69,8 @@
         "icon_scaling": "pixel",
         "categories": ["1;All Skyblock"],
         "file": "ActuallyMobsv0.1.zip",
-        "hash": "6b596189f5a103488b5cfc4014eb0a73"
+        "hash": "6b596189f5a103488b5cfc4014eb0a73",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/ActuallyMobsv0.1.zip"
     },
     {
         "id": "dwarvenassets",
@@ -132,7 +135,8 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "RNBW+ v0.7.0.zip",
-        "hash": "f7a86b0ed08154b683d0d8d1fd183b1a"
+        "hash": "f7a86b0ed08154b683d0d8d1fd183b1a",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/RNBW+ v0.7.0.zip"
     },
     {
         "id": "nameless",
@@ -154,7 +158,8 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "Nameless [Alpha 5].zip",
-        "hash": "86a26448368fa3571ac583cef9d71568"
+        "hash": "86a26448368fa3571ac583cef9d71568",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/Nameless [Alpha 5].zip"
     },
     {
         "id": "apbridgeoverlay",
@@ -164,7 +169,8 @@
         "icon": "apbridgeoverlay.png",
         "categories": ["4;Recommended PvP", "3;All PvP"],
         "file": "Bridge Overlay.zip",
-        "hash": "840b205f1bf9a9f1114673faf34792e7"
+        "hash": "840b205f1bf9a9f1114673faf34792e7",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/Bridge Overlay.zip"
     },
     {
         "id": "hp+",
@@ -210,7 +216,8 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "HSB Texturepack V1.7.zip",
-        "hash": "6dbc6ff84454ec142a396777a152218f"
+        "hash": "6dbc6ff84454ec142a396777a152218f",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/HSB Texturepack V1.7.zip"
     },
     {
         "id": "kmp",
@@ -250,7 +257,8 @@
         ],
         "categories": ["1;All Skyblock"],
         "file": "Worlds and Beyond [16x] - Release 1.5.zip",
-        "hash": "b892df7339b82326fbe9f24641af422d"
+        "hash": "b892df7339b82326fbe9f24641af422d",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/Worlds and Beyond [16x] - Release 1.5.zip"
     },
     {
         "id": "sbov",
@@ -481,7 +489,8 @@
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
         "file": "Smoll_Icons.zip",
-        "hash": "9fadae4e3af420becfa216701eb3af4c"
+        "hash": "9fadae4e3af420becfa216701eb3af4c",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/Smoll_Icons.zip"
     },
     {
         "id": "defaultpackport",
@@ -519,7 +528,8 @@
         ],
         "categories": ["4;Recommended PvP", "3;All PvP"],
         "file": "1.14 Packport.zip",
-        "hash": "34c1050499b8e9aacb365de7794666c9"
+        "hash": "34c1050499b8e9aacb365de7794666c9",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/1.14 Packport.zip"
     },
     {
         "id": "faithful",
@@ -648,7 +658,8 @@
         "categories": ["1;All Skyblock"],
         "hidden": true,
         "file": "ActuallyPacketsv0.1.zip",
-        "hash": "fbe0a40d899774d772d8fc2cbfa7a689"
+        "hash": "fbe0a40d899774d772d8fc2cbfa7a689",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/ActuallyPacketsv0.1.zip"
     },
     {
         "id": "skymobs",
@@ -666,7 +677,8 @@
         "categories": ["1;All Skyblock"],
         "hidden": true,
         "file": "SkyMobs.zip",
-        "hash": "f226121d849d529fd2c23c47dd9b552b"
+        "hash": "f226121d849d529fd2c23c47dd9b552b",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/SkyMobs.zip"
     },
     {
         "id": "vtay",
@@ -687,6 +699,7 @@
         "categories": ["1;All Skyblock"],
         "hidden": true,
         "file": "[Full] v6.8 vTays Skyblock Smoothie.zip",
-        "hash": "b97a95945cae94cdddb24e3c4a1a41f6"
+        "hash": "b97a95945cae94cdddb24e3c4a1a41f6",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/[Full] v6.8 vTays Skyblock Smoothie.zip"
     }
 ]
