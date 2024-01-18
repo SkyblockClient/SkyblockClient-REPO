@@ -1610,6 +1610,7 @@
         "description": "Prevents Optifine from logging completely useless information",
         "hidden": true,
         "file": "Optibye-1.0.0-dep.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Optibye-1.0.0-dep.jar",
         "forge_id": "optibye",
         "hash": "12b4642b21c887e5e121a949e9b9d7a0"
     },
