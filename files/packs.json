@@ -283,7 +283,7 @@
     },
     {
         "id": "beheaded",
-        "display": "Beheaded",
+        "display": "Beheaded [EOL]",
         "creator": "Motor",
         "discordcode": "uxmruk7rtp",
         "description": "Replaces Skyblock items represented by heads with vanilla item counterparts.",
