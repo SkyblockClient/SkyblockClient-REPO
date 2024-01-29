@@ -372,7 +372,8 @@
         "file": "ActuallyPacketsv0.1.zip",
         "hash": "fbe0a40d899774d772d8fc2cbfa7a689",
         "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/packs/ActuallyPacketsv0.1.zip"
-    },{
+    },
+    {
         "id": "mobpacket",
         "display": "Mob Packet (EOL)",
         "creator": "Viska & Mira_23",
