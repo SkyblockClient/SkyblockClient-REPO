@@ -325,7 +325,7 @@
     },
     {
         "id": "hq16f",
-        "display": "Packs HQ v14.1 16x",
+        "display": "Packs HQ v14.1 16x (EOL)",
         "creator": "Packs HQ Team",
         "discordcode": "KwvMQ4T",
         "description": "Packs HQ Skyblock Pack 16x. Standalone",
@@ -352,7 +352,7 @@
     },
     {
         "id": "hq32f",
-        "display": "Packs HQ v13 32x",
+        "display": "Packs HQ v13 32x (EOL)",
         "creator": "ImperiaL",
         "discordcode": "KwvMQ4T",
         "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Faithful.",
