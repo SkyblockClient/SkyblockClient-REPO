@@ -795,10 +795,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.8.0-pre12.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.8.0-pre12/Skytils-1.8.0-pre12.jar",
+        "file": "Skytils-1.8.0-pre13.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.8.0-pre13/Skytils-1.8.0-pre13.jar",
         "forge_id": "skytils",
-        "hash": "0a31653980cc49afa0cb666ce271fb7f"
+        "hash": "fbfd517d0599fe723c217b00851eb3ab"
     },
     {
         "id": "pss",
