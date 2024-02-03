@@ -2421,10 +2421,10 @@
             }
         ],
         "categories": ["6;Recommended PvP"],
-        "file": "BedWar-0.1.6.jar",
-        "url": "https://cdn.modrinth.com/data/Al95W2SE/versions/gN9IzWLz/BedWar-0.1.6.jar",
+        "file": "BedWar-0.1.7.Pre.1.jar",
+        "url": "https://cdn.modrinth.com/data/Al95W2SE/versions/2R3ft4oU/BedWar-0.1.7.Pre.1.jar",
         "forge_id": "bedwar",
-        "hash": "099d830f10e6f5c316fffbf3f6c79a9f"
+        "hash": "bf6923222c6dc32a81a355c2fd6a254f"
     },
     {
         "id": "minecraft",
