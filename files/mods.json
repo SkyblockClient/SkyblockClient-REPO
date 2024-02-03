@@ -2404,6 +2404,29 @@
         "hash": "b8dd0265174daf4647b1016600597d6b"
     },
     {
+        "id": "bedwar",
+        "display": "BedWar Mod",
+        "creator": "CalMWolfs",
+        "description": "A mod which provides some utilities for Hypixel Bedwars",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/BedWarMod/BedWar"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/bedwar-mod"
+            }
+        ],
+        "categories": ["6;Recommended PvP"],
+        "file": "BedWar-0.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/Al95W2SE/versions/gN9IzWLz/BedWar-0.1.6.jar",
+        "forge_id": "bedwar",
+        "hash": "099d830f10e6f5c316fffbf3f6c79a9f"
+    },
+    {
         "id": "minecraft",
         "display": "no",
         "creator": "Mojang",
