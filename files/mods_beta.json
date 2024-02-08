@@ -29,9 +29,9 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Partly.Sane.Skies-beta-v0.6-prerelease-2.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.6-prerelease-2/Partly.Sane.Skies-beta-v0.6-prerelease-2.jar",
+        "file": "Partly.Sane.Skies-beta-v0.6-prerelease-3.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.6-prerelease-3/Partly.Sane.Skies-beta-v0.6-prerelease-3.jar",
         "forge_id": "partlysaneskies",
-        "hash": "0032fde1cbea7c44e84c85d67e01c7ec"
+        "hash": "3c3cdae05c8e0c9de977e9f9078f6072"
     }
 ]
