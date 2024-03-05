@@ -18,7 +18,7 @@
     {
         "id": "quickjoin",
         "code": "Vp6Q4FHCzf",
-        "icon": "https://cdn.glitch.global/d204ee01-249d-4fd8-8b05-bea32f8a9bfa/standard%20(3).png",
+        "icon": "Quickjoin.png",
         "description": "The inofficial support server for QWERTZmods",
         "nicknames": ["qj"],
         "mods": ["quickjoin"]
