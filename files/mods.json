@@ -165,6 +165,29 @@
         "hash": "8e3980e5abaf1c5c5adb4dae6f3ed9f4"
     },
     {
+        "id": "quickjoin",
+        "display": "Quickjoin",
+        "creator": "QWERTZ_EXE",
+        "description": "Quickly join any game on Hypixel!",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/QWERTZexe/Quickjoin"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/quickjoin"
+            }
+        ],
+        "categories": ["Other"],
+        "file": "QuickJoin-1.8.9-forge-1.0.jar",
+        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/7Ck5QtMY/QuickJoin-1.8.9-forge-1.0.jar",
+        "forge_id": "quickjoin",
+        "hash": "bf6923222c6dc32a81a355c2fd6a254f"
+    },
+    {
         "id": "antidreamskin",
         "nicknames": ["insomnia"],
         "display": "QOL Bundle",
