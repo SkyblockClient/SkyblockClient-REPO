@@ -19,7 +19,7 @@
         "id": "quickjoin",
         "code": "Vp6Q4FHCzf",
         "icon": "quickjoin.png",
-        "description": "The inofficial support server for QWERTZmods",
+        "description": "The unofficial support server for QWERTZmods",
         "nicknames": ["qj"],
         "mods": ["quickjoin"]
     },
