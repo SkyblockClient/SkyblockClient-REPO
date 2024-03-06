@@ -17,9 +17,10 @@
     },
     {
         "id": "quickjoin",
+        "fancyname": "Quickjoin",
         "code": "Vp6Q4FHCzf",
         "icon": "quickjoin.png",
-        "description": "The unofficial support server for QWERTZmods",
+        "description": "The unofficial support server for Quickjoin",
         "nicknames": ["qj"],
         "mods": ["quickjoin"]
     },
