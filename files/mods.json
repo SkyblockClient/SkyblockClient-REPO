@@ -169,6 +169,7 @@
         "display": "Quickjoin",
         "creator": "QWERTZ_EXE",
         "description": "Adds a menu to quickly join any Hypixel game.",
+        "icon": "quickjoin.png",
         "actions": [
             {
                 "icon": "github.png",
@@ -183,7 +184,8 @@
         ],
         "file": "QuickJoin-1.8.9-forge-1.0.jar",
         "url": "https://cdn.modrinth.com/data/S8VritJf/versions/7Ck5QtMY/QuickJoin-1.8.9-forge-1.0.jar",
-        "forge_id": "quickjoin"
+        "forge_id": "quickjoin",
+        "hash": "910f898dcb8df31fa07c2ff0dca0350b"
     },
     {
         "id": "antidreamskin",
