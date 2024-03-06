@@ -168,7 +168,7 @@
         "id": "quickjoin",
         "display": "Quickjoin",
         "creator": "QWERTZ_EXE",
-        "description": "Adds a menu which allows you to join any gamemode from any game on hypixel in a matter of seconds",
+        "description": "Adds a menu to quickly join any Hypixel game.",
         "actions": [
             {
                 "icon": "github.png",
