@@ -182,10 +182,10 @@
                 "link": "https://modrinth.com/mod/quickjoin"
             }
         ],
-        "file": "QuickJoin-1.8.9-forge-1.0.jar",
-        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/7Ck5QtMY/QuickJoin-1.8.9-forge-1.0.jar",
+        "file": "QuickJoin-1.8.9-forge-2.0.jar",
+        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/RULan9Rh/QuickJoin-1.8.9-forge-2.0.jar",
         "forge_id": "quickjoin",
-        "hash": "910f898dcb8df31fa07c2ff0dca0350b"
+        "hash": "0f2735842b4abad501b8d92f0adafcc0"
     },
     {
         "id": "antidreamskin",
