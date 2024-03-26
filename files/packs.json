@@ -557,7 +557,7 @@
         "description": "The Ultimate Hypixel Texture Pack.",
         "icon": "fishfault.png",
         "icon_scaling": "pixel",
-        "screenshot": "https://github.com/Sean2739/Fishfault/releases/download/7.0.0/Fishfault.zip",
+        "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/fishfault-preview.png",
         "actions": [
             {
                 "method": "hover",
@@ -566,7 +566,7 @@
         ],
         "categories": ["3;All PvP"],
         "file": "Fishfault.zip",
-        "url": "https://github.com/Sean2739/Fishfault/releases/download/Release/Fishfault.zip",
+        "url": "https://github.com/Sean2739/Fishfault/releases/download/7.0.0/Fishfault.zip",
         "hash": "549c85e2e950a2a3c50822fa0a2d8c57"
     },
     {
