@@ -383,10 +383,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Patcher-1.8.7 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.7/1.8.9/Patcher-1.8.7%20(1.8.9).jar",
+        "file": "Patcher-1.8.9 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.9/1.8.9/Patcher-1.8.9%20(1.8.9).jar",
         "forge_id": "patcher",
-        "hash": "cf7c9706c8a7a94dbb2c48f00d883a7a"
+        "hash": "4ff603e33c7acba7af5fc23b935a0416"
     },
     {
         "id": "crashpatch",
@@ -853,10 +853,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Partly.Sane.Skies-beta-v0.6.jar",
-        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.6/Partly.Sane.Skies-beta-v0.6.jar",
+        "file": "Partly.Sane.Skies-beta-v0.6.1.jar",
+        "url": "https://github.com/PartlySaneStudios/partly-sane-skies/releases/download/beta-v0.6.1/Partly.Sane.Skies-beta-v0.6.1.jar",
         "forge_id": "partlysaneskies",
-        "hash": "9f184f562e5e3ca559b5a4b224348665"
+        "hash": "08b35c65e91da7c155e2e373b344baf3"
     },
     {
         "id": "apec",
@@ -1053,10 +1053,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Dungeon_Rooms-3.4.0.jar",
-        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.0/Dungeon_Rooms-3.4.0.jar",
+        "file": "Dungeon_Rooms-3.4.1.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.1/Dungeon_Rooms-3.4.1.jar",
         "forge_id": "dungeonrooms",
-        "hash": "d6f1705fece6bb95eaa62181d5780522"
+        "hash": "9ed5b3b1fa71ffc3255c63963be6f54f"
     },
     {
         "id": "bazaarnotifier",
@@ -1075,10 +1075,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "BazaarNotifier-1.7.1.jar",
-        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.1/BazaarNotifier-1.7.1.jar",
+        "file": "BazaarNotifier-1.7.2.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.2/BazaarNotifier-1.7.2.jar",
         "forge_id": "BazaarNotifier",
-        "hash": "051aab47a0f73e69b832df03de355a0c"
+        "hash": "0eb0bcf4aef0ef2d01cb01242c54faa7"
     },
     {
         "id": "skyguide",
@@ -1324,7 +1324,6 @@
         "enabled": true,
         "creator": "Microcontollers",
         "discordcode": "rejfv9kFJj",
-        "command": "/mixmetica",
         "description": "Displays some Cosmetica cosmetics via Optifine without needing to configure DNS.",
         "icon": "mixmetica.png",
         "actions": [
@@ -1633,9 +1632,9 @@
         "description": "Prevents Optifine from logging completely useless information",
         "hidden": true,
         "file": "Optibye-1.0.0-dep.jar",
-        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Optibye-1.0.0-dep.jar",
+        "url": "https://cdn.modrinth.com/data/qCQ3vIfT/versions/5nfw1Vj0/Optibye-1.0.0-dep.jar",
         "forge_id": "optibye",
-        "hash": "12b4642b21c887e5e121a949e9b9d7a0"
+        "hash": "87efc5aa7cbce4921359e592c8414343"
     },
     {
         "id": "rc",
@@ -2275,11 +2274,11 @@
                 "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
-        "file": "SkyHanni-0.23.jar",
-        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.23/SkyHanni-0.23.jar",
+        "file": "SkyHanni-0.24.jar",
+        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.24/SkyHanni-0.24.jar",
         "forge_id": "skyhanni",
         "packages": ["neu"],
-        "hash": "840918a1d9df4ec2a6fc33afac739496"
+        "hash": "076bb6cc1e0142c4a9b88970a656bbe7"
     },
     {
         "id": "hychat",
