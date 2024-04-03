@@ -167,6 +167,7 @@
     {
         "id": "quickjoin",
         "display": "Quickjoin",
+        "nicknames": ["qj"],
         "creator": "QWERTZ_EXE",
         "description": "Adds a menu to quickly join any Hypixel game.",
         "icon": "quickjoin.png",
