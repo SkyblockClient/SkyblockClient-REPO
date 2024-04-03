@@ -26,6 +26,7 @@ PacksHQ dark UI addon - By Packs HQ Team
 Packs HQ v13 16x - By Packs HQ Team
 Packs HQ v13 32x - By Packs HQ Team
 Popup Events - By Sk1erLLC
+Quickjoin - By QWERTZ_EXE
 Resource Pack Manager - By Aycy
 SBCustomMobTex - By Moulberry
 Scrollable Tooltips - By Sk1erLLC
