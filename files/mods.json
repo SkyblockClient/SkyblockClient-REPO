@@ -165,30 +165,6 @@
         "hash": "8e3980e5abaf1c5c5adb4dae6f3ed9f4"
     },
     {
-        "id": "quickjoin",
-        "display": "Quickjoin",
-        "nicknames": ["qj"],
-        "creator": "QWERTZ_EXE",
-        "description": "Adds a menu to quickly join any Hypixel game.",
-        "icon": "quickjoin.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "GitHub",
-                "link": "https://github.com/QWERTZexe/Quickjoin"
-            },
-            {
-                "icon": "modrinth.png",
-                "text": "Modrinth",
-                "link": "https://modrinth.com/mod/quickjoin"
-            }
-        ],
-        "file": "QuickJoin-1.8.9-forge-2.2.jar",
-        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/rsphUMT0/QuickJoin-1.8.9-forge-2.2.jar",
-        "forge_id": "quickjoin",
-        "hash": "53f97d77c447fb7351f3ece6a81445da"
-    },
-    {
         "id": "antidreamskin",
         "nicknames": ["insomnia"],
         "display": "QOL Bundle",
@@ -484,6 +460,30 @@
         "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/gCEt8zn2/Hytils%20Reborn-1.8.9-forge-1.6.1.jar",
         "forge_id": "hytils-reborn",
         "hash": "7315c50cff1f129e27e9d6f441075c7a"
+    },
+    {
+        "id": "quickjoin",
+        "display": "Quickjoin",
+        "nicknames": ["qj"],
+        "creator": "QWERTZ_EXE",
+        "description": "Adds a menu to quickly join any Hypixel game.",
+        "icon": "quickjoin.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/QWERTZexe/Quickjoin"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/quickjoin"
+            }
+        ],
+        "file": "QuickJoin-1.8.9-forge-2.2.jar",
+        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/rsphUMT0/QuickJoin-1.8.9-forge-2.2.jar",
+        "forge_id": "quickjoin",
+        "hash": "53f97d77c447fb7351f3ece6a81445da"
     },
     {
         "id": "replaymod",
