@@ -1,6 +1,6 @@
 [
     {
-        "triggers": ["rat"],
+        "triggers": ["\\brat\\b", "\\bratted\\b"],
         "tag": ".rat",
         "response": "If you did not get the joke yet, the message sent on April 1st was an April fools joke.\nSkyclient will not have a rat on April 8th"
     },
