@@ -307,7 +307,7 @@
         ],
         "categories": ["1;Recommended"],
         "file": "SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
-        "url": "https://github.com/SkyblockClient/Skyclient-Cosmetics/releases/download/v1.1.14/SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
+        "url": "https://cdn.modrinth.com/data/Wlq56PJK/versions/BnHSDhNv/SkyClientCosmetics-1.8.9-forge-1.1.14.jar",
         "forge_id": "skyclientcosmetics",
         "hash": "a20253ca3fc7b912ae305f2d27d01d14"
     },
