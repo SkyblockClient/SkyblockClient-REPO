@@ -1325,7 +1325,7 @@
         "enabled": true,
         "creator": "Microcontollers",
         "discordcode": "rejfv9kFJj",
-        "description": "Displays some Cosmetica cosmetics via Optifine without needing to configure DNS.",
+        "description": "Displays some Cosmetica cosmetics via OptiFine without needing to configure DNS.",
         "icon": "mixmetica.png",
         "actions": [
             {
