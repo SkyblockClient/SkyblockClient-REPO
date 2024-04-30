@@ -19,11 +19,6 @@ Tells you the amount of players on skyblock.
 > /loot <zombie/spider/wolf/fishing/catacombs>
 
 Returns loot quantites from slayers/fishing/dungeons.
-> /setkey
-
-> /getkey
-
-Sets api key/copies it.
 > /display <zombie/spider/wolf/fishing/catacombs/auto/off>
 
 Displays loot trackers.

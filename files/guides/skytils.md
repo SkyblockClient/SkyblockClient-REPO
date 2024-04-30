@@ -13,9 +13,6 @@ Open the mod's config menu - turn on features and solvers.
 > /skytils help
 
 See all of the mod's commands.
-> /skytils setkey [key]
-
-Sets your API key (will also grab it from /api new).
 > /skytils reload <aliases/data>
 
 Forces Skytils to re-fetch command aliases or solutions from the data repository.
