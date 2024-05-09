@@ -1847,10 +1847,10 @@
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.8.9-forge-2.2.2.jar",
-        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/hQT3FC2b/VanillaHUD-1.8.9-forge-2.2.2.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/WGme2muL/VanillaHUD-1.8.9-forge-2.2.3.jar",
         "forge_id": "vanillahud",
-        "hash": "697213e64ae835e8e83baade3c474772"
+        "hash": "24841b54efe3a680c21be8947ed8bd19"
     },
     {
         "id": "itlt",
