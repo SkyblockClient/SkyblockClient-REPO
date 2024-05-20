@@ -2275,11 +2275,11 @@
                 "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
-        "file": "SkyHanni-0.24.jar",
-        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.24/SkyHanni-0.24.jar",
+        "file": "SkyHanni-0.25.jar",
+        "url": "https://github.com/hannibal002/SkyHanni/releases/download/0.25/SkyHanni-0.25.jar",
         "forge_id": "skyhanni",
         "packages": ["neu"],
-        "hash": "076bb6cc1e0142c4a9b88970a656bbe7"
+        "hash": "ee3ca9d1f42d112dec3bdbd414ca5b43"
     },
     {
         "id": "hychat",
