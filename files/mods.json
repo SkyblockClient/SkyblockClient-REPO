@@ -691,10 +691,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "FancyWarpMenu-1.0+96.jar",
-        "url": "https://cdn.modrinth.com/data/XAqp0XTf/versions/nHzvqquo/FancyWarpMenu-1.0%2B96.jar",
+        "file": "FancyWarpMenu-2.0-beta.1+121.jar",
+        "url": "https://cdn.modrinth.com/data/XAqp0XTf/versions/sdJblxLE/FancyWarpMenu-2.0-beta.1%2B121.jar",
         "forge_id": "fancywarpmenu",
-        "hash": "b11be4f66fc21a3092cf610a462e4c90"
+        "hash": "970c3667d49c95c26674a686895bcd13"
     },
     {
         "id": "sbhud",
