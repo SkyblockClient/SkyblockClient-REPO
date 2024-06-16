@@ -66,7 +66,7 @@
         "code": "jRhkYFmpCa",
         "fancyname": "ThatGravyBoat's Boat",
         "icon": "tgb.png",
-        "nicknames": ["thatgravyboat", "boat", "craftify"]
+        "nicknames": ["thatgravyboat", "boat", "craftify", "gravy"]
     },
     {
         "id": "net",
@@ -133,7 +133,8 @@
             "www",
             "qalcyo",
             "woverflow",
-            "wyvtils"
+            "wyvtils",
+            "oneconfig"
         ],
         "mods": ["wyvtils"]
     },
