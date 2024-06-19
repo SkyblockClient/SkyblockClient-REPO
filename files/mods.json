@@ -306,10 +306,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyClientCosmetics-1.8.9-forge-1.1.15.jar",
-        "url": "https://cdn.modrinth.com/data/Wlq56PJK/versions/WahQPfys/SkyClientCosmetics-1.8.9-forge-1.1.15.jar",
+        "file": "SkyClientCosmetics-1.8.9-forge-1.1.16.jar",
+        "url": "https://cdn.modrinth.com/data/Wlq56PJK/versions/HKmD2h18/SkyClientCosmetics-1.8.9-forge-1.1.16.jar",
         "forge_id": "skyclientcosmetics",
-        "hash": "388b244be4f05178678663bce4870cbd"
+        "hash": "52d34d3a263e98e938c6056fcd447d9f"
     },
     {
         "id": "optifine",
