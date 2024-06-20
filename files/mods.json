@@ -629,14 +629,13 @@
         "hash": "241d35b27080934b1e31365686e5b804"
     },
     {
-        "id": "sba",
-        "nicknames": ["skyblockaddons"],
-        "display": "SkyblockAddons",
-        "creator": "Biscuit",
-        "discordcode": "qBkzcgdPqU",
+        "id": "sbaunofficial",
+        "nicknames": ["skyblockaddons", "sba"],
+        "display": "SkyblockAddons (Fork)",
+        "creator": "Fix3dll / Biscuit",
         "command": "/sba",
-        "description": "An essential Skyblock mod providing many features including slot locking, timers, and much more.",
-        "icon": "bisquit.png",
+        "description": "An essential Skyblock mod providing many features including slot locking, timers, and much more. This is a fork from Fix3dll of the original SBA by Biscuit.",
+        "icon": "sba.png",
         "actions": [
             {
                 "method": "hover",
@@ -650,24 +649,19 @@
             {
                 "icon": "forum.png",
                 "text": "Forum",
-                "link": "https://hypixel.net/threads/2109217/"
-            },
-            {
-                "icon": "bisquit.png",
-                "text": "Website",
-                "link": "https://biscuit.codes/mods/skyblockaddons/"
+                "link": "https://hypixel.net/threads/5362745/"
             },
             {
                 "icon": "github.png",
                 "text": "Github",
-                "link": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases"
+                "link": "https://github.com/Fix3dll/SkyblockAddons"
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
-        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.3/SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
-        "forge_id": "skyblockaddons",
-        "hash": "faae83cd9122c8611c5bb2551ba3bd4c"
+        "file": "SkyblockAddons-1.9.0-beta.11.1+315-for-MC-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/F35D4vTL/versions/GzU6qLgc/SkyblockAddons-1.9.0-beta.11.1%2B315-for-MC-1.8.9.jar",
+        "forge_id": "sbaunofficial",
+        "hash": "0c2473efdf22907fd394256c03246986"
     },
     {
         "id": "fancywarpmenu",
@@ -1580,6 +1574,48 @@
         "url": "https://media.forgecdn.net/files/3071/182/Controlling-7.0.0.2.jar",
         "forge_id": "controlling",
         "hash": "34aba2ccb959752601cac37d6020dfae"
+    },
+    {
+        "id": "sba_eol",
+        "nicknames": ["skyblockaddons_eol"],
+        "display": "SkyblockAddons",
+        "creator": "Biscuit",
+        "discordcode": "qBkzcgdPqU",
+        "command": "/sba",
+        "description": "An essential Skyblock mod providing many features including slot locking, timers, and much more.",
+        "icon": "bisquit.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md"
+            },
+            {
+                "icon": "forum.png",
+                "text": "Forum",
+                "link": "https://hypixel.net/threads/2109217/"
+            },
+            {
+                "icon": "bisquit.png",
+                "text": "Website",
+                "link": "https://biscuit.codes/mods/skyblockaddons/"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases"
+            }
+        ],
+        "hidden": true,
+        "file": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
+        "url": "https://github.com/BiscuitDevelopment/SkyblockAddons/releases/download/v1.7.3/SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar",
+        "forge_id": "skyblockaddons",
+        "hash": "faae83cd9122c8611c5bb2551ba3bd4c",
+        "update_to_ids": ["sbaunofficial"]
     },
     {
         "id": "popup_events",
