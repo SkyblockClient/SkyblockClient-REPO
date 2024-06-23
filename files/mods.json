@@ -1415,7 +1415,6 @@
     {
         "id": "craftify",
         "display": "Craftify",
-        "enabled": true,
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
