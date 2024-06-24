@@ -1784,10 +1784,10 @@
         "command": "/rewardclaim",
         "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "hidden": true,
-        "file": "RewardClaim-1.0.5.jar",
-        "url": "https://cdn.modrinth.com/data/sbgVdyNC/versions/UXnMtYTj/RewardClaim-1.0.5.jar",
+        "file": "RewardClaim-1.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/sbgVdyNC/versions/jpYofKmf/RewardClaim-1.0.6.jar",
         "forge_id": "gravyrewardclaim",
-        "hash": "ba59c079e482d1bfca3cf2aa5a0c8337"
+        "hash": "df23f92d790080388190004b377ba3ea"
     },
     {
         "id": "polysprint",
