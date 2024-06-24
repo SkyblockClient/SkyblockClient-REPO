@@ -218,13 +218,7 @@
         "file": "Insomnia-1.0-REL.jar",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "forge_id": "insomnia",
-        "packages": [
-            "popup_events",
-            "autogg",
-            "autotip",
-            "tnttime",
-            "levelhead"
-        ],
+        "packages": ["popup_events", "autotip", "tnttime", "levelhead"],
         "hash": "16e4fa2d54f32a2008cd0d1999d9c842"
     },
     {
