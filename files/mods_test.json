@@ -318,6 +318,41 @@
         "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "hash": "7372b982a428656b7a1029c5b42cbf3d"
     },
+{
+        "id": "patcher",
+        "nicknames": ["patcher"],
+        "display": "Patcher",
+        "enabled": true,
+        "creator": "Sk1erLLC",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/patcher",
+        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. We use the Polyfrost fork for this mod instead.",
+        "icon": "monkey.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/patcher.md"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "forge_id": "patcher",
+        "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6",
+        "update_to_ids": [
+            "vanillahud",
+            "chatting",
+            "polycrosshair",
+            "polynametag",
+            "overflowparticles",
+            "overflowanimations"
+        ]
+    },
     {
         "id": "polypatcher",
         "display": "PolyPatcher",
@@ -353,41 +388,6 @@
         "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
         "forge_id": "patcher",
         "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6"
-    },
-    {
-        "id": "patcher",
-        "nicknames": ["patcher"],
-        "display": "Patcher",
-        "enabled": true,
-        "creator": "Sk1erLLC",
-        "discordcode": "EZVbUgGX4h",
-        "command": "/patcher",
-        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. We use the Polyfrost fork for this mod instead.",
-        "icon": "monkey.png",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/patcher.md"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
-            }
-        ],
-        "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
-        "forge_id": "patcher",
-        "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6",
-        "update_to_ids": [
-            "vanillahud",
-            "chatting",
-            "polycrosshair",
-            "polynametag",
-            "overflowparticles",
-            "overflowanimations"
-        ]
     },
     {
         "id": "crashpatch",
