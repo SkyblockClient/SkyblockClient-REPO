@@ -1925,10 +1925,10 @@
             }
         ],
         "hidden": true,
-        "file": "PolyNametag-1.8.9-forge-1.0.3.jar",
-        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/2ZrcW3OB/PolyNametag-1.8.9-forge-1.0.3.jar",
+        "file": "PolyNametag-1.8.9-forge-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/tA8TFK4j/PolyNametag-1.8.9-forge-1.0.4.jar",
         "forge_id": "polynametag",
-        "hash": "fccb4b81441400fedca544dacf2377e7"
+        "hash": "3085dff98bcf5c2089d4535c7e51de3f"
     },
     {
         "id": "reportplus",
