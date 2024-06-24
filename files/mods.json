@@ -1360,7 +1360,6 @@
         "id": "mixmetica",
         "display": "Mixmetica",
         "enabled": true,
-        "hidden": true,
         "creator": "Microcontollers",
         "discordcode": "rejfv9kFJj",
         "description": "Displays some Cosmetica cosmetics via OptiFine without needing to configure DNS.",
