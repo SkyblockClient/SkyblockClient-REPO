@@ -337,7 +337,7 @@
         "creator": "Polyfrost / Sk1erLLC",
         "discordcode": "EZVbUgGX4h",
         "command": "/patcher",
-        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. Fork of the original Patcher by Sk1er LLC, with additional features and optimizations.",
+        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features.",
         "icon": "polyfrost.png",
         "actions": [
             {
