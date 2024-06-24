@@ -318,7 +318,7 @@
         "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "hash": "7372b982a428656b7a1029c5b42cbf3d"
     },
-{
+    {
         "id": "patcher",
         "nicknames": ["patcher"],
         "display": "Patcher",
