@@ -1939,10 +1939,10 @@
         "command": "/reportplus",
         "description": "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. ",
         "hidden": true,
-        "file": "ReportPlus-1.0.0.jar",
-        "url": "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar",
+        "file": "ReportPlus-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/HTtbeLVT/versions/TU3Qf6fn/ReportPlus-1.0.2.jar",
         "forge_id": "reportplus",
-        "hash": "252f86fdac615ea501811c53343649e1"
+        "hash": "d67cd267d947888fc620e5f8c6d8caf0"
     },
     {
         "id": "sidebarmod",
