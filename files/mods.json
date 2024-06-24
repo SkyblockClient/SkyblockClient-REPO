@@ -322,7 +322,7 @@
         "id": "patcher",
         "nicknames": ["patcher"],
         "display": "Patcher",
-        "enabled": true,
+        "hidden": true,
         "creator": "Sk1erLLC",
         "discordcode": "EZVbUgGX4h",
         "command": "/patcher",
