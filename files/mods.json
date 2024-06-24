@@ -148,21 +148,16 @@
             },
             {
                 "icon": "polyfrost.png",
-                "text": "REDACTION",
-                "link": "https://modrinth.com/mod/redaction"
-            },
-            {
-                "icon": "monkey.png",
                 "text": "Keystrokes",
-                "link": "https://sk1er.club/mods/keystrokesmod"
+                "link": "https://modrinth.com/mod/keystrokes"
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "EvergreenHUD-1.8.9-forge-2.1.5.jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/c93pXAOp/EvergreenHUD-1.8.9-forge-2.1.5.jar",
+        "file": "EvergreenHUD-1.8.9-forge-2.1.6.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/aH2wA9EP/EvergreenHUD-1.8.9-forge-2.1.6.jar",
         "forge_id": "evergreenhud",
-        "packages": ["potioneffects", "redaction", "polyfrostkeystrokes"],
-        "hash": "f7e50a0ec83a900e0b66ba639ad1a815"
+        "packages": ["potioneffects", "polyfrostkeystrokes"],
+        "hash": "149e6596d43615d726f08a5aa5546f86"
     },
     {
         "id": "antidreamskin",
@@ -192,11 +187,6 @@
                 "icon": "moulberrys bush.png",
                 "text": "Anti Dream Skin",
                 "link": "https://youtu.be/bZxXrt0T4Lc"
-            },
-            {
-                "icon": "monkey.png",
-                "text": "AutoGG",
-                "link": "https://sk1er.club/mods/autogg"
             },
             {
                 "icon": "monkey.png",
@@ -245,9 +235,9 @@
                 "link": "https://github.com/Polyfrost/DamageTint"
             },
             {
-                "icon": "isxander.png",
-                "text": "Particles Enhanced",
-                "link": "https://github.com/MicrocontrollersDev/ParticlesEnhanced"
+                "icon": "polyfrost.png",
+                "text": "OverflowParticles",
+                "link": "https://modrinth.com/mod/overflowparticles"
             },
             {
                 "icon": "polyfrost.png",
@@ -259,7 +249,7 @@
         "file": "DamageTint-1.8.9-forge-3.3.0.jar",
         "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar",
         "forge_id": "damagetint",
-        "packages": ["particlesenhanced", "behindyouv3"],
+        "packages": ["overflowparticles", "behindyouv3"],
         "hash": "2195418367d7a56badb11e26514f2845"
     },
     {
@@ -330,13 +320,48 @@
     },
     {
         "id": "patcher",
+        "nicknames": ["patcher"],
         "display": "Patcher",
         "enabled": true,
-        "creator": "Sk1er LLC",
-        "discordcode": "sk1er",
+        "creator": "Sk1erLLC",
+        "discordcode": "EZVbUgGX4h",
         "command": "/patcher",
-        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features.",
+        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. We use the Polyfrost fork for this mod instead.",
         "icon": "monkey.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/patcher.md"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "forge_id": "patcher",
+        "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6",
+        "update_to_ids": [
+            "vanillahud",
+            "chatting",
+            "polycrosshair",
+            "polynametag",
+            "overflowparticles",
+            "overflowanimations"
+        ]
+    },
+    {
+        "id": "polypatcher",
+        "display": "PolyPatcher",
+        "enabled": true,
+        "creator": "Polyfrost / Sk1erLLC",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/patcher",
+        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. Fork of the original Patcher by Sk1er LLC, with additional features and optimizations.",
+        "icon": "polyfrost.png",
         "actions": [
             {
                 "method": "hover",
@@ -348,16 +373,21 @@
                 "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
             },
             {
-                "icon": "monkey.png",
-                "text": "Website",
-                "link": "https://sk1er.club/mods/patcher"
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Polyfrost/PolyPatcher"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/patcher"
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Patcher-1.8.9 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/patcher/1.8.9/1.8.9/Patcher-1.8.9%20(1.8.9).jar",
+        "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
         "forge_id": "patcher",
-        "hash": "4ff603e33c7acba7af5fc23b935a0416"
+        "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6"
     },
     {
         "id": "crashpatch",
@@ -450,10 +480,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils Reborn-1.8.9-forge-1.6.1.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/gCEt8zn2/Hytils%20Reborn-1.8.9-forge-1.6.1.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.7.0.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/ob3KsSME/Hytils-Reborn-1.8.9-forge-1.7.0.jar",
         "forge_id": "hytils-reborn",
-        "hash": "7315c50cff1f129e27e9d6f441075c7a"
+        "hash": "f316652f6990e95b4f3d3ead16d3bc8d"
     },
     {
         "id": "quickjoin",
@@ -577,6 +607,58 @@
         "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/Jgm3MvC1/PolyBlur-1.8.9-forge-1.0.0.jar",
         "forge_id": "polyblur",
         "hash": "9d7521c6f30ee6910009135f192089c8"
+    },
+    {
+        "id": "polycrosshair",
+        "display": "PolyCrosshair",
+        "creator": "Polyfrost",
+        "command": "/polycrosshair",
+        "description": "Extremely customizable crosshair mod.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyCrosshair"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/crosshair"
+            }
+        ],
+        "categories": ["5;All PvP", "6;Recommended PvP"],
+        "file": "PolyCrosshair-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/yNxr8rf8/PolyCrosshair-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polycrosshair",
+        "hash": "bdb127fa9b2490e5264d8fbbbe846da0"
+    },
+    {
+        "id": "polyhitbox",
+        "nicknames": ["hitbox"],
+        "display": "PolyHitbox",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/polyhitbox",
+        "description": "Allows you to customize the hitbox of entities.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/PolyHitbox"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/hitbox"
+            }
+        ],
+        "categories": ["5;All PvP"],
+        "file": "PolyHitbox-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/Mptc0jo6/versions/jGn4M936/PolyHitbox-1.8.9-forge-1.0.0.jar",
+        "forge_id": "polyhitbox",
+        "hash": "12c0baa3fee1bca6609d2bd8470d5f14"
     },
     {
         "id": "rawinput",
@@ -1126,10 +1208,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "OverflowAnimations-1.8.9-forge-2.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/1ONr2RBg/OverflowAnimations-1.8.9-forge-2.1.1.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/eWVi3ZC0/OverflowAnimations-1.8.9-forge-2.2.0.jar",
         "forge_id": "overflowanimations",
-        "hash": "f48c496115a5f3034f5169f3d0e3ca41"
+        "hash": "5847b9aaae61595b3401202e4d8847fd"
     },
     {
         "id": "oam",
@@ -1175,10 +1257,10 @@
                 "link": "https://modrinth.com/mod/polytime"
             }
         ],
-        "file": "PolyTime-1.8.9-forge-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/7eFxBnuh/PolyTime-1.8.9-forge-1.0.0.jar",
+        "file": "PolyTime-1.8.9-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/U1v5jAjF/PolyTime-1.8.9-forge-1.0.1.jar",
         "forge_id": "polytime",
-        "hash": "e9812d344de863b4f17ea254c4d3230d"
+        "hash": "c40b9bb020e81665e1ec91675a8b6a46"
     },
     {
         "id": "polyweather",
@@ -1311,6 +1393,7 @@
         "id": "mixmetica",
         "display": "Mixmetica",
         "enabled": true,
+        "hidden": true,
         "creator": "Microcontollers",
         "discordcode": "rejfv9kFJj",
         "description": "Displays some Cosmetica cosmetics via OptiFine without needing to configure DNS.",
@@ -1366,7 +1449,6 @@
     {
         "id": "craftify",
         "display": "Craftify",
-        "enabled": true,
         "creator": "ThatGravyBoat",
         "discordcode": "wQfFucgHTX",
         "command": "/craftify",
@@ -1404,8 +1486,34 @@
         "hash": "f224341c91b88a69fff3b0de6b7f744c"
     },
     {
+        "id": "colorsaturation",
+        "display": "ColorSaturation",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/colorsaturation",
+        "description": "Lets you customize the saturation of your game.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Polyfrost/ColorSaturation"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/colorsaturation"
+            }
+        ],
+        "categories": ["5;All PvP"],
+        "file": "ColorSaturation-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/UIoBGYDU/ColorSaturation-1.8.9-forge-1.0.0.jar",
+        "forge_id": "colorsaturation",
+        "hash": "d5c235b8cf3ff175fa106c68a697e3de"
+    },
+    {
         "id": "glintcolorizer",
-        "display": "Glint Colorizer",
+        "display": "GlintColorizer",
         "creator": "Polyfrost",
         "discordcode": "EZVbUgGX4h",
         "command": "/glintcolorizer",
@@ -1424,10 +1532,10 @@
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "GlintColorizer-1.8.9-forge-1.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/IBrK7PQE/GlintColorizer-1.8.9-forge-1.0.2.jar",
+        "file": "GlintColorizer-1.8.9-forge-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/UkWDIZMQ/GlintColorizer-1.8.9-forge-2.0.0.jar",
         "forge_id": "glintcolorizer",
-        "hash": "0b345d684f7bc2ead9eed431808590f4"
+        "hash": "1942dd63ea8290c66a7776a2177c1643"
     },
     {
         "id": "damagetilt",
@@ -1702,10 +1810,10 @@
             }
         ],
         "hidden": true,
-        "file": "PolySprint-1.8.9-forge-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/eW9L5hBb/PolySprint-1.8.9-forge-1.0.0.jar",
+        "file": "PolySprint-1.8.9-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/97DQkyRE/PolySprint-1.8.9-forge-1.0.1.jar",
         "forge_id": "polysprint",
-        "hash": "0cc505b1258c03a76c162a5f509a2c55"
+        "hash": "3074496a92b892c607872ad97c40b167"
     },
     {
         "id": "simpletogglesprint",
@@ -1773,7 +1881,6 @@
     },
     {
         "id": "chatting",
-        "nicknames": ["l ratio better chat", "chattils", "stratus"],
         "display": "Chatting",
         "creator": "Polyfrost",
         "discordcode": "EZVbUgGX4h",
@@ -1793,10 +1900,10 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.8.9-forge-1.5.3.jar",
-        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/RxxynoXD/Chatting-1.8.9-forge-1.5.3.jar",
+        "file": "Chatting-1.8.9-forge-2.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/EAL1qhI7/Chatting-1.8.9-forge-2.0.0.jar",
         "forge_id": "chatting",
-        "hash": "6de1e0c66a5f19391231099f2f5a2e46"
+        "hash": "6a999659195fa4556f6ab88b244c6786"
     },
     {
         "id": "polynametag",
@@ -1818,10 +1925,10 @@
             }
         ],
         "hidden": true,
-        "file": "PolyNametag-1.8.9-forge-1.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/NNPaCAj3/PolyNametag-1.8.9-forge-1.0.2.jar",
+        "file": "PolyNametag-1.8.9-forge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/2ZrcW3OB/PolyNametag-1.8.9-forge-1.0.3.jar",
         "forge_id": "polynametag",
-        "hash": "9053183a54921ad8429db6084b4eda31"
+        "hash": "fccb4b81441400fedca544dacf2377e7"
     },
     {
         "id": "reportplus",
@@ -1877,10 +1984,10 @@
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.8.9-forge-2.2.3.jar",
-        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/WGme2muL/VanillaHUD-1.8.9-forge-2.2.3.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/vpUqgJ1Y/VanillaHUD-1.8.9-forge-2.2.4.jar",
         "forge_id": "vanillahud",
-        "hash": "24841b54efe3a680c21be8947ed8bd19"
+        "hash": "88afbba74dfa34410baf12b18e474c8d"
     },
     {
         "id": "itlt",
@@ -1898,7 +2005,7 @@
     {
         "id": "redaction",
         "display": "REDACTION",
-        "creator": "Polyfrost (Wyvest)",
+        "creator": "Polyfrost",
         "discordcode": "EZVbUgGX4h",
         "command": "/redaction",
         "description": "Adds useful GUI additions to the game.",
@@ -1916,11 +2023,12 @@
             }
         ],
         "hidden": true,
-        "file": "REDACTION-1.8.9-forge-1.3.7.jar",
+        "file": "REDACTION-1.8.9-forge-1.3.8.jar",
         "files": ["W-OVERFLOW/REDACTION/redaction.toml"],
-        "url": "https://cdn.modrinth.com/data/Gapz72zt/versions/7YS63tTT/REDACTION-1.8.9-forge-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/Gapz72zt/versions/IF53PG5t/REDACTION-1.8.9-forge-1.3.8.jar",
         "forge_id": "redaction",
-        "hash": "6c6a8b1d9cbd61b4869f283b0620c852"
+        "hash": "86c316e3a1ba366366dfc55679673e20",
+        "update_to_ids": ["polyhitbox"]
     },
     {
         "id": "behindyouv3",
@@ -1943,10 +2051,10 @@
             }
         ],
         "hidden": true,
-        "file": "BehindYouV3-1.8.9-forge-3.1.2.jar",
-        "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/cruazNvt/BehindYouV3-1.8.9-forge-3.1.2.jar",
+        "file": "BehindYouV3-1.8.9-forge-3.2.0.jar",
+        "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/ECJHlMAH/BehindYouV3-1.8.9-forge-3.2.0.jar",
         "forge_id": "behindyouv3",
-        "hash": "a124150da3f9bd2e14b6f8deeae168b9"
+        "hash": "24f3629cba8425197d414aa7486b1432"
     },
     {
         "id": "sk1er_keystrokes",
@@ -2129,7 +2237,8 @@
         "file": "AutoGG-4.1.3 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/autogg/4.1.3/1.8.9/AutoGG-4.1.3 (1.8.9).jar",
         "forge_id": "autogg",
-        "hash": "ded8229d58537c4f4b170c112123c84e"
+        "hash": "ded8229d58537c4f4b170c112123c84e",
+        "update_to_ids": ["hytils-reborn"]
     },
     {
         "id": "autotip",
@@ -2172,8 +2281,34 @@
         "hash": "c91c9f4e1e9c43f4b22e062d3708fe97"
     },
     {
-        "id": "particlesenhanced",
+        "id": "overflowparticles",
         "nicknames": ["particlemod", "particles"],
+        "display": "OverflowParticles",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/overflowparticles",
+        "description": "Extremely precise and advanced particle mod.",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/OverflowParticles"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/overflowparticles"
+            }
+        ],
+        "hidden": true,
+        "file": "OverflowParticles-1.8.9-forge-1.0.0.jar",
+        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/3qxGJuRl/OverflowParticles-1.8.9-forge-1.0.0.jar",
+        "forge_id": "overflowparticles",
+        "hash": "5ddfd4aed76a53790245cfefd57cd2e6"
+    },
+    {
+        "id": "particlesenhanced",
         "display": "Particles Enhanced",
         "creator": "isXander, Microcontrollers",
         "discordcode": "rejfv9kFJj",
@@ -2201,7 +2336,8 @@
         "file": "ParticlesEnhanced-1.3.2.jar",
         "url": "https://github.com/MicrocontrollersDev/ParticlesEnhanced/releases/download/1.3.2/ParticlesEnhanced-1.3.2.jar",
         "forge_id": "particlesenhanced",
-        "hash": "48f3b7e01be283c7b3b64f8130287454"
+        "hash": "48f3b7e01be283c7b3b64f8130287454",
+        "update_to_ids": ["overflowparticles"]
     },
     {
         "id": "pitstats",
