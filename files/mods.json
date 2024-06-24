@@ -2302,10 +2302,10 @@
             }
         ],
         "hidden": true,
-        "file": "OverflowParticles-1.8.9-forge-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/3qxGJuRl/OverflowParticles-1.8.9-forge-1.0.0.jar",
+        "file": "OverflowParticles-1.8.9-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/N1zHFQp5/OverflowParticles-1.8.9-forge-1.0.1.jar",
         "forge_id": "overflowparticles",
-        "hash": "5ddfd4aed76a53790245cfefd57cd2e6"
+        "hash": "95d64b057aaeb5c7b94b2fff533920a3"
     },
     {
         "id": "particlesenhanced",
