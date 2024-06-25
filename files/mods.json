@@ -868,10 +868,7 @@
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
         "forge_id": "skytils",
         "hash": "628dbcadf19b02d18df5ab81c6935256",
-        "update_to_ids": [
-            "essential_container",
-            "skytils"
-        ],
+        "update_to_ids": ["essential_container", "skytils"],
         "update_ids_detection": false
     },
     {
