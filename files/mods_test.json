@@ -878,7 +878,7 @@
         "discordcode": "essential",
         "command": "/essential",
         "description": "Container mod for Essential.",
-        "file": "essential_1-3-2-7_forge_1-8-9 (FOR FIXING SKYTILS SUPPORT).jar",
+        "file": "Essential-1.3.2.7 (for fixing Skytils support).jar",
         "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/4O8gbIcp/essential_1-3-2-7_forge_1-8-9.jar",
         "forge_id": "essential_container",
         "hash": "b67acdf63ed355519237d3dcf056aec4",
@@ -919,7 +919,7 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.10.0-pre9.jar",
+        "file": "Skytils-1.10.0-pre9 (fixed).jar",
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
         "forge_id": "skytils",
         "hash": "628dbcadf19b02d18df5ab81c6935256"
