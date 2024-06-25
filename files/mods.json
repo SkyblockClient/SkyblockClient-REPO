@@ -542,7 +542,7 @@
         "id": "blockoverlay",
         "display": "Block Overlay",
         "creator": "Aycy",
-        "description": "Adds a customized overlay on blocks.",
+        "description": "Adds a customizable overlay on blocks.",
         "icon": "aycy.jpg",
         "actions": [
             {
