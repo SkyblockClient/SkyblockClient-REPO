@@ -268,10 +268,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyClient-Updater-1.8.9-forge-1.3.6.jar",
-        "url": "https://cdn.modrinth.com/data/4JT4oKKX/versions/2SWnMJqw/SkyClient-Updater-1.8.9-forge-1.3.6.jar",
+        "file": "SkyClient-Updater-1.8.9-forge-1.3.7.jar",
+        "url": "https://cdn.modrinth.com/data/4JT4oKKX/versions/yDRRsxnr/SkyClient-Updater-1.8.9-forge-1.3.7.jar",
         "forge_id": "skyblockclientupdater",
-        "hash": "d23e7b77a31553c9ccb80a7687825137"
+        "hash": "d5ac8d1ff6cef23492f00420b6e74964"
     },
     {
         "id": "scc",
@@ -351,7 +351,8 @@
             "polynametag",
             "overflowparticles",
             "overflowanimations"
-        ]
+        ],
+        "update_ids_detection": false
     },
     {
         "id": "polypatcher",
@@ -889,10 +890,42 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.10.0-pre9.jar",
+        "file": "Skytils-1.10.0-pre9 (fixed).jar",
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
         "forge_id": "skytils",
         "hash": "628dbcadf19b02d18df5ab81c6935256"
+    },
+    {
+        "id": "skytils_essential",
+        "display": "Skytils (UNUSED)",
+        "hidden": true,
+        "creator": "Sychic and Lily",
+        "discordcode": "skytils",
+        "command": "/skytils",
+        "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
+        "icon": "skytils.png",
+        "file": "Skytils-1.10.0-pre9.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
+        "forge_id": "skytils",
+        "hash": "628dbcadf19b02d18df5ab81c6935256",
+        "update_to_ids": ["essential_container", "skytils"],
+        "update_ids_detection": false,
+        "ignore_on_scu_137_above": true
+    },
+    {
+        "id": "essential_container",
+        "display": "Essential Container",
+        "hidden": true,
+        "creator": "Essential",
+        "discordcode": "essential",
+        "command": "/essential",
+        "description": "Container mod for Essential.",
+        "file": "Essential-1.3.2.7 (for fixing Skytils support).jar",
+        "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/4O8gbIcp/essential_1-3-2-7_forge_1-8-9.jar",
+        "forge_id": "essential_container",
+        "hash": "b67acdf63ed355519237d3dcf056aec4",
+        "name_detection": false,
+        "ignore_on_scu_137_above": true
     },
     {
         "id": "pss",
