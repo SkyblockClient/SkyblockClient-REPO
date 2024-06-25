@@ -113,7 +113,7 @@
     },
     {
         "triggers": ["(unable|fail).+minecraft"],
-        "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to Prism Launcher instead: https://microcontrollersdev.github.io/Alternatives/launcher/prism_win"
+        "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to Modrinth or Prism Launcher instead: https://alternatives.microcontrollers.dev/launcher/home/"
     },
     {
         "tag": ".musicplayer",
