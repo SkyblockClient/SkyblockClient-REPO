@@ -908,7 +908,8 @@
         "forge_id": "skytils",
         "hash": "628dbcadf19b02d18df5ab81c6935256",
         "update_to_ids": ["essential_container", "skytils"],
-        "update_ids_detection": false
+        "update_ids_detection": false,
+        "ignore_on_scu_137_above": true
     },
     {
         "id": "essential_container",
@@ -922,7 +923,8 @@
         "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/4O8gbIcp/essential_1-3-2-7_forge_1-8-9.jar",
         "forge_id": "essential_container",
         "hash": "b67acdf63ed355519237d3dcf056aec4",
-        "name_detection": false
+        "name_detection": false,
+        "ignore_on_scu_137_above": true
     },
     {
         "id": "pss",
