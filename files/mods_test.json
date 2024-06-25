@@ -319,41 +319,6 @@
         "hash": "7372b982a428656b7a1029c5b42cbf3d"
     },
     {
-        "id": "patcher",
-        "nicknames": ["patcher"],
-        "display": "Patcher",
-        "hidden": true,
-        "creator": "Sk1erLLC",
-        "discordcode": "EZVbUgGX4h",
-        "command": "/patcher",
-        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. We use the Polyfrost fork for this mod instead.",
-        "icon": "monkey.png",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/patcher.md"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
-            }
-        ],
-        "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.9.1-test.jar",
-        "url": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/PolyPatcher-1.8.9-forge-1.9.1-test.jar",
-        "forge_id": "patcher",
-        "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6",
-        "update_to_ids": [
-            "vanillahud",
-            "chatting",
-            "polycrosshair",
-            "polynametag",
-            "overflowparticles",
-            "overflowanimations"
-        ]
-    },
-    {
         "id": "polypatcher",
         "display": "PolyPatcher",
         "enabled": true,
@@ -388,6 +353,41 @@
         "url": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/PolyPatcher-1.8.9-forge-1.9.1-test.jar",
         "forge_id": "patcher",
         "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6"
+    },
+    {
+        "id": "patcher",
+        "nicknames": ["patcher"],
+        "display": "Patcher",
+        "hidden": true,
+        "creator": "Sk1erLLC",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/patcher",
+        "description": "Optimizes the game in many ways, fixes vanilla bugs while maintaining compatibility, and introduces QOL features. We use the Polyfrost fork for this mod instead.",
+        "icon": "monkey.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/patcher.md"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/patcher.md"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "PolyPatcher-1.8.9-forge-1.9.1-test.jar",
+        "url": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/PolyPatcher-1.8.9-forge-1.9.1-test.jar",
+        "forge_id": "patcher",
+        "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6",
+        "update_to_ids": [
+            "vanillahud",
+            "chatting",
+            "polycrosshair",
+            "polynametag",
+            "overflowparticles",
+            "overflowanimations"
+        ]
     },
     {
         "id": "crashpatch",
@@ -855,36 +855,6 @@
         "hash": "d8f020061af3f3c7a0eff43722811b8a"
     },
     {
-        "id": "skytils_essential",
-        "display": "Skytils",
-        "hidden": true,
-        "creator": "Sychic and Lily",
-        "discordcode": "skytils",
-        "command": "/skytils",
-        "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
-        "icon": "skytils.png",
-        "file": "Skytils-1.10.0-pre9.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
-        "forge_id": "skytils",
-        "hash": "628dbcadf19b02d18df5ab81c6935256",
-        "update_to_ids": ["essential_container", "skytils"],
-        "update_ids_detection": false
-    },
-    {
-        "id": "essential_container",
-        "display": "Essential Container",
-        "hidden": true,
-        "creator": "Essential",
-        "discordcode": "essential",
-        "command": "/essential",
-        "description": "Container mod for Essential.",
-        "file": "Essential-1.3.2.7 (for fixing Skytils support).jar",
-        "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/4O8gbIcp/essential_1-3-2-7_forge_1-8-9.jar",
-        "forge_id": "essential_container",
-        "hash": "b67acdf63ed355519237d3dcf056aec4",
-        "name_detection": false
-    },
-    {
         "id": "skytils",
         "nicknames": ["st", "bsmod"],
         "display": "Skytils",
@@ -923,6 +893,36 @@
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
         "forge_id": "skytils",
         "hash": "628dbcadf19b02d18df5ab81c6935256"
+    },
+    {
+        "id": "skytils_essential",
+        "display": "Skytils",
+        "hidden": true,
+        "creator": "Sychic and Lily",
+        "discordcode": "skytils",
+        "command": "/skytils",
+        "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
+        "icon": "skytils.png",
+        "file": "Skytils-1.10.0-pre9.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.0-pre9/Skytils-1.10.0-pre9.jar",
+        "forge_id": "skytils",
+        "hash": "628dbcadf19b02d18df5ab81c6935256",
+        "update_to_ids": ["essential_container", "skytils"],
+        "update_ids_detection": false
+    },
+    {
+        "id": "essential_container",
+        "display": "Essential Container",
+        "hidden": true,
+        "creator": "Essential",
+        "discordcode": "essential",
+        "command": "/essential",
+        "description": "Container mod for Essential.",
+        "file": "Essential-1.3.2.7 (for fixing Skytils support).jar",
+        "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/4O8gbIcp/essential_1-3-2-7_forge_1-8-9.jar",
+        "forge_id": "essential_container",
+        "hash": "b67acdf63ed355519237d3dcf056aec4",
+        "name_detection": false
     },
     {
         "id": "pss",
