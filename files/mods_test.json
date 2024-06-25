@@ -340,8 +340,8 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.9.1-test.jar",
-        "url": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/PolyPatcher-1.8.9-forge-1.9.1-test.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
         "forge_id": "patcher",
         "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6",
         "update_to_ids": [
@@ -384,8 +384,8 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.9.1-test.jar",
-        "url": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/PolyPatcher-1.8.9-forge-1.9.1-test.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.9.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/pb8E1BYb/PolyPatcher-1.8.9-forge-1.9.0.jar",
         "forge_id": "patcher",
         "hash": "e5cd55f7a4619d2cbcefc54fde2f0bc6"
     },
