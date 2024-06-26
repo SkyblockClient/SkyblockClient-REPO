@@ -1241,10 +1241,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "OverflowAnimations-1.8.9-forge-2.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/wKpouimE/OverflowAnimations-1.8.9-forge-2.2.1.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/x99qPdUO/OverflowAnimations-1.8.9-forge-2.2.2.jar",
         "forge_id": "overflowanimations",
-        "hash": "603816018a33cc8b38313ce32be2e497"
+        "hash": "03f97a18e332be52b41eb23dca2b5564"
     },
     {
         "id": "oam",
