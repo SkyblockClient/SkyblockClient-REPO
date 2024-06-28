@@ -481,10 +481,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils Reborn-1.8.9-forge-1.7.0.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/ob3KsSME/Hytils-Reborn-1.8.9-forge-1.7.0.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.7.1.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/XlLI1wPx/Hytils%20Reborn-1.8.9-forge-1.7.1.jar",
         "forge_id": "hytils-reborn",
-        "hash": "f316652f6990e95b4f3d3ead16d3bc8d"
+        "hash": "d2ea48673903c44434b29073e3ab2f44"
     },
     {
         "id": "quickjoin",
