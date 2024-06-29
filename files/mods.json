@@ -1290,10 +1290,10 @@
                 "link": "https://modrinth.com/mod/polytime"
             }
         ],
-        "file": "PolyTime-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/U1v5jAjF/PolyTime-1.8.9-forge-1.0.1.jar",
+        "file": "PolyTime-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/n5yBVXbc/PolyTime-1.8.9-forge-1.0.2.jar",
         "forge_id": "polytime",
-        "hash": "c40b9bb020e81665e1ec91675a8b6a46"
+        "hash": "2ab76df5092a0d2bb2472662614ce731"
     },
     {
         "id": "polyweather",
