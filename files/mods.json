@@ -604,10 +604,10 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "PolyBlur-1.8.9-forge-1.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/Jgm3MvC1/PolyBlur-1.8.9-forge-1.0.0.jar",
+        "file": "PolyBlur-1.8.9-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/u0ICKsNV/PolyBlur-1.8.9-forge-1.0.1.jar",
         "forge_id": "polyblur",
-        "hash": "9d7521c6f30ee6910009135f192089c8"
+        "hash": "e769f4c6d6e31b390c8049fe8b62c7f6"
     },
     {
         "id": "polycrosshair",
