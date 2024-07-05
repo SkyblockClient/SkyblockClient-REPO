@@ -391,6 +391,33 @@
         "hash": "146f2d2168bd0a0136d1181f69ad37d5"
     },
     {
+        "id": "veloxcaelo",
+        "display": "Velox Caelo",
+        "enabled": true,
+        "creator": "nea89",
+        "discordcode": "64pFP94AWA",
+        "command": "/veloxcaelo",
+        "description": "Optimizes OptiFine's CIT performance by caching calculations.",
+        "icon": "nea89.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/nea89o/veloxcaelo"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/veloxcaelo"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "veloxcaelo-1.1.0.jar",
+        "url": "https://cdn.modrinth.com/data/r4AQF5mj/versions/UezAlzL0/veloxcaelo-1.1.0.jar",
+        "forge_id": "veloxcaelo",
+        "hash": "3647cf400abd018dd0d0315bc0df21fc"
+    },
+    {
         "id": "crashpatch",
         "nicknames": ["crashhelp", "ch", "crash"],
         "display": "CrashPatch",
