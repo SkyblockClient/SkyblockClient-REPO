@@ -1099,71 +1099,6 @@
         "hash": "69afa1544e61982922af643d5ea99df0"
     },
     {
-        "id": "dg",
-        "nicknames": ["dungeonsguide", "dg"],
-        "display": "Dungeons Guide",
-        "creator": "Syeyoung",
-        "discordcode": "dg",
-        "command": "/dg",
-        "description": "Adds many dungeons-related features, like secret pathfinding.",
-        "icon": "dungeonsguide.png",
-        "icon_scaling": "pixel",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
-            },
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
-            }
-        ],
-        "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta9.5-standalone.jar",
-        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/2Ll2xE65/dungeonsguide-4.0.0-beta9.5-standalone.jar",
-        "forge_id": "dungeons_guide_loader",
-        "hash": "0c99a873279854dd09eb996347352721"
-    },
-    {
-        "id": "dg-old",
-        "display": "Dungeons Guide - old",
-        "creator": "Syeyoung",
-        "discordcode": "dg",
-        "command": "/dg",
-        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features.",
-        "icon": "dungeonsguide.png",
-        "icon_scaling": "pixel",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
-            },
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
-            }
-        ],
-        "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "update_to_ids": ["dg"],
-        "hidden": true,
-        "file": "dungeonsguide-3.7.8.jar",
-        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.8/dungeonsguide-3.7.8.jar",
-        "forge_id": "skyblock_dungeons_guide",
-        "hash": "08981e8760389c18cc11837724c8674e"
-    },
-    {
         "id": "drm",
         "nicknames": ["dungeonrooms", "dr", "digitalrightsmanagement"],
         "display": "Dungeon Rooms",
@@ -1240,6 +1175,97 @@
         "url": "https://cdn.modrinth.com/data/2BXykn9u/versions/Sc5feDQE/SkyGuide%20%281.8.9-forge%29-1.3.0%2Boneconfig.jar",
         "forge_id": "skyguide",
         "hash": "9374614d78d327f6e24b27ceddf4b597"
+    },
+    {
+        "id": "scathapro",
+        "display": "Scatha-Pro",
+        "creator": "NamelessJu",
+        "discordcode": "scatha-farmers-898827889145942056",
+        "command": "/scathapro",
+        "description": "Adds several alerts, a UI overlay, achievements, and more based on improved Scatha farming.",
+        "icon": "scathapro.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/NamelessJu/Scatha-Pro"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/scatha-pro"
+            }
+        ],
+        "categories": ["2;All Skyblock"],
+        "file": "Scatha-Pro v1.2.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/lPe25xOt/versions/7Fsj9znk/Scatha-Pro%20v1.2.3.1.jar",
+        "forge_id": "scathapro",
+        "hash": "151e0a5e4cfc6f717dd2f1c991265760"
+    },
+    {
+        "id": "dg",
+        "nicknames": ["dungeonsguide", "dg"],
+        "display": "Dungeons Guide",
+        "creator": "Syeyoung",
+        "discordcode": "dg",
+        "command": "/dg",
+        "description": "Adds many dungeons-related features, like secret pathfinding.",
+        "icon": "dungeonsguide.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
+            }
+        ],
+        "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "file": "dungeonsguide-4.0.0-beta9.5-standalone.jar",
+        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/2Ll2xE65/dungeonsguide-4.0.0-beta9.5-standalone.jar",
+        "forge_id": "dungeons_guide_loader",
+        "hash": "0c99a873279854dd09eb996347352721"
+    },
+    {
+        "id": "dg-old",
+        "display": "Dungeons Guide - old",
+        "creator": "Syeyoung",
+        "discordcode": "dg",
+        "command": "/dg",
+        "description": "A highly advanced Hypixel Skyblock dungeons mod, with secrets pathfinding, among other features.",
+        "icon": "dungeonsguide.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
+            }
+        ],
+        "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "update_to_ids": ["dg"],
+        "hidden": true,
+        "file": "dungeonsguide-3.7.8.jar",
+        "url": "https://github.com/Dungeons-Guide/Skyblock-Dungeons-Guide/releases/download/3.7.8/dungeonsguide-3.7.8.jar",
+        "forge_id": "skyblock_dungeons_guide",
+        "hash": "08981e8760389c18cc11837724c8674e"
     },
     {
         "id": "overflowanimations",
