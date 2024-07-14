@@ -813,11 +813,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "NotEnoughUpdates-2.3.0.jar",
+        "file": "NotEnoughUpdates-2.3.1.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://cdn.modrinth.com/data/GGamhqbw/versions/QcXPdm6V/NotEnoughUpdates-2.3.0.jar",
+        "url": "https://cdn.modrinth.com/data/GGamhqbw/versions/it5UiQGx/NotEnoughUpdates-2.3.1.jar",
         "forge_id": "notenoughupdates",
-        "hash": "da634865dc001de8cdb7c8c5ec095780"
+        "hash": "43ef7b35f7738797c946536628728a0e"
     },
     {
         "id": "dsm",
