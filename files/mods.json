@@ -391,6 +391,31 @@
         "hash": "146f2d2168bd0a0136d1181f69ad37d5"
     },
     {
+        "id": "redirectionor",
+        "display": "Redirectionor",
+        "enabled": true,
+        "creator": "Hileb",
+        "description": "Optimizes performance by replacing references to element values in enum classes with static final field values references.",
+        "icon": "redirectionor.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Ecdcaeb/Redirector"
+            },
+            {
+                "icon": "curseforge.png",
+                "text": "CurseForge",
+                "link": "https://www.curseforge.com/minecraft/mc-mods/redirectionor-retro"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "redirectionor-1.4 for 1.12.2-1.8.8",
+        "url": "https://mediafilez.forgecdn.net/files/5370/600/redirectionor-1.4%20for%201.12.2-1.8.8.jar",
+        "forge_id": "redirectionor",
+        "hash": "db9faed175866651fb25024acce8a2be"
+    },
+    {
         "id": "veloxcaelo",
         "display": "Velox Caelo",
         "enabled": true,
