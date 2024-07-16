@@ -394,7 +394,7 @@
         "id": "redirectionor",
         "display": "Redirectionor",
         "enabled": true,
-        "creator": "Hileb",
+        "creator": "MCTeamPotato",
         "description": "Optimizes performance by replacing references to element values in enum classes with static final field values references.",
         "icon": "redirectionor.png",
         "actions": [
