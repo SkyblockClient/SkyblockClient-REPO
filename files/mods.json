@@ -972,10 +972,10 @@
         "discordcode": "essential",
         "command": "/essential",
         "description": "Container mod for Essential.",
-        "file": "Essential-1.3.2.7 (for fixing Skytils support).jar",
-        "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/4O8gbIcp/essential_1-3-2-7_forge_1-8-9.jar",
+        "file": "essential_1-3-2-8_forge_1-8-9.jar",
+        "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/Ux5qmVNL/essential_1-3-2-8_forge_1-8-9.jar",
         "forge_id": "essential_container",
-        "hash": "b67acdf63ed355519237d3dcf056aec4",
+        "hash": "9a855c8d0bed9f09fc3f5a02551ba4f9",
         "name_detection": false,
         "ignore_on_scu_137_above": true
     },
