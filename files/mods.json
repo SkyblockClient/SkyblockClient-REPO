@@ -539,6 +539,33 @@
         "hash": "d2ea48673903c44434b29073e3ab2f44"
     },
     {
+        "id": "overflowparticles",
+        "nicknames": ["particlemod", "particles"],
+        "display": "OverflowParticles",
+        "creator": "Polyfrost",
+        "discordcode": "EZVbUgGX4h",
+        "command": "/overflowparticles",
+        "description": "Extremely precise and advanced particle mod for customizing every particle. SkyBlock players, use this to disable block particles!",
+        "icon": "polyfrost.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/Polyfrost/OverflowParticles"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/overflowparticles"
+            }
+        ],
+        "categories": ["2;All SkyBlock", "4;Recommended SkyBlock", "5;All PvP", "6;Recommended PvP"],
+        "file": "OverflowParticles-1.8.9-forge-1.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/N1zHFQp5/OverflowParticles-1.8.9-forge-1.0.1.jar",
+        "forge_id": "overflowparticles",
+        "hash": "95d64b057aaeb5c7b94b2fff533920a3"
+    },
+    {
         "id": "quickjoin",
         "display": "Quickjoin",
         "nicknames": ["qj"],
@@ -2389,33 +2416,6 @@
         "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
         "forge_id": "oofmod",
         "hash": "c91c9f4e1e9c43f4b22e062d3708fe97"
-    },
-    {
-        "id": "overflowparticles",
-        "nicknames": ["particlemod", "particles"],
-        "display": "OverflowParticles",
-        "creator": "Polyfrost",
-        "discordcode": "EZVbUgGX4h",
-        "command": "/overflowparticles",
-        "description": "Extremely precise and advanced particle mod.",
-        "icon": "polyfrost.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/Polyfrost/OverflowParticles"
-            },
-            {
-                "icon": "modrinth.png",
-                "text": "Modrinth",
-                "link": "https://modrinth.com/mod/overflowparticles"
-            }
-        ],
-        "hidden": true,
-        "file": "OverflowParticles-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/N1zHFQp5/OverflowParticles-1.8.9-forge-1.0.1.jar",
-        "forge_id": "overflowparticles",
-        "hash": "95d64b057aaeb5c7b94b2fff533920a3"
     },
     {
         "id": "particlesenhanced",
