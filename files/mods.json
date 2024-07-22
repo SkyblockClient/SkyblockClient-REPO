@@ -559,7 +559,12 @@
                 "link": "https://modrinth.com/mod/overflowparticles"
             }
         ],
-        "categories": ["2;All SkyBlock", "4;Recommended SkyBlock", "5;All PvP", "6;Recommended PvP"],
+        "categories": [
+            "2;All SkyBlock",
+            "4;Recommended SkyBlock",
+            "5;All PvP",
+            "6;Recommended PvP"
+        ],
         "file": "OverflowParticles-1.8.9-forge-1.0.1.jar",
         "url": "https://cdn.modrinth.com/data/61g97TVF/versions/N1zHFQp5/OverflowParticles-1.8.9-forge-1.0.1.jar",
         "forge_id": "overflowparticles",
