@@ -618,10 +618,10 @@
             }
         ],
         "categories": ["7;For Creators"],
-        "file": "replaymod-1.8.9-2.6.15.jar",
-        "url": "https://minio.replaymod.com/replaymod/replaymod-1.8.9-2.6.15.jar",
+        "file": "replaymod-1.8.9-2.6.18.jar",
+        "url": "https://minio.replaymod.com/replaymod/replaymod-1.8.9-2.6.18.jar",
         "forge_id": "replaymod",
-        "hash": "31ffc24a2828c5ad536db79ca12adbaa"
+        "hash": "c4d465c7a83b36b5edefa8995dad09cb"
     },
     {
         "id": "blockoverlay",
