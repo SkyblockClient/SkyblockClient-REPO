@@ -340,10 +340,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.9.2.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/31WqxlJC/PolyPatcher-1.8.9-forge-1.9.2.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/PAaTMC1s/PolyPatcher-1.8.9-forge-1.10.0.jar",
         "forge_id": "patcher",
-        "hash": "146f2d2168bd0a0136d1181f69ad37d5",
+        "hash": "4a25ca733951a0822aecf1d341a25b6a",
         "update_to_ids": [
             "vanillahud",
             "chatting",
@@ -385,10 +385,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.9.2.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/31WqxlJC/PolyPatcher-1.8.9-forge-1.9.2.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.0.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/PAaTMC1s/PolyPatcher-1.8.9-forge-1.10.0.jar",
         "forge_id": "patcher",
-        "hash": "146f2d2168bd0a0136d1181f69ad37d5"
+        "hash": "4a25ca733951a0822aecf1d341a25b6a"
     },
     {
         "id": "redirectionor",
@@ -533,10 +533,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils Reborn-1.8.9-forge-1.7.1.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/XlLI1wPx/Hytils%20Reborn-1.8.9-forge-1.7.1.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.7.2.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/Zo7WlW0v/Hytils%20Reborn-1.8.9-forge-1.7.2.jar",
         "forge_id": "hytils-reborn",
-        "hash": "d2ea48673903c44434b29073e3ab2f44"
+        "hash": "309c4ff44975a66754155b8d2dac2b5a"
     },
     {
         "id": "overflowparticles",
@@ -565,10 +565,10 @@
             "5;All PvP",
             "6;Recommended PvP"
         ],
-        "file": "OverflowParticles-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/N1zHFQp5/OverflowParticles-1.8.9-forge-1.0.1.jar",
+        "file": "OverflowParticles-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/61g97TVF/versions/4JC1SCCw/OverflowParticles-1.8.9-forge-1.0.2.jar",
         "forge_id": "overflowparticles",
-        "hash": "95d64b057aaeb5c7b94b2fff533920a3"
+        "hash": "d4f3b23f9c55a9799c6ac28b986f165f"
     },
     {
         "id": "quickjoin",
@@ -688,10 +688,10 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "PolyBlur-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/u0ICKsNV/PolyBlur-1.8.9-forge-1.0.1.jar",
+        "file": "PolyBlur-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/xT45UG5o/versions/w6XrPOU5/PolyBlur-1.8.9-forge-1.0.2.jar",
         "forge_id": "polyblur",
-        "hash": "e769f4c6d6e31b390c8049fe8b62c7f6"
+        "hash": "2c1e080514d6d90b785cd8f0bff4150e"
     },
     {
         "id": "polycrosshair",
@@ -713,10 +713,10 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "PolyCrosshair-1.8.9-forge-1.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/6tbFAXox/PolyCrosshair-1.8.9-forge-1.0.2.jar",
+        "file": "PolyCrosshair-1.8.9-forge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/RzbXCuUy/PolyCrosshair-1.8.9-forge-1.0.3.jar",
         "forge_id": "polycrosshair",
-        "hash": "238f11b8f0223f8bb03668c36b6e8874"
+        "hash": "2eab1eb120298246c3fc7e06de5d2541"
     },
     {
         "id": "polyhitbox",
@@ -740,10 +740,10 @@
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "PolyHitbox-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/Mptc0jo6/versions/E3TLzXH1/PolyHitbox-1.8.9-forge-1.0.1.jar",
+        "file": "PolyHitbox-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/Mptc0jo6/versions/UeroZe4u/PolyHitbox-1.8.9-forge-1.0.2.jar",
         "forge_id": "polyhitbox",
-        "hash": "0b1bef7224ea2cfc5775fc366fe4cec9"
+        "hash": "0752c3566087358c86f20b13743d4855"
     },
     {
         "id": "rawinput",
@@ -1351,10 +1351,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "OverflowAnimations-1.8.9-forge-2.2.2.jar",
-        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/x99qPdUO/OverflowAnimations-1.8.9-forge-2.2.2.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.2.3.jar",
+        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/PTS4vECa/OverflowAnimations-1.8.9-forge-2.2.3.jar",
         "forge_id": "overflowanimations",
-        "hash": "03f97a18e332be52b41eb23dca2b5564"
+        "hash": "7c99740e2ad275c830d8727c6d371420"
     },
     {
         "id": "oam",
@@ -1674,10 +1674,10 @@
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "GlintColorizer-1.8.9-forge-2.0.0.jar",
-        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/UkWDIZMQ/GlintColorizer-1.8.9-forge-2.0.0.jar",
+        "file": "GlintColorizer-1.8.9-forge-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/SevsTfWN/versions/i2vyXyRv/GlintColorizer-1.8.9-forge-2.0.1.jar",
         "forge_id": "glintcolorizer",
-        "hash": "1942dd63ea8290c66a7776a2177c1643"
+        "hash": "4c0d3c11a92db8ee83709b72ee338403"
     },
     {
         "id": "damagetilt",
@@ -2126,10 +2126,10 @@
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.8.9-forge-2.2.8.jar",
-        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/MEihHmNJ/VanillaHUD-1.8.9-forge-2.2.8.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.2.9.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/UbO0wF9X/VanillaHUD-1.8.9-forge-2.2.9.jar",
         "forge_id": "vanillahud",
-        "hash": "1a71cc4f77f1be2fcc0670f9193dd638"
+        "hash": "4b7eb545effa4a99e08e78ebc40df01e"
     },
     {
         "id": "itlt",
