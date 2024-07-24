@@ -2042,10 +2042,10 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.8.9-forge-2.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/IUGcAISO/Chatting-1.8.9-forge-2.0.4.jar",
+        "file": "Chatting-1.8.9-forge-2.0.5.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/Ta3InC1A/Chatting-1.8.9-forge-2.0.5.jar",
         "forge_id": "chatting",
-        "hash": "cb069ccf95b3da7545057de2abb71e48"
+        "hash": "71d20ab16250ad3456a0a28403f91bb4"
     },
     {
         "id": "polynametag",
