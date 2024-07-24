@@ -268,10 +268,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyClient-Updater-1.8.9-forge-1.3.9.jar",
-        "url": "https://cdn.modrinth.com/data/4JT4oKKX/versions/tTdZ5DJt/SkyClient-Updater-1.8.9-forge-1.3.9.jar",
+        "file": "SkyClient-Updater-1.8.9-forge-1.3.10.jar",
+        "url": "https://cdn.modrinth.com/data/4JT4oKKX/versions/HKdrvlZN/SkyClient-Updater-1.8.9-forge-1.3.10.jar",
         "forge_id": "skyblockclientupdater",
-        "hash": "5b8896064367e9fe098000af375a0a60"
+        "hash": "44d0420c959af8946a7e64a68724dedc"
     },
     {
         "id": "scc",
