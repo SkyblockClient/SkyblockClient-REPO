@@ -702,10 +702,10 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "PolyCrosshair-1.8.9-forge-1.0.4.jar",
-        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/Vc3uembG/PolyCrosshair-1.8.9-forge-1.0.4.jar",
+        "file": "PolyCrosshair-1.8.9-forge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/RzbXCuUy/PolyCrosshair-1.8.9-forge-1.0.3.jar",
         "forge_id": "polycrosshair",
-        "hash": "af773b7f121fbc9d90ac5fd473a2a5b8"
+        "hash": "2eab1eb120298246c3fc7e06de5d2541"
     },
     {
         "id": "polyhitbox",
