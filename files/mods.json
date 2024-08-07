@@ -153,11 +153,11 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "EvergreenHUD-1.8.9-forge-2.1.6.jar",
-        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/aH2wA9EP/EvergreenHUD-1.8.9-forge-2.1.6.jar",
+        "file": "EvergreenHUD-1.8.9-forge-2.1.7.jar",
+        "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/YAwKwEPz/EvergreenHUD-1.8.9-forge-2.1.7.jar",
         "forge_id": "evergreenhud",
         "packages": ["potioneffects", "polyfrostkeystrokes"],
-        "hash": "149e6596d43615d726f08a5aa5546f86"
+        "hash": "87dbae6bed2bab940eb44220ada193d4"
     },
     {
         "id": "antidreamskin",
@@ -340,10 +340,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.10.0.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/PAaTMC1s/PolyPatcher-1.8.9-forge-1.10.0.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/gjk64Z2I/PolyPatcher-1.8.9-forge-1.10.1.jar",
         "forge_id": "patcher",
-        "hash": "4a25ca733951a0822aecf1d341a25b6a",
+        "hash": "7a98383ee3455d5b5bf21b40ea309f34",
         "update_to_ids": [
             "vanillahud",
             "chatting",
@@ -385,10 +385,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.10.0.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/PAaTMC1s/PolyPatcher-1.8.9-forge-1.10.0.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.1.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/gjk64Z2I/PolyPatcher-1.8.9-forge-1.10.1.jar",
         "forge_id": "patcher",
-        "hash": "4a25ca733951a0822aecf1d341a25b6a"
+        "hash": "7a98383ee3455d5b5bf21b40ea309f34"
     },
     {
         "id": "redirectionor",
@@ -533,10 +533,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils Reborn-1.8.9-forge-1.7.2.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/Zo7WlW0v/Hytils%20Reborn-1.8.9-forge-1.7.2.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.7.3.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/PdC5hILn/Hytils%20Reborn-1.8.9-forge-1.7.3.jar",
         "forge_id": "hytils-reborn",
-        "hash": "309c4ff44975a66754155b8d2dac2b5a"
+        "hash": "c45ab12b44c85218cc5728cec32073b8"
     },
     {
         "id": "overflowparticles",
@@ -713,10 +713,10 @@
             }
         ],
         "categories": ["5;All PvP", "6;Recommended PvP"],
-        "file": "PolyCrosshair-1.8.9-forge-1.0.3.jar",
-        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/RzbXCuUy/PolyCrosshair-1.8.9-forge-1.0.3.jar",
+        "file": "PolyCrosshair-1.8.9-forge-1.0.4.jar",
+        "url": "https://cdn.modrinth.com/data/obfJASPU/versions/Vc3uembG/PolyCrosshair-1.8.9-forge-1.0.4.jar",
         "forge_id": "polycrosshair",
-        "hash": "2eab1eb120298246c3fc7e06de5d2541"
+        "hash": "af773b7f121fbc9d90ac5fd473a2a5b8"
     },
     {
         "id": "polyhitbox",
@@ -740,10 +740,10 @@
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "PolyHitbox-1.8.9-forge-1.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/Mptc0jo6/versions/UeroZe4u/PolyHitbox-1.8.9-forge-1.0.2.jar",
+        "file": "PolyHitbox-1.8.9-forge-1.0.3.jar",
+        "url": "https://cdn.modrinth.com/data/Mptc0jo6/versions/tr8Mtf06/PolyHitbox-1.8.9-forge-1.0.3.jar",
         "forge_id": "polyhitbox",
-        "hash": "0752c3566087358c86f20b13743d4855"
+        "hash": "f23e0cf763ded061968ac2aa076d31c0"
     },
     {
         "id": "rawinput",
@@ -1351,10 +1351,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "OverflowAnimations-1.8.9-forge-2.2.4.jar",
-        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/bVotDVDh/OverflowAnimations-1.8.9-forge-2.2.4.jar",
+        "file": "OverflowAnimations-1.8.9-forge-2.2.5.jar",
+        "url": "https://cdn.modrinth.com/data/4Hfmgaef/versions/elKb2H82/OverflowAnimations-1.8.9-forge-2.2.5.jar",
         "forge_id": "overflowanimations",
-        "hash": "0987705c7cfa48a322daee040b549974"
+        "hash": "8c74ce04dd4d523fe2780c324b79e1c6"
     },
     {
         "id": "oam",
@@ -2042,10 +2042,10 @@
             }
         ],
         "hidden": true,
-        "file": "Chatting-1.8.9-forge-2.0.5.jar",
-        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/Ta3InC1A/Chatting-1.8.9-forge-2.0.5.jar",
+        "file": "Chatting-1.8.9-forge-2.0.6.jar",
+        "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/TaaTviAI/Chatting-1.8.9-forge-2.0.6.jar",
         "forge_id": "chatting",
-        "hash": "71d20ab16250ad3456a0a28403f91bb4"
+        "hash": "c1e54f27a1ece05b69c98d65c5c4dcc8"
     },
     {
         "id": "polynametag",
@@ -2067,10 +2067,10 @@
             }
         ],
         "hidden": true,
-        "file": "PolyNametag-1.8.9-forge-1.0.6.jar",
-        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/wIn06tSZ/PolyNametag-1.8.9-forge-1.0.6.jar",
+        "file": "PolyNametag-1.8.9-forge-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/q3xkmQ3N/PolyNametag-1.8.9-forge-1.0.7.jar",
         "forge_id": "polynametag",
-        "hash": "05b8a9dce9e43df05ffb3fd379aeea5f"
+        "hash": "4831eaa18a0a6040530c91f7a1fe0535"
     },
     {
         "id": "reportplus",
@@ -2126,10 +2126,10 @@
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.8.9-forge-2.2.9.jar",
-        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/UbO0wF9X/VanillaHUD-1.8.9-forge-2.2.9.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.2.10.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/ZdUSjjkc/VanillaHUD-1.8.9-forge-2.2.10.jar",
         "forge_id": "vanillahud",
-        "hash": "4b7eb545effa4a99e08e78ebc40df01e"
+        "hash": "183f110f54d74d3b0fa52bffb8cf8a31"
     },
     {
         "id": "itlt",
@@ -2193,10 +2193,10 @@
             }
         ],
         "hidden": true,
-        "file": "BehindYouV3-1.8.9-forge-3.2.1.jar",
-        "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/Pp8bFOS8/BehindYouV3-1.8.9-forge-3.2.1.jar",
+        "file": "BehindYouV3-1.8.9-forge-3.2.2.jar",
+        "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/cq1UuFm5/BehindYouV3-1.8.9-forge-3.2.2.jar",
         "forge_id": "behindyouv3",
-        "hash": "9ff4dad6c011be8f0bbdcdbbf9321a3a"
+        "hash": "76d616291089384cc99649a37815520f"
     },
     {
         "id": "sk1er_keystrokes",
