@@ -98,11 +98,6 @@
                 "icon": "tgb_icon.png",
                 "text": "RewardClaim",
                 "link": "https://discord.gg/jRhkYFmpCa"
-            },
-            {
-                "icon": "tgb_icon.png",
-                "text": "Report+",
-                "link": "https://discord.gg/jRhkYFmpCa"
             }
         ],
         "categories": ["1;Recommended"],
@@ -113,8 +108,7 @@
             "vanillahud",
             "chatting",
             "polynametag",
-            "rc",
-            "reportplus"
+            "rc"
         ],
         "hash": "a0855299552a5d166386bd75b5fad90e"
     },
@@ -2071,20 +2065,6 @@
         "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/q3xkmQ3N/PolyNametag-1.8.9-forge-1.0.7.jar",
         "forge_id": "polynametag",
         "hash": "4831eaa18a0a6040530c91f7a1fe0535"
-    },
-    {
-        "id": "reportplus",
-        "nicknames": ["report"],
-        "display": "ReportPlus",
-        "creator": "ThatGravyBoat",
-        "discordcode": "wQfFucgHTX",
-        "command": "/reportplus",
-        "description": "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple. ",
-        "hidden": true,
-        "file": "ReportPlus-1.0.2.jar",
-        "url": "https://cdn.modrinth.com/data/HTtbeLVT/versions/TU3Qf6fn/ReportPlus-1.0.2.jar",
-        "forge_id": "reportplus",
-        "hash": "d67cd267d947888fc620e5f8c6d8caf0"
     },
     {
         "id": "sidebarmod",
