@@ -1070,11 +1070,11 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "Apec-1.8.9-forge-1.12.0.jar",
+        "file": "Apec-1.8.9-forge-1.12.2.jar",
         "files": ["config/Apec/Settings.txt"],
-        "url": "https://mediafilez.forgecdn.net/files/5624/719/Apec-1.8.9-forge-1.12.0.jar",
+        "url": "https://github.com/BananaFructa/Apec/releases/download/1.12.2/Apec-1.8.9-forge-1.12.2.jar",
         "forge_id": "apec",
-        "hash": "7a15576b8b1ff2ee1c5d9a02bf48c24b"
+        "hash": "71593b38492b767a3dada635f6922d6c"
     },
     {
         "id": "cowlection",
