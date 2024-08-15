@@ -578,10 +578,10 @@
                 "link": "https://modrinth.com/mod/quickjoin"
             }
         ],
-        "file": "QuickJoin-1.8.9-forge-2.5.jar",
-        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/4zpkF1pa/QuickJoin-1.8.9-forge-2.5.jar",
+        "file": "QuickJoin-1.8.9-forge-2.6.jar",
+        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/MoD1dayV/QuickJoin-1.8.9-forge-2.6.jar",
         "forge_id": "quickjoin",
-        "hash": "26270623ce50aeb2363a7e48381a789f"
+        "hash": "a3a44f2f5a9dd486bb4f4716499b6096"
     },
     {
         "id": "replaymod",
