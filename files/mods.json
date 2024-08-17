@@ -1187,10 +1187,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "BazaarNotifier-1.7.3.jar",
-        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.3/BazaarNotifier-1.7.3.jar",
+        "file": "BazaarNotifier-1.7.4.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.4/BazaarNotifier-1.7.4.jar",
         "forge_id": "BazaarNotifier",
-        "hash": "16667f97221743a04baab41ac103e399"
+        "hash": "03c8a3a94b177f3c60db0b13a1e15b90"
     },
     {
         "id": "skyguide",
