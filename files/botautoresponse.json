@@ -50,6 +50,10 @@
         "response": "Use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8. Download here: https://modrinth.com/mod/animations"
     },
     {
+        "triggers": ["dulkir"],
+        "response": "If you want custom animations, use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8 which allows for both simple and advanced custom animations. Download here: https://modrinth.com/mod/animations"
+    },
+    {
         "triggers": ["tessellating block model"],
         "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
     },
