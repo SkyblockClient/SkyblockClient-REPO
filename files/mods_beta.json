@@ -33,37 +33,5 @@
         "url": "https://cdn.modrinth.com/data/jlWHBQtc/versions/lSQRVxde/Partly%20Sane%20Skies-beta-v0.6.2-prerelease-5.jar",
         "forge_id": "partlysaneskies",
         "hash": "91c55efd33ec0e5c4cbefb1b4bcd290a"
-    },
-    {
-        "id": "dg",
-        "nicknames": ["dungeonsguide", "dg"],
-        "display": "Dungeons Guide",
-        "creator": "Syeyoung",
-        "discordcode": "dg",
-        "command": "/dg",
-        "description": "Adds many dungeons-related features, like secret pathfinding.",
-        "icon": "dungeonsguide.png",
-        "icon_scaling": "pixel",
-        "actions": [
-            {
-                "method": "hover",
-                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md?raw=true"
-            },
-            {
-                "icon": "guide.png",
-                "text": "Guide",
-                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/dungeonsguide.md"
-            },
-            {
-                "icon": "github.png",
-                "text": "Github",
-                "link": "https://github.com/cyoung06/Skyblock-Dungeons-Guide"
-            }
-        ],
-        "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta11.0-standalone.jar",
-        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/kCR5634S/dungeonsguide-4.0.0-beta11.0-standalone.jar",
-        "forge_id": "dungeons_guide_loader",
-        "hash": "299fe3edaa7a8df9ea66c0da2b0507f2"
     }
 ]
