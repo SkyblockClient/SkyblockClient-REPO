@@ -808,10 +808,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyblockAddons-1.9.0-beta.15+344-for-MC-1.8.9.jar",
-        "url": "https://cdn.modrinth.com/data/F35D4vTL/versions/MkwUQwEh/SkyblockAddons-1.9.0-beta.15%2B344-for-MC-1.8.9.jar",
+        "file": "SkyblockAddons-1.9.0-beta.16+366-for-MC-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/F35D4vTL/versions/Ka64unSw/SkyblockAddons-1.9.0-beta.16%2B366-for-MC-1.8.9.jar",
         "forge_id": "sbaunofficial",
-        "hash": "0d5dd31cef5dd36999fb6611b6009cf5"
+        "hash": "285870a08066c51279a1fe7a24edc6bc"
     },
     {
         "id": "fancywarpmenu",
