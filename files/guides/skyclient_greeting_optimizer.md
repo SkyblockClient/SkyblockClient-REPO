@@ -69,4 +69,4 @@ Despite the name, this actually decreases FPS substantially most of the time and
 - Turns on Player Backface Culling
 - Sets Open To LAN Replacement to "Server List" (replaces Open to LAN with Server List)
 
-A full explanation of these Patcher settings can be found here: https://github.com/Sk1erLLC/Patcher/blob/master/README.md
+A full explanation of these Patcher settings can be found here: https://github.com/Polyfrost/PolyPatcher/blob/master/README.md
