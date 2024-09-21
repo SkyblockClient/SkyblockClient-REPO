@@ -788,10 +788,6 @@
         "icon": "sba.png",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
-            },
-            {
                 "icon": "guide.png",
                 "text": "Guide",
                 "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md"
@@ -805,6 +801,11 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Fix3dll/SkyblockAddons"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/skyblockaddons-unofficial"
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
