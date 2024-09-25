@@ -391,9 +391,9 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/b5Sv9RgC/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lOVERLAY%C2%A78.zip",
-        "file": "FurfSky Reborn OV [1.7.3].zip",
-        "hash": "4ec29aa54150bb156fee2d80bb47adc0"
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/96BcgmJm/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lOVERLAY%C2%A78.zip",
+        "file": "§aFurfSky Reborn §8§lOVERLAY§8.zip",
+        "hash": "eefa0c9545e902f3f70c2cae8eb2611c"
     },
     {
         "id": "fsr_full",
@@ -422,7 +422,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/Z3n2pUrH/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lFULL%C2%A78.zip",
-        "file": "§aFurfSky Reborn §8§lFULL§8.zip",
+        "file": "Â§aFurfSky Reborn Â§8Â§lFULLÂ§8.zip",
         "hash": "ac1f5733ef8bf4e9342943a81f71a130"
     },
     {
