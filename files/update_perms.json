@@ -1,4 +1,5 @@
 {
+    "mods": {
     "332836587576492033": {
         "github": "cyoung06",
         "mods": {
@@ -53,5 +54,6 @@
         "mods": {
             "quickjoin": "approve"
         }
+    }
     }
 }
