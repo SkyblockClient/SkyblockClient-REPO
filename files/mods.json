@@ -1794,10 +1794,10 @@
                 "link": "https://modrinth.com/mod/resourcify"
             }
         ],
-        "file": "Resourcify (1.8.9-forge)-1.4.1.jar",
-        "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/J5kKOmBz/Resourcify%20%281.8.9-forge%29-1.4.1.jar",
+        "file": "Resourcify (1.8.9-forge)-1.5.0.jar",
+        "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/gBZHFhxi/Resourcify%20(1.8.9-forge)-1.5.0.jar",
         "forge_id": "resourcify",
-        "hash": "7e850a4739f59824eb959064c4606086"
+        "hash": "d708812c7242e6609e64748a2c26b0bd"
     },
     {
         "id": "controlling",
