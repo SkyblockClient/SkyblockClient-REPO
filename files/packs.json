@@ -175,9 +175,9 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "file": "Hypixel+ 0.20.4 for 1.8.9.zip",
-        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/kRfLkbxu/Hypixel%2B%200.20.4%20for%201.8.9.zip",
-        "hash": "fa516588ad3b97abef4a673196935ebb"
+        "file": "Hypixel+ 0.20.7 for 1.8.9.zip",
+        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/C1xuVki1/Hypixel%2B%200.20.7%20for%201.8.9.zip",
+        "hash": "8563954622127f019142272e70e4039d"
     },
     {
         "id": "hsb",
@@ -391,8 +391,8 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/96BcgmJm/§aFurfSky%20Reborn%20§8§lOVERLAY§8.zip",
-        "file": "§aFurfSky Reborn §8§lOVERLAY§8.zip",
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/96BcgmJm/Â§aFurfSky%20Reborn%20Â§8Â§lOVERLAYÂ§8.zip",
+        "file": "Â§aFurfSky Reborn Â§8Â§lOVERLAYÂ§8.zip",
         "hash": "eefa0c9545e902f3f70c2cae8eb2611c"
     },
     {
@@ -422,7 +422,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/Z3n2pUrH/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lFULL%C2%A78.zip",
-        "file": "Â§aFurfSky Reborn Â§8Â§lFULLÂ§8.zip",
+        "file": "ÃÂ§aFurfSky Reborn ÃÂ§8ÃÂ§lFULLÃÂ§8.zip",
         "hash": "ac1f5733ef8bf4e9342943a81f71a130"
     },
     {
