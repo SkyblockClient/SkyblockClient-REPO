@@ -6,7 +6,7 @@
         "description": "Adds custom textures to most Hypixel Skyblock mobs for a more immersive experience.",
         "icon": "mob packet.png",
         "screenshot": "https://i.imgur.com/k2c3s2Cm.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/mobpacket.md"
@@ -27,7 +27,7 @@
         "icon": "dungeon texturepack 1024x.png",
         "icon_scaling": "pixel",
         "screenshot": "https://i.imgur.com/x6V1ko8.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
@@ -43,7 +43,7 @@
         "id": "actuallycompliment",
         "display": "Compliment",
         "creator": "Motor",
-        "discordcode": "ABHrh6K3Fh",
+        "discord_code": "ABHrh6K3Fh",
         "description": "Backports new item textures from 1.9 and above into 1.8 using OptiFine CIT to enrich your SkyBlock experience all while fitting in with default 1.14 textures.",
         "icon": "compliment.png",
         "icon_scaling": "pixel",
@@ -57,7 +57,7 @@
         "id": "actuallymobs",
         "display": "ActuallyMobs v0.1",
         "creator": "Motor",
-        "discordcode": "ABHrh6K3Fh",
+        "discord_code": "ABHrh6K3Fh",
         "description": "Quality retextures for Skyblock mobs.",
         "icon": "actuallymobs.png",
         "icon_scaling": "pixel",
@@ -70,12 +70,12 @@
         "id": "dwarvenassets",
         "display": "DwarvenAssets",
         "creator": "Motor & nacrt",
-        "discordcode": "ABHrh6K3Fh",
+        "discord_code": "ABHrh6K3Fh",
         "description": "Retextures mithril veins in the Dwarven Mines to give your game a more custom feel.",
         "icon": "da.png",
         "icon_scaling": "pixel",
         "screenshot": "https://raw.githubusercontent.com/ActuallyAssets/DwarvenAssets/master/SCREENSHOTS/3.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
@@ -94,7 +94,7 @@
         "description": "A mashup of a lot of different packs. All textures used from other packs have been revamped or converted from 16x to 32x.",
         "icon": "xcyni.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-forums-texture-pack-items-png.2927894/",
-        "actions": [
+        "links": [
             { "text": "Forum", "link": "https://hypixel.net/threads/3379991/" }
         ],
         "categories": ["1;All Skyblock"],
@@ -106,12 +106,12 @@
         "id": "rnbw",
         "display": "RNBW+ 16x",
         "creator": "Rainbowcraft2",
-        "discordcode": "dcdsnvG4Q4",
+        "discord_code": "dcdsnvG4Q4",
         "description": "An extension to Vanilla+.",
         "icon": "rnbw.png",
         "icon_scaling": "pixel",
         "screenshot": "https://i.imgur.com/wYgKDcxm.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/rnbw.md"
@@ -130,7 +130,7 @@
         "description": "A new Skyblock pack that aims to retexture every item in Skyblock in a fresh, unique style.",
         "icon": "nameless.png",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/Nameless [Alpha 5].zip.png",
-        "actions": [
+        "links": [
             { "text": "Forum", "link": "https://hypixel.net/threads/4189235/" },
             {
                 "text": "Discord",
@@ -161,7 +161,7 @@
         "description": "A 16x pack with a fresh look that changes textures not only in Skyblock.",
         "icon": "hypixelplus.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-new-items-png.2986247/",
-        "actions": [
+        "links": [
             { "text": "Forum", "link": "https://hypixel.net/threads/4174260/" },
             {
                 "text": "Discord",
@@ -187,7 +187,7 @@
         "icon": "hsb.png",
         "icon_scaling": "pixel",
         "screenshot": "https://hypixel.net/attachments/armor_preview-jpg.2112107/",
-        "actions": [
+        "links": [
             { "text": "Forum", "link": "https://hypixel.net/threads/3527502/" }
         ],
         "categories": ["1;All Skyblock"],
@@ -202,7 +202,7 @@
         "description": "Created by a resource pack modeler from Wynncraft, aiming to bring the renowned Wynncraft art style to Hypixel's Skyblock.",
         "icon": "kmp.png",
         "screenshot": "https://hypixel.net/attachments/kios-model-pack3-png.2251777/",
-        "actions": [
+        "links": [
             { "text": "Forum", "link": "https://hypixel.net/threads/3604212/" }
         ],
         "categories": ["1;All Skyblock"],
@@ -214,11 +214,11 @@
         "id": "worldsandbeyond",
         "display": "Worlds and Beyond 16x",
         "creator": "Skeletony",
-        "discordcode": "BtAYyxf3W8",
+        "discord_code": "BtAYyxf3W8",
         "description": "A WIP pack with unique textures for Skyblock items, swords, bows, armors, everything. Includes a revamped vanilla GUI to spice up your gameplay.",
         "icon": "worldsandbeyond.png",
         "screenshot": "https://hypixel.net/attachments/misc-items-showcase-png.2340224/",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
@@ -234,10 +234,10 @@
         "id": "sbov",
         "display": "SkyblockOverhaul",
         "creator": "Stef, Saikage, sporkspoon, and Nealkitt",
-        "discordcode": "uwy3rwPpmV",
+        "discord_code": "uwy3rwPpmV",
         "description": "Includes completely overhauled textures of the items in Skyblock, featuring textures with intricate colors and designs.",
         "icon": "sbov.png",
-        "actions": [
+        "links": [
             {
                 "text": "Discord",
                 "icon": "discord icon.png",
@@ -253,11 +253,11 @@
         "id": "hqdark",
         "display": "PacksHQ Dark UI",
         "creator": "Packs HQ Team",
-        "discordcode": "KwvMQ4T",
+        "discord_code": "KwvMQ4T",
         "description": "The famous PacksHQ Skyblock pack but with a dark UI, how cool is that.",
         "icon": "phq dark overlay.png",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
-        "actions": [
+        "links": [
             { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
             {
                 "icon": "packshq.png",
@@ -274,11 +274,11 @@
         "id": "essentialtheme",
         "display": "Essential Theme",
         "creator": "Reforced",
-        "discordcode": "aqSEzgWnYy",
+        "discord_code": "aqSEzgWnYy",
         "description": "A pack incorporating Essential's coloring.",
         "icon": "essentialtheme.png",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/essential-preview.png",
-        "actions": [
+        "links": [
             {
                 "icon": "discordsmall.png",
                 "text": "Discord",
@@ -294,11 +294,11 @@
         "id": "hq16f",
         "display": "Packs HQ v14.1 16x",
         "creator": "Packs HQ Team",
-        "discordcode": "KwvMQ4T",
+        "discord_code": "KwvMQ4T",
         "description": "Packs HQ Skyblock Pack 16x. Standalone",
         "icon": "packshq.png",
         "screenshot": "https://cdn.discordapp.com/attachments/788805365810462750/789217807282995220/items.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/packshq.md"
@@ -318,11 +318,11 @@
         "id": "hq32f",
         "display": "Packs HQ v13 32x",
         "creator": "ImperiaL",
-        "discordcode": "KwvMQ4T",
+        "discord_code": "KwvMQ4T",
         "description": "Packs HQ Skyblock Pack 32x. Use standalone and in combination with Faithful.",
         "icon": "packshq.png",
         "screenshot": "https://cdn.discordapp.com/attachments/788805365810462750/789217807282995220/items.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/packshq.md"
@@ -343,12 +343,12 @@
         "id": "actuallyassets",
         "display": "ActuallyAssets v1.8.1 16x",
         "creator": "Motor",
-        "discordcode": "ABHrh6K3Fh",
+        "discord_code": "ABHrh6K3Fh",
         "description": "A simple Skyblock pack keeping with the normal Minecraft theme.",
         "icon": "actuallyassets.png",
         "icon_scaling": "pixel",
         "screenshot": "https://i.imgur.com/ZAkUNb1.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
@@ -369,11 +369,11 @@
         "id": "fsr",
         "display": "FurfSky Reborn 16x (items)",
         "creator": "FurfSky Reborn Team",
-        "discordcode": "jMPnPnUEAS",
+        "discord_code": "jMPnPnUEAS",
         "description": "Continuation of the famous FurfSky+, with even more textures. This version is an overlay that only textures items, so you can combine it with other packs.",
         "icon": "fsr.png",
         "screenshot": "https://cdn.discordapp.com/attachments/887818760126345246/981021850018660372/unknown.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/furfreborn.md"
@@ -399,11 +399,11 @@
         "id": "fsr_full",
         "display": "FurfSky Reborn 16x (full)",
         "creator": "FurfSky Reborn Team",
-        "discordcode": "jMPnPnUEAS",
+        "discord_code": "jMPnPnUEAS",
         "description": "Continuation of the famous FurfSky+, with even more textures. This version fully textures the UI.",
         "icon": "fsr.png",
         "screenshot": "https://cdn.discordapp.com/attachments/887818760126345246/981021850018660372/unknown.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/furfreborn.md"
@@ -433,7 +433,7 @@
         "icon": "smol_icons.png",
         "icon_scaling": "pixel",
         "screenshot": "https://hypixel.net/attachments/after-png.2680207/",
-        "actions": [
+        "links": [
             {
                 "text": "Forum",
                 "link": "https://hypixel.net/threads/1-8-9-smoll-icons-3.3766938/"
@@ -468,7 +468,7 @@
         "creator": "Qwuiblington & Motor",
         "description": "A backport of 1.14 default textures, so you can use them in older versions.",
         "icon": "default.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/1.14backport.md"
@@ -489,7 +489,7 @@
         "creator": "Faithful Team",
         "description": "Upscales the original 1.8.9 textures, keeping the base feel.",
         "icon": "compliance team logo.png",
-        "actions": [
+        "links": [
             {
                 "icon": "compliance team logo.png",
                 "text": "Website",
@@ -505,12 +505,12 @@
         "id": "fishfault",
         "display": "Fishfault",
         "creator": "Sean0806",
-        "discordcode": "e4Nm95u9ys",
+        "discord_code": "e4Nm95u9ys",
         "description": "The Ultimate Hypixel Texture Pack.",
         "icon": "fishfault.png",
         "icon_scaling": "pixel",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/fishfault-preview.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/fishfault.md"
@@ -525,11 +525,11 @@
         "id": "beheaded",
         "display": "Beheaded",
         "creator": "Motor",
-        "discordcode": "uxmruk7rtp",
+        "discord_code": "uxmruk7rtp",
         "description": "Replaces Skyblock items represented by heads with vanilla item counterparts.",
         "icon": "beheaded.png",
         "screenshot": "https://hypixel.net/attachments/screen-shot-2022-05-21-at-12-27-41-pm-png.2991039/",
-        "actions": [
+        "links": [
             {
                 "icon": "forum.png",
                 "text": "Forum",
@@ -545,11 +545,11 @@
         "id": "sakamata_weeb",
         "display": "Sakamata 16x (weeb sky version)",
         "creator": "zshyne",
-        "discordcode": "kZnYxCMjuJ",
+        "discord_code": "kZnYxCMjuJ",
         "description": "One of the many 16x texture packs by zshyne. Note that this version features a distinct character in the night sky.",
         "icon": "sakamata.png",
         "screenshot": "https://i.ytimg.com/vi_webp/Zx35OqumEp4/maxresdefault.webp",
-        "actions": [
+        "links": [
             {
                 "icon": "youtube.png",
                 "text": "YouTube",
@@ -574,11 +574,11 @@
         "id": "sakamata_noweeb",
         "display": "Sakamata 16x (normal sky version)",
         "creator": "zshyne",
-        "discordcode": "kZnYxCMjuJ",
+        "discord_code": "kZnYxCMjuJ",
         "description": "One of the many 16x texture packs by zshyne. Note that this version has a plain night sky.",
         "icon": "sakamata.png",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/sakamata-preview.png",
-        "actions": [
+        "links": [
             {
                 "icon": "youtube.png",
                 "text": "YouTube",
@@ -603,7 +603,7 @@
         "id": "actuallymobpacket",
         "display": "ActuallyPacket v0.1",
         "creator": "Motor",
-        "discordcode": "ABHrh6K3Fh",
+        "discord_code": "ABHrh6K3Fh",
         "description": "Branch of Mob Packet with ActuallyMobs textures.",
         "icon": "actuallyassets.png",
         "icon_scaling": "pixel",
@@ -620,7 +620,7 @@
         "description": "Resource Pack for the SBCustomMobTex Mod.",
         "icon": "skymobs.png",
         "icon_scaling": "pixel",
-        "actions": [
+        "links": [
             {
                 "text": "Github",
                 "link": "https://github.com/Moulberry/SBCustomMobTex/blob/master/SkyMobs.zip"
@@ -638,7 +638,7 @@
         "creator": "vTay",
         "description": "vTays's mix of different Skyblock packs. In vTays' terms, \"A refreshing taste of Skyblock texture packs\"",
         "icon": "vtays.png",
-        "actions": [
+        "links": [
             {
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
