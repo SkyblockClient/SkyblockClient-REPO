@@ -290,6 +290,7 @@
     "command": "/bazaarnotifier",
     "description": "Helps with tracking buy/sell order movements in the Bazaar.",
     "icon": "meyi.png",
+    "oneconfig": true,
     "actions": [
       {
         "icon": "github.png",
@@ -425,6 +426,7 @@
     "command": "/potioneffects",
     "description": "Display your active potion effects!",
     "icon": "tellinq.png",
+    "oneconfig": true,
     "actions": [
       {
         "icon": "github.png",
