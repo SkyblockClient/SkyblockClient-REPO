@@ -1,0 +1,667 @@
+[
+  {
+    "id": "scrollabletooltips",
+    "nicknames": ["text_overflow_scroll"],
+    "display": "Scrollable Tooltips",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
+    "description": "Adds utilities for scrolling through tooltips.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "monkey.png",
+        "text": "Scrollable Tooltips",
+        "link": "https://sk1er.club/mods/text_overflow_scroll"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.4",
+        "mc_versions": ["1.8.9"],
+        "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
+        "hash": "05cc200b46c6eea4d918300aacd74ea1"
+      }
+    ],
+    "forge_id": "text_overflow_scroll"
+  },
+  {
+    "id": "antidreamskin",
+    "nicknames": ["insomnia"],
+    "display": "Anti-Dream Skin",
+    "creator": "Moulberry",
+    "discordcode": "moulberry",
+    "command": "/insomnia on/off",
+    "actions": [
+      {
+        "icon": "moulberrys bush.png",
+        "text": "Anti Dream Skin",
+        "link": "https://youtu.be/bZxXrt0T4Lc"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "mc_versions": ["1.8.9"],
+        "file": "Insomnia-1.0-REL.jar",
+        "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+        "hash": "16e4fa2d54f32a2008cd0d1999d9c842"
+      }
+    ],
+    "forge_id": "insomnia"
+  },
+  {
+    "id": "optifine",
+    "nicknames": ["of"],
+    "display": "OptiFine",
+    "creator": "sp614x",
+    "discordcode": "xGVXsgbbSt",
+    "description": "Improves your game performance and lets you configure the graphics. Required by most mods and texture packs.",
+    "icon": "optifine.png",
+    "icon_scaling": "pixel",
+    "actions": [
+      {
+        "icon": "optifine.png",
+        "text": "Website",
+        "link": "https://optifine.net/home"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.8.9 HD_U_M6_pre2",
+        "mc_versions": ["1.8.9"],
+        "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+        "hash": "7372b982a428656b7a1029c5b42cbf3d"
+      }
+    ]
+  },
+  {
+    "id": "blockoverlay",
+    "display": "Block Overlay",
+    "creator": "Aycy",
+    "description": "Adds a customizable overlay on blocks.",
+    "icon": "aycy.jpg",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "Showcase",
+        "link": "https://www.youtube.com/watch?v=7B8v384K0fM"
+      }
+    ],
+    "versions": [
+      {
+        "version": "4.0.3",
+        "mc_versions": ["1.8.9"],
+        "file": "Block_Overlay_4.0.3.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/Block_Overlay_4.0.3.jar",
+        "hash": "b41e79d2d5f817e94a3498929411cdfc"
+      }
+    ],
+    "forge_id": "blockoverlay"
+  },
+  {
+    "id": "nick_hider",
+    "nicknames": ["nickhider"],
+    "display": "Nick Hider",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
+    "command": "/nickhider",
+    "description": "Hides your nick on Hypixel.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/nick_hider"
+      }
+    ],
+    "versions": [
+      {
+        "version": "6.0.2",
+        "mc_versions": ["1.8.9"],
+        "file": "Nick Hider-6.0.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick Hider-6.0.2 (1.8.9).jar",
+        "hash": "241d35b27080934b1e31365686e5b804"
+      }
+    ],
+    "forge_id": "nick_hider"
+  },
+  {
+    "id": "sbhud",
+    "nicknames": ["sbh", "skyblockhud"],
+    "display": "SkyblockHUD",
+    "creator": "ThatGravyBoat",
+    "discordcode": "moulberry",
+    "command": "/sbh",
+    "description": "Enhances Skyblock's HUD, making it feel more like an RPG.",
+    "icon": "sbhlogo.png",
+    "versions": [
+      {
+        "version": "1.17.1",
+        "mc_versions": ["1.8.9"],
+        "file": "SkyblockHud-Reborn-1.17.1.jar",
+        "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar",
+        "hash": "bf445d8cf1a1266635409c59faa5c6e9"
+      }
+    ],
+    "forge_id": "skyblockhud"
+  },
+  {
+    "id": "skytils",
+    "nicknames": ["st", "bsmod"],
+    "display": "Skytils",
+    "creator": "Sychic and Lily",
+    "discordcode": "skytils",
+    "command": "/skytils",
+    "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
+    "icon": "skytils.png",
+    "actions": [
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3856202/"
+      },
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/Skytils/SkytilsMod/releases"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.10.7",
+        "mc_versions": ["1.8.9"],
+        "file": "Skytils-1.10.7.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.7/Skytils-1.10.7.jar",
+        "hash": "4cde884b9176305d8c0cd172a41c96bc"
+      }
+    ],
+    "forge_id": "skytils"
+  },
+  {
+    "id": "cowlection",
+    "nicknames": ["cow", "moo"],
+    "display": "Cowlection",
+    "creator": "Cow",
+    "discordcode": "fU2tFPf",
+    "command": "/moo config",
+    "description": "Provides various Hypixel Skyblock features and enhancements, including log searching and a best friends list.",
+    "icon": "cowlection-logo.png",
+    "icon_scaling": "pixel",
+    "actions": [
+      {
+        "icon": "cowlection-logo.png",
+        "text": "Website",
+        "link": "https://cowtipper.de/"
+      },
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3087259/"
+      },
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/cow-mc/Cowlection/releases"
+      }
+    ],
+    "versions": [
+      {
+        "version": "0.16.1",
+        "mc_versions": ["1.8.9"],
+        "file": "Cowlection-1.8.9-0.16.1.jar",
+        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.16.1/Cowlection-1.8.9-0.16.1.jar",
+        "hash": "32bf168e496e3003cd5fec4849538f45"
+      }
+    ],
+    "forge_id": "cowlection"
+  },
+  {
+    "id": "sbp",
+    "nicknames": ["skyblockpersonalized"],
+    "display": "SkyblockPersonalized",
+    "creator": "Cobble8",
+    "discordcode": "KsqMmBdNBE",
+    "command": "/sbp",
+    "description": "Adds customizable features like disabling messages, automatically teleporting to Garry, etc.",
+    "icon": "sbp.png",
+    "actions": [
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3963451/"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.7.0.0",
+        "mc_versions": ["1.8.9"],
+        "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar",
+        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.7.0.0/1.8.9.SkyblockPersonalized.1.7.0.0.jar",
+        "hash": "69afa1544e61982922af643d5ea99df0"
+      }
+    ],
+    "forge_id": "sbp"
+  },
+  {
+    "id": "drm",
+    "nicknames": ["dungeonrooms", "dr", "digitalrightsmanagement"],
+    "display": "Dungeon Rooms",
+    "creator": "_risk",
+    "discordcode": "7B5RbsArYK",
+    "command": "/room",
+    "description": "Displays information about the dungeon room you are currently in and adds waypoints for secrets.",
+    "icon": "drm.png",
+    "actions": [
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/Quantizr/DungeonRoomsMod"
+      }
+    ],
+    "versions": [
+      {
+        "version": "3.4.1",
+        "mc_versions": ["1.8.9"],
+        "file": "Dungeon_Rooms-3.4.1.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.1/Dungeon_Rooms-3.4.1.jar",
+        "hash": "9ed5b3b1fa71ffc3255c63963be6f54f"
+      }
+    ],
+    "forge_id": "dungeonrooms"
+  },
+  {
+    "id": "bazaarnotifier",
+    "nicknames": ["Bazaar Notifier", "bn"],
+    "display": "BazaarNotifier",
+    "creator": "meyi",
+    "discordcode": "wjpJSVSwvD",
+    "command": "/bazaarnotifier",
+    "description": "Helps with tracking buy/sell order movements in the Bazaar.",
+    "icon": "meyi.png",
+    "actions": [
+      {
+        "icon": "github.png",
+        "text": "GitHub",
+        "link": "https://github.com/symt/BazaarNotifier"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.7.5",
+        "mc_versions": ["1.8.9"],
+        "file": "BazaarNotifier-1.7.5.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.5/BazaarNotifier-1.7.5.jar",
+        "hash": "5f43672698a0fe0c87518262a44ef845"
+      }
+    ],
+    "forge_id": "BazaarNotifier"
+  },
+  {
+    "id": "soundsubtitles",
+    "nicknames": ["subtitles"],
+    "display": "Sound Subtitles",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
+    "command": "/subtitle_config",
+    "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/subtitles_mod"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.2.2",
+        "mc_versions": ["1.8.9"],
+        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "hash": "a60ff71e9e28f45635248f4475f39188"
+      }
+    ],
+    "forge_id": "subtitles_mod"
+  },
+  {
+    "id": "rpm",
+    "nicknames": ["resourcepackmanager"],
+    "display": "Resource Pack Manager",
+    "creator": "Aycy",
+    "description": "Makes the resource pack menu load faster and adds some more useful features.",
+    "icon": "aycy.jpg",
+    "actions": [
+      {
+        "icon": "direct_download.png",
+        "text": "Download",
+        "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/Resource_Pack_Manager_1.2.jar"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.2",
+        "mc_versions": ["1.8.9"],
+        "file": "Resource_Pack_Manager_1.2.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/Resource_Pack_Manager_1.2.jar",
+        "hash": "b334cd4cb15e3610ac47387a66c19dfb"
+      }
+    ],
+    "forge_id": "resourcepackmanager"
+  },
+  {
+    "id": "popup_events",
+    "nicknames": ["popupevents"],
+    "display": "Popup Events",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
+    "command": "/popupevents",
+    "description": "Accept or deny friend, party, and guild invite requests by pressing 'Y' or 'N' on your keyboard.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/popup_events"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.3.2",
+        "mc_versions": ["1.8.9"],
+        "file": "Popup Events-1.3.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
+        "hash": "7c780fa81a62b500d33bb8210bcbc9a0"
+      }
+    ],
+    "forge_id": "popup_events"
+  },
+  {
+    "id": "hypixel_auto_complete",
+    "nicknames": ["autocomplete"],
+    "display": "Hypixel Autocomplete",
+    "creator": "Sk1er LLC",
+    "command": "/hypixelautocomplete",
+    "description": "Hypixel Autocomplete Mod allows you to autocomplete Hypixel commands to player names on your friends list, guild, and local players.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/hypixel_auto_complete"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.1",
+        "mc_versions": ["1.8.9"],
+        "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e"
+      }
+    ],
+    "forge_id": "hypixel_auto_complete"
+  },
+  {
+    "id": "potioneffects",
+    "display": "Potion Effects",
+    "creator": "Tellinq",
+    "command": "/potioneffects",
+    "description": "Display your active potion effects!",
+    "icon": "tellinq.png",
+    "actions": [
+      {
+        "icon": "github.png",
+        "text": "GitHub",
+        "link": "https://github.com/Tellinq/Potion-Effects"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "mc_versions": ["1.8.9"],
+        "file": "Potion_Effects_1.8.9-forge_1.0.jar",
+        "url": "https://github.com/Tellinq/Potion-Effects/releases/download/v1.0/Potion_Effects_1.8.9-forge_1.0.jar",
+        "hash": "c3683ec7cf477258bad924cf7fae1475"
+      }
+    ],
+    "forge_id": "potioneffects"
+  },
+  {
+    "id": "tnttime",
+    "display": "TNT Time",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
+    "description": "TNT Time displays TNT's time until detonation.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "Youtube",
+        "link": "https://www.youtube.com/watch?v=dV3UYspr6jc"
+      },
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/tnttime"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.1",
+        "mc_versions": ["1.8.9"],
+        "file": "TNT Time-1.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
+        "hash": "0319acf44a552bc39c92ff84cec85929"
+      }
+    ],
+    "forge_id": "tnttime"
+  },
+  {
+    "id": "levelhead",
+    "display": "Levelhead",
+    "creator": "Sk1er LLC",
+    "discordcode": "sk1er",
+    "description": "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "Youtube",
+        "link": "https://www.youtube.com/watch?v=LiAaFdyqLho"
+      },
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/level_head"
+      }
+    ],
+    "versions": [
+      {
+        "version": "8.2.2",
+        "mc_versions": ["1.8.9"],
+        "file": "LevelHead-8.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2 (1.8.9).jar",
+        "hash": "640a324f794356b20888fc9b62c542fd"
+      }
+    ],
+    "forge_id": "level_head"
+  },
+  {
+    "id": "autotip",
+    "display": "AutoTip",
+    "creator": "Semx11, 2Pi, Sk1er LLC",
+    "discordcode": "sk1er",
+    "command": "/autotip",
+    "description": "Autotipper for mc.hypixel.net.",
+    "icon": "monkey.png",
+    "actions": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://autotip.pro/"
+      }
+    ],
+    "versions": [
+      {
+        "version": "3.1.1",
+        "mc_versions": ["1.8.9"],
+        "file": "Autotip-3.1.1 (1.8.9_forge).jar",
+        "url": "https://static.sk1er.club/repo/mods/autotip/3.1.1/1.8.9_forge/Autotip-3.1.1%20(1.8.9_forge).jar",
+        "hash": "ba5103aa3f199e9f19dacaa4c4f9a897"
+      }
+    ],
+    "forge_id": "autotip"
+  },
+  {
+    "id": "oofmod",
+    "display": "OofMod",
+    "creator": "Powns, Refraction, Sk1er LLC",
+    "discordcode": "JxK7cwN",
+    "description": "Plays custom sounds when you kill other players.",
+    "icon": "powns.png",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "YouTube",
+        "link": "https://www.youtube.com/watch?v=weqoSxuQdnA"
+      }
+    ],
+    "versions": [
+      {
+        "version": "3.0",
+        "mc_versions": ["1.8.9"],
+        "file": "OofMod-3.0 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
+        "hash": "c91c9f4e1e9c43f4b22e062d3708fe97"
+      }
+    ],
+    "forge_id": "oofmod"
+  },
+  {
+    "id": "pitstats",
+    "nicknames": ["pit"],
+    "display": "Pit Stats",
+    "creator": "mdashlw",
+    "command": "pitstats",
+    "description": "Advanced Stats Viewer for The Hypixel Pit.",
+    "icon": "mdashlw.png",
+    "actions": [
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/mdashlw/pit-stats"
+      },
+      {
+        "icon": "youtube.png",
+        "text": "Showcase",
+        "link": "https://youtu.be/RQRD0_a83fI"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.5.2",
+        "mc_versions": ["1.8.9"],
+        "file": "The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
+        "url": "https://github.com/mdashlw/pit-stats/releases/download/v1.5.2/The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
+        "hash": "23936c569000412659b3d37e9279110d"
+      }
+    ],
+    "forge_id": "pitstats"
+  },
+  {
+    "id": "smartreply",
+    "nicknames": ["smart-reply"],
+    "display": "Smart Reply",
+    "creator": "mdashlw",
+    "command": "smartreply",
+    "description": "A simple mod for Hypixel Network that provides a smarter `/reply` system, so you don't accidentally message a wrong person.",
+    "icon": "mdashlw.png",
+    "actions": [
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/mdashlw/smart-reply"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.1.0",
+        "mc_versions": ["1.8.9"],
+        "file": "SmartReply-1.1.0.jar",
+        "url": "https://github.com/mdashlw/smart-reply/releases/download/v1.1.0/SmartReply-1.1.0.jar",
+        "hash": "3fd8e0cbf24305d13c898c6991c56db7"
+      }
+    ],
+    "forge_id": "smartreply"
+  },
+  {
+    "id": "synthesis",
+    "nicknames": ["synth"],
+    "display": "Synthesis",
+    "creator": "SirDesco, Antonio32A",
+    "description": "A collection of unique QoL features for Skyblock.",
+    "icon": "github.png",
+    "actions": [
+      {
+        "icon": "github.png",
+        "text": "GitHub",
+        "link": "https://github.com/SynthesisMod/Synthesis"
+      }
+    ],
+    "versions": [
+      {
+        "version": "0.3.1",
+        "mc_versions": ["1.8.9"],
+        "file": "Synthesis-0.3.1.jar",
+        "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
+        "hash": "8deff2754507cd57d983dbc563e01a21"
+      }
+    ],
+    "forge_id": "synthesis"
+  },
+  {
+    "id": "arrowpath",
+    "display": "Arrow Path",
+    "creator": "Aycy",
+    "description": "Displays the visual trajectory of arrows.",
+    "icon": "aycy.jpg",
+    "actions": [
+      {
+        "icon": "youtube.png",
+        "text": "Showcase",
+        "link": "https://www.youtube.com/watch?v=f3iP-lzobxk"
+      }
+    ],
+    "versions": [
+      {
+        "version": "v1.0",
+        "mc_versions": [
+          "1.8.9"
+        ],
+        "file": "ArrowPath-v1.0.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/ArrowPath-v1.0.jar",
+        "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
+      }
+    ],
+    "forge_id": "arrowpath"
+  },
+  {
+    "id": "spark_nea189",
+    "nicknames": ["sparkc", "profiler"],
+    "display": "Spark (Unofficial 1.8.9 port)",
+    "creator": "lucko, nea89 (1.8.9 port)",
+    "description": "A performance profiler for Minecraft clients, servers and proxies",
+    "versions": [
+      {
+        "version": "bde4ce2ff",
+        "mc_versions": ["1.8.9"],
+        "file": "spark-forge189-bde4ce2ff-mod.jar",
+        "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/bde4ce2ff/spark-forge189-bde4ce2ff-mod.jar",
+        "hash": "5cba17dd758a5b94961b605d4ef79151"
+      }
+    ],
+    "forge_id": "spark"
+  }
+]
