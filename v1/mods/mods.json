@@ -18,6 +18,7 @@
       {
         "version": "1.4",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
         "hash": "05cc200b46c6eea4d918300aacd74ea1"
@@ -43,6 +44,7 @@
       {
         "version": "1.0",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Insomnia-1.0-REL.jar",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "hash": "16e4fa2d54f32a2008cd0d1999d9c842"
@@ -70,6 +72,7 @@
       {
         "version": "1.8.9 HD_U_M6_pre2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "hash": "7372b982a428656b7a1029c5b42cbf3d"
@@ -93,6 +96,7 @@
       {
         "version": "4.0.3",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Block_Overlay_4.0.3.jar",
         "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/Block_Overlay_4.0.3.jar",
         "hash": "b41e79d2d5f817e94a3498929411cdfc"
@@ -120,6 +124,7 @@
       {
         "version": "6.0.2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Nick Hider-6.0.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick Hider-6.0.2 (1.8.9).jar",
         "hash": "241d35b27080934b1e31365686e5b804"
@@ -140,6 +145,7 @@
       {
         "version": "1.17.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "SkyblockHud-Reborn-1.17.1.jar",
         "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar",
         "hash": "bf445d8cf1a1266635409c59faa5c6e9"
@@ -172,6 +178,7 @@
       {
         "version": "1.10.7",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Skytils-1.10.7.jar",
         "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.7/Skytils-1.10.7.jar",
         "hash": "4cde884b9176305d8c0cd172a41c96bc"
@@ -210,6 +217,7 @@
       {
         "version": "0.16.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Cowlection-1.8.9-0.16.1.jar",
         "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.16.1/Cowlection-1.8.9-0.16.1.jar",
         "hash": "32bf168e496e3003cd5fec4849538f45"
@@ -237,6 +245,7 @@
       {
         "version": "1.7.0.0",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar",
         "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.7.0.0/1.8.9.SkyblockPersonalized.1.7.0.0.jar",
         "hash": "69afa1544e61982922af643d5ea99df0"
@@ -264,6 +273,7 @@
       {
         "version": "3.4.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Dungeon_Rooms-3.4.1.jar",
         "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.1/Dungeon_Rooms-3.4.1.jar",
         "hash": "9ed5b3b1fa71ffc3255c63963be6f54f"
@@ -291,6 +301,7 @@
       {
         "version": "1.7.5",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "BazaarNotifier-1.7.5.jar",
         "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.5/BazaarNotifier-1.7.5.jar",
         "hash": "5f43672698a0fe0c87518262a44ef845"
@@ -318,6 +329,7 @@
       {
         "version": "1.2.2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
         "hash": "a60ff71e9e28f45635248f4475f39188"
@@ -343,6 +355,7 @@
       {
         "version": "1.2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Resource_Pack_Manager_1.2.jar",
         "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/Resource_Pack_Manager_1.2.jar",
         "hash": "b334cd4cb15e3610ac47387a66c19dfb"
@@ -370,6 +383,7 @@
       {
         "version": "1.3.2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Popup Events-1.3.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
         "hash": "7c780fa81a62b500d33bb8210bcbc9a0"
@@ -396,6 +410,7 @@
       {
         "version": "1.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel Autocomplete-1.1 (1.8.9).jar",
         "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e"
@@ -421,6 +436,7 @@
       {
         "version": "1.0",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Potion_Effects_1.8.9-forge_1.0.jar",
         "url": "https://github.com/Tellinq/Potion-Effects/releases/download/v1.0/Potion_Effects_1.8.9-forge_1.0.jar",
         "hash": "c3683ec7cf477258bad924cf7fae1475"
@@ -451,6 +467,7 @@
       {
         "version": "1.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "TNT Time-1.1 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
         "hash": "0319acf44a552bc39c92ff84cec85929"
@@ -481,6 +498,7 @@
       {
         "version": "8.2.2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "LevelHead-8.2.2 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2 (1.8.9).jar",
         "hash": "640a324f794356b20888fc9b62c542fd"
@@ -507,6 +525,7 @@
       {
         "version": "3.1.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Autotip-3.1.1 (1.8.9_forge).jar",
         "url": "https://static.sk1er.club/repo/mods/autotip/3.1.1/1.8.9_forge/Autotip-3.1.1%20(1.8.9_forge).jar",
         "hash": "ba5103aa3f199e9f19dacaa4c4f9a897"
@@ -532,6 +551,7 @@
       {
         "version": "3.0",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "OofMod-3.0 (1.8.9).jar",
         "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
         "hash": "c91c9f4e1e9c43f4b22e062d3708fe97"
@@ -563,6 +583,7 @@
       {
         "version": "1.5.2",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
         "url": "https://github.com/mdashlw/pit-stats/releases/download/v1.5.2/The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
         "hash": "23936c569000412659b3d37e9279110d"
@@ -589,6 +610,7 @@
       {
         "version": "1.1.0",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "SmartReply-1.1.0.jar",
         "url": "https://github.com/mdashlw/smart-reply/releases/download/v1.1.0/SmartReply-1.1.0.jar",
         "hash": "3fd8e0cbf24305d13c898c6991c56db7"
@@ -614,6 +636,7 @@
       {
         "version": "0.3.1",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "Synthesis-0.3.1.jar",
         "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
         "hash": "8deff2754507cd57d983dbc563e01a21"
@@ -637,9 +660,8 @@
     "versions": [
       {
         "version": "v1.0",
-        "mc_versions": [
-          "1.8.9"
-        ],
+        "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "ArrowPath-v1.0.jar",
         "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/ArrowPath-v1.0.jar",
         "hash": "8cc2f3c6347a33c52a32c0bff4d929a9"
@@ -657,6 +679,7 @@
       {
         "version": "bde4ce2ff",
         "mc_versions": ["1.8.9"],
+        "loaders": ["forge"],
         "file": "spark-forge189-bde4ce2ff-mod.jar",
         "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/bde4ce2ff/spark-forge189-bde4ce2ff-mod.jar",
         "hash": "5cba17dd758a5b94961b605d4ef79151"
