@@ -72,12 +72,387 @@
     ],
     "versions": [
       {
+        "version": "1.21.4 HD_U_J3_pre5",
+        "game_versions": ["1.21.4"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.21.4_HD_U_J3_pre5.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.21.4_HD_U_J3_pre5.jar",
+        "hash": "fd649574a9c86e44c32408a2aba49f8c",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.21.3 HD_U_J2",
+        "game_versions": ["1.21.3"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.21.3_HD_U_J2.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.21.3_HD_U_J2.jar",
+        "hash": "63dee505040a57428eeee74e7e6daf21",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.21.1 HD_U_J1",
+        "game_versions": ["1.21.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.21.1_HD_U_J1.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.21.1_HD_U_J1.jar",
+        "hash": "03fd074c4ace98a1a70d621bb420d371",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.6 HD_U_J1_pre18",
+        "game_versions": ["1.20.6"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.20.6_HD_U_J1_pre18.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.20.6_HD_U_J1_pre18.jar",
+        "hash": "27a245a1b877288eccb92ef647b538f2",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.4 HD_U_I8_pre4",
+        "game_versions": ["1.20.4"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
+        "hash": "647a0293cc9472bce14941e38341adf4",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.4 HD_U_I7",
+        "game_versions": ["1.20.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.20.4_HD_U_I7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.20.4_HD_U_I7.jar",
+        "hash": "35bb67f2fa6e6e0bcbff13c23724deee",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.1 HD_U_I6",
+        "game_versions": ["1.20.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.20.1_HD_U_I6.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.20.1_HD_U_I6.jar",
+        "hash": "7a7982ac06b89dd8c1721ea53a33b768",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20 HD_U_I5",
+        "game_versions": ["1.20"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.20_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.20_HD_U_I5.jar",
+        "hash": "d4dbd47e6c87465236d042823132c93c",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.4 HD_U_I4",
+        "game_versions": ["1.19.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.4_HD_U_I4.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I4.jar",
+        "hash": "2e58bf463ec7e9964fe381a5afc17da1",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.3 HD_U_I3",
+        "game_versions": ["1.19.3"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.3_HD_U_I3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.3_HD_U_I3.jar",
+        "hash": "5a5ed2c6abcd7763d075877fcf40ac86",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.2 HD_U_I2",
+        "game_versions": ["1.19.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.2_HD_U_I2.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.2_HD_U_I2.jar",
+        "hash": "0d993ded4b5172124a2184a4b02ec9d6",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.1 HD_U_H9",
+        "game_versions": ["1.19.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.1_HD_U_H9.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.1_HD_U_H9.jar",
+        "hash": "7725d83f8278aa74de71b95bc3b2c2a6",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19 HD_U_H9",
+        "game_versions": ["1.19"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19_HD_U_H9.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19_HD_U_H9.jar",
+        "hash": "29e72b28a0808ea91be6d8df28ce316a",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.18.2 HD_U_H9",
+        "game_versions": ["1.18.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.18.2_HD_U_H9.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H9.jar",
+        "hash": "558caa51edcfe01d78aeb63dcdee04e6",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.18.1 HD_U_H6",
+        "game_versions": ["1.18.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.18.1_HD_U_H6.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H6.jar",
+        "hash": "6e278566d062d6532f3d69ed642efa58",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.18 HD_U_H3",
+        "game_versions": ["1.18"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.18_HD_U_H3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.18_HD_U_H3.jar",
+        "hash": "9743c3300113be1b081bd3f312459891",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.17.1 HD_U_H2_pre1",
+        "game_versions": ["1.17.1"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
+        "hash": "056f1782b535d069d0fcdd99e9c73943",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.17.1 HD_U_H1",
+        "game_versions": ["1.17.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.17.1_HD_U_H1.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.17.1_HD_U_H1.jar",
+        "hash": "ce4d0bc85481fc8e8ba10ab0106c9a5f",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.17 HD_U_G9_pre26",
+        "game_versions": ["1.17"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+        "hash": "ac60df9b3940e9187122b3d3149a0b78",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.5 HD_U_G8",
+        "game_versions": ["1.16.5"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.5_HD_U_G8.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.5_HD_U_G8.jar",
+        "hash": "e0717ba6d1674af83036ebc479fc77b4",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.4 HD_U_G7",
+        "game_versions": ["1.16.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.4_HD_U_G7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.4_HD_U_G7.jar",
+        "hash": "fe84aad0d9056b19692dcb5db9d9f2c9",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.3 HD_U_G5",
+        "game_versions": ["1.16.3"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.3_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.3_HD_U_G5.jar",
+        "hash": "151ef269a78e80a74a3e3493120225fa",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.2 HD_U_G5",
+        "game_versions": ["1.16.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.2_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.2_HD_U_G5.jar",
+        "hash": "7f4c566e5392687d54de21e6fe7ce4e4",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.1 HD_U_G2",
+        "game_versions": ["1.16.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.1_HD_U_G2.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.1_HD_U_G2.jar",
+        "hash": "ef86ff22ecf29c2cb66967cfdaccee90",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.15.2 HD_U_G6",
+        "game_versions": ["1.15.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.15.2_HD_U_G6.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.15.2_HD_U_G6.jar",
+        "hash": "d6eb5851db2284dacfdb2eb9fefbffba",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.14.4 HD_U_G5",
+        "game_versions": ["1.14.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.14.4_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_G5.jar",
+        "hash": "f70b2f406a616eaa1444010c490fd109",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12.2 HD_U_G6_pre1",
+        "game_versions": ["1.12.2"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+        "hash": "9ee4100b8d430f8c8aa82e6f3b13b87e",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12.2 HD_U_G5",
+        "game_versions": ["1.12.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.12.2_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar",
+        "hash": "54e561e441192cf009803ae95873c5d0",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12.1 HD_U_G5",
+        "game_versions": ["1.12.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.12.1_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.12.1_HD_U_G5.jar",
+        "hash": "2535e17fa164d7df056efb68e640fd65",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12 HD_U_G5",
+        "game_versions": ["1.12"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.12_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_G5.jar",
+        "hash": "37c07182fc4d36429520cbe87fddde02",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.11.2 HD_U_G5",
+        "game_versions": ["1.11.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.11.2_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.11.2_HD_U_G5.jar",
+        "hash": "8de776c1e46533cd46970a7d211472fc",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.11 HD_U_G5",
+        "game_versions": ["1.11"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.11_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_G5.jar",
+        "hash": "87af9bdf0519e7b5cf18e01ae08578bc",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.10.2 HD_U_I5",
+        "game_versions": ["1.10.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.10.2_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.10.2_HD_U_I5.jar",
+        "hash": "274971697db081f7dcb34cdcbf41c95a",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.10 HD_U_I5",
+        "game_versions": ["1.10"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.10_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_I5.jar",
+        "hash": "57d2c40d39e5ef3f49beb1b1e4811b33",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.9.4 HD_U_I5",
+        "game_versions": ["1.9.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.9.4_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_I5.jar",
+        "hash": "e9a41296138ed91029e50fefee6f09a5",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.9.2 HD_U_E3",
+        "game_versions": ["1.9.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.9.2_HD_U_E3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.9.2_HD_U_E3.jar",
+        "hash": "ff248f7f2fed53bf1c08336a14ca6a9d",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.9.0 HD_U_I5",
+        "game_versions": ["1.9.0"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.9.0_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.9.0_HD_U_I5.jar",
+        "hash": "c44708c51fab2dd321e5721987a58fd7",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
         "version": "1.8.9 HD_U_M6_pre2",
         "game_versions": ["1.8.9"],
         "loaders": ["forge"],
         "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
         "hash": "7372b982a428656b7a1029c5b42cbf3d",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.8.8 HD_U_I7",
+        "game_versions": ["1.8.8"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.8.8_HD_U_I7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.8.8_HD_U_I7.jar",
+        "hash": "15afbc301c9413f76f85379b7359c5d0",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.8.0 HD_U_I7",
+        "game_versions": ["1.8.0"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.8.0_HD_U_I7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.8.0_HD_U_I7.jar",
+        "hash": "230637ed70d52d8b60d64dcb2572cb76",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.7.10 HD_U_E7",
+        "game_versions": ["1.7.10"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.7.10_HD_U_E7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.7.10_HD_U_E7.jar",
+        "hash": "445062f5aaf982c36c72d90530c26850",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.7.2 HD_U_F7",
+        "game_versions": ["1.7.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.7.2_HD_U_F7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_F7.jar",
+        "hash": "035b7509f6d78a0ce91bfb3ea952c82f",
         "date_published": "2024-12-13T21:13:51.622Z"
       }
     ]
