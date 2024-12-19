@@ -1,33 +1,5 @@
 [
   {
-    "id": "scrollabletooltips",
-    "nicknames": ["text_overflow_scroll"],
-    "display": "Scrollable Tooltips",
-    "creator": "Sk1er LLC",
-    "discord_code": "sk1er",
-    "description": "Adds utilities for scrolling through tooltips.",
-    "icon": "monkey.png",
-    "links": [
-      {
-        "icon": "monkey.png",
-        "text": "Scrollable Tooltips",
-        "link": "https://sk1er.club/mods/text_overflow_scroll"
-      }
-    ],
-    "versions": [
-      {
-        "version": "1.4",
-        "game_versions": ["1.8.9"],
-        "loaders": ["forge"],
-        "file": "Scrollable Tooltips-1.4 (1.8.9).jar",
-        "url": "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar",
-        "hash": "05cc200b46c6eea4d918300aacd74ea1",
-        "mod_id": "text_overflow_scroll",
-        "date_published": "2024-12-13T21:13:51.622Z"
-      }
-    ]
-  },
-  {
     "id": "antidreamskin",
     "nicknames": ["insomnia"],
     "display": "Anti-Dream Skin",
@@ -541,7 +513,7 @@
     "creator": "Sychic and Lily",
     "discord_code": "skytils",
     "commands": ["/skytils"],
-    "description": "Provides puzzle solutions, a reparty command, S[block spam hider, among others.",
+    "description": "Provides puzzle solutions, a reparty command, SkyBlock spam hider, among others.",
     "icon": "skytils.png",
     "links": [
       {
