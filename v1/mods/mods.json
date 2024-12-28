@@ -44,6 +44,16 @@
     ],
     "versions": [
       {
+        "version": "1.21.4 HD_U_J3_pre6",
+        "game_versions": ["1.21.4"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.21.4_HD_U_J3_pre6.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.21.4_HD_U_J3_pre6.jar",
+        "hash": "d00e8261f51d25ad3d0a39d0e4f028a6",
+        "date_published": "2024-12-28T15:41:32.271Z"
+      },
+      {
         "version": "1.21.4 HD_U_J3_pre5",
         "game_versions": ["1.21.4"],
         "loaders": ["forge"],
