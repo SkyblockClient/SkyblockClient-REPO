@@ -453,11 +453,11 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "CrashPatch-1.8.9-forge-2.0.1.jar",
+        "file": "CrashPatch-1.8.9-forge-2.0.2.jar",
         "files": ["OneConfig/CrashPatch/SKYCLIENT"],
-        "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/waoORuvp/CrashPatch-1.8.9-forge-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/qDhse9AS/CrashPatch-1.8.9-forge-2.0.2.jar",
         "forge_id": "crashpatch",
-        "hash": "b9256178b64a9eded753f9e2dbd2bb70"
+        "hash": "b1326670a717bf3889880c789960ac8c"
     },
     {
         "id": "hytilities-reborn",
