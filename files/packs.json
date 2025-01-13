@@ -391,9 +391,9 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/yinKro9q/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A75%C2%A7lReborn%20%C2%A78%C2%A7lOVERLAY.zip",
-        "file": "Â§aÂ§lFurfÂ§bÂ§lSky Â§5Â§lReborn Â§8Â§lOVERLAY.zip",
-        "hash": "7acc55ddd05b7e6efe937d619375f56b"
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/KVMKyVAM/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOVERLAY.zip",
+        "file": "§a§lFurf§b§lSky §6§lReborn §8§lOVERLAY.zip",
+        "hash": "dfac332cca074b19343e12d30751adea"
     },
     {
         "id": "fsr_full",
@@ -422,7 +422,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/Dzth04ay/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFULL.zip",
-        "file": "§a§lFurf§b§lSky §6§lReborn §8§lFULL.zip",
+        "file": "Â§aÂ§lFurfÂ§bÂ§lSky Â§6Â§lReborn Â§8Â§lFULL.zip",
         "hash": "693f5a312cb357e523ef82d910f3d5ff"
     },
     {
