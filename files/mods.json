@@ -1276,10 +1276,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta12.4-standalone.jar",
-        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/A1CDcizc/dungeonsguide-4.0.0-beta12.4-standalone.jar",
+        "file": "dungeonsguide-4.0.0-beta12.5-standalone.jar",
+        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/Rr2nHzqg/dungeonsguide-4.0.0-beta12.5-standalone.jar",
         "forge_id": "dungeons_guide_loader",
-        "hash": "5e8b4aa9ab59598214482afdcc845dfe"
+        "hash": "8a8352232ac1949bc430b9283c4dbf89"
     },
     {
         "id": "dg-old",
