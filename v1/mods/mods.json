@@ -548,12 +548,12 @@
     ],
     "versions": [
       {
-        "version": "1.10.10",
+        "version": "1.10.8",
         "game_versions": ["1.8.9"],
         "loaders": ["forge"],
-        "file": "Skytils-1.10.10.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.10/Skytils-1.10.10.jar",
-        "hash": "5bec094753671bd5a536742217998019",
+        "file": "Skytils-1.10.8.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.8/Skytils-1.10.8.jar",
+        "hash": "546c602a5cacebc9b38fa3a28442cf62",
         "mod_id": "skytils",
         "date_published": "2024-12-13T21:13:51.622Z"
       }
