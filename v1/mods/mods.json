@@ -548,6 +548,16 @@
     ],
     "versions": [
       {
+        "version": "1.10.10",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Skytils-1.10.10.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.10/Skytils-1.10.10.jar",
+        "hash": "5bec094753671bd5a536742217998019",
+        "mod_id": "skytils",
+        "date_published": "2025-02-25T21:46:41.653Z"
+      },
+      {
         "version": "1.10.8",
         "game_versions": ["1.8.9"],
         "loaders": ["forge"],
