@@ -1553,6 +1553,35 @@
         "hash": "6435154db3cf1c9d347e1a085152e654"
     },
     {
+        "id": "shy",
+        "display": "Shy",
+        "creator": "Microcontollers",
+        "discordcode": "rejfv9kFJj",
+        "description": "Lets you hide entities when you get close to them. Very configurable!",
+        "icon": "shy.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/MicrocontrollersDev/Shy"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/shy"
+            },
+            {
+                "icon": "discordsmall.png",
+                "text": "Discord",
+                "link": "https://discord.gg/rejfv9kFJj"
+            }
+        ],
+        "file": "Shy-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/X81tuNrC/versions/uTtaibdT/Shy-1.8.9-forge-1.0.2.jar",
+        "forge_id": "mixmetica",
+        "hash": "207e4f496b06587aa2579d557605f335"
+    },
+    {
         "id": "twitcher",
         "nicknames": ["twitcher"],
         "display": "Twitcher",
