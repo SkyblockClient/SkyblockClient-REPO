@@ -964,10 +964,10 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.10.10.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.10/Skytils-1.10.10.jar",
+        "file": "Skytils-1.10.11.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.11/Skytils-1.10.11.jar",
         "forge_id": "skytils",
-        "hash": "5bec094753671bd5a536742217998019"
+        "hash": "43ab1eb67c1a70019be3a1f6658efb73"
     },
     {
         "id": "skytils_essential",
@@ -978,10 +978,10 @@
         "command": "/skytils",
         "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
         "icon": "skytils.png",
-        "file": "Skytils-1.10.10.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.10/Skytils-1.10.10.jar",
+        "file": "Skytils-1.10.11.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.11/Skytils-1.10.11.jar",
         "forge_id": "skytils",
-        "hash": "5bec094753671bd5a536742217998019",
+        "hash": "43ab1eb67c1a70019be3a1f6658efb73",
         "update_to_ids": ["essential_container", "skytils"],
         "update_ids_detection": false,
         "ignore_on_scu_137_above": true
