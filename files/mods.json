@@ -1149,7 +1149,7 @@
         "id": "secretroutesmod",
         "nicknames": ["secretroutesmod", "srm"],
         "display": "Secret Routes Mod",
-        "creator": "yourboykyle",
+        "creator": "yourboykyle, Wyan",
         "discordcode": "secretroutes",
         "command": "/srm",
         "description": "Adds customizable advanced dungeon waypoints, showing you how to do secrets like the pros.",
