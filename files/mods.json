@@ -2692,15 +2692,14 @@
         "file": "no"
     },
     {
-        "id": "secretroutesmod",
-        "nicknames": ["srm"],
+        "id": "dsrm",
+        "nicknames": ["secretroutesmod", "srm"],
         "display": "Secret Routes Mod",
         "creator": "yourboykyle",
         "discordcode": "secretroutes",
         "command": "/srm",
         "description": "Adds customizable advanced dungeon waypoints, showing you how to do secrets like the pros.",
         "icon": "secretroutesmod.png",
-        "icon_scaling": "pixel",
         "actions": [
             {
                 "method": "hover",
@@ -2719,7 +2718,7 @@
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
         "file": "SecretRoutes-0.4.15.jar",
-        "url": "https://github.com/yourboykyle/SecretRoutes/releases/download/v0.4.15/SecretRoutes-0.4.15.jar",
+        "url": "https://cdn.modrinth.com/data/l1qibtk8/versions/XSMwL6uI/SecretRoutes-0.4.15.jar",
         "forge_id": "secretroutesmod",
         "hash": "ff769fb44ff5c6992359fe32374be544"
     }
