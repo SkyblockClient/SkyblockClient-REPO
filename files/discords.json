@@ -382,6 +382,6 @@
         "description": "The official Discord for Secret Routes Mod.",
         "type": "mods",
         "nicknames": ["srm"],
-        "mods": ["secretroutesmod.png"]
+        "mods": ["secretroutesmod"]
     }
 ]
