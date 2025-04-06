@@ -373,5 +373,15 @@
         "fancyname": "Cosmetica",
         "nicknames": ["cosmetics"],
         "mods": ["cosmetica"]
+    },
+    {
+        "id": "secretroutesmod",
+        "code": "qmtQmz4V3X",
+        "icon": "secretroutesmod.png",
+        "fancyname": "Secret Routes Mod",
+        "description": "The official Discord for Secret Routes Mod.",
+        "type": "mods",
+        "nicknames": ["srm"],
+        "mods": ["secretroutesmod.png"]
     }
 ]
