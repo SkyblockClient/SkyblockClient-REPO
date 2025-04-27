@@ -329,10 +329,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.10.2.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/qMIi00a0/PolyPatcher-1.8.9-forge-1.10.2.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.3.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/o16JHhlj/PolyPatcher-1.8.9-forge-1.10.3.jar",
         "forge_id": "patcher",
-        "hash": "f3e24f4b523c032a5ab848618ec1817d",
+        "hash": "9db7389d016d68f2c5b05807eb77a02b",
         "update_to_ids": [
             "vanillahud",
             "chatting",
@@ -374,10 +374,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.10.2.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/qMIi00a0/PolyPatcher-1.8.9-forge-1.10.2.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.3.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/o16JHhlj/PolyPatcher-1.8.9-forge-1.10.3.jar",
         "forge_id": "patcher",
-        "hash": "f3e24f4b523c032a5ab848618ec1817d"
+        "hash": "9db7389d016d68f2c5b05807eb77a02b"
     },
     {
         "id": "redirectionor",
