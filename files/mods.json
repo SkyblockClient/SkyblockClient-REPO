@@ -737,23 +737,28 @@
     {
         "id": "rawinput",
         "nicknames": ["rawmouseinput"],
-        "display": "Raw Mouse Input",
-        "creator": "xCuri0, port by Mixces",
-        "command": "/rescan",
-        "description": "Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system.",
-        "icon": "mixces.png",
+        "display": "Raw Input",
+        "creator": "Chromatic",
+        "command": "/rawinput",
+        "description": "Fixes mouse jittering and increases smoothness.",
+        "icon": "rawinput.png",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/Mixces/RawInputMod"
+                "link": "https://github.com/chromaticforge/rawinput"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/rawinput"
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "RawInput-1.1.5.jar",
-        "url": "https://github.com/RayDeeUx/RawInput-1.8.9/releases/download/1.1.5/RawInput-1.1.5.jar",
+        "file": "RawInput-0.1.2+1.8.9-forge.jar",
+        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/vsl1B7ne/RawInput-0.1.2%2B1.8.9-forge.jar",
         "forge_id": "rawinput",
-        "hash": "bbcdfff4288ccd4fdb2e8255b764da4d"
+        "hash": "e75f9af4f2f93190e2f6f0914cf8d742"
     },
     {
         "id": "nick_hider",
