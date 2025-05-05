@@ -65,5 +65,11 @@
         "packs": {
             "hp+": "update"
         }
+    },
+    "795038338494890015": {
+        "github": "femmeromantic",
+        "mods": {
+            "rawinput": "update"
+        }
     }
 }
