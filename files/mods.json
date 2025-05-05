@@ -1078,7 +1078,7 @@
         "categories": ["2;All Skyblock"],
         "file": "Apec-1.8.9-forge-1.12.4.jar",
         "files": ["config/Apec/Settings.txt"],
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.12.4/Apec-1.8.9-forge-1.12.4.jar",
+        "url": "https://cdn.modrinth.com/data/qauqySVF/versions/v2W9JAC7/Apec-1.8.9-forge-1.12.4.jar",
         "forge_id": "apec",
         "hash": "5e4fecd7198e303644a040430ceb3fe8"
     },
