@@ -930,7 +930,7 @@
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
         "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar",
-        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v2.3.1/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/QzpBqSX9/versions/33yTVI3o/%5BMC%201.8.9%5D%20Danker%27s%20Skyblock%20Mod%20-%202.3.1.jar",
         "forge_id": "Danker's Skyblock Mod",
         "hash": "436819e93c71d49a892cbdbcb8072ebe"
     },
@@ -1768,7 +1768,7 @@
         ],
         "categories": ["2;All Skyblock"],
         "file": "ctjs-2.2.1-1.8.9.jar",
-        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.2.1/ctjs-2.2.1-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/UiTVKucn/versions/MoD8sbpW/ctjs-2.2.1-1.8.9.jar",
         "forge_id": "chattriggers",
         "hash": "0f7bf5fd9693cb939e776c2d9c491986"
     },
