@@ -2556,10 +2556,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "SkyCofl-1.5.6-alpha.jar",
-        "url": "https://github.com/Coflnet/SkyblockMod/releases/download/1.5.6/SkyCofl-1.5.6-alpha.jar",
+        "file": "SkyCofl-1.6.0.jar",
+        "url": "https://github.com/Coflnet/SkyblockMod/releases/download/1.6.0/SkyCofl-1.6.0.jar",
         "forge_id": "coflsky",
-        "hash": "4ddb02409add99fb91a283ccab2710a5"
+        "hash": "2e2a17296f55e893e8cb0685ef755019"
     },
     {
         "id": "hychat",
