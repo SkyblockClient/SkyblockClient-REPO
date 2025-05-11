@@ -1,0 +1,71 @@
+[
+    {
+        "triggers": ["invalid.+session"],
+        "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojang's side of things.**"
+    },
+    {
+        "triggers": ["not.+enoug.+coin"],
+        "skyclient": true,
+        "response": "NotEnoughCoins will not be added to SkyClient.\nWe will also not provide any support for NotEnoughCoins.\nThe same applies to all auction flipping mods."
+    },
+    {
+        "triggers": ["reinstal.+sky"],
+        "skyclient": true,
+        "response": "**Reinstalling SkyClient may not fix your issue.** While a mod may fail to download, repeatedly reinstalling will just be putting the same mods in your mods folder.\nTry to actually fix the issue instead of reinstalling for the 10th time."
+    },
+    {
+        "triggers": [
+            "(how|where|mac).+download",
+            "(how|where|mac|download).+client",
+            "(?=.*where|.*\\?)(?=.*download)(?=.*link)"
+        ],
+        "skyclient": true,
+        "response": "Download SkyClient from <#780940408175853609>, or see the [forum post](<https://hypixel.net/threads/3731617/>)"
+    },
+    {
+        "triggers": [
+            "(add|how).+(mod|folder)",
+            "(add|mod).+folder",
+            "(how|mod).+(add|folder)"
+        ],
+        "response": "Type /mcfolder in Discord, then go to the mods folder in that folder."
+    },
+    {
+        "triggers": ["(need|install).+forge"],
+        "skyclient": true,
+        "response": "SkyClient installs Forge for you. You shouldn't need it pre-installed"
+    },
+    {
+        "triggers": ["exit.+code"],
+        "skyclient": true,
+        "response": "First, go to your SkyClient folder. See this: https://youtu.be/BHIM2htfMk8\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
+    },
+    {
+        "triggers": ["(skyclient|why).+crash"],
+        "skyclient": true,
+        "response": "First, go to your SkyClient folder. See this: https://youtu.be/BHIM2htfMk8\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
+    },
+    {
+        "triggers": ["(1\\.7|old).+anim"],
+        "response": "Use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8. Download here: https://modrinth.com/mod/animations"
+    },
+    {
+        "triggers": ["dulkir"],
+        "response": "If you want custom animations, use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8 which allows for both simple and advanced custom animations. Download here: https://modrinth.com/mod/animations"
+    },
+    {
+        "triggers": ["tessellating block model"],
+        "response": "Set CTM to fast or off.\n`escape` -> `options` -> `video settings` -> `quality` -> `Connected Textures: FAST or OFF`"
+    },
+    {
+        "triggers": [
+            "(?=.*low|.*terrible|.*bad)(?=.*dungeon)(?=.*fps)",
+            "dungeon.+(lag|freeze)"
+        ],
+        "response": "Type /dungeonfps in Discord to see recommendations on how to fix lag in Dungeons"
+    },
+    {
+        "triggers": ["(unable|fail).+minecraft"],
+        "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to Modrinth or Prism Launcher instead: https://alternatives.microcontrollers.dev/launcher/home/"
+    }
+]
