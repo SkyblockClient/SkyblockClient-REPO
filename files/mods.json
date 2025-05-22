@@ -970,11 +970,11 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.11.0.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.11.0/Skytils-1.11.0.jar",
+        "file": "Skytils-1.12.0-pre1.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.12.0-pre1/Skytils-1.12.0-pre1.jar",
         "forge_id": "skytils",
-        "hash": "60becd263f8e483305d0b5d12b9e1dac",
-        "sha256": "ab232767ef15e2f7125c2e5b736be9762fc7fecce282c1a5fc2ef604aa74b92c"
+        "hash": "5471b1d189e0de460bd912bb955fa30d",
+        "sha256": "7886b45d066f8ee901eba4f67cedf32e7a3daeea40f4c7344c87ec4e8367adc7"
     },
     {
         "id": "skytils_essential",
@@ -985,14 +985,14 @@
         "command": "/skytils",
         "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
         "icon": "skytils.png",
-        "file": "Skytils-1.11.0.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.11.0/Skytils-1.11.0.jar",
+        "file": "Skytils-1.12.0-pre1.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.12.0-pre1/Skytils-1.12.0-pre1.jar",
         "forge_id": "skytils",
-        "hash": "60becd263f8e483305d0b5d12b9e1dac",
+        "hash": "5471b1d189e0de460bd912bb955fa30d",
         "update_to_ids": ["essential_container", "skytils"],
         "update_ids_detection": false,
         "ignore_on_scu_137_above": true,
-        "sha256": "ab232767ef15e2f7125c2e5b736be9762fc7fecce282c1a5fc2ef604aa74b92c"
+        "sha256": "7886b45d066f8ee901eba4f67cedf32e7a3daeea40f4c7344c87ec4e8367adc7"
     },
     {
         "id": "essential_container",
