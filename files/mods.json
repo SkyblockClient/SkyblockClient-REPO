@@ -757,10 +757,10 @@
         ],
         "categories": ["5;All PvP"],
         "file": "RawInput-0.1.4+1.8.9-forge.jar",
-        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/FENSrXmW/RawInput-0.1.4%2B1.8.9-forge.jar",
+        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/LjpJUYMo/RawInput-0.1.4%2B1.8.9-forge.jar",
         "forge_id": "rawinput",
-        "hash": "9f2df66e085dc455c249a9b3358ea938",
-        "sha256": "6f6b2e91e708b8667aff665a3d599ed71ff15aae0c17a3f2340d50964f37c716"
+        "hash": "8be6549561f018ad7b08e480edcce794",
+        "sha256": "5c82afab40f2a1f6bbadb363e1995b67d44499eeb97f029b95362590698d57eb"
     },
     {
         "id": "nick_hider",
