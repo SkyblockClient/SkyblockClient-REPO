@@ -175,10 +175,10 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "file": "Hypixel+ 0.22.1 for 1.8.9.zip",
-        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/Io0ILyjO/Hypixel%2B%200.22.1%20for%201.8.9.zip",
-        "hash": "8f6afbe773d289e3cc180af27572b78f",
-        "sha256": "8cd8f61aaae3a2ccbb9a783212c20ae779217aa53a8de5fd3c351d1391e3dde1"
+        "file": "Hypixel+ 0.22.1.1 for 1.8.9.zip",
+        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/7H5qNe2E/Hypixel%2B%200.22.1.1%20for%201.8.9.zip",
+        "hash": "9cb1d2dde2721cbabd9330a3890e82f9",
+        "sha256": "27f4133571b61a10bd14a7558da0e9ab6a2d79155d5e34d9a98f9c736ef6af82"
     },
     {
         "id": "hsb",
@@ -393,7 +393,7 @@
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
         "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/KVMKyVAM/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOVERLAY.zip",
-        "file": "Â§aÂ§lFurfÂ§bÂ§lSky Â§6Â§lReborn Â§8Â§lOVERLAY.zip",
+        "file": "ÃÂ§aÃÂ§lFurfÃÂ§bÃÂ§lSky ÃÂ§6ÃÂ§lReborn ÃÂ§8ÃÂ§lOVERLAY.zip",
         "hash": "dfac332cca074b19343e12d30751adea"
     },
     {
@@ -423,7 +423,7 @@
         ],
         "categories": ["1;All Skyblock"],
         "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/Dzth04ay/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFULL.zip",
-        "file": "ÃÂ§aÃÂ§lFurfÃÂ§bÃÂ§lSky ÃÂ§6ÃÂ§lReborn ÃÂ§8ÃÂ§lFULL.zip",
+        "file": "ÃÂÃÂ§aÃÂÃÂ§lFurfÃÂÃÂ§bÃÂÃÂ§lSky ÃÂÃÂ§6ÃÂÃÂ§lReborn ÃÂÃÂ§8ÃÂÃÂ§lFULL.zip",
         "hash": "693f5a312cb357e523ef82d910f3d5ff"
     },
     {
