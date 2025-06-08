@@ -1040,10 +1040,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "Partly Sane Skies-beta-v0.6.2-prerelease-8.jar",
-        "url": "https://cdn.modrinth.com/data/jlWHBQtc/versions/aXijkjwx/Partly%20Sane%20Skies-beta-v0.6.2-prerelease-8.jar",
+        "file": "Partly Sane Skies-beta-v0.6.2-prerelease-9.jar",
+        "url": "https://cdn.modrinth.com/data/jlWHBQtc/versions/YBADcSHf/Partly%20Sane%20Skies-beta-v0.6.2-prerelease-9.jar",
         "forge_id": "partlysaneskies",
-        "hash": "01069ef085a4146c4b4cf79a1589211f"
+        "hash": "da2fd8f10f6607a507485c4032b5d551",
+        "sha256": "9bda5df0085cc698e8ac982f4b7cdd31d24175c926956eb301558c088b869cc5"
     },
     {
         "id": "apec",
