@@ -67,5 +67,10 @@
     {
         "triggers": ["(unable|fail).+minecraft"],
         "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to Modrinth or Prism Launcher instead: https://alternatives.microcontrollers.dev/launcher/home/"
+    },
+    {
+        "triggers": ["1\\.20", "1\\.21"],
+        "skyclient": true,
+        "response": "An announcement regarding the future of SkyClient for 1.21.x is coming soon, but there will be a replacement. For now, use [a modpack one of our admins created](https://modrinth.com/modpack/micros-skyblock-modpack)."
     }
 ]
