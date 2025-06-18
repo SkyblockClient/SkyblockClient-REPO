@@ -71,6 +71,6 @@
     {
         "triggers": ["1\\.20", "1\\.21"],
         "skyclient": true,
-        "response": "An announcement regarding the future of SkyClient for 1.21.x is coming soon, but there will be a replacement. For now, use [a modpack one of our admins created](https://modrinth.com/modpack/micros-skyblock-modpack)."
+        "response": "An announcement regarding the future of SkyClient for 1.21.x is coming soon, but there will be a replacement.\n\nFor now, use a modpack one of our admins created: https://modrinth.com/modpack/micros-skyblock-modpack"
     }
 ]
