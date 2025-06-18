@@ -11,10 +11,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/mobpacket.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3606096/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3606096/" }
         ],
         "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
         "file": "Mob Packet 1.8.9 1.4.zip",
@@ -35,10 +32,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/dungeonsoverlay.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3143529/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3143529/" }
         ],
         "categories": ["1;All Skyblock"],
         "file": "DUNGEONS_TEXTURE_PACK_V1.2.zip",
@@ -86,10 +80,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/dwarvenassets.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3797121/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3797121/" }
         ],
         "categories": ["1;All Skyblock", "2;Recommended Skyblock"],
         "file": "DwarvenAssets v1.1.zip",
@@ -104,10 +95,7 @@
         "icon": "xcyni.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-forums-texture-pack-items-png.2927894/",
         "actions": [
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3379991/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3379991/" }
         ],
         "categories": ["1;All Skyblock"],
         "file": "xCynis Skyblock Pack - v3.0.zip",
@@ -128,10 +116,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/rnbw.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3470904/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3470904/" }
         ],
         "categories": ["1;All Skyblock"],
         "file": "RNBW+ v0.7.0.zip",
@@ -146,10 +131,7 @@
         "icon": "nameless.png",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/Nameless [Alpha 5].zip.png",
         "actions": [
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/4189235/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/4189235/" },
             {
                 "text": "Discord",
                 "icon": "discord icon.png",
@@ -180,10 +162,7 @@
         "icon": "hypixelplus.png",
         "screenshot": "https://hypixel.net/attachments/hypixel-new-items-png.2986247/",
         "actions": [
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/4174260/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/4174260/" },
             {
                 "text": "Discord",
                 "icon": "discord icon.png",
@@ -196,9 +175,9 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "file": "Hypixel+ 0.20.4 for 1.8.9.zip",
-        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/kRfLkbxu/Hypixel%2B%200.20.4%20for%201.8.9.zip",
-        "hash": "fa516588ad3b97abef4a673196935ebb"
+        "file": "Hypixel+ 0.20.7 for 1.8.9.zip",
+        "url": "https://cdn.modrinth.com/data/p6lVqTvA/versions/C1xuVki1/Hypixel%2B%200.20.7%20for%201.8.9.zip",
+        "hash": "8563954622127f019142272e70e4039d"
     },
     {
         "id": "hsb",
@@ -209,10 +188,7 @@
         "icon_scaling": "pixel",
         "screenshot": "https://hypixel.net/attachments/armor_preview-jpg.2112107/",
         "actions": [
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3527502/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3527502/" }
         ],
         "categories": ["1;All Skyblock"],
         "file": "HSB Texturepack V1.7.zip",
@@ -227,10 +203,7 @@
         "icon": "kmp.png",
         "screenshot": "https://hypixel.net/attachments/kios-model-pack3-png.2251777/",
         "actions": [
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3604212/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3604212/" }
         ],
         "categories": ["1;All Skyblock"],
         "file": "kios-hsb-pack.zip",
@@ -250,10 +223,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/worldsandbeyond.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3597207/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3597207/" }
         ],
         "categories": ["1;All Skyblock"],
         "file": "Worlds and Beyond [16x] - Release 1.5.zip",
@@ -288,10 +258,7 @@
         "icon": "phq dark overlay.png",
         "screenshot": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/images/phq-dark-preview.png",
         "actions": [
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/2103515/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
             {
                 "icon": "packshq.png",
                 "text": "Website",
@@ -336,10 +303,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/2103515/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
             {
                 "icon": "packshq.png",
                 "text": "Website",
@@ -363,10 +327,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/packshq.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/2103515/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/2103515/" },
             {
                 "icon": "packshq.png",
                 "text": "Website",
@@ -392,10 +353,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/actuallyassets.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3129905/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/3129905/" },
             {
                 "icon": "planetminecraft.png",
                 "text": "Planet Minecraft",
@@ -420,10 +378,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/furfreborn.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3482676/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/3482676/" },
             {
                 "icon": "furfskywebsite.png",
                 "text": "Website",
@@ -436,9 +391,9 @@
             }
         ],
         "categories": ["2;Recommended Skyblock", "1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/b5Sv9RgC/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lOVERLAY%C2%A78.zip",
-        "file": "FurfSky Reborn OV [1.7.3].zip",
-        "hash": "4ec29aa54150bb156fee2d80bb47adc0"
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/KVMKyVAM/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lOVERLAY.zip",
+        "file": "§a§lFurf§b§lSky §6§lReborn §8§lOVERLAY.zip",
+        "hash": "dfac332cca074b19343e12d30751adea"
     },
     {
         "id": "fsr_full",
@@ -453,10 +408,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/furfreborn.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3482676/"
-            },
+            { "text": "Forum", "link": "https://hypixel.net/threads/3482676/" },
             {
                 "icon": "furfskywebsite.png",
                 "text": "Website",
@@ -469,9 +421,9 @@
             }
         ],
         "categories": ["1;All Skyblock"],
-        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/SalzBFWq/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lFULL%C2%A78.zip",
-        "file": "FurfSky Reborn FULL [1.7.3].zip",
-        "hash": "513316e654dd432768b7f305619c6a0c"
+        "url": "https://cdn.modrinth.com/data/khMbd0K1/versions/Dzth04ay/%C2%A7a%C2%A7lFurf%C2%A7b%C2%A7lSky%20%C2%A76%C2%A7lReborn%20%C2%A78%C2%A7lFULL.zip",
+        "file": "Â§aÂ§lFurfÂ§bÂ§lSky Â§6Â§lReborn Â§8Â§lFULL.zip",
+        "hash": "693f5a312cb357e523ef82d910f3d5ff"
     },
     {
         "id": "smollicons",
@@ -691,10 +643,7 @@
                 "method": "hover",
                 "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/guides/vtaysmoothie.md"
             },
-            {
-                "text": "Forum",
-                "link": "https://hypixel.net/threads/3178679/"
-            }
+            { "text": "Forum", "link": "https://hypixel.net/threads/3178679/" }
         ],
         "categories": ["1;All Skyblock"],
         "hidden": true,

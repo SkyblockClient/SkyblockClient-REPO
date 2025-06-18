@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "antidreamskin",
+    "nicknames": ["insomnia"],
+    "display": "Anti-Dream Skin",
+    "creator": "Moulberry",
+    "discord_code": "moulberry",
+    "commands": ["/insomnia on/off"],
+    "links": [
+      {
+        "icon": "moulberrys bush.png",
+        "text": "Anti Dream Skin",
+        "link": "https://youtu.be/bZxXrt0T4Lc"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Insomnia-1.0-REL.jar",
+        "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
+        "hash": "16e4fa2d54f32a2008cd0d1999d9c842",
+        "mod_id": "insomnia",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "optifine",
+    "nicknames": ["of"],
+    "display": "OptiFine",
+    "creator": "sp614x",
+    "discord_code": "xGVXsgbbSt",
+    "description": "Improves your game performance and lets you configure the graphics. Required by most mods and texture packs.",
+    "icon": "optifine.png",
+    "icon_scaling": "pixel",
+    "links": [
+      {
+        "icon": "optifine.png",
+        "text": "Website",
+        "link": "https://optifine.net/home"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.21.4 HD_U_J3",
+        "game_versions": ["1.21.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.21.4_HD_U_J3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.21.4_HD_U_J3.jar",
+        "hash": "c52ddc7f7cde04777ae4f42473ef0f62",
+        "date_published": "2025-02-09T12:29:55.228Z"
+      },
+      {
+        "version": "1.21.4 HD_U_J3_pre6",
+        "game_versions": ["1.21.4"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.21.4_HD_U_J3_pre6.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.21.4_HD_U_J3_pre6.jar",
+        "hash": "d00e8261f51d25ad3d0a39d0e4f028a6",
+        "date_published": "2024-12-28T15:41:32.271Z"
+      },
+      {
+        "version": "1.21.4 HD_U_J3_pre5",
+        "game_versions": ["1.21.4"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.21.4_HD_U_J3_pre5.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.21.4_HD_U_J3_pre5.jar",
+        "hash": "fd649574a9c86e44c32408a2aba49f8c",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.21.3 HD_U_J2",
+        "game_versions": ["1.21.3"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.21.3_HD_U_J2.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.21.3_HD_U_J2.jar",
+        "hash": "63dee505040a57428eeee74e7e6daf21",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.21.1 HD_U_J1",
+        "game_versions": ["1.21.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.21.1_HD_U_J1.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.21.1_HD_U_J1.jar",
+        "hash": "03fd074c4ace98a1a70d621bb420d371",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.6 HD_U_J1_pre18",
+        "game_versions": ["1.20.6"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.20.6_HD_U_J1_pre18.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.20.6_HD_U_J1_pre18.jar",
+        "hash": "27a245a1b877288eccb92ef647b538f2",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.4 HD_U_I8_pre4",
+        "game_versions": ["1.20.4"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.20.4_HD_U_I8_pre4.jar",
+        "hash": "647a0293cc9472bce14941e38341adf4",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.4 HD_U_I7",
+        "game_versions": ["1.20.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.20.4_HD_U_I7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.20.4_HD_U_I7.jar",
+        "hash": "35bb67f2fa6e6e0bcbff13c23724deee",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20.1 HD_U_I6",
+        "game_versions": ["1.20.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.20.1_HD_U_I6.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.20.1_HD_U_I6.jar",
+        "hash": "7a7982ac06b89dd8c1721ea53a33b768",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.20 HD_U_I5",
+        "game_versions": ["1.20"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.20_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.20_HD_U_I5.jar",
+        "hash": "d4dbd47e6c87465236d042823132c93c",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.4 HD_U_I4",
+        "game_versions": ["1.19.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.4_HD_U_I4.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.4_HD_U_I4.jar",
+        "hash": "2e58bf463ec7e9964fe381a5afc17da1",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.3 HD_U_I3",
+        "game_versions": ["1.19.3"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.3_HD_U_I3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.3_HD_U_I3.jar",
+        "hash": "5a5ed2c6abcd7763d075877fcf40ac86",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.2 HD_U_I2",
+        "game_versions": ["1.19.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.2_HD_U_I2.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.2_HD_U_I2.jar",
+        "hash": "0d993ded4b5172124a2184a4b02ec9d6",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19.1 HD_U_H9",
+        "game_versions": ["1.19.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19.1_HD_U_H9.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19.1_HD_U_H9.jar",
+        "hash": "7725d83f8278aa74de71b95bc3b2c2a6",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.19 HD_U_H9",
+        "game_versions": ["1.19"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.19_HD_U_H9.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.19_HD_U_H9.jar",
+        "hash": "29e72b28a0808ea91be6d8df28ce316a",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.18.2 HD_U_H9",
+        "game_versions": ["1.18.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.18.2_HD_U_H9.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.18.2_HD_U_H9.jar",
+        "hash": "558caa51edcfe01d78aeb63dcdee04e6",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.18.1 HD_U_H6",
+        "game_versions": ["1.18.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.18.1_HD_U_H6.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.18.1_HD_U_H6.jar",
+        "hash": "6e278566d062d6532f3d69ed642efa58",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.18 HD_U_H3",
+        "game_versions": ["1.18"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.18_HD_U_H3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.18_HD_U_H3.jar",
+        "hash": "9743c3300113be1b081bd3f312459891",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.17.1 HD_U_H2_pre1",
+        "game_versions": ["1.17.1"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.17.1_HD_U_H2_pre1.jar",
+        "hash": "056f1782b535d069d0fcdd99e9c73943",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.17.1 HD_U_H1",
+        "game_versions": ["1.17.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.17.1_HD_U_H1.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.17.1_HD_U_H1.jar",
+        "hash": "ce4d0bc85481fc8e8ba10ab0106c9a5f",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.17 HD_U_G9_pre26",
+        "game_versions": ["1.17"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.17_HD_U_G9_pre26.jar",
+        "hash": "ac60df9b3940e9187122b3d3149a0b78",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.5 HD_U_G8",
+        "game_versions": ["1.16.5"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.5_HD_U_G8.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.5_HD_U_G8.jar",
+        "hash": "e0717ba6d1674af83036ebc479fc77b4",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.4 HD_U_G7",
+        "game_versions": ["1.16.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.4_HD_U_G7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.4_HD_U_G7.jar",
+        "hash": "fe84aad0d9056b19692dcb5db9d9f2c9",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.3 HD_U_G5",
+        "game_versions": ["1.16.3"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.3_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.3_HD_U_G5.jar",
+        "hash": "151ef269a78e80a74a3e3493120225fa",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.2 HD_U_G5",
+        "game_versions": ["1.16.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.2_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.2_HD_U_G5.jar",
+        "hash": "7f4c566e5392687d54de21e6fe7ce4e4",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.16.1 HD_U_G2",
+        "game_versions": ["1.16.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.16.1_HD_U_G2.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.16.1_HD_U_G2.jar",
+        "hash": "ef86ff22ecf29c2cb66967cfdaccee90",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.15.2 HD_U_G6",
+        "game_versions": ["1.15.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.15.2_HD_U_G6.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.15.2_HD_U_G6.jar",
+        "hash": "d6eb5851db2284dacfdb2eb9fefbffba",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.14.4 HD_U_G5",
+        "game_versions": ["1.14.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.14.4_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.14.4_HD_U_G5.jar",
+        "hash": "f70b2f406a616eaa1444010c490fd109",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12.2 HD_U_G6_pre1",
+        "game_versions": ["1.12.2"],
+        "loaders": ["forge"],
+        "version_type": "beta",
+        "file": "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.12.2_HD_U_G6_pre1.jar",
+        "hash": "9ee4100b8d430f8c8aa82e6f3b13b87e",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12.2 HD_U_G5",
+        "game_versions": ["1.12.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.12.2_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.12.2_HD_U_G5.jar",
+        "hash": "54e561e441192cf009803ae95873c5d0",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12.1 HD_U_G5",
+        "game_versions": ["1.12.1"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.12.1_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.12.1_HD_U_G5.jar",
+        "hash": "2535e17fa164d7df056efb68e640fd65",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.12 HD_U_G5",
+        "game_versions": ["1.12"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.12_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.12_HD_U_G5.jar",
+        "hash": "37c07182fc4d36429520cbe87fddde02",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.11.2 HD_U_G5",
+        "game_versions": ["1.11.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.11.2_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.11.2_HD_U_G5.jar",
+        "hash": "8de776c1e46533cd46970a7d211472fc",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.11 HD_U_G5",
+        "game_versions": ["1.11"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.11_HD_U_G5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.11_HD_U_G5.jar",
+        "hash": "87af9bdf0519e7b5cf18e01ae08578bc",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.10.2 HD_U_I5",
+        "game_versions": ["1.10.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.10.2_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.10.2_HD_U_I5.jar",
+        "hash": "274971697db081f7dcb34cdcbf41c95a",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.10 HD_U_I5",
+        "game_versions": ["1.10"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.10_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.10_HD_U_I5.jar",
+        "hash": "57d2c40d39e5ef3f49beb1b1e4811b33",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.9.4 HD_U_I5",
+        "game_versions": ["1.9.4"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.9.4_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.9.4_HD_U_I5.jar",
+        "hash": "e9a41296138ed91029e50fefee6f09a5",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.9.2 HD_U_E3",
+        "game_versions": ["1.9.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.9.2_HD_U_E3.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.9.2_HD_U_E3.jar",
+        "hash": "ff248f7f2fed53bf1c08336a14ca6a9d",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.9.0 HD_U_I5",
+        "game_versions": ["1.9.0"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.9.0_HD_U_I5.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.9.0_HD_U_I5.jar",
+        "hash": "c44708c51fab2dd321e5721987a58fd7",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.8.9 HD_U_M6_pre2",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+        "url": "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar",
+        "hash": "7372b982a428656b7a1029c5b42cbf3d",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.8.8 HD_U_I7",
+        "game_versions": ["1.8.8"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.8.8_HD_U_I7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.8.8_HD_U_I7.jar",
+        "hash": "15afbc301c9413f76f85379b7359c5d0",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.8.0 HD_U_I7",
+        "game_versions": ["1.8.0"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.8.0_HD_U_I7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.8.0_HD_U_I7.jar",
+        "hash": "230637ed70d52d8b60d64dcb2572cb76",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.7.10 HD_U_E7",
+        "game_versions": ["1.7.10"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.7.10_HD_U_E7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.7.10_HD_U_E7.jar",
+        "hash": "445062f5aaf982c36c72d90530c26850",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      },
+      {
+        "version": "1.7.2 HD_U_F7",
+        "game_versions": ["1.7.2"],
+        "loaders": ["forge"],
+        "file": "OptiFine_1.7.2_HD_U_F7.jar",
+        "url": "https://optifine.net/download?f=OptiFine_1.7.2_HD_U_F7.jar",
+        "hash": "035b7509f6d78a0ce91bfb3ea952c82f",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "blockoverlay",
+    "display": "Block Overlay",
+    "creator": "Aycy",
+    "description": "Adds a customizable overlay on blocks.",
+    "icon": "aycy.jpg",
+    "links": [
+      {
+        "icon": "youtube.png",
+        "text": "Showcase",
+        "link": "https://www.youtube.com/watch?v=7B8v384K0fM"
+      }
+    ],
+    "versions": [
+      {
+        "version": "4.0.3",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Block_Overlay_4.0.3.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/Block_Overlay_4.0.3.jar",
+        "hash": "b41e79d2d5f817e94a3498929411cdfc",
+        "mod_id": "blockoverlay",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "nick_hider",
+    "nicknames": ["nickhider"],
+    "display": "Nick Hider",
+    "creator": "Sk1er LLC",
+    "discord_code": "sk1er",
+    "commands": ["/nickhider"],
+    "description": "Hides your nick on Hypixel.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/nick_hider"
+      }
+    ],
+    "versions": [
+      {
+        "version": "6.0.2",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Nick Hider-6.0.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick Hider-6.0.2 (1.8.9).jar",
+        "hash": "241d35b27080934b1e31365686e5b804",
+        "mod_id": "nick_hider",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "sbhud",
+    "nicknames": ["sbh", "skyblockhud"],
+    "display": "SkyblockHUD",
+    "creator": "ThatGravyBoat",
+    "discord_code": "moulberry",
+    "commands": ["/sbh"],
+    "description": "Enhances Skyblock's HUD, making it feel more like an RPG.",
+    "icon": "sbhlogo.png",
+    "versions": [
+      {
+        "version": "1.17.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "SkyblockHud-Reborn-1.17.1.jar",
+        "url": "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar",
+        "hash": "bf445d8cf1a1266635409c59faa5c6e9",
+        "mod_id": "skyblockhud",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "skytils",
+    "nicknames": ["st", "bsmod"],
+    "display": "Skytils",
+    "creator": "Sychic and Lily",
+    "discord_code": "skytils",
+    "commands": ["/skytils"],
+    "description": "Provides puzzle solutions, a reparty command, SkyBlock spam hider, among others.",
+    "icon": "skytils.png",
+    "links": [
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3856202/"
+      },
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/Skytils/SkytilsMod/releases"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.10.10",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Skytils-1.10.10.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.10/Skytils-1.10.10.jar",
+        "hash": "5bec094753671bd5a536742217998019",
+        "mod_id": "skytils",
+        "date_published": "2025-02-25T21:46:41.653Z"
+      },
+      {
+        "version": "1.10.8",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Skytils-1.10.8.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.8/Skytils-1.10.8.jar",
+        "hash": "546c602a5cacebc9b38fa3a28442cf62",
+        "mod_id": "skytils",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "cowlection",
+    "nicknames": ["cow", "moo"],
+    "display": "Cowlection",
+    "creator": "Cow",
+    "discord_code": "fU2tFPf",
+    "commands": ["/moo config"],
+    "description": "Provides various Hypixel Skyblock features and enhancements, including log searching and a best friends list.",
+    "icon": "cowlection-logo.png",
+    "icon_scaling": "pixel",
+    "links": [
+      {
+        "icon": "cowlection-logo.png",
+        "text": "Website",
+        "link": "https://cowtipper.de/"
+      },
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3087259/"
+      },
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/cow-mc/Cowlection/releases"
+      }
+    ],
+    "versions": [
+      {
+        "version": "0.16.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Cowlection-1.8.9-0.16.1.jar",
+        "url": "https://github.com/cow-mc/Cowlection/releases/download/v1.8.9-0.16.1/Cowlection-1.8.9-0.16.1.jar",
+        "hash": "32bf168e496e3003cd5fec4849538f45",
+        "mod_id": "cowlection",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "sbp",
+    "nicknames": ["skyblockpersonalized"],
+    "display": "SkyblockPersonalized",
+    "creator": "Cobble8",
+    "discord_code": "KsqMmBdNBE",
+    "commands": ["/sbp"],
+    "description": "Adds customizable features like disabling messages, automatically teleporting to Garry, etc.",
+    "icon": "sbp.png",
+    "links": [
+      {
+        "icon": "forum.png",
+        "text": "Forum",
+        "link": "https://hypixel.net/threads/3963451/"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.7.0.0",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "1.8.9.SkyblockPersonalized.1.7.0.0.jar",
+        "url": "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.7.0.0/1.8.9.SkyblockPersonalized.1.7.0.0.jar",
+        "hash": "69afa1544e61982922af643d5ea99df0",
+        "mod_id": "sbp",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "drm",
+    "nicknames": ["dungeonrooms", "dr", "digitalrightsmanagement"],
+    "display": "Dungeon Rooms",
+    "creator": "_risk",
+    "discord_code": "7B5RbsArYK",
+    "commands": ["/room"],
+    "description": "Displays information about the dungeon room you are currently in and adds waypoints for secrets.",
+    "icon": "drm.png",
+    "links": [
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/Quantizr/DungeonRoomsMod"
+      }
+    ],
+    "versions": [
+      {
+        "version": "3.4.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Dungeon_Rooms-3.4.1.jar",
+        "url": "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.1/Dungeon_Rooms-3.4.1.jar",
+        "hash": "9ed5b3b1fa71ffc3255c63963be6f54f",
+        "mod_id": "dungeonrooms",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "bazaarnotifier",
+    "nicknames": ["Bazaar Notifier", "bn"],
+    "display": "BazaarNotifier",
+    "creator": "meyi",
+    "discord_code": "wjpJSVSwvD",
+    "commands": ["/bazaarnotifier"],
+    "description": "Helps with tracking buy/sell order movements in the Bazaar.",
+    "icon": "meyi.png",
+    "oneconfig": true,
+    "links": [
+      {
+        "icon": "github.png",
+        "text": "GitHub",
+        "link": "https://github.com/symt/BazaarNotifier"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.7.5",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "BazaarNotifier-1.7.5.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.5/BazaarNotifier-1.7.5.jar",
+        "hash": "5f43672698a0fe0c87518262a44ef845",
+        "mod_id": "BazaarNotifier",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "soundsubtitles",
+    "nicknames": ["subtitles"],
+    "display": "Sound Subtitles",
+    "creator": "Sk1er LLC",
+    "discord_code": "sk1er",
+    "commands": ["/subtitle_config"],
+    "description": "Adds sound subtitles to your game, as featured in modern versions of Minecraft.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/subtitles_mod"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.2.2",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Sound Subtitles-1.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar",
+        "hash": "a60ff71e9e28f45635248f4475f39188",
+        "mod_id": "subtitles_mod",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "popup_events",
+    "nicknames": ["popupevents"],
+    "display": "Popup Events",
+    "creator": "Sk1er LLC",
+    "discord_code": "sk1er",
+    "commands": ["/popupevents"],
+    "description": "Accept or deny friend, party, and guild invite requests by pressing 'Y' or 'N' on your keyboard.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/popup_events"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.3.2",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Popup Events-1.3.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar",
+        "hash": "7c780fa81a62b500d33bb8210bcbc9a0",
+        "mod_id": "popup_events",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "hypixel_auto_complete",
+    "nicknames": ["autocomplete"],
+    "display": "Hypixel Autocomplete",
+    "creator": "Sk1er LLC",
+    "commands": ["/hypixelautocomplete"],
+    "description": "Hypixel Autocomplete Mod allows you to autocomplete Hypixel commands t[player names on your friends list, guild, and local players.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/hypixel_auto_complete"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel Autocomplete-1.1 (1.8.9).jar",
+        "hash": "caaef32756bdf04c6c1e3c5dd51b6c6e",
+        "mod_id": "hypixel_auto_complete",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "potioneffects",
+    "display": "Potion Effects",
+    "creator": "Tellinq",
+    "commands": ["/potioneffects"],
+    "description": "Display your active potion effects!",
+    "icon": "tellinq.png",
+    "oneconfig": true,
+    "links": [
+      {
+        "icon": "github.png",
+        "text": "GitHub",
+        "link": "https://github.com/Tellinq/Potion-Effects"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Potion_Effects_1.8.9-forge_1.0.jar",
+        "url": "https://github.com/Tellinq/Potion-Effects/releases/download/v1.0/Potion_Effects_1.8.9-forge_1.0.jar",
+        "hash": "c3683ec7cf477258bad924cf7fae1475",
+        "mod_id": "potioneffects",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "tnttime",
+    "display": "TNT Time",
+    "creator": "Sk1er LLC",
+    "discord_code": "sk1er",
+    "description": "TNT Time displays TNT's time until detonation.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "youtube.png",
+        "text": "Youtube",
+        "link": "https://www.youtube.com/watch?v=dV3UYspr6jc"
+      },
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/tnttime"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "TNT Time-1.1 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar",
+        "hash": "0319acf44a552bc39c92ff84cec85929",
+        "mod_id": "tnttime",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "levelhead",
+    "display": "Levelhead",
+    "creator": "Sk1er LLC",
+    "discord_code": "sk1er",
+    "description": "Displays the Hypixel Network Level & other statistics of a player above their head, in chat and in tab.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "youtube.png",
+        "text": "Youtube",
+        "link": "https://www.youtube.com/watch?v=LiAaFdyqLho"
+      },
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://sk1er.club/mods/level_head"
+      }
+    ],
+    "versions": [
+      {
+        "version": "8.2.2",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "LevelHead-8.2.2 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/level_head/8.2.2/1.8.9/LevelHead-8.2.2 (1.8.9).jar",
+        "hash": "640a324f794356b20888fc9b62c542fd",
+        "mod_id": "level_head",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "autotip",
+    "display": "AutoTip",
+    "creator": "Semx11, 2Pi, Sk1er LLC",
+    "discord_code": "sk1er",
+    "commands": ["/autotip"],
+    "description": "Autotipper for mc.hypixel.net.",
+    "icon": "monkey.png",
+    "links": [
+      {
+        "icon": "monkey.png",
+        "text": "Website",
+        "link": "https://autotip.pro/"
+      }
+    ],
+    "versions": [
+      {
+        "version": "3.1.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Autotip-3.1.1 (1.8.9_forge).jar",
+        "url": "https://static.sk1er.club/repo/mods/autotip/3.1.1/1.8.9_forge/Autotip-3.1.1%20(1.8.9_forge).jar",
+        "hash": "ba5103aa3f199e9f19dacaa4c4f9a897",
+        "mod_id": "autotip",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "oofmod",
+    "display": "OofMod",
+    "creator": "Powns, Refraction, Sk1er LLC",
+    "discord_code": "JxK7cwN",
+    "description": "Plays custom sounds when you kill other players.",
+    "icon": "powns.png",
+    "links": [
+      {
+        "icon": "youtube.png",
+        "text": "YouTube",
+        "link": "https://www.youtube.com/watch?v=weqoSxuQdnA"
+      }
+    ],
+    "versions": [
+      {
+        "version": "3.0",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "OofMod-3.0 (1.8.9).jar",
+        "url": "https://static.sk1er.club/repo/mods/refractionoof/3.0/1.8.9/OofMod-3.0%20(1.8.9).jar",
+        "hash": "c91c9f4e1e9c43f4b22e062d3708fe97",
+        "mod_id": "oofmod",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "pitstats",
+    "nicknames": ["pit"],
+    "display": "Pit Stats",
+    "creator": "mdashlw",
+    "commands": ["/pitstats"],
+    "description": "Advanced Stats Viewer for The Hypixel Pit.",
+    "icon": "mdashlw.png",
+    "links": [
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/mdashlw/pit-stats"
+      },
+      {
+        "icon": "youtube.png",
+        "text": "Showcase",
+        "link": "https://youtu.be/RQRD0_a83fI"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.5.2",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
+        "url": "https://github.com/mdashlw/pit-stats/releases/download/v1.5.2/The.Hypixel.Pit.-.Epic.Stats.-.1.5.2.jar",
+        "hash": "23936c569000412659b3d37e9279110d",
+        "mod_id": "pitstats",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "smartreply",
+    "nicknames": ["smart-reply"],
+    "display": "Smart Reply",
+    "creator": "mdashlw",
+    "commands": ["/smartreply"],
+    "description": "A simple mod for Hypixel Network that provides a smarter `/reply` system, so you don't accidentally message a wrong person.",
+    "icon": "mdashlw.png",
+    "links": [
+      {
+        "icon": "github.png",
+        "text": "Github",
+        "link": "https://github.com/mdashlw/smart-reply"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.1.0",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "SmartReply-1.1.0.jar",
+        "url": "https://github.com/mdashlw/smart-reply/releases/download/v1.1.0/SmartReply-1.1.0.jar",
+        "hash": "3fd8e0cbf24305d13c898c6991c56db7",
+        "mod_id": "smartreply",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "synthesis",
+    "nicknames": ["synth"],
+    "display": "Synthesis",
+    "creator": "SirDesco, Antonio32A",
+    "description": "A collection of unique QoL features for Skyblock.",
+    "icon": "github.png",
+    "links": [
+      {
+        "icon": "github.png",
+        "text": "GitHub",
+        "link": "https://github.com/SynthesisMod/Synthesis"
+      }
+    ],
+    "versions": [
+      {
+        "version": "0.3.1",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "Synthesis-0.3.1.jar",
+        "url": "https://github.com/SynthesisMod/Synthesis/releases/download/v0.3.1/Synthesis-0.3.1.jar",
+        "hash": "8deff2754507cd57d983dbc563e01a21",
+        "mod_id": "synthesis",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "arrowpath",
+    "display": "Arrow Path",
+    "creator": "Aycy",
+    "description": "Displays the visual trajectory of arrows.",
+    "icon": "aycy.jpg",
+    "links": [
+      {
+        "icon": "youtube.png",
+        "text": "Showcase",
+        "link": "https://www.youtube.com/watch?v=f3iP-lzobxk"
+      }
+    ],
+    "versions": [
+      {
+        "version": "v1.0",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "ArrowPath-v1.0.jar",
+        "url": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/v1/mods/files/ArrowPath-v1.0.jar",
+        "hash": "8cc2f3c6347a33c52a32c0bff4d929a9",
+        "mod_id": "arrowpath",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  },
+  {
+    "id": "spark_nea189",
+    "nicknames": ["sparkc", "profiler"],
+    "display": "Spark (Unofficial 1.8.9 port)",
+    "creator": "lucko, nea89 (1.8.9 port)",
+    "description": "A performance profiler for Minecraft clients, servers and proxies",
+    "versions": [
+      {
+        "version": "bde4ce2ff",
+        "game_versions": ["1.8.9"],
+        "loaders": ["forge"],
+        "file": "spark-forge189-bde4ce2ff-mod.jar",
+        "url": "https://jitpack.io/com/github/romangraef/spark/spark-forge189/bde4ce2ff/spark-forge189-bde4ce2ff-mod.jar",
+        "hash": "5cba17dd758a5b94961b605d4ef79151",
+        "mod_id": "spark",
+        "date_published": "2024-12-13T21:13:51.622Z"
+      }
+    ]
+  }
+]

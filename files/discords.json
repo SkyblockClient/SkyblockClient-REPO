@@ -360,14 +360,6 @@
         "mods": ["skyhanni"]
     },
     {
-        "id": "deftu",
-        "code": "dFb277Kexf",
-        "icon": "https://cdn.discordapp.com/avatars/432291917645086720/4cfa9668934b4c21ec86a416bae618b1.png",
-        "description": "The official Discord server for Deftu's mods - get support, make suggestions and talk to developers here.",
-        "nicknames": ["oofmod"],
-        "mods": ["oofmod"]
-    },
-    {
         "id": "bznotifier",
         "code": "wjpJSVSwvD",
         "fancyname": "meyi's hangout",
@@ -381,5 +373,15 @@
         "fancyname": "Cosmetica",
         "nicknames": ["cosmetics"],
         "mods": ["cosmetica"]
+    },
+    {
+        "id": "secretroutesmod",
+        "code": "qmtQmz4V3X",
+        "icon": "secretroutesmod.png",
+        "fancyname": "Secret Routes Mod",
+        "description": "The official Discord for Secret Routes Mod.",
+        "type": "mods",
+        "nicknames": ["srm"],
+        "mods": ["secretroutesmod"]
     }
 ]

@@ -279,10 +279,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "SkyClientCosmetics-1.8.9-forge-1.2.2.jar",
-        "url": "https://cdn.modrinth.com/data/Wlq56PJK/versions/D5P0PDjN/SkyClientCosmetics-1.8.9-forge-1.2.2.jar",
+        "file": "SkyClientCosmetics-1.8.9-forge-1.2.4.jar",
+        "url": "https://cdn.modrinth.com/data/Wlq56PJK/versions/nlu4V0w0/SkyClientCosmetics-1.8.9-forge-1.2.4.jar",
         "forge_id": "skyclientcosmetics",
-        "hash": "b3369e606a5e7135672a222b7776ff93"
+        "hash": "bb706a4b28b555bcaa21b728df46586c"
     },
     {
         "id": "optifine",
@@ -329,10 +329,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/gjk64Z2I/PolyPatcher-1.8.9-forge-1.10.1.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.3.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/o16JHhlj/PolyPatcher-1.8.9-forge-1.10.3.jar",
         "forge_id": "patcher",
-        "hash": "7a98383ee3455d5b5bf21b40ea309f34",
+        "hash": "9db7389d016d68f2c5b05807eb77a02b",
         "update_to_ids": [
             "vanillahud",
             "chatting",
@@ -374,10 +374,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "PolyPatcher-1.8.9-forge-1.10.1.jar",
-        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/gjk64Z2I/PolyPatcher-1.8.9-forge-1.10.1.jar",
+        "file": "PolyPatcher-1.8.9-forge-1.10.3.jar",
+        "url": "https://cdn.modrinth.com/data/YknNc5nN/versions/o16JHhlj/PolyPatcher-1.8.9-forge-1.10.3.jar",
         "forge_id": "patcher",
-        "hash": "7a98383ee3455d5b5bf21b40ea309f34"
+        "hash": "9db7389d016d68f2c5b05807eb77a02b"
     },
     {
         "id": "redirectionor",
@@ -453,11 +453,11 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "CrashPatch-1.8.9-forge-2.0.1.jar",
+        "file": "CrashPatch-1.8.9-forge-2.0.2.jar",
         "files": ["OneConfig/CrashPatch/SKYCLIENT"],
-        "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/waoORuvp/CrashPatch-1.8.9-forge-2.0.1.jar",
+        "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/qDhse9AS/CrashPatch-1.8.9-forge-2.0.2.jar",
         "forge_id": "crashpatch",
-        "hash": "b9256178b64a9eded753f9e2dbd2bb70"
+        "hash": "b1326670a717bf3889880c789960ac8c"
     },
     {
         "id": "hytilities-reborn",
@@ -522,10 +522,10 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils Reborn-1.8.9-forge-1.7.3.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/PdC5hILn/Hytils%20Reborn-1.8.9-forge-1.7.3.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.7.4.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/u9ZFPMb5/Hytils%20Reborn-1.8.9-forge-1.7.4.jar",
         "forge_id": "hytils-reborn",
-        "hash": "c45ab12b44c85218cc5728cec32073b8"
+        "hash": "1ea91dd6737cc8b55575db1543e53873"
     },
     {
         "id": "overflowparticles",
@@ -578,10 +578,11 @@
                 "link": "https://modrinth.com/mod/quickjoin"
             }
         ],
-        "file": "QuickJoin-1.8.9-forge-2.6.jar",
-        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/MoD1dayV/QuickJoin-1.8.9-forge-2.6.jar",
+        "file": "QuickJoin-1.8.9-forge-2.8.jar",
+        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/sv6Qql7T/QuickJoin-1.8.9-forge-2.8.jar",
         "forge_id": "quickjoin",
-        "hash": "a3a44f2f5a9dd486bb4f4716499b6096"
+        "hash": "1793798fa5ccfa8ff5f552e27ddba2c3",
+        "sha256": "5d6f54acf8ba81c7d53f69c91fbee52cd9be0de3d140069826bdf4ef83b4cbf3"
     },
     {
         "id": "replaymod",
@@ -607,10 +608,10 @@
             }
         ],
         "categories": ["7;For Creators"],
-        "file": "replaymod-1.8.9-2.6.18.jar",
-        "url": "https://minio.replaymod.com/replaymod/replaymod-1.8.9-2.6.18.jar",
+        "file": "replaymod-1.8.9-2.6.19.jar",
+        "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/iSXLvUkz/replaymod-1.8.9-2.6.19.jar",
         "forge_id": "replaymod",
-        "hash": "c4d465c7a83b36b5edefa8995dad09cb"
+        "hash": "01804b3b036af942215c66e64c1887c2"
     },
     {
         "id": "blockoverlay",
@@ -737,23 +738,28 @@
     {
         "id": "rawinput",
         "nicknames": ["rawmouseinput"],
-        "display": "Raw Mouse Input",
-        "creator": "xCuri0, port by Mixces",
-        "command": "/rescan",
-        "description": "Allows your mouse input to go directly to Minecraft, without any acceleration provided by your system.",
-        "icon": "mixces.png",
+        "display": "Raw Input",
+        "creator": "Chromatic",
+        "command": "/rawinput",
+        "description": "Fixes mouse jittering and increases smoothness.",
+        "icon": "rawinput.png",
         "actions": [
             {
                 "icon": "github.png",
                 "text": "GitHub",
-                "link": "https://github.com/Mixces/RawInputMod"
+                "link": "https://github.com/chromaticforge/rawinput"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/rawinput"
             }
         ],
         "categories": ["5;All PvP"],
-        "file": "RawInput-1.1.5.jar",
-        "url": "https://github.com/RayDeeUx/RawInput-1.8.9/releases/download/1.1.5/RawInput-1.1.5.jar",
+        "file": "RawInput-0.1.2+1.8.9-forge.jar",
+        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/vsl1B7ne/RawInput-0.1.2%2B1.8.9-forge.jar",
         "forge_id": "rawinput",
-        "hash": "bbcdfff4288ccd4fdb2e8255b764da4d"
+        "hash": "e75f9af4f2f93190e2f6f0914cf8d742"
     },
     {
         "id": "nick_hider",
@@ -788,10 +794,6 @@
         "icon": "sba.png",
         "actions": [
             {
-                "method": "hover",
-                "document": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md?raw=true"
-            },
-            {
                 "icon": "guide.png",
                 "text": "Guide",
                 "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/sba.md"
@@ -805,13 +807,18 @@
                 "icon": "github.png",
                 "text": "Github",
                 "link": "https://github.com/Fix3dll/SkyblockAddons"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/skyblockaddons-unofficial"
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "SkyblockAddons-1.9.0-beta.16+366-for-MC-1.8.9.jar",
-        "url": "https://cdn.modrinth.com/data/F35D4vTL/versions/Ka64unSw/SkyblockAddons-1.9.0-beta.16%2B366-for-MC-1.8.9.jar",
+        "file": "SkyblockAddons-1.10.9+561-for-MC-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/F35D4vTL/versions/VBZ3wYyx/SkyblockAddons-1.10.9%2B561-for-MC-1.8.9.jar",
         "forge_id": "sbaunofficial",
-        "hash": "285870a08066c51279a1fe7a24edc6bc"
+        "hash": "81a7b04683a05cbd4b9e16ce97f84447"
     },
     {
         "id": "fancywarpmenu",
@@ -886,11 +893,11 @@
             }
         ],
         "categories": ["2;All Skyblock", "4;Recommended Skyblock"],
-        "file": "NotEnoughUpdates-2.3.3.jar",
+        "file": "NotEnoughUpdates-2.5.0.jar",
         "files": ["config/notenoughupdates/config.json"],
-        "url": "https://cdn.modrinth.com/data/GGamhqbw/versions/87EGuXiI/NotEnoughUpdates-2.3.3.jar",
+        "url": "https://cdn.modrinth.com/data/GGamhqbw/versions/ZvBZT3yV/NotEnoughUpdates-2.5.0.jar",
         "forge_id": "notenoughupdates",
-        "hash": "d3dfd921985b9d0a8fb12a196d0e4532"
+        "hash": "90915302d5241eb96a8b37bbf77c49c6"
     },
     {
         "id": "dsm",
@@ -924,7 +931,7 @@
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
         "file": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar",
-        "url": "https://github.com/bowser0000/SkyblockMod/releases/download/v2.3.1/MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar",
+        "url": "https://cdn.modrinth.com/data/QzpBqSX9/versions/33yTVI3o/%5BMC%201.8.9%5D%20Danker%27s%20Skyblock%20Mod%20-%202.3.1.jar",
         "forge_id": "Danker's Skyblock Mod",
         "hash": "436819e93c71d49a892cbdbcb8072ebe"
     },
@@ -963,10 +970,11 @@
             "3;For Dungeons",
             "4;Recommended Skyblock"
         ],
-        "file": "Skytils-1.10.6.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.6/Skytils-1.10.6.jar",
+        "file": "Skytils-1.11.0.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.11.0/Skytils-1.11.0.jar",
         "forge_id": "skytils",
-        "hash": "4f8575c88388988fdec3b291f735b8ff"
+        "hash": "60becd263f8e483305d0b5d12b9e1dac",
+        "sha256": "ab232767ef15e2f7125c2e5b736be9762fc7fecce282c1a5fc2ef604aa74b92c"
     },
     {
         "id": "skytils_essential",
@@ -977,13 +985,14 @@
         "command": "/skytils",
         "description": "Provides puzzle solutions, a reparty command, Skyblock spam hider, among others.",
         "icon": "skytils.png",
-        "file": "Skytils-1.10.6.jar",
-        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.10.6/Skytils-1.10.6.jar",
+        "file": "Skytils-1.11.0.jar",
+        "url": "https://github.com/Skytils/SkytilsMod/releases/download/v1.11.0/Skytils-1.11.0.jar",
         "forge_id": "skytils",
-        "hash": "4f8575c88388988fdec3b291f735b8ff",
+        "hash": "60becd263f8e483305d0b5d12b9e1dac",
         "update_to_ids": ["essential_container", "skytils"],
         "update_ids_detection": false,
-        "ignore_on_scu_137_above": true
+        "ignore_on_scu_137_above": true,
+        "sha256": "ab232767ef15e2f7125c2e5b736be9762fc7fecce282c1a5fc2ef604aa74b92c"
     },
     {
         "id": "essential_container",
@@ -1070,11 +1079,11 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "Apec-1.8.9-forge-1.12.3.jar",
+        "file": "Apec-1.8.9-forge-1.12.4.jar",
         "files": ["config/Apec/Settings.txt"],
-        "url": "https://github.com/BananaFructa/Apec/releases/download/1.12.3/Apec-1.8.9-forge-1.12.3.jar",
+        "url": "https://cdn.modrinth.com/data/qauqySVF/versions/v2W9JAC7/Apec-1.8.9-forge-1.12.4.jar",
         "forge_id": "apec",
-        "hash": "c97ae5b335fed91601fb48d2eabab5fa"
+        "hash": "5e4fecd7198e303644a040430ceb3fe8"
     },
     {
         "id": "cowlection",
@@ -1145,6 +1154,37 @@
         "hash": "69afa1544e61982922af643d5ea99df0"
     },
     {
+        "id": "secretroutesmod",
+        "nicknames": ["secretroutesmod", "srm"],
+        "display": "Secret Routes Mod",
+        "creator": "yourboykyle, Wyan",
+        "discordcode": "secretroutes",
+        "command": "/srm",
+        "description": "Adds customizable advanced dungeon waypoints, showing you how to do secrets like the pros.",
+        "icon": "secretroutesmod.png",
+        "actions": [
+            {
+                "method": "hover",
+                "document": "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/refs/heads/main/files/guides/secretroutesmod.md"
+            },
+            {
+                "icon": "guide.png",
+                "text": "Guide",
+                "link": "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/guides/secretroutesmod.md"
+            },
+            {
+                "icon": "github.png",
+                "text": "Github",
+                "link": "https://github.com/yourboykyle/SecretRoutes"
+            }
+        ],
+        "categories": ["2;All Skyblock", "3;For Dungeons"],
+        "file": "SecretRoutes-0.4.16.jar",
+        "url": "https://cdn.modrinth.com/data/l1qibtk8/versions/eiGj3REa/SecretRoutes-0.4.16.jar",
+        "forge_id": "secretroutesmod",
+        "hash": "65bdb7427463af1db2902d71c091fe7d"
+    },
+    {
         "id": "drm",
         "nicknames": ["dungeonrooms", "dr", "digitalrightsmanagement"],
         "display": "Dungeon Rooms",
@@ -1187,10 +1227,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "BazaarNotifier-1.7.4.jar",
-        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.4/BazaarNotifier-1.7.4.jar",
+        "file": "BazaarNotifier-1.7.5.jar",
+        "url": "https://github.com/symt/BazaarNotifier/releases/download/1.7.5/BazaarNotifier-1.7.5.jar",
         "forge_id": "BazaarNotifier",
-        "hash": "03c8a3a94b177f3c60db0b13a1e15b90"
+        "hash": "5f43672698a0fe0c87518262a44ef845"
     },
     {
         "id": "skyguide",
@@ -1243,10 +1283,10 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "Scatha-Pro v1.2.3.1.jar",
-        "url": "https://cdn.modrinth.com/data/lPe25xOt/versions/7Fsj9znk/Scatha-Pro%20v1.2.3.1.jar",
+        "file": "Scatha-Pro v1.3.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/lPe25xOt/versions/Jy0QxNqg/Scatha-Pro%20v1.3.1.1.jar",
         "forge_id": "scathapro",
-        "hash": "151e0a5e4cfc6f717dd2f1c991265760"
+        "hash": "8fa419a957bf1e2722cab10717c34805"
     },
     {
         "id": "dg",
@@ -1275,10 +1315,10 @@
             }
         ],
         "categories": ["2;All Skyblock", "3;For Dungeons"],
-        "file": "dungeonsguide-4.0.0-beta11.0-standalone.jar",
-        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/kCR5634S/dungeonsguide-4.0.0-beta11.0-standalone.jar",
+        "file": "dungeonsguide-4.0.0-beta12.5-standalone.jar",
+        "url": "https://cdn.modrinth.com/data/nU0bz6EH/versions/Rr2nHzqg/dungeonsguide-4.0.0-beta12.5-standalone.jar",
         "forge_id": "dungeons_guide_loader",
-        "hash": "299fe3edaa7a8df9ea66c0da2b0507f2"
+        "hash": "8a8352232ac1949bc430b9283c4dbf89"
     },
     {
         "id": "dg-old",
@@ -1546,10 +1586,10 @@
                 "link": "https://discord.gg/rejfv9kFJj"
             }
         ],
-        "file": "Mixmetica-1.8.9-forge-2.1.0.jar",
-        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/bnpKibDk/Mixmetica-1.8.9-forge-2.1.0.jar",
+        "file": "Mixmetica-1.8.9-forge-2.1.1.jar",
+        "url": "https://cdn.modrinth.com/data/zvcMI4tg/versions/sgVZLpAf/Mixmetica-1.8.9-forge-2.1.1.jar",
         "forge_id": "mixmetica",
-        "hash": "370a4d7fff45d859dff9840582c2c8ab"
+        "hash": "6435154db3cf1c9d347e1a085152e654"
     },
     {
         "id": "twitcher",
@@ -1731,7 +1771,7 @@
         ],
         "categories": ["2;All Skyblock"],
         "file": "ctjs-2.2.1-1.8.9.jar",
-        "url": "https://github.com/ChatTriggers/ChatTriggers/releases/download/2.2.1/ctjs-2.2.1-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/UiTVKucn/versions/MoD8sbpW/ctjs-2.2.1-1.8.9.jar",
         "forge_id": "chattriggers",
         "hash": "0f7bf5fd9693cb939e776c2d9c491986"
     },
@@ -1793,10 +1833,10 @@
                 "link": "https://modrinth.com/mod/resourcify"
             }
         ],
-        "file": "Resourcify (1.8.9-forge)-1.4.1.jar",
-        "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/J5kKOmBz/Resourcify%20%281.8.9-forge%29-1.4.1.jar",
+        "file": "Resourcify (1.8.9-forge)-1.6.1.jar",
+        "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/9p8QThet/Resourcify%20%281.8.9-forge%29-1.6.1.jar",
         "forge_id": "resourcify",
-        "hash": "7e850a4739f59824eb959064c4606086"
+        "hash": "674eba499edd5fcec0354d720e00f5e9"
     },
     {
         "id": "controlling",
@@ -1915,10 +1955,10 @@
         "command": "/rewardclaim",
         "description": "Reward Claim is a mod to allow you to claim Hypixel daily reward in-game rather than leaving the game to go to the reward claim website.",
         "hidden": true,
-        "file": "RewardClaim-1.0.6.jar",
-        "url": "https://cdn.modrinth.com/data/sbgVdyNC/versions/jpYofKmf/RewardClaim-1.0.6.jar",
+        "file": "RewardClaim-1.0.7.jar",
+        "url": "https://cdn.modrinth.com/data/sbgVdyNC/versions/3AYgtAoe/RewardClaim-1.0.7.jar",
         "forge_id": "gravyrewardclaim",
-        "hash": "df23f92d790080388190004b377ba3ea"
+        "hash": "467b46a141973138ee02cf9a276c2a96"
     },
     {
         "id": "polysprint",
@@ -2056,10 +2096,10 @@
             }
         ],
         "hidden": true,
-        "file": "PolyNametag-1.8.9-forge-1.0.7.jar",
-        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/q3xkmQ3N/PolyNametag-1.8.9-forge-1.0.7.jar",
+        "file": "PolyNametag-1.8.9-forge-1.0.9.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/Uh6Dnzem/PolyNametag-1.8.9-forge-1.0.9.jar",
         "forge_id": "polynametag",
-        "hash": "4831eaa18a0a6040530c91f7a1fe0535"
+        "hash": "b605bdc00e209b157c1636a7a457ec55"
     },
     {
         "id": "sidebarmod",
@@ -2101,10 +2141,10 @@
             }
         ],
         "hidden": true,
-        "file": "VanillaHUD-1.8.9-forge-2.2.10.jar",
-        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/ZdUSjjkc/VanillaHUD-1.8.9-forge-2.2.10.jar",
+        "file": "VanillaHUD-1.8.9-forge-2.2.12.jar",
+        "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/hvJoY3aU/VanillaHUD-1.8.9-forge-2.2.12.jar",
         "forge_id": "vanillahud",
-        "hash": "183f110f54d74d3b0fa52bffb8cf8a31"
+        "hash": "5f8532a603783784b924b7ef2318296e"
     },
     {
         "id": "itlt",
@@ -2531,11 +2571,11 @@
                 "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
-        "file": "SkyHanni-0.26.jar",
-        "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/ZHL1fCzB/SkyHanni-0.26.jar",
+        "file": "SkyHanni-3.0.0-mc1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/4LbRUqIX/SkyHanni-3.0.0-mc1.8.9.jar",
         "forge_id": "skyhanni",
         "packages": ["neu"],
-        "hash": "55904193838f12c55c444d864e1c03ec"
+        "hash": "e7a7c122be6b880e9612481911197237"
     },
     {
         "id": "skycofl",
@@ -2564,7 +2604,7 @@
         "file": "SkyCofl-1.6.0.jar",
         "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/UqZopS3a/SkyCofl-1.6.0.jar",
         "forge_id": "coflsky",
-        "hash": "4ddb02409add99fb91a283ccab2710a5"
+        "hash": "2e2a17296f55e893e8cb0685ef755019"
     },
     {
         "id": "hychat",
