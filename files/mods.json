@@ -2582,6 +2582,35 @@
         "hash": "e7a7c122be6b880e9612481911197237"
     },
     {
+        "id": "skycofl",
+        "nicknames": ["coflnet", "coflsky"],
+        "display": "SkyCofl",
+        "enabled": false,
+        "creator": "Ekwav",
+        "discordcode": "NBcUK2NeEJ",
+        "command": "/cofl",
+        "description": "Adds detailed ah and bazaar pricing into lore.",
+        "icon": "skycofl.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Coflnet/SkyblockMod"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/skycofl"
+            }
+        ],
+        "categories": ["2;All Skyblock"],
+        "file": "SkyCofl-1.6.0.jar",
+        "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/UqZopS3a/SkyCofl-1.6.0.jar",
+        "forge_id": "coflsky",
+        "hash": "2e2a17296f55e893e8cb0685ef755019"
+    },
+    {
         "id": "hychat",
         "display": "Hychat",
         "creator": "Moulberry",
