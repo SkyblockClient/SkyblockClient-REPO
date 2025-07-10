@@ -71,5 +71,11 @@
         "mods": {
             "rawinput": "update"
         }
+    },
+    "267680402594988033": {
+        "github": "ekwav",
+        "mods": {
+            "skycofl": "update"
+        }
     }
 }
