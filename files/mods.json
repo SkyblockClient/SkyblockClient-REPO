@@ -432,6 +432,34 @@
         "hash": "3647cf400abd018dd0d0315bc0df21fc"
     },
     {
+        "id": "rawinput",
+        "nicknames": ["rawmouseinput"],
+        "display": "Raw Input",
+        "enabled": true,
+        "creator": "Chromatic",
+        "command": "/rawinput",
+        "description": "Fixes mouse jittering on Windows.",
+        "icon": "rawinput.png",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/chromaticforge/rawinput"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/rawinput"
+            }
+        ],
+        "categories": ["1;Recommended"],
+        "file": "RawInput-0.1.7+1.8.9-forge.jar",
+        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/aa5qpOqe/RawInput-0.1.7%2B1.8.9-forge.jar",
+        "forge_id": "rawinput",
+        "hash": "c053131c7030282d1f9a82e7d1b7e45d",
+        "sha256": "b0b510f51e380543c39f0d9a0c648a6e87402137ea156eefbb447508b3aed97b"
+    },
+    {
         "id": "crashpatch",
         "nicknames": ["crashhelp", "ch", "crash"],
         "display": "CrashPatch",
@@ -734,33 +762,6 @@
         "url": "https://cdn.modrinth.com/data/Mptc0jo6/versions/tr8Mtf06/PolyHitbox-1.8.9-forge-1.0.3.jar",
         "forge_id": "polyhitbox",
         "hash": "f23e0cf763ded061968ac2aa076d31c0"
-    },
-    {
-        "id": "rawinput",
-        "nicknames": ["rawmouseinput"],
-        "display": "Raw Input",
-        "creator": "Chromatic",
-        "command": "/rawinput",
-        "description": "Fixes mouse jittering and increases smoothness.",
-        "icon": "rawinput.png",
-        "actions": [
-            {
-                "icon": "github.png",
-                "text": "GitHub",
-                "link": "https://github.com/chromaticforge/rawinput"
-            },
-            {
-                "icon": "modrinth.png",
-                "text": "Modrinth",
-                "link": "https://modrinth.com/mod/rawinput"
-            }
-        ],
-        "categories": ["5;All PvP"],
-        "file": "RawInput-0.1.7+1.8.9-forge.jar",
-        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/aa5qpOqe/RawInput-0.1.7%2B1.8.9-forge.jar",
-        "forge_id": "rawinput",
-        "hash": "c053131c7030282d1f9a82e7d1b7e45d",
-        "sha256": "b0b510f51e380543c39f0d9a0c648a6e87402137ea156eefbb447508b3aed97b"
     },
     {
         "id": "nick_hider",
