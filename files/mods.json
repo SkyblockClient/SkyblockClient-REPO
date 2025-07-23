@@ -1287,10 +1287,11 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "Scatha-Pro v1.3.1.1.jar",
-        "url": "https://cdn.modrinth.com/data/lPe25xOt/versions/Jy0QxNqg/Scatha-Pro%20v1.3.1.1.jar",
+        "file": "Scatha-Pro v1.3.2.jar",
+        "url": "https://cdn.modrinth.com/data/lPe25xOt/versions/vHYYG8li/Scatha-Pro%20v1.3.2.jar",
         "forge_id": "scathapro",
-        "hash": "8fa419a957bf1e2722cab10717c34805"
+        "hash": "02ba11dee36d4592effa3c5caa8dd2b5",
+        "sha256": "f6ad92af9971eb972429f27d37c21f6361839fe4ab0980b70f4736ad21c136e8"
     },
     {
         "id": "dg",
