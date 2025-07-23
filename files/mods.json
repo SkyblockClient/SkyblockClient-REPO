@@ -453,11 +453,11 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "RawInput-0.1.7+1.8.9-forge.jar",
-        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/aa5qpOqe/RawInput-0.1.7%2B1.8.9-forge.jar",
+        "file": "RawInput-0.1.8+1.8.9-forge.jar",
+        "url": "https://cdn.modrinth.com/data/tNZqMcok/versions/JRPGyssd/RawInput-0.1.8%2B1.8.9-forge.jar",
         "forge_id": "rawinput",
-        "hash": "c053131c7030282d1f9a82e7d1b7e45d",
-        "sha256": "b0b510f51e380543c39f0d9a0c648a6e87402137ea156eefbb447508b3aed97b"
+        "hash": "db44039b534d4731b33da7a365b620da",
+        "sha256": "1040c582f92e9ffc0ee9afbfdd9e8ee86212040b0ee95ba961513a235656a63e"
     },
     {
         "id": "crashpatch",
