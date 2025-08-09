@@ -2615,6 +2615,7 @@
     },
     {
         "id": "coflsky_old",
+        "display": "SkyCofl (OLD)",
         "creator": "Ekwav",
         "discordcode": "NBcUK2NeEJ",
         "command": "/cofl",
