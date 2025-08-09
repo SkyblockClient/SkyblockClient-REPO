@@ -2586,9 +2586,8 @@
     },
     {
         "id": "skycofl",
-        "nicknames": ["coflnet", "coflsky"],
+        "nicknames": ["coflnet"],
         "display": "SkyCofl",
-        "enabled": false,
         "creator": "Ekwav",
         "discordcode": "NBcUK2NeEJ",
         "command": "/cofl",
@@ -2610,9 +2609,39 @@
         "categories": ["2;All Skyblock"],
         "file": "SkyCofl-1.7.0-Forge-1.8.9.jar",
         "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/vV3PiRJz/SkyCofl-1.7.0-Forge-1.8.9.jar",
-        "forge_id": "CoflSky",
+        "forge_id": "skycofl",
         "hash": "78cd61b72aee9eb286ff4c331e9cf7e2",
         "sha256": "de1b072cdb66cd71ac406c242d42643bfd456edf04cfde58ff44c1998ce089d4"
+    },
+    {
+        "id": "coflsky_old",
+        "creator": "Ekwav",
+        "discordcode": "NBcUK2NeEJ",
+        "command": "/cofl",
+        "description": "Adds detailed ah and bazaar pricing into lore.",
+        "icon": "skycofl.png",
+        "icon_scaling": "pixel",
+        "actions": [
+            {
+                "icon": "github.png",
+                "text": "GitHub",
+                "link": "https://github.com/Coflnet/SkyblockMod"
+            },
+            {
+                "icon": "modrinth.png",
+                "text": "Modrinth",
+                "link": "https://modrinth.com/mod/skycofl"
+            }
+        ],
+        "hidden": true,
+        "file": "SkyCofl-1.7.0-Forge-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/vV3PiRJz/SkyCofl-1.7.0-Forge-1.8.9.jar",
+        "forge_id": "CoflSky",
+        "hash": "78cd61b72aee9eb286ff4c331e9cf7e2",
+        "sha256": "de1b072cdb66cd71ac406c242d42643bfd456edf04cfde58ff44c1998ce089d4",
+        "update_to_ids": [
+            "skycofl"
+        ],
     },
     {
         "id": "hychat",
