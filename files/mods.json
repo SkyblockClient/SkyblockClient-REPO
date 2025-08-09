@@ -2641,7 +2641,7 @@
         "sha256": "de1b072cdb66cd71ac406c242d42643bfd456edf04cfde58ff44c1998ce089d4",
         "update_to_ids": [
             "skycofl"
-        ],
+        ]
     },
     {
         "id": "hychat",
