@@ -550,10 +550,11 @@
             }
         ],
         "categories": ["1;Recommended"],
-        "file": "Hytils Reborn-1.8.9-forge-1.7.4.jar",
-        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/u9ZFPMb5/Hytils%20Reborn-1.8.9-forge-1.7.4.jar",
+        "file": "Hytils Reborn-1.8.9-forge-1.7.5.jar",
+        "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/xcRqlbrZ/Hytils%20Reborn-1.8.9-forge-1.7.5.jar",
         "forge_id": "hytils-reborn",
-        "hash": "1ea91dd6737cc8b55575db1543e53873"
+        "hash": "b29b97253c3bf3130146abbf5bb2b28b",
+        "sha256": "22c3a87c0e50409007d3006759fe1aad78f56b74017647646cc45a68661874eb"
     },
     {
         "id": "overflowparticles",
