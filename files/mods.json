@@ -2608,11 +2608,11 @@
             }
         ],
         "categories": ["2;All Skyblock"],
-        "file": "SkyCofl-1.7.2-Forge-1.8.9.jar",
-        "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/hFgwT4Dp/SkyCofl-1.7.2-Forge-1.8.9.jar",
+        "file": "SkyCofl-1.7.5-Forge-1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/XczWMgyC/SkyCofl-1.7.5-Forge-1.8.9.jar",
         "forge_id": "skycofl",
-        "hash": "12b0a3e729e5011d54038251af49fdc9",
-        "sha256": "530fcc6ac909dfbcd01f459b75e73b9953e1231c33c35d0e9984258cd2a32418"
+        "hash": "1e5486d3f4a8d45839d15fd2d7763898",
+        "sha256": "0906ee2689edb860ee495a37db810e9bf988ba350b02a33dfe540818af1de7ea"
     },
     {
         "id": "coflsky_old",
