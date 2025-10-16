@@ -2300,10 +2300,11 @@
         "creator": "Salmon",
         "description": "Removes many things that Essential adds that you may not want.",
         "hidden": true,
-        "file": "NotSoEssential-Forge-1.0.3.jar",
-        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/pjDJ11EW/NotSoEssential-Forge-1.0.3.jar",
+        "file": "NotSoEssential-Forge-1.0.8.jar",
+        "url": "https://cdn.modrinth.com/data/CDo9Niyy/versions/60vwX0yI/NotSoEssential-Forge-1.0.8.jar",
         "forge_id": "notsoessential",
-        "hash": "5caf3cc162b18a2e605bba7b3e68b492"
+        "hash": "ad84443e4a2bf173ce070c7c8f769297",
+        "sha256": "5298455a08fa8d68aadff241f9a3ea4ba1a0cdaa3e24c36f1f496e4e6c71739a"
     },
     {
         "id": "bossbar_customizer",
