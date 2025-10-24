@@ -1988,10 +1988,11 @@
             }
         ],
         "hidden": true,
-        "file": "PolySprint-1.8.9-forge-1.0.1.jar",
-        "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/97DQkyRE/PolySprint-1.8.9-forge-1.0.1.jar",
+        "file": "PolySprint-1.8.9-forge-1.0.2.jar",
+        "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/95qrJcnP/PolySprint-1.8.9-forge-1.0.2.jar",
         "forge_id": "polysprint",
-        "hash": "3074496a92b892c607872ad97c40b167"
+        "hash": "2bae6e311551e391a948d5c29bbfcdbb",
+        "sha256": "ead163175c3ffd2dc33eac43058f2eb7d114323905b181d98e43af65132783d7"
     },
     {
         "id": "simpletogglesprint",
