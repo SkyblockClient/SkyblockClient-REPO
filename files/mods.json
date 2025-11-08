@@ -607,11 +607,11 @@
                 "link": "https://modrinth.com/mod/quickjoin"
             }
         ],
-        "file": "QuickJoin-1.8.9-forge-2.9.jar",
-        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/eAfGSXhM/QuickJoin-1.8.9-forge-2.9.jar",
+        "file": "QuickJoin-1.8.9-forge-2.10.jar",
+        "url": "https://cdn.modrinth.com/data/S8VritJf/versions/Q2FKh6fD/QuickJoin-1.8.9-forge-2.10.jar",
         "forge_id": "quickjoin",
-        "hash": "d210dbed5064df0c601cc3c360ee73b8",
-        "sha256": "e66127e7f48f082c24413938d4c4321f090b7d3df25a8aaf3aa1ad464228a876"
+        "hash": "eac0626636b2147f24a4a5ec29c0f476",
+        "sha256": "d5e540349634450a48ebcf57820760ec408f719dbc8c8175161472206e8afa0a"
     },
     {
         "id": "replaymod",
