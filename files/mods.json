@@ -2612,7 +2612,7 @@
         ],
         "categories": ["2;All Skyblock"],
         "file": "SkyCofl-1.7.8-Forge-1.8.9.jar",
-        "url": "https://cdn.modrinth.com/data/yso5yMlC/versions/FfJ3fmse/SkyCofl-1.7.8-Forge-1.8.9.jar",
+        "url": "https://github.com/Coflnet/SkyblockMod/releases/download/1.8.9/SkyCofl-1.7.8-Forge-1.8.9.jar",
         "forge_id": "skycofl",
         "hash": "90b01b512b54017cda257b0b7f4fb1fd",
         "sha256": "6ccea4d61f1b4a78a7c374d1a7b14384cfdc83b12c614440c21a46cf3090446b"
