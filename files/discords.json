@@ -346,9 +346,10 @@
             "keqing",
             "keqing klub",
             "owner's manual",
-            "mixmetica"
+            "mixmetica",
+            "shy"
         ],
-        "mods": ["particlesenhanced", "mixmetica"]
+        "mods": ["particlesenhanced", "mixmetica", "shy"]
     },
     {
         "id": "skyhanni",
