@@ -2581,12 +2581,12 @@
                 "SkyHanni requires NEU to function! Installing SkyHanni will also install NEU."
             ]
         },
-        "file": "SkyHanni-5.0.3-mc1.8.9.jar",
-        "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/gDIdG7Wh/SkyHanni-5.0.3-mc1.8.9.jar",
+        "file": "SkyHanni-6.0.0-mc1.8.9.jar",
+        "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/fuXU8Z4d/SkyHanni-6.0.0-mc1.8.9.jar",
         "forge_id": "skyhanni",
         "packages": ["neu"],
-        "hash": "11a9eae3cbe810c1db15c39dd5473f52",
-        "sha256": "bd28c97f9ca9d7178a1775f1b65c1ecbb3d3e7526dadde8e0c843ba6d4502439"
+        "hash": "50cb25a40b6cd67936b1893cdde63bb8",
+        "sha256": "222ade4b593488aa4140995b303dcdd22c2e8bf052277ee4e4058059a31b8dd8"
     },
     {
         "id": "skycofl",
