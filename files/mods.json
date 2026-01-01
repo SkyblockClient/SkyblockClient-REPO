@@ -2105,10 +2105,11 @@
             }
         ],
         "hidden": true,
-        "file": "PolyNametag-1.8.9-forge-1.0.9.jar",
-        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/Uh6Dnzem/PolyNametag-1.8.9-forge-1.0.9.jar",
+        "file": "PolyNametag-1.8.9-forge-1.0.10.jar",
+        "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/hf9HKJuH/PolyNametag-1.8.9-forge-1.0.10.jar",
         "forge_id": "polynametag",
-        "hash": "b605bdc00e209b157c1636a7a457ec55"
+        "hash": "e371f75be88b96831284952b3a5b7c1c",
+        "sha256": "250aefa826f229bb2d5f38bdaa347eb33698fcb07ea935a6a1711195f3f1f35e"
     },
     {
         "id": "sidebarmod",
