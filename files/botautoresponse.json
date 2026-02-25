@@ -1,34 +1,12 @@
 [
     {
-        "triggers": ["invalid.+session"],
-        "response": "**If you are seeing an ``Invalid Session`` error when trying to log into Hypixel, try relogging into your Minecraft launcher. This issue is entirely on Mojang's side of things.**"
-    },
-    {
         "triggers": [
             "(how|where|mac).+download",
             "(how|where|mac|download).+client",
             "(?=.*where|.*\\?)(?=.*download)(?=.*link)"
         ],
         "skyclient": true,
-        "response": "Download SkyClient from <#780940408175853609>, or see the [forum post](<https://hypixel.net/threads/3731617/>)"
-    },
-    {
-        "triggers": ["exit.+code"],
-        "skyclient": true,
-        "response": "First, go to your SkyClient folder. See this: https://youtu.be/BHIM2htfMk8\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
-    },
-    {
-        "triggers": ["(skyclient|why).+crash"],
-        "skyclient": true,
-        "response": "First, go to your SkyClient folder. See this: https://youtu.be/BHIM2htfMk8\n\n**`Exit Code 0:`**\nGo into the `logs` folder and upload `latest.log`\nIf you don't see that file, look for it. Any other file will be useless.\n\n**`Exit Code 1 (or anything other than 0):`**\nGo into the crash-reports folder and upload the latest current crashlog."
-    },
-    {
-        "triggers": ["(1\\.7|old).+anim"],
-        "response": "Use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8. Download here: https://modrinth.com/mod/animations"
-    },
-    {
-        "triggers": ["dulkir"],
-        "response": "If you want custom animations, use OverflowAnimations, the most accurate 1.7 (and 1.15+) animations mod for 1.8 which allows for both simple and advanced custom animations. Download here: https://modrinth.com/mod/animations"
+        "response": "Download OneClient from <#780940408175853609>."
     },
     {
         "triggers": [
@@ -39,7 +17,7 @@
     },
     {
         "triggers": ["(unable|fail).+minecraft"],
-        "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to Modrinth or Prism Launcher instead: https://alternatives.microcontrollers.dev/launcher/home/"
+        "response": "If you get a notification along the lines of \"Unable to start Minecraft\", this is an issue with the vanilla Minecraft launcher. We recommend switching to OneClient if you want a smooth, one-click experience, or Modrinth or Prism Launcher instead. Modrinth / Prism: https://alternatives.microcontrollers.dev/launcher/home/"
     },
     {
         "triggers": [
@@ -50,6 +28,6 @@
             "newest update"
         ],
         "skyclient": true,
-        "response": "OneClient, an app with the same functionality as SkyClient, is [coming soon](https://polyfrost.org/projects/oneclient).\n\nFor now, use a modpack one of our admins created: https://modrinth.com/modpack/micros-skyblock-modpack"
+        "response": "OneClient, an app with the same functionality as SkyClient, is [now out](https://polyfrost.org/projects/oneclient)."
     }
 ]
